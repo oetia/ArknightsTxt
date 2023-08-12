@@ -1,0 +1,577 @@
+Oren:
+Oh, Fiammetta... Hm? Seems like you're in a bit of a mess.
+
+Fiammetta:
+None of your business.
+
+Oren:
+No need to get worked up. Care to sit down for a cup of tea?
+
+Fiammetta:
+Enough of your jokes. Why are you here? Mostima never mentioned you were our support.
+
+Oren:
+Well, Velliv didn't give me an official order either.
+
+Oren:
+And personally, I'm more than willing to help, yeah?
+
+Oren:
+Mostima says there's another group after the little girl, and you've already run into them. Is that right?
+
+Fiammetta:
+More or less.
+
+Oren:
+After I heard from the Notarial Hall that Ezell cut his signal, I figured you might get intercepted. If you were to get caught out by the enemy, we'd end up losing the girl, no?
+
+Oren:
+I don't know why Mostima isn't here to help you, but if she's pinned down, I figure I'll be doing her a favor.
+
+Oren:
+After all, it's not every day I get the opportunity to have the two of you in my debt.
+
+Fiammetta:
+A few hopeless stragglers can't stop me.
+
+Oren:
+'A cautious crew sails for ten thousand years,' Fiammetta. Velliv's going to have a hold over you at this rate.
+
+Oren:
+Oh, that's a Yanese proverb. In other words, safety is born of caution.
+
+Fiammetta:
+Stop trying to show off, Oren. You're so annoying when you talk like that.
+
+Oren:
+I'm not kidding. I at least got to express my goodwill. The rest is up to you.
+
+Oren:
+Or, do you perhaps need me to escort you, my sweet Fiammetta?
+
+Fiammetta:
+No need. Goodbye, Oren.
+
+Fiammetta:
+Executor Ezell, hand over the girl.
+
+Fiammetta:
+It is in your best interest to comply.
+
+Ezell:
+......
+
+Ezell:
+Your name is Fiammetta, right? Seniora Fiammetta, I have a request.
+
+Fiammetta:
+Let's hear it then.
+
+Fiammetta:
+No sudden movements. There's no telling how I might react.
+
+Ezell:
+I know it was suspicious of me to go against Richele's orders and turn off my terminal, but...
+
+Ezell:
+Believe me, I haven't betrayed Laterano.
+
+Ezell:
+The reason I didn't follow the Hall's exact orders was because I didn't want anything to happen to Cecelia... And, I made a promise to her.
+
+Fiammetta:
+And how is that my problem?
+
+Ezell:
+Please just let me accompany you to the Basilica with Cecelia. If the Lateran wants an explanation for this situation, wouldn't it be more convenient to have me around?
+
+Fiammetta:
+You're getting ahead of yourself. If you think you'll be able to influence how the Curia will handle this situation–– You'll want to disabuse yourself of that.
+
+Fiammetta:
+Going one step further... If you're thinking you could take the girl away if you don't like what the Lateran plans to do with her...
+
+Fiammetta:
+Not gonna happen. Not in your wildest dreams.
+
+Ezell:
+I wouldn't dare. I'm well aware of the Basilica's Gun-Knights.
+
+Ezell:
+I am a Lateran executor, after all. I was concerned before because I didn't know what was happening with Cecelia, or exactly who was after her...
+
+Ezell:
+Now that I understand, I will comply with your arrangements.
+
+Fiammetta:
+Alright.
+
+Fiammetta:
+Um... Your name is Cecelia? Can you walk?
+
+Cecelia:
+Ezell...
+
+Ezell:
+Cecelia, I can carry you, if you're too tired.
+
+Fiammetta:
+I'll carry her. You're too slow.
+
+Cecelia:
+(*whispers*) Mister Ezell, I...
+
+Ezell:
+Don't worry. Everything will be okay.
+
+Velliv:
+Executor Ezell Pastore went to 7-265 Via Thervatius in Pagus Stevonus this morning to verify an identity, record a will, and retrieve a patron firearm.
+
+Velliv:
+Around noon, Ezell appeared in Stevonus Central Hospital, taking in an eight-year-old Sankta girl and departing in an unusual manner.
+
+Velliv:
+The resident of 7-265 Via Thervatius, Pagus Stevonus, Feoria La Porta, died of illness this morning and the body was moved to the Ecclesia Requietum.
+
+Velliv:
+Only one individual is registered to 7-265 Via Thervatius, and the census pagus also records only one individual residing there.
+
+Velliv:
+An investigation of twenty years of maintenance records at 7-265 Via Thervatius revealed that a basement had been added seven years ago, with contractor documents indicating that the space would be for storage.
+
+Velliv:
+This is a file photo of Feoria La Porta and surveillance footage of the girl that Ezell took to the hospital.
+
+Velliv:
+You must've already reached a conclusion about where the girl came from.
+
+Velliv:
+Additionally, according to the report submitted by Ezell this morning, Feoria La Porta did not leave a will or an advance directive. The reason is quite clear: she hoped to avoid contact with the Notarial Hall.
+
+Velliv:
+It is reasonable to infer that Feoria La Porta knew her time was short and sought to secure a future for her daughter.
+
+Velliv:
+It is currently impossible to determine whether Ezell is the object of Feoria La Porta's entrustment, but based on Ezell's background, the probability is low.
+
+Velliv:
+Combined with the information sent back by Fiammetta, the more likely trustee should be...
+
+Velliv:
+Astray.
+
+Velliv:
+Mostima, is this the reason you stayed behind in the Basilica?
+
+Mostima:
+Just temporarily.
+
+The Pope:
+Don't be so uptight, Vel. Cream puff?
+
+Oren:
+Phew. Luckily, we went for the more conservative option.
+
+Oren:
+It would've been awkward if Fiammetta walked in on me getting rid of the Notarial Hall's men.
+
+Patia:
+Enough of your excuses. I'd avoid saying too much to that executor, if I were you. Cecelia's already on the Guide's side.
+
+Oren:
+That's just one executor, Patia. Things haven't gotten so out of hand that I need to get personally involved.
+
+Oren:
+Plus, I think that executor's concerns are simple enough. He found the pity within him to cause his heart to waver, and couldn't bear to see a sweet little girl suffer.
+
+Oren:
+Now that we understand him, it's only a matter of time until he comes over, no violence necessary.
+
+Oren:
+If only Fiammetta hadn't shown up so soon...
+
+Oren:
+That is to say it's your fault for not stopping Fiammetta, Patia.
+
+Patia:
+I...
+
+Oren:
+Just kidding.
+
+Oren:
+But, I do take pity on that one's luck. What was a little old thing is now very complicated... That's what happens when you get ahead of yourself.
+
+Oren:
+Is this, too, a trial given to us by the great and mighty Lateran?
+
+Patia:
+Are you a believer again?
+
+Oren:
+A true believer wouldn't say something like that. Those sorts, who treat hardships as trials, they turn it all into... a blessing from fate?
+
+Oren:
+There are quite a lot of believers like that around the two of you, aren't there?
+
+Patia:
+I'd take them over self-serving Sankta like you any day.
+
+Patia:
+So, what's the plan now? Once Cecelia gets to the Basilica, is she going to come out again? Do we have some way to take her?
+
+Oren:
+One step at a time, Patia. If we're talking about not wanting Cecelia to step foot in the Basilica, I'm even less inclined than you.
+
+Oren:
+But, we haven't played all our cards, have we?
+
+Oren:
+Go tail Fiammetta, but not too closely.
+
+Patia:
+What about you?
+
+Oren:
+I've got plenty on my plate. Just found out that someone's looking for me too. Popularity isn't all it's made out to be, you know.
+
+Patia:
+Don't go inviting trouble for me.
+
+Richele:
+Alright, looks like the next clue of the chain is clear. What do you plan to do?
+
+Federico:
+I will go to him.
+
+Richele:
+Even though I have no doubts about your, uh, strength... you're dealing with a well-connected Legatus. It'll look pretty bad if you make something out of nothing.
+
+Federico:
+He is involved in this incident.
+
+Richele:
+We have to look into this precisely because he's involved, right? Sometimes, I envy the way you see things.
+
+Richele:
+But what if he doesn't know anything?
+
+Federico:
+I need to investigate to be clear.
+
+Richele:
+That's true. In any case, the fact that a Legatus is involved at all warrants looking into.
+
+Richele:
+What I didn't expect is that Feoria, an ordinary and reclusive Sankta, would provide us with so many leads. An undocumented girl, a Legatus...
+
+Richele:
+And... a Sarkaz.
+
+Richele:
+Hmm, you're leaving? Not even going to say goodbye?
+
+Richele:
+Well, alright then...
+
+Richele:
+Now that you're gone...
+
+Richele:
+Don't blame me, Oren. I can't stop Federico.
+
+Richele:
+I'll put in a report for you. That's about all I can do.
+
+Fiammetta:
+She's asleep.
+
+Ezell:
+She's exhausted.
+
+Fiammetta:
+You mentioned that you made her a promise. What was it?
+
+Ezell:
+That I'd help her find her mother.
+
+Fiammetta:
+Her mother? Wait, didn't Mostima say in the message that her mother is...
+
+Ezell:
+Yes, dead. Saw the body with my own eyes in the back of the Ecclesia Requietum's hearse.
+
+Fiammetta:
+Then, why'd you promise her that?
+
+Ezell:
+I didn't know, at the time.
+
+Fiammetta:
+And then? Did you tell her?
+
+Ezell:
+I did. But at her age, I'm not sure she understands the concepts of 'passing on' or 'death.'
+
+Fiammetta:
+Must've been tough for you.
+
+Fiammetta:
+And... don't look so upset. I don't think the Pope... will treat the girl too harshly.
+
+Ezell:
+Her name is Cecelia.
+
+Ezell:
+Seniora Fiammetta...
+
+Fiammetta:
+Just Fiammetta is fine.
+
+Ezell:
+Miss Fiammetta... I was thinking, after Cecelia goes to the Basilica, will she ever come out again...?
+
+Fiammetta:
+I can't promise you anything. But the way I see things, all else aside, she has a halo. That makes her a Sankta.
+
+Fiammetta:
+And when dealing with a Sankta, all must obey the Commandments, be it the Lateran Curia or the Notarial Hall. At least that's what I believe.
+
+Fiammetta:
+Even if she's undocumented.
+
+Ezell:
+Uhh... is that really the main issue?
+
+Fiammetta:
+Who knows? Might be possible to get her registered retroactively.
+
+Ezell:
+......
+
+Ezell:
+But, there's... something wrong with Cecelia's halo.
+
+Ezell:
+I'm not entirely sure how serious this whole mixed-blood Sankta issue gets... But at least the Legatus implied that Cecelia would be fine.
+
+Ezell:
+A lot of foreign envoys have been gathering in Laterano lately, right?
+
+Ezell:
+His Holiness has been preparing a major summit... I can't help but worry that Cecelia will be a target for someone trying to stir up trouble.
+
+Fiammetta:
+Sounds like you've really thought this one through.
+
+Ezell:
+Coming from the other angle, what would the Lateran Curia do to prevent that from happening?
+
+Ezell:
+Miss Fiammetta, I don't know if I should even be thinking about these things.
+
+Ezell:
+But I can't just not think.
+
+Fiammetta:
+You'll have to pardon me for being blunt.
+
+Fiammetta:
+But what's the point of worrying about all this? Is there any part of it you can actually control?
+
+Fiammetta:
+If you know that Cecelia is in danger, then you should also understand that for Cecelia, the Basilica is the safest place.
+
+Ezell:
+You're right.
+
+Cecelia:
+Nngh...
+
+Cecelia:
+Sorry, I fell asleep...
+
+Ezell:
+Did we wake you?
+
+Cecelia:
+N-No, I just...
+
+Fiammetta:
+Ezell, is that your stomach growling?
+
+Cecelia:
+......
+
+Ezell:
+Want me to buy you a donut, Cecelia?
+
+Cecelia:
+D-Donut? Okay! Thank you, Mister Ezell...
+
+Fiammetta:
+Don't worry, I'll go for it. I need a break, my arms are sore from carrying her around.
+
+Fiammetta:
+(*whispers*) There's no way I can handle her long-term, alright?
+
+Fiammetta:
+But don't do anything stupid, Ezell. I've got my eye on you.
+
+Ezell:
+You still don't trust me?
+
+Fiammetta:
+Oh, and turn on your terminal. You're not allowed to have it off.
+
+Ezell:
+Yeah, I know.
+
+Cecelia:
+(*whispers*) Mister Ezell, that lady was so mean to you before... I'm scared.
+
+Ezell:
+Don't worry, Cecelia. She's not a bad person.
+
+Cecelia:
+Mister Ezell... can't I go see Mamma? Can't I even say goodbye to her?
+
+Ezell:
+Um... Well, we need to take you somewhere else first, so you can be safe.
+
+Ezell:
+As for your mama... I'll tell you about her later. Let me... think about it first. Is that okay, Cecelia?
+
+Cecelia:
+Um...
+
+Cecelia:
+Do you hear that?
+
+Ezell:
+Hear what?
+
+Cecelia:
+Someone is singing...
+
+Ezell:
+Let's see... Oh, you're right! It seems to be coming from that cotton candy cart... But I'm surprised you could hear it with all the noise on the street. You have really good hearing, Cecelia.
+
+Cecelia:
+It's because I recognize that song!
+
+Cecelia:
+Mamma taught it to me!
+
+Cecelia:
+Um... I can't go off on my own, right?
+
+Ezell:
+It's okay. We can't go over there, but I can get the cotton candy cart to come over here.
+
+Ezell:
+Excuse me––
+
+Serene Peddler:
+Is someone calling us?
+
+Merry Peddler:
+Hum hum hum~♪
+
+Serene Peddler:
+You really like that song, don't you...? Hey, there really is someone hailing us. Let's head over there. If we can't get any info, let's at least make some money.
+
+Merry Peddler:
+All~ righty~♪
+
+Cecelia:
+Hello...
+
+Merry Peddler:
+Oh hello, little girl, would you like some cotton candy?
+
+Cecelia:
+Yes...
+
+Ezell:
+We'll get two, or actually, three sticks. This flavor here, this one here, and then the swirl. Is that alright?
+
+Merry Peddler:
+No problem.
+
+Serene Peddler:
+Three sticks, coming right up.
+
+Cecelia:
+Um, excuse me... What's the name of that song you were singing earlier?
+
+Cecelia:
+Mamma taught me the same song, but never told me what it's called...
+
+Merry Peddler:
+Huh? Your mama... taught you this song?
+
+Cecelia:
+Um, excuse me, the cotton candy! The cotton candy is coming out!
+
+Merry Peddler:
+Ahh, I'm so very sorry, just give me a moment––
+
+Ezell:
+Hold on, the compartment's about to overflow! Let me help you...
+
+Merry Peddler:
+Sorry, sorry!
+
+Serene Peddler:
+(*whispers*) Your hat!!! Your hat's caught!
+
+Merry Peddler:
+*rip*––
+
+Ezell:
+......
+
+Serene Peddler:
+W-Wait, don't get the wrong idea, she's a Caprinae...
+
+Cecelia:
+Miss!
+
+Cecelia:
+Your horns look just like Papà's...
+
+Cecelia:
+Are you also a Sarkaz?
+
+Ezell:
+––––––
+
+Serene Peddler:
+(*whispers*) Put it back on!!
+
+Merry Peddler:
+I, no, I'm... Little missy, you, you've got it all wrong...
+
+Ezell:
+......
+
+Ezell:
+A Sarkaz infiltrating Laterano... Are you also after Cecelia?
+
+Fiammetta:
+What happened, Ezell?
+
+Ezell:
+Miss Fiammetta, this particular individual... is a Sarkaz.
+
+But there's another sentence that I dare not say.
+
+Serene Peddler:
+Tch... Guess we have no choice, now that it's come to this...
+
+Fiammetta:
+You've got guts, I'll give you that...
+
+
+

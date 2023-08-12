@@ -1,0 +1,462 @@
+The sun sets in the west.
+
+Both the people and the city walls cast long shadows, covering the stalls by the road. A vendor closes his umbrella and yawns.
+
+Yawning Vendor:
+Closing up! 30% off on what's left so I can go home for dinner!
+
+Bored Vendor:
+Just go. Tourists these days don't care about your toy weapons anymore.
+
+Yawning Vendor:
+I would have joined the army if I had the skills to forge real swords.
+
+Bored Vendor:
+Say, I saw a tourist carrying a blood-red sword yesterday. Now that was something unusual. I wonder where it came from...
+
+The girl looks around, perplexed. She has never seen a scene like this before.
+
+The ground rumbles slightly underneath her feet, likely a sign that the nomadic city is decelerating. The people on the streets seem completely unperturbed by it, going about their business as usual.
+
+She smells the aroma of food, and remembers that she has not eaten for two days.
+
+Jieyun:
+......
+
+The soreness all over her body hits at the same time as the hunger.
+
+Her legs take on a mind of their own, following the scent to a restaurant.
+
+Waiter:
+What would you like?
+
+Jieyun:
+Er... whatever that person is having.
+
+Waiter:
+Cold noodles with roasted meat for table three!
+
+It is near dinner time, and the place is almost full. A good, hearty dinner is the most comforting thing for honest, working people who have been busy all day.
+
+The TV on the wall plays a martial arts drama on repeat, the familiar story occasionally catching the attention of the customers.
+
+Jieyun:
+(Why does the man in the box look like him?)
+
+Jieyun:
+(The swordswoman next to him looks a little like Shifu, but not quite the same...)
+
+Jieyun:
+(What does 'adapted from true events' mean?)
+
+Waiter:
+Your noodles, miss.
+
+Jieyun:
+T-Thank you.
+
+Townsfolk A:
+I say a hundred-meter scroll signed by every single person in town. Now that's a meaningful gift!
+
+Townsfolk B:
+Ni sha le ma? The Grandmaster is going on a journey. How is he gonna carry that?
+
+Townsfolk B:
+Better to have something practical, like some local food for him to eat on the way.
+
+Townsfolk A:
+How many years has the Grandmaster protected Yumen?
+
+Townsfolk B:
+All I know that he's been around since before my dad was born.
+
+Townsfolk A:
+He must be more than a hundred! No wonder he's leaving his post. It must take a toll on him.
+
+Townsfolk B:
+But I've heard some jianghu wanderers say that they've seen him lately, and he still looks like he's middle-aged.
+
+Townsfolk A:
+Wait... is he immortal or something?
+
+Townsfolk B:
+I heard there are those who live much longer than normal, thanks to Arts. The Grandmaster must be one of those.
+
+Townsfolk B:
+Anyway, the one thing everyone should remember is that he's the hero and protector of Yumen.
+
+Townsfolk B:
+Never heard about a spouse or kids, though. What a shame, when you consider that General Zuo's son has already reached adulthood...
+
+Jieyun:
+(They called him a hero?)
+
+Waiter:
+How did you like your meal, miss?
+
+Jieyun:
+It was very good.
+
+Waiter:
+Now, the bill...
+
+Jieyun:
+I...
+
+Waai Fu:
+I'll take care of it.
+
+Jieyun:
+Th-Thank you...
+
+Waai Fu:
+Sure... Now how about that, we meet again.
+
+Waai Fu:
+Did you lose your wallet, or just forgot?
+
+Jieyun:
+I... lost it...
+
+Waai Fu:
+Ouch, that's unlucky.
+
+Waai Fu:
+Looks like you're new around here. I'm guessing you don't really know the place? I'll go with you to report the loss.
+
+Jieyun:
+Th-Thank you, but I'm fine...
+
+Jieyun:
+I-I'll pay you back next time!
+
+Waai Fu:
+Hold on.
+
+Jieyun:
+?!
+
+Waai Fu:
+Is this the sword you said you were looking for?
+
+Jieyun:
+Are you trying to take it too?!
+
+Waai Fu:
+What do you think I am, a thief?
+
+Waai Fu:
+But I've heard rumors that a special sword went missing. Could it be...?
+
+Jieyun:
+...I have to go.
+
+Huai Tianpei:
+Who's there?
+
+Huai Tianpei:
+Show yourself!
+
+Lee:
+They say you don't try this with martial artists.
+
+Liang Xun:
+Especially not with <i>the</i> martial artist.
+
+Lee:
+Am I a goner if he just takes a swing by instinct without looking?
+
+Liang Xun:
+Then I would have to arrest him for manslaughter.
+
+Huai Tianpei:
+......
+
+Lee:
+So, did I win the bet?
+
+Liang Xun:
+You did.
+
+Lee:
+I had a bet with Liang Xun over how you'd react when you saw us.
+
+Lee:
+He said you would turn around and leave, but I said you would freeze on the spot.
+
+Liang Xun:
+Never seen one who could read others better than you.
+
+Lee:
+Well, he <i>is</i> my oath-brother. Not exactly a stranger.
+
+Huai Tianpei:
+......
+
+Lee:
+Don't worry, Waai Fu doesn't know you're here.
+
+Lee:
+A reunion of father and daughter calls for a grander occasion, after all.
+
+Lee:
+I'm not like our lord magistrate over here, who drags me into trouble the first time we see each other in a dozen years.
+
+Liang Xun:
+Yes, I know I owe you one...
+
+Lee:
+Is it too much sarcasm if I keep harping on this?
+
+Huai Tianpei:
+......
+
+Lee:
+Well, there's no one else here, just the three of us.
+
+Lee:
+We have wine and food. Shall we sit down and chat?
+
+Lungmen Tourist?:
+The locations of all the suspicious warehouses have been sent to your terminals.
+
+Lungmen Tourist?:
+Check them one by one, going from east to west. Move quickly; time is short.
+
+Lungmen Tourist?:
+Don't do anything rash, if you find something. Contact the others, and we'll move in togeth—
+
+Meng Tieyi:
+Were you looking for me?
+
+Lungmen Tourist?:
+?!
+
+He reacts quickly. Years of experience have taught him when it is time to fight, and when it is time for flight.
+
+As soon as he turns around, however, he feels a hand on his shoulder, immobilizing him.
+
+Meng Tieyi:
+Why are you trying to run, if you're looking for me?
+
+Lungmen Tourist?:
+You...
+
+Meng Tieyi:
+Sharp, but not enough guts. Fix that, and there's potential for bigger things for you.
+
+The old man withdraws his hand.
+
+Meng Tieyi:
+Tell Miss Lin that I will be waiting for her at the warehouse in the southern city, on fifth street, block seven, at the Hour of Shen.
+
+Lee:
+......
+
+Liang Xun:
+......
+
+Huai Tianpei:
+......
+
+Lee:
+Not drinking?
+
+Liang Xun:
+I'm still on duty.
+
+Lee:
+What about you?
+
+Huai Tianpei:
+Alcohol isn't good for you.
+
+Lee:
+Well, what are we gonna do if we're not drinking or talking? Just stare at each other?
+
+Lee:
+Didn't you have something to ask him, Mr. Liang?
+
+Liang Xun:
+I could ask you the same.
+
+Lee:
+Have we gotten to the point that we can't talk while sober?
+
+Huai Tianpei:
+If you have something to say, say it.
+
+Liang Xun:
+What have you been doing...?
+
+Huai Tianpei:
+Wandering.
+
+Huai Tianpei:
+Looking for strong opponents in each new place, until there's no one left. Then I move on.
+
+Lee:
+I had to study Mr. Liang to see what the changes were over the years. You, Waai, or I guess Huai, you wear them on your face.
+
+Huai Tianpei:
+What changed?
+
+Lee:
+You got old.
+
+Huai Tianpei:
+That's obvious.
+
+Lee:
+I was actually worried I was going to hear someday that you died in a duel.
+
+Huai Tianpei:
+Would I?
+
+Lee:
+There's always someone better, as they say...
+
+Liang Xun:
+So... how long have you been in Yumen?
+
+Huai Tianpei:
+Three years.
+
+Huai Tianpei:
+There's someone here who promised to fight me.
+
+Huai Tianpei:
+He said it could take three years, five years, ten years, maybe more.
+
+Liang Xun:
+Huai Tianpei, so obsessed with earning fame, learning patience...
+
+Huai Tianpei:
+What's a few years here? There's no one else to fight anyway.
+
+Lee:
+So you've been working at the clinic for three years.
+
+The scent of herbal medicine covers up the aroma of the wine. There is nothing left but a bitter taste.
+
+Lee:
+'Pulsatilla yanensis', 'psychotria rubra', 'zanthoxylum avicennae', 'senecio scandens'...
+
+Lee:
+I spent almost a month asking the various schools, never imagining that you were right here in this clinic opposite the inn.
+
+Huai Tianpei:
+Debts have to be paid.
+
+Lee:
+Then you know who it is you owe the biggest debt.
+
+Huai Tianpei:
+......
+
+Lee:
+That's all I have to say. What about you, Mr. Liang?
+
+Liang Xun:
+Just here to see how an old friend is doing. It's not an interrogation.
+
+Lee:
+Huai Tianpei has been in Yumen for three years. You've been here a while yourself. But you picked this time to visit.
+
+Liang Xun:
+It's no time to consider private sentiment, when there is unrest in the city.
+
+Lee:
+In your patriotism, you won't even permit commoners like us to think of private sentiment?
+
+Liang Xun:
+What do...?
+
+Huai Tianpei:
+I'll sit for a while longer if you're really here to reminisce about old times.
+
+Huai Tianpei:
+But look at us, we've gotten to the point where we can't even talk freely?
+
+Huai Tianpei picks up his cup, drinks it dry, and leaves the room.
+
+Lee:
+Did you get the answer you were looking for, Mr. Liang?
+
+Liang Xun:
+I guess so.
+
+Lee:
+As Huai Tianpei's oath-brother, or as the advisor of Yumen?
+
+Liang Xun:
+I should be used to you seeing through things by now.
+
+Lee:
+Maybe you should change your habit of bringing trouble on yourself. At least don't get to the point where you don't even have someone to talk to.
+
+Liang Xun:
+There's a job he just might be the right man for...
+
+Lee:
+Like how you had me handle that goblet?
+
+Liang Xun:
+Nothing that complicated.
+
+Lee:
+Even when he's Huai Tianpei, he's still Waai Tinpui.
+
+Liang Xun:
+He's the hardest to change.
+
+Lee:
+What about you and I?
+
+Liang Xun:
+......
+
+Lee:
+The same flowers, the same wine, but the spirit of youth is no more.
+
+Lee:
+It's precious enough that we can still sit around the same table and chat a little over a drink. It's a fool's errand to try to go back to the past.
+
+Jieyun:
+You're trying to stop me too?
+
+Waai Fu:
+A lot has happened over the past couple of days. There's a lot happening that I'm not sure about.
+
+Waai Fu:
+If you mean no harm, I suggest you stay and help explain what's happening.
+
+Jieyun:
+I don't have time.
+
+Shanhaizhong Member:
+Hand it over.
+
+Jieyun:
+No!
+
+Waai Fu:
+Did they follow you?
+
+Jieyun:
+I don't know them.
+
+Waai Fu:
+Are you the ones who been causing trouble around town?
+
+Shanhaizhong Member:
+Stupid girl—
+
+Jieyun:
+(Was she holding back when she fought me in the ring?)
+
+Waai Fu:
+These crooks sure can bark, even if they can't bite.
+
+
+

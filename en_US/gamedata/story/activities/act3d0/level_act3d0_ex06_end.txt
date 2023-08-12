@@ -1,0 +1,254 @@
+Alty:
+Hmm.
+
+Alty:
+So this is the legendary Rhodes Island. It certainly has an almost mystical air to it...
+
+Alty:
+There's something familiar about this atmosphere. Hmm...
+
+Alty:
+If I hadn't boarded this ark, I would've thought I was still at the beach.
+
+Kal'tsit:
+We had a few Ægirians here lately.
+
+Kal'tsit:
+I suppose you're also from Ægir, but I didn't see your name on the guest list. Perhaps that means I can't treat you as a guest.
+
+Alty:
+Haha, sorry about that, but I'm not here to bother you. I just have a few words for you before I leave.
+
+Alty:
+Wait, you even know my name?
+
+Kal'tsit:
+Anyone at Siesta these days would know who you are.
+
+Kal'tsit:
+Even though I didn't go myself, I did hear about you before. Miss Alty, bassist of Alive Until Sunset, Rhodes Island is not an amusement park.
+
+Alty:
+Oh come on, don't be so unfriendly. After all, there are so many things we have in common. That's right, why don't we talk about when we could still see the stars?
+
+Kal'tsit:
+...Have a seat.
+
+Alty:
+Thank you. You must be curious how I got in here, right?
+
+Alty:
+That's not important, but don't worry. There's nothing wrong with the security system. Just consider me lucky.
+
+Kal'tsit:
+Your words can't hide your abilities. As you said, I'm not particularly worried. I suppose the system only makes an exception for when the guest is important enough.
+
+Kal'tsit:
+But I wonder, what would make a superstar take interest in our small, little ward here?
+
+Kal'tsit:
+If you're looking for your Ægirian friends, I'm afraid you've got the wrong address.
+
+Alty:
+Friends? Well... we don't really get along? If anything, I'd say we're far from friends...
+
+Alty:
+Actually, I'm here for you. Or rather, I'm here to take a look at you.
+
+Kal'tsit:
+Sorry, but I don't know who you are, nor am I some display at a zoo.
+
+Alty:
+I've heard a lot about the Ægirians from Frost. She's not normally one to tell stories, but she did make an exception that time.
+
+Kal'tsit:
+I'm not interested in your friend's bizarre adventures either...
+
+Alty:
+How about I sing it out then?
+
+Kal'tsit:
+...nor am I interested in any random anecdotes about me. Just get to the point.
+
+Alty:
+Someone once told me that a bit of chit-chat is good for breaking the ice, but I suppose I'm no good at that...
+
+Alty:
+Well, let's begin then. Actually, I kind of hate Ægirians. Of course, I know about how pitiful their past is.
+
+Alty:
+But if you didn't show up, these Ægirians would already have been devoured by the abyssal depths by now.
+
+Kal'tsit:
+I didn't do anything in particular.
+
+Alty:
+You saved their lives, and several of them are here.
+
+Kal'tsit:
+...
+
+Alty:
+These special Ægirians don't show any respect to you, despite all that you did for them.
+
+Alty:
+I suppose you were too grumpy around them?
+
+Kal'tsit:
+I'm just preventing them from destroying themselves.
+
+Alty:
+That is also a form of mercy, doctor.
+
+Alty:
+But, I do have a question for you.
+
+Kal'tsit:
+Ask away.
+
+Alty:
+Do you know who the enemy of the Ægir is?
+
+Alty:
+Or perhaps, do you know who I really am?
+
+Mon3tr:
+！！
+
+Kal'tsit:
+Mon3tr, stop!
+
+Kal'tsit:
+...You're still young.
+
+Alty:
+That's right, we are very young, and we haven't been through any of those tragedies. That's why we're still here, just talking and singing.
+
+Kal'tsit:
+The Abyssal Hunters are doing what they should be doing.
+
+Alty:
+This I know, all too well. However, we'd also like to know the answer.
+
+Alty:
+We have no desire to become the enemies of those little guys at all.
+
+Alty:
+You see, ever since she was little, Frost was only interested in music and food. Even resting was a waste of time to her.
+
+Kal'tsit:
+You can save your friend's introduction for when we actually meet.
+
+Alty:
+Sorry, bad habit of mine...
+
+Alty:
+I trust you, doctor, and the truth you have.
+
+Kal'tsit:
+I don't think you know any less about the truth than I do.
+
+Alty:
+No, we just each have our own strengths. For example, I don't think you can sing as well as I do.
+
+Kal'tsit:
+...
+
+Alty:
+Ah, um, that's just an example! No offense intended.
+
+Alty:
+But the peace in Ægir, as you know, is only superficial.
+
+Kal'tsit:
+Most people know nothing about the sea.
+
+Alty:
+How are the children of Terra supposed to know that? It's not good to expect too much out of them.
+
+Alty:
+However, even that superficial peace is about to be broken. Desire really is a terrifying thing.
+
+Alty:
+So, what I need is, well, information.
+
+Kal'tsit:
+Information again?
+
+Alty:
+That's right.
+
+Alty:
+So in other words... Uhh, I'm not the only one who's interested in this. Haha.
+
+Alty:
+I'm just a bit curious, who might that last person be?
+
+Kal'tsit:
+An Ægirian, and an Abyssal Hunter.
+
+Alty:
+Then maybe we could be friends, like, for real. Heh.
+
+Kal'tsit:
+Of course. I can understand why you've come to see me.
+
+Kal'tsit:
+The longer you live, the more stories you have, the worse your scars hurt, and the worse your temperament becomes.
+
+Alty:
+Sorry, I didn't mean to remind you of the past...
+
+Alty:
+But, you really are different from the others. They are bound by too many emotions, easily manipulated by words, and sometimes turn into disasters in their own right.
+
+Alty:
+No wonder that person assigned you as the trump card to help that little bunny and {@nickname}.
+
+Alty:
+You really are an X-ray machine, aren't you?
+
+Kal'tsit:
+I also wish I was a simple machine.
+
+Alty:
+Sorry about that. But what I meant to say was, even though you won't tell anyone, you've already seen what lies underneath, right?
+
+Kal'tsit:
+I can't answer that.
+
+Alty:
+All right, I'll skip to the main question then. Surely you'll be able to answer this one.
+
+Kal'tsit:
+Go ahead, young superstar.
+
+Alty:
+Oh, thank you.
+
+Alty:
+Please tell me everything you know about what happened underneath that part of the ocean.
+
+Kal'tsit:
+That's not a form of 'information.'
+
+Alty:
+No, I'm talking about 'That' part of the ocean.
+
+Kal'tsit:
+...
+
+Alty:
+Frost is the youngest one among us. Only the four of us can be considered young.
+
+Alty:
+She smelled something from those Ægirians. A scent that didn't belong to them.
+
+Alty:
+'They can't sing anymore. They can't talk anymore. They're drifting farther and farther away from us. They're becoming hungry.'
+
+Alty:
+AMa-10 Dr. Kal'tsit, please tell me... How were those special Ægirians born?
+
+
+

@@ -1,0 +1,549 @@
+Injured Girl:
+—!
+
+???:
+Stay down.
+
+Injured Girl:
+(Ancient Sarkaz language) Who are you? Why am I here?
+
+Burly Man:
+Can't understand a word. Not that it matters.
+
+Burly Man:
+You're here to heal your wounds. You'll do exactly as the doc says, if you want to see the sun rise again. If the don't want to die here, do as I say.
+
+Injured Girl:
+(In hesitant Yanese) Where am I... who are you?
+
+Burly Man:
+This is an infirmary and you're a patient. I'm a helper at the infirmary.
+
+Injured Girl:
+Where's my sword?!
+
+The girl reaches around her in a panic, only calming down when she finds the weapon beside her.
+
+Injured Girl:
+It's there... thank goodness...
+
+Burly Man:
+We found you passed out at the door of the infirmary yesterday, but you wouldn't let the sword go. Did you get hurt fighting over it?
+
+Injured Girl:
+...Doesn't concern you.
+
+Burly Man:
+No need to look at me like that. I could've taken it while you were passed out, if I wanted to.
+
+Burly Man:
+I've seen so many people die over so-called masterwork weapons.
+
+Burly Man:
+Did you really think wielding a weapon like that would make you strong enough to beat enemies you couldn't?
+
+Burly Man:
+I don't trust weapons. The only thing I trust is my fists.
+
+Burly Man:
+A true warrior shouldn't entrust victory to something else.
+
+Injured Girl:
+You don't understand!
+
+Injured Girl:
+I'm not trying to fight with this sword... I... I want to repay a debt.
+
+Burly Man:
+The sword is a weapon for killing.
+
+Injured Girl:
+My mentor told me the sword means a lot to her.
+
+Injured Girl:
+I promised her that I would bring her the sword, or bring it to her grave at least.
+
+Burly Man:
+Has your mentor passed away?
+
+Injured Girl:
+Yes...
+
+Burly Man:
+Well, I'm not interested in listening to people talk about their debts and grudges.
+
+Burly Man:
+If you say you fought over the sword to repay a debt, I'll believe it. A woman who's almost died has no need to lie.
+
+Burly Man:
+So it means you see your obligations as being more important than your life. That's not a bad thing.
+
+Injured Girl:
+Why did you help me?
+
+Burly Man:
+What's an infirmary for, if not to help people?
+
+Injured Girl:
+But I don't have any money. I know that money is required in exchange for kindness in the nomadic cities.
+
+Burly Man:
+That's not wrong, but you can work your debt off as well. Why do you think I'm working here for the doc?
+
+Burly Man:
+The difference is that I'm working to pay the medical bills of the people I beat up.
+
+Burly Man:
+I do the heavy lifting at the clinic, so you should learn to do things like drying herbs and wrapping wounds. You don't owe as much as I do. A few months should be enough to pay your debt off.
+
+Injured Girl:
+No!
+
+Injured Girl:
+I will find a way to repay your kindness, but I am in a hurry...
+
+Injured Girl:
+I need to get out of the city.
+
+Burly Man:
+You're not going anywhere.
+
+Burly Man:
+I said, stay down. You're here to get your injuries healed.
+
+Burly Man:
+You managed to survive them. Would be a shame if you died now. Not to mention an embarrassment to the clinic.
+
+Burly Man:
+But... kindness is important too. I'll think about it... once you're healed up and repaid your debt.
+
+Injured Girl:
+......!
+
+Burly Man:
+Another patient?
+
+Burly Man:
+I'll take a look. STAY, DOWN.
+
+Burly Man:
+What is it?
+
+Zuo Le:
+Are you the doctor, sir?
+
+Burly Man:
+The doc's out. I'm a helper here. I can help you, if you just want meds, but you'll have to wait if you want the doc to look at you.
+
+Zuo Le:
+I apologize for the interruption. We are investigating a case and pursuing a suspect. Here is my token. We would appreciate your cooperation in answering a few questions.
+
+Burly Man:
+Ask what you want. I'll decide if I want to answer.
+
+Zuo Le:
+Has this clinic treated or seen anyone who suffered serious a stab wound?
+
+Burly Man:
+Nope and nope. Either you're buying, or you go find someone else to bother.
+
+Zuo Le:
+I would like to take a quick look. It'll only take a minute.
+
+Burly Man:
+Nope, patients and customers only.
+
+Zuo Le:
+I have nothing but the greatest respect for the clinic's work. I would rather not have to force my way in.
+
+Zuo Le:
+But this concerns the safety of all of Yumen. Your cooperation would be appreciated.
+
+Burly Man:
+You got your rules, I got mine. You ain't coming in unless I say so.
+
+Zuo Le:
+Then I apologize.
+
+Zuo Le's movements are swift as a fowlbeast.
+
+But he feels a hand on his collar just as he is about to cross the clinic's threshold, throwing him backwards.
+
+The burly man continues to stand there, as though he has never moved.
+
+It is as though the fowlbeast flew into an invisible and boundless net.
+
+Zuo Le:
+(This man is no ordinary brute!)
+
+Burly Man:
+I said, you ain't coming in! You got a death wish, kid?
+
+Zuo Le:
+......
+
+Zuo Le:
+Do you understand the consequences of obstructing justice?
+
+Burly Man:
+Don't understand, don't care.
+
+Burly Man:
+Try that again, I dare you.
+
+Zuo Le:
+Enough! This is not a game.
+
+Burly Man:
+Huh...?
+
+Zuo Le:
+There's someone else in there?!
+
+Burly Man:
+Hm? Hey, where did the girl go?
+
+Zuo Le:
+What the...?
+
+Bandages and cotton balls are scattered on the table, and the bed is still warm.
+
+The air smells of blood and herbal medicine.
+
+Zuo Le:
+You said no heavily wounded patients were taken in lately.
+
+Zuo Le:
+How do you explain the gauze and blood?
+
+Burly Man:
+Aiya! I told her to stay put!
+
+Burly Man:
+She said she needed to get out of the city. She must be headed to the gates!
+
+Burly Man:
+Oh no, I've gotta catch her, or the doc's gonna put her bill on my tab!
+
+Zuo Le:
+Stop right there!
+
+Cheerful Shouting:
+Tea leaves! Shangshu rock tea, Kou-wu flower tea, Jiangqi white tea, Dahuang raw leaves... anything you want, I've got it here!
+
+Lin Yühsia:
+Two carts of Lungmen green tea.
+
+Hawker:
+E-Excuse me, miss, but we don't sell tea by the cart...
+
+Lin Yühsia:
+We meet again.
+
+Lin Yühsia:
+Any updates on what I asked you to look into?
+
+Lin Yühsia:
+We agreed on terms.
+
+Agitated Hawker:
+I... I don't know what you mean...
+
+Lin Yühsia:
+How many caravans in this batch are carrying false permits? How did they get those permits?
+
+Lin Yühsia:
+I need to know more.
+
+Agitated Hawker:
+I-I'll pay the taxes I owe! The whole amount! Please, don't ask any more questions!
+
+Lin Yühsia:
+We can talk about your previous offenses another day.
+
+Lin Yühsia:
+Answer my question.
+
+Agitated Hawker:
+......
+
+Agitated Hawker:
+H-Help!
+
+Agitated Hawker:
+Thief!
+
+Angry Passerby:
+You've got nerve, stealing in broad daylight!
+
+Helpful Passerby:
+Grab her!
+
+Lin Yühsia:
+You test my patience.
+
+Lungmen Agent:
+Watch out! I saw an accomplice go that way!
+
+Lee:
+Excuse me...
+
+Blacksmith:
+The owner is out. You need something made?
+
+Lee:
+I just have a couple of questions.
+
+Blacksmith:
+This is a smithy. The inn's where you go for gossip.
+
+Lee:
+I hear there are some old jianghu kung fu stories that only circulate here.
+
+Blacksmith:
+Fine, I guess it can't hurt to have someone to chat with while I work. Fire away.
+
+Lee:
+I really ought to buy something for your trouble.
+
+Blacksmith:
+What d'ya want? Frying pan? Kitchen knife?
+
+Lee:
+How about a sword?
+
+Blacksmith:
+Sorry, can't do that. Household items only.
+
+Lee:
+But the sign on the door says 'Sword Forge'.
+
+Lee:
+This is probably the last place in Yumen that still uses that particular wording.
+
+Blacksmith:
+It's just a name. The owner could change it to 'The Tea Parlor' or 'The Guest House' if he wanted.
+
+Lee:
+Fair enough.
+
+Blacksmith:
+You're not from around here, are you? Tourist?
+
+Lee:
+I've wanted to see the deserts of Yumen for a long time.
+
+Blacksmith:
+We get a bunch of tourists every time we link up with Lungmen thanks to the wuxia TV shows. Anyone with half a brain should know that it's all fake.
+
+Blacksmith:
+What's so good about this backwater place?
+
+Blacksmith:
+Did you want a souvenir sword? Trust me, you're better off getting a pack or two of Yumen jerky.
+
+Lee:
+Every place has its own unique scenery. It's always worth a look.
+
+Lee:
+Setting aside whether the TV shows are fake or not, I'm sure there's a story behind this smithy.
+
+Blacksmith:
+Sure of that, are you?
+
+Lee:
+I don't mean to offend, but every shop I passed by on my way from the market was full of people... except this one.
+
+Lee:
+Why would a shop with no history or business be on a busy street like this?
+
+Lee:
+And I doubt a shop that really has no business would have so many furnaces burning and so many iron ingots lying around.
+
+Blacksmith:
+This is why I hate talking to smart people. Makes my head hurt.
+
+Lee:
+I'll take that as a compliment.
+
+Blacksmith:
+Alright, what do you want to know?
+
+Lee:
+I wanted to ask you about stories from the world of kung fu... but you've piqued my interest in something else.
+
+Lee:
+How did 'The Sword Forge' become a smithy?
+
+A man running for his life can always find an extra burst of speed.
+
+Just as he is about to shake his pursuer, a rope appears out of nowhere, tripping him over. He tries to pull himself back up, only to find nothing but quicksand around him.
+
+Lin Yühsia:
+Had enough yet?
+
+Agitated Hawker:
+(Gasps for air, exhausted)
+
+Lin Yühsia:
+Good. Now we can talk.
+
+Lin Yühsia:
+What are you afraid of?
+
+Agitated Hawker:
+This... this group is different...
+
+Lin Yühsia:
+I know.
+
+Agitated Hawker:
+T-They'll have my head if I talk...
+
+Agitated Hawker:
+I have a family... they're counting on me to feed them... please...
+
+Agitated Hawker:
+You—!
+
+Agitated Hawker:
+Miss Lin, I know how you and the Rat King operate...
+
+Agitated Hawker:
+Y-You wouldn't...
+
+Lin Yühsia:
+That's up to you.
+
+Lin Yühsia:
+Or do I really need to prove to you what I'm capable of?
+
+Agitated Hawker:
+I...
+
+Lin Yühsia:
+Tell me what you know.
+
+Agitated Hawker:
+The smugglers that make the rounds when Lungmen and Yumen link up are usually pretty consistent. The same groups, working with the same forgers, same suppliers, same fences.
+
+Agitated Hawker:
+This time around, though, there's a new group that nobody knows anything about, not even the oldest crooks. Some tried to pick a fight... and nobody ever saw them again.
+
+Lin Yühsia:
+The new smugglers disappeared?
+
+Agitated Hawker:
+No, the ones who picked the fight...
+
+Lin Yühsia:
+What else do you know?
+
+Agitated Hawker:
+......
+
+Lin Yühsia:
+Out with it.
+
+Agitated Hawker:
+I've heard, well, rumors about where they hide and sell their stuff...
+
+Lin Yühsia:
+You took care of things at the market?
+
+Lungmen Agent:
+Nothing a few coins couldn't fix.
+
+Lin Yühsia:
+Good.
+
+Lungmen Agent:
+And this man...?
+
+Lin Yühsia:
+Take him to the barracks, then back to the L.G.D. after we're done here in Yumen.
+
+Agitated Hawker:
+I-I told you everything I know! Why—
+
+Lin Yühsia:
+Quit complaining, it's for your own safety.
+
+Zuo Le:
+He just disappeared?
+
+The markets of Yumen are not usually so busy.
+
+The streets are packed with people, and parents hold their children's hands a little tighter.
+
+It is not easy trying to find someone in this crowd.
+
+???:
+Are you buying or not?!
+
+???:
+Get out of the way if you're not buying! You're in everybody's way!
+
+Zuo Le:
+Sorry...
+
+The noise of people shouting, arguing and bartering drowns out deadlier sounds.
+
+Zuo Le:
+What the—?!
+
+The sword comes from behind, without a sound.
+
+Zuo Le takes a step forward, almost by instinct.
+
+The point of the sword tears through his clothes, inches from leaving behind a wound that would have crippled him for life.
+
+Zuo Le:
+Who's there?!
+
+Zuo Le turns around, but sees only the bustling market.
+
+Zuo Le:
+(Did he intentionally draw me here?)
+
+Zuo Le:
+(A commotion here would...)
+
+Zuo Le:
+(Where are you?)
+
+Zuo Le:
+......!
+
+Lee:
+The market sure is busy today, isn't it?
+
+Zuo Le:
+Mr. Lee?
+
+Lee:
+Looks like we have some troublemakers in the crowd. Be careful.
+
+Zuo Le:
+I noticed. Did you...?
+
+Lee:
+Just a little optical trick. Won't last long.
+
+Lee:
+It's dangerous here. We should leave.
+
+Zuo Le:
+No choice, I suppose...
+
+Shanhaizhong Member:
+......
+
+Lee:
+Turns out we're the ones who fell into a trap.
+
+Zuo Le:
+Let's get out of here. We don't want civilians getting hurt.
+
+
+

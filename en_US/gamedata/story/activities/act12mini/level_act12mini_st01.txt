@@ -1,0 +1,634 @@
+Far in the past, before the story of a knight's breaking of the tides was written into a novel, the deafening sounds of cannon fire and reverberating bowstrings could often be heard in the breeze blowing through the forests.
+
+In those days, the masses firmly believed they were trapped in darkness. They cast the weight of life and death upon the earth, spilling blood as the price of both survival and remonstrance.
+
+Now, as the late autumn sun beams gently down on the open plains, a farmer strikes his hammer rhythmically to repair his roof before the oncoming rainstorm.
+
+In a graveyard at the foot of the mountain, a small group of men swing their iron tools, shoveling away dirt by the scoopful. As a chorus of sobs ring out in the background, they bury their withered crops into the earth.
+
+November 27th, 3:20 P.M.
+
+Countryside, Southern Kazimierz
+
+Elderly Villager:
+So, you're wandering the land all by yourself now, sir?
+
+Elderly Villager:
+No servants, no followers, not even a sword or armor... though it doesn't seem there's anybody looking to make an enemy of you.
+
+Elderly Villager:
+I still remember how a lot of folks back in the day said you were antagonizing the most prestigious families in the country, and that you'd find yourself in trouble sooner or later.
+
+Młynar:
+Didn't those very same people accept emergency supplies that could get themselves in trouble?
+
+Młynar:
+......
+
+Młynar:
+I've long since left the arena where those with influence scheme against one other. No longer am I worthy of their precious attention.
+
+Elderly Villager:
+Right, right... I suppose you wouldn't be surprised.
+
+Elderly Villager:
+Just like when I fled to these foreign lands all those years ago. I thought the king would be after me with his Arts forever...
+
+Elderly Villager:
+But as you can see, this old schoolteacher has lived peacefully for some twenty odd years in a small hut that can't so much as withstand the rain.
+
+Młynar:
+You say you're from Leithanien... The Witch King's spire is long fallen. Why stay?
+
+Elderly Villager:
+I've been in hiding for too long now. I no longer have any desire to go back.
+
+Elderly Villager:
+It took a long time for the news to reach this remote village, and by then I'd already found myself accustomed to tending to the farms, and only having to worry about keeping myself fed.
+
+Elderly Villager:
+Besides, I cut off my antlers to disguise myself. I've gotten used to living like a Kuranta. Say my family's still alive in Leithanien, would they even recognize me?
+
+Młynar:
+But you consider yourself a Leithanian nonetheless.
+
+Elderly Villager:
+I'm just a poor fellow who can't put his old life behind him, sir.
+
+Elderly Villager:
+The zealot in me passed away long ago, and a man who's lived in hiding for so long doesn't much care about who he really is.
+
+Elderly Villager:
+I suppose you're here to revisit the place? I have little to give, but if you'd accept a hot cup of tea, it would be my pleasure.
+
+Młynar:
+No need.
+
+Elderly Villager:
+Very well, sir... It's only that I still remember your kindness, all those years ago. Old as I may now be.
+
+Elderly Villager:
+When everyone else was exchanging pleasantries in their Kazimierzian dialects, you saw through my ruse. Yet instead of exposing me, you allowed me to remain in the caravan of refugees.
+
+Młynar:
+......
+
+Elderly Villager:
+Seems you don't remember...
+
+Elderly Villager:
+You don't remember a thing I just said, but you weren't the least bit surprised when I recognized you... You must have rescued so many others like me.
+
+Młynar:
+...It was too long ago.
+
+Młynar:
+Are you writing a notice?
+
+Elderly Villager:
+You mean this here? Yes, it's a safety notice.
+
+Elderly Villager:
+A knight came to our village just yesterday. Supposedly, a group of bandits have moved into the area. There's even been attacks in Dzwonek.
+
+Elderly Villager:
+But anyone with half a brain knows that even if there were bandits, no one would go out of their way to protect a small village like ours, so far from the nomadic cities' paths.
+
+Elderly Villager:
+Which is why the campaign knights' solemn reminder left me very frightened.
+
+Elderly Villager:
+Sir, even if no one wants to do you harm right this moment, I suggest bringing a weapon with you.
+
+Młynar:
+...That's what the campaign knights told you?
+
+Elderly Villager:
+So you haven't heard?
+
+Elderly Villager:
+Come to think of it, though, it <i>is</i> strange. These past few years, the knights have started to worry about the lives and deaths of us commoners.
+
+Elderly Villager:
+Take the few families that moved into the village two years ago. The knights rescued them when a Catastrophe struck the next town over.
+
+Młynar:
+...That's not what I find strange. It's what he should have done in the first place.
+
+Toland:
+Well, you certainly gave us a fright, Czcibor.
+
+Toland:
+If you hadn't take your helmet off in time, the villagers might just have drawn their bows at you.
+
+Toland:
+If, heaven forbid, an esteemed campaign knight such as yourself were to get hurt... Hm... my rap sheet may be long enough as it is, but the bounty on my head still has room to grow.
+
+Czcibor:
+'Villagers'? Haha...
+
+Czcibor:
+Good thing you remember my face.
+
+Czcibor:
+Er... At least most of you do?
+
+Toland:
+There aren't many of your old pals among the living. Plenty of new blood, though.
+
+Czcibor:
+......
+
+Toland:
+Now, now, that's no reason for a long face for the likes of us. So how can I help? For you to come to such a small, backwater village on patrol, I suppose it can't be because you're bored at work?
+
+Toland:
+After all, I hear this area hasn't been very peaceful of late, and the campaign knights have been busy maintain order outside the cities.
+
+Toland:
+—I even heard that a couple of our folks are being investigated by you.
+
+Czcibor:
+That's exactly why I came, Toland.
+
+Czcibor:
+If you're the leader of the bounty hunters here, that makes this simpler.
+
+Czcibor:
+I'm sure you know, but I have rules to follow first.
+
+Toland:
+Ah, so you're not <i>only</i> following the rules? That's rare. Should we have a more private chat, then?
+
+Toland:
+The last time we met, old 'Miner' wanted to see you. Too bad. We were in a hurry to evacuate, and you were in a hurry to follow your rules and head back for debriefing... He ended up dying on his sickbed two years ago.
+
+Czcibor:
+Take a look down there... You can see the industrial district on the other side of the river valley. You couldn't have picked a better spot for your stronghold.
+
+Toland:
+Oh, looks like a big corporation. What about it?
+
+Czcibor:
+That used to be the Paleniskos estate.
+
+Toland:
+Feeling nostalgic?
+
+Czcibor:
+A little.
+
+Czcibor:
+But I digress... I don't know how hostile you hunters are toward me, but I'd prefer not to make things too difficult for you.
+
+Toland:
+No need to worry. Most of the folks here aren't our old buddies, but at the very least they aren't so rash that they'd attack a fully armored campaign knight captain.
+
+Czcibor:
+No, that's not what I'm worried about... Wait, did I ever tell you about my promotion?
+
+Toland:
+Why so surprised? I'll give you that you campaign knights can be awfully cloak and dagger with your info, but you've been their leader for years now. Can we really be called hunters if we can't get our hands on even that much intel?
+
+Toland:
+Say, for example, about the 'black lance who pierces the starry sky' and 'the knight who charges toward Catastrophes.'
+
+Czcibor:
+Fine, fine. There's nothing I can do about your 'intel.' Besides, it's hardly honorable to hunt down whoever betrayed us.
+
+Czcibor:
+You already know my combat prowess is nothing to write home about, and the few achievements I have to my name are barely worth mentioning.
+
+Toland:
+And I knew you'd say that too.
+
+Czcibor:
+*Sigh*... What do I do with you...
+
+Toland:
+So, the recent attacks. Did you really catch wind of something, or did the higher-ups only send you here for show?
+
+Toland:
+It's not often that a campaign knight gets transferred to the boondocks for something that happened in the cities.
+
+Czcibor:
+...Maybe it's a little of both.
+
+Czcibor:
+But I'll promise you this, Toland: your hunters will be released safe and sound. They were taken into custody by patrolling campaign knights. There should never have been a misunderstanding like this between the two of us.
+
+Toland:
+Of course. You aren't one to wrongfully accuse the innocent.
+
+Toland:
+I can't say we're the <i>most</i> upstanding men you'll find anywhere, but we really have nothing to do with this.
+
+Czcibor:
+You'll have to wait a little longer, though. I can only let them go after the investigations are over.
+
+Toland:
+Then I trust they won't take too long.
+
+Toland:
+...You could've just written that in a letter, you know.
+
+Toland:
+But you went through the trouble of meeting us face-to-face. You have something else to say, don't you?
+
+Czcibor:
+Your hunter... the one-eyed Zalak. He explained what you guys are here for.
+
+Toland:
+Mm-hmm, and I'm guessing he didn't have the guts to lie to you.
+
+Czcibor:
+He said you got a distress message from some villagers.
+
+Toland:
+We may only call ourselves an NGO as a way to gather intel, but if someone wants our help, and can afford it, we're more than happy to step up.
+
+Toland:
+And that's the honest truth. We're here to help. Our methods might not be what you call noble, though.
+
+Czcibor:
+I know you're doing the right thing... That's why I feel so guilty.
+
+Czcibor:
+Listen, Toland... I want you guys to at least postpone your operation. Don't get yourselves involved in this investigation.
+
+Czcibor:
+And you should stay away from any of the companies that took on the Dzwonek city renovation project, too.
+
+Toland:
+...Sounds like you've got something big on your plate. Is someone trying to get rid of dissidents through you folks?
+
+Czcibor:
+......
+
+Toland:
+Hah, anyway, thanks for the advice.
+
+Toland:
+Seeing as you went out of your way to warn me, I'll play along.
+
+Toland:
+Um, you wouldn't mind if I went ahead and gave my men a heads up first, would you? Otherwise, they might just go kidnap some poor sod.
+
+Toland:
+...Alright, now let's talk about that sword you're carrying on your waist.
+
+Toland:
+Considering how our old knight friend has never changed weapons all these years, there's no mistake.
+
+Toland:
+You met Młynar, haven't you?
+
+Elderly Villager:
+...It's nothing strange if you haven't heard about the recent chaos here, sir. You came here via the barrenlands, so you most likely haven't been to Dzwonek yet.
+
+Elderly Villager:
+If you haven't come across any Messengers to buy a newspaper from, you wouldn't have heard the latest news.
+
+Enthusiastic Villager:
+Mr. Sommer, so that's where you were.
+
+Enthusiastic Villager:
+I've put the notice up.
+
+Elderly Villager:
+Ah, Eva. Good work.
+
+Enthusiastic Villager:
+Don't mention it. It's not often I get to help you out!
+
+Enthusiastic Villager:
+—So, if I may ask... who's this gentleman you're talking to?
+
+Elderly Villager:
+Hm... He's an incredible knight.
+
+Enthusiastic Villager:
+Oh, I see! Welcome! I noticed you've been standing there for quite some time. Are you here to check out the area?
+
+Enthusiastic Villager:
+I heard a lot of knights have been buying land outside the cities for their vacation homes lately. It's starting to become a trend.
+
+Enthusiastic Villager:
+We haven't had any Catastrophes, and there aren't any Infected in the nearby villages. You couldn't ask for a cleaner place.
+
+Enthusiastic Villager:
+Or perhaps you're here representing a corporation? I saw in this morning's paper that Gale Industries has a lot of open positions. Apparently they're hiring for the new construction in Dzwonek.
+
+Enthusiastic Villager:
+Anyone they think can get the job done, even the Infected, gets a chance to go work in the city.
+
+Enthusiastic Villager:
+Hm... Did Gale Industries sponsor a knightclub?
+
+Młynar:
+......
+
+Elderly Villager:
+*Cough*... Eva?
+
+Elderly Villager:
+I just remembered that I had a letter for the village chief. Could you do me another favor?
+
+Enthusiastic Villager:
+Hm? Of course. No problem.
+
+Enthusiastic Villager:
+You mean right now? Okay.
+
+Elderly Villager:
+Haha, my apologies... The folks here have been very interested in people from the cities as of late. You'll have to forgive them their manners.
+
+Elderly Villager:
+You came here from the path to the north. You must've seen the new factories over by the river valley.
+
+Elderly Villager:
+Strumykowo and Twierdza are close to the cities' path, and both have sold their land, or so the taxman told us.
+
+Elderly Villager:
+That's why so many here dream of our village catching the eyes of the large corporations, letting us sell our land and move into the cities.
+
+Młynar:
+...Absurd.
+
+Elderly Villager:
+Right, it's an absurd idea.
+
+Elderly Villager:
+I'm old. I don't expect much from life anymore. Kids like them, though, should at least be allowed to daydream.
+
+Elderly Villager:
+I ran from Leithanien in a hurry because I said the wrong thing and offended the wrong men. In the old days, I was a scholar who offered lip service to the nobles of the spire.
+
+Elderly Villager:
+Now, my hair is as hoary as it gets. All that's on my mind is how to keep myself warm and fed, and that's more than enough to consume all my sanity.
+
+Elderly Villager:
+Their situation is no different from mine. But even a false dream is enough to widen their perspective when they lift up their heads and look ahead.
+
+Młynar:
+...It's not my wish to criticize anyone.
+
+Młynar:
+And even if there were someone worthy of my criticism, they're not here.
+
+Elderly Villager:
+If you're here to revisit the village, though, I am afraid it will disappoint.
+
+Młynar:
+...I'm looking for someone, and merely passing through.
+
+Młynar:
+Have you met two campaign knights in gold?
+
+Elderly Villager:
+Gold? Most of the ones who've passed by in recent years were equipped with silver armor and lances. As for any exceptions... my apologies, but I can't recall.
+
+Młynar:
+No need to trouble yourself... If you'd seen them, you'd remember.
+
+Elderly Villager:
+Are you searching without a lead? If you have any other clues, I could try to come up with something, or at least point you in a direction.
+
+Młynar:
+Have you had any fleets of construction vehicles pass through the area in recent years?
+
+Elderly Villager:
+Hm...? No.
+
+Młynar:
+Then there's no need to point me anywhere.
+
+Młynar:
+...I remember.
+
+Noble's Mercenary:
+We won't forget this, you Nearl family punk... You humiliated our master today, but we'll make those worthless bastards you so sympathize with pay for this a hundredfold!
+
+National Council Representative:
+We can certainly pass this legislation to quell public opinion, but I'm sure you know that the remote wilderness is far outside the reach of the judicature's tendrils.
+
+National Council Representative:
+Without you, their voices would never even have reached the Grand Knight Territory.
+
+Bounty Hunter:
+Enough. Let's stop here. The squad's made it far enough.
+
+Bounty Hunter:
+It doesn't matter how much you want it. Even if I keep fighting with you, Kazimierz will never be a place where we can sit down with you nobles on an equal footing.
+
+Ill Refugee:
+H-Help...! Sir Knight! Sir Knight, we've met before, haven't we?! Please... Please help me...
+
+Ill Refugee:
+I can't die in this tent! My kid will be back tomorrow morning... I can't...
+
+Grand Knight:
+Sorry, Młynar. I can't answer that.
+
+A sharp whistle can be heard, and the two conversing men each take a step back.
+
+A large General Chamber of Commerce transport drives by. The white, spray-painted logo on the container stares down at the pedestrians walking by.
+
+The transport's wheels drive over the dirt road, kicking up a trail of dust behind it as the engine's roar is carried away by the wind into the autumn wilderness.
+
+The bladeless knight falls silent.
+
+He and the iron behemoth stare at one another until it leaves him behind.
+
+Then, he turns around and slowly walks away, following the path he had already decided on.
+
+Beside the uneven grooves left behind by the truck's tires, the knight leaves no tracks whatsoever.
+
+Elderly Villager:
+Sir...?
+
+Elderly Villager:
+*Sigh*...
+
+Elderly Villager:
+Why did that Kazimierzian knight seem so... disappointed?
+
+Elderly Villager:
+Why did he set his sword down, and why is he still willing to move forward?
+
+Elderly Villager:
+It's been some twenty years... Perhaps it's finally time I agreed to take Eva to see the world outside.
+
+Czcibor:
+We met by chance not far from the factories over there.
+
+Toland:
+Well, that sure is... worth a trip down memory lane.
+
+Toland:
+What was he doing here?
+
+Czcibor:
+I would guess he was probably lost. After all, it's been so many years since the last time we were here.
+
+Toland:
+Hah, perhaps you'd like to say that to his face?
+
+Czcibor:
+I'll pass.
+
+Toland:
+And here I thought he'd head toward Ursus. After all, he left the Grand Knight Territory in search of his family.
+
+Czcibor:
+But I also remember us speculating all those years ago that the northern winds and tundra his brother wrote about in his letters were made up, right?
+
+Czcibor:
+Only the top echelon of the Adeptus Sprawiedliwi knows the truth of where those two respected knights actually went.
+
+Toland:
+Sounds like you haven't heard anything new during your years with the campaign knights?
+
+Czcibor:
+Regrettably.
+
+Czcibor:
+He's not the only one who can't get over it.
+
+Czcibor:
+I had a dream a couple nights ago. It was vague, but I remember us all gathered together, discussing where the two missing Nearls went.
+
+Toland:
+...Let's just say he's here for a vacation, then.
+
+Toland:
+We haven't heard anything for years, and Młynar's not stupid.
+
+Toland:
+Right, did you tell him about how poor the public order has been these days? He's in the neighborhood. He might just give you a hand.
+
+Czcibor:
+Yes, I was indeed hoping he'd help out. That's why I brought his weapon to the knightclub's craftsman for some adjustments.
+
+Toland:
+Right, someone as particular about weapons as you wouldn't have been able to stand the sight of it, huh?
+
+Czcibor:
+Even if he had no need for a sword in his job, the Nearls must know some smiths in the Grand Knight Territory who could keep his weapon in a decent shape?
+
+Toland:
+Well, they do.
+
+Toland:
+Remember that time we joined in on the action during that conflict with Ursus? Młynar ordered me to contact some knightclubs, right?
+
+Toland:
+Those who later called my hunters 'Sarkaz Knightclub' are all old friends of the Nearl family.
+
+Toland:
+They used to follow Kirill and Schnitz, and they also saw how daring and spirited Młynar was on the battlefield.
+
+Toland:
+Hell, his niece is a craftsman, too. She's young enough that she's got no idea what he's been up to, though. Almost threw herself into the whole mess with the Kazimierz Major, even.
+
+Toland:
+But given his temper, do you really think he'd ask any of them for help?
+
+Czcibor:
+Haha.
+
+Czcibor:
+If you ask me, I think he probably could've.
+
+Czcibor:
+...Do you think he's still got any use for his sword, though?
+
+Czcibor:
+Would he still be willing to 'help take care of trouble?' And not out of friendship, but as a knight.
+
+Toland:
+Where's this coming from?
+
+Czcibor:
+Because I've got a personal feud.
+
+Czcibor:
+For ten years, I looked up to the knight captain before me as my mentor. He never asked about my background, nor did he care if I'd offended any nobles. For that, I respected him.
+
+Czcibor:
+And all that respect evaporated the moment I took over his position and all the paperwork of the entire knightclub.
+
+Czcibor:
+That was when I saw for myself the vile corruption behind the discipline and chivalry that I'd tried so faithfully to execute.
+
+Czcibor:
+I'm not trying to accuse every last campaign knight in Kazimierz... It's just that my position has always been a far cry from the glorious, noble knighthood I aspired to.
+
+Toland:
+You sure you want to tell a bounty hunter that?
+
+Czcibor:
+I've got to have at least have one old friend who'd listen to me vent.
+
+Czcibor:
+You know I just want to be an honest man who follow the rules.
+
+Czcibor:
+You probably think the code of the knighthood is inflexible, but at least it doesn't kill.
+
+Czcibor:
+At the very least... It wouldn't have let Celina die like that.
+
+Toland:
+She's gone...? When?
+
+Czcibor:
+It's been a few years now.
+
+Czcibor:
+Sorry, it's not easy for me to bring this up.
+
+Czcibor:
+Though... Młynar knows. Back then, when Celina was taken to the Grand Knight Territory, I wrote him a letter asking for help.
+
+Toland:
+If she was taken to the Grand Knight Territory... That must have been quite out of hand.
+
+Czcibor:
+That's why he couldn't do anything for her, and I could understand that. I know he wasn't the one who got her killed, and I... I won't take it out on him.
+
+Czcibor:
+But I never got a reply to that letter. Which is why when we met again today, I couldn't help but bring it up.
+
+Toland:
+......
+
+Czcibor:
+If my letter had gotten buried under the pile of condolences for Kirill's death, then I could only blame myself for being unlucky.
+
+Czcibor:
+But he admitted to having received and read it... Yet he chose not to talk about the past, or to even acknowledge my hatred.
+
+Czcibor:
+When did he become the sort of man who'd turn away when faced with questions of right and wrong?
+
+Toland:
+Oh...
+
+Toland:
+Well, then let me ask a little question.
+
+Toland:
+If you weren't going to ask the bounty hunters for help, yet you were going to drag him into your revenge plot...
+
+Toland:
+Were you trying to get him on your side... or is he another target?
+
+Czcibor:
+......
+
+Czcibor:
+Please don't misunderstand me.
+
+
+

@@ -1,0 +1,365 @@
+Mafioso:
+Boss, Penguin Logistics is on the move.
+
+Gambino:
+Of course. I just gave her a few skin deep cuts...
+
+Gambino:
+But I'm more worried about Capone.
+
+Mafioso:
+Y- yeah, we haven't been able to reach him. Tried real hard an hour ago.
+
+Gambino:
+Where's the last place you got him? The slums?
+
+Mafioso:
+Er, yeah.
+
+Gambino:
+That's too bad.
+
+Mafioso:
+What do you mean?
+
+Gambino:
+Tell all the crews, we're going with the original plan to get Penguin Logistics...
+
+Gambino:
+But I'm thinkin'... unless something goes wrong, we'll get two or three crews dropping off the grid.
+
+Mafioso:
+What do you mean... boss?
+
+Mafioso:
+Couldn't be... Capone betrayed the Family?
+
+Gambino:
+I get where he's comin' from. All too well.
+
+Gambino:
+We grew up together. And dad had us deal with a traitor, with our own two hands. That was my first time takin' a life. Our first time takin' a life.
+
+Gambino:
+The Siracusa fiasco changed us. The only difference is he turned weak, and I chose the clear path.
+
+Gambino:
+He's gonna sell out the Family. Or I guess he wants to give the Family a new name.
+
+Mafioso:
+So what should we do about it?
+
+Gambino:
+Penguin Logistics is turning out trickier than I thought. And we can't fight a war on too many fronts.
+
+Gambino:
+I'm thinkin' we deal with our traitor problem first.
+
+Mafioso A:
+I'm down at the intersection. Nothing special here.
+
+Mafioso B:
+Roger. Proceed as usual.
+
+Mafioso A:
+W- wait! What's the plan here?
+
+Mafioso B:
+Huh? You screwed up something?
+
+Mafioso A:
+No, I just wanna be sure. I really don't know Lungmen at all.
+
+Mafioso B:
+It's Sauin. When midnight rolls around, Lungmen kicks off a huge Carnival. The whole town turns out. That's when we rub out Penguin Logistics. Bada bing!
+
+Mafioso A:
+Now about the boss...
+
+Mafioso B:
+Don't ask too many questions. Just do what you're told. Chop-chop.
+
+Mafioso:
+...it's what it is.
+
+Mafioso:
+You ain't gonna kill me, are you?
+
+Exusiai:
+Of course not. But you gotta take a nap for me like a good boy~
+
+Exusiai:
+Texas, you copy?
+
+Texas:
+It's the same over here. They all split off into little groups.
+
+Texas:
+But their leader was in the fight himself, which means they've got someone else handing out dispatch orders.
+
+Texas:
+We just have to cut off that head.
+
+Sora:
+Hey~ Texas?
+
+Sora:
+We're in the city center, but boy are there a lot of people out here.
+
+Texas:
+Watch for the enemy. They're moving in small teams.
+
+Sora:
+I know~ We'll make sure our friends on the street keep an eye out... Wait, boss? You want to get up on a float? Erm, wait for me...
+
+Texas:
+Croissant, Bison, do you copy?
+
+Bison:
+So you were talking about that someone else giving dispatch orders, we ran into a little surprise over here.
+
+Croissant:
+Bison, get down. Take cover behind that box over there. Don't get yerself seen.
+
+Bison:
+Right. I'll call you back, Texas.
+
+Mafioso A:
+So where do we go from here?
+
+Mafioso B:
+I dunno. Since we cut off the boss... since we cut off Gambino Ricci, we really don't have a choice.
+
+Mafioso A:
+Sigh.
+
+Mafioso B:
+What's to sigh about? Mr. Capone did so much for us here in Lungmen, and what came of it?
+
+Mafioso B:
+Gambino hops on over from Siracusa and makes nothin' but trouble. Not a lick of good's come of him!
+
+Mafioso B:
+If we kept to Mr. Capone's plan from the start, we wouldn't be in this mess.
+
+Mafioso B:
+We've been over this with the Rat King. Why do we gotta kill anybody? This ain't Siracusa!
+
+Mafioso A:
+The boss, I mean the old boss, he's probably just blowin' off steam.
+
+Mafioso B:
+Well he needs to grow up.
+
+Croissant:
+(Sounds like trouble in paradise.)
+
+Bison:
+(Sure does. This could be good for us, if we...)
+
+Mafioso A:
+Hey! Who's there?!
+
+Croissant:
+Huh? A gunshot?
+
+Bison:
+It's that sniper again! We're exposed!
+
+Mafioso B:
+It's the Penguins! Don't let 'em get away!
+
+Butler:
+...Do forgive me, Young Master. This is what the Master of the House has demanded of me.
+
+Butler:
+But in taking action upon the Young Master, I have placed him in danger...
+
+Butler:
+When this matter is concluded, I believe it may be time to retire to the countryside.
+
+Butler:
+Sigh.
+
+Texas:
+...Sounds like they're in trouble.
+
+Texas:
+Exusiai, once you've marked out the gangsters' route, move to meet up with Croissant.
+
+Exusiai:
+You got it~
+
+Texas:
+Sora.
+
+Sora:
+Whew... the bad guys are making a lot of moves, but it looks like they're splitting into two teams. Might be a trap...
+
+Yith:
+It is not so complicated. The enemy is suffering from internal strife. This is an opportunity.
+
+Sora:
+Aaaie! You scared me!
+
+Texas:
+...Welcome back.
+
+Texas:
+Why'd you have to hack into our private channel? Couldn't you just send us a normal message?
+
+Yith:
+This was quicker.
+
+Sora:
+Where are you now?
+
+Yith:
+A depressing cafe. I suddenly remembered I was supposed to have today off, so I came out to enjoy the nightlife.
+
+Yith:
+I've sent you Croissant and the new boy's coordinates. Lungmen's network speeds are remarkably satisfactory.
+
+Texas:
+...understood. Once we've finished our respective missions, we'll move to assist them.
+
+Texas:
+This is our chance to strike back.
+
+Mafioso:
+Mr. Capone, the boss's hit on Penguin Logistics looks like it failed.
+
+Capone:
+What's that meathead worth? I don't even wanna hear his name.
+
+Mafioso:
+...Is that how we do it?
+
+Capone:
+The Family needs a solid foundation. The name is the least important part.
+
+Capone:
+Did you find the Rat King yet?
+
+Mafioso:
+Not yet. He really don't leave any tracks around...
+
+Capone:
+We gotta be patient. He's like a part of the city. He's Lungmen's shadow. It ain't like we got much time though.
+
+Mafioso:
+But we gotta be careful. If the Rat King picks up on what we're doin', we could find ourselves fighting three sides at once.
+
+Capone:
+It's the same for everyone. If we're locked into a tough spot, the best thing to do is stir up some chaos.
+
+Capone:
+You got news of Gambino?
+
+Mafioso:
+......
+
+Capone:
+You deaf?
+
+Gambino:
+If you got somethin' to say to me, shouldn't you just say it to my face?
+
+Capone:
+How did you get in here?
+
+Gambino:
+Not everybody's like you. Not everybody can just up and turn their back on an oath made before dad's grave.
+
+Capone:
+Oath? That's just because we were walking the same path. But times have changed, Gambino.
+
+Gambino:
+You broke my heart, Capone. But I'll give you one last chance to explain yourself, as my brother.
+
+Capone:
+Hmph. Seven years ago, when we buried the old boss, you sent me here, to Lungmen.
+
+Capone:
+I came halfway across the world to set up a business that could support the Family, like a backstop.
+
+Capone:
+But then you had to go and screw up in Siracusa. And what do you do? You hop on over here and take over everything I broke my back to build.
+
+Gambino:
+Come on, you ain't gettin' pissed off over some little shit like this. Or you'd've been dead a long time ago.
+
+Capone:
+Say what you want. But today I learned the sharpest fangs in the Family's what's gonna turn around and kill it.
+
+Gambino:
+So you gonna pull out your fangs and snap a collar on yourself? Hah!
+
+Capone:
+If you keep runnin' around Lungmen makin' noise like you do, sooner or later the powers that be are gonna get sick of it and wipe us out.
+
+Gambino:
+Your deep and heartfelt concern for the Family is moving me to tears, dear Capone.
+
+Capone:
+The feeling's mutual.
+
+Gambino:
+You're rusty.
+
+Capone:
+The scars you got in Siracusa are holding you back too.
+
+Gambino:
+Just give up. I don't wanna kill you.
+
+Capone:
+No, you really do.
+
+Gambino:
+Heh. You know me too well.
+
+Capone:
+Wh——
+
+Croissant:
+Well lookie here! I just wanted to bust through this wall and make a nice path... but it looks like I found quite a sight.
+
+Croissant:
+Sorry to bother ya. You two keep at it. We'll go around.
+
+Mafioso:
+Hurry! Don't let them get away!
+
+Bison:
+...I think we're out of options.
+
+Gambino:
+How about that. Our troublemakers came right to us. We'll just scoop you up and——
+
+Gambino:
+What is it this time?!
+
+Exusiai:
+Heyy~ We're heere!
+
+Texas:
+What a coincidence, running into everyone.
+
+Sora:
+So, is it time for a final battle already? Seems a little early?
+
+Texas:
+It's fine. The sooner we get this whole thing over with, the better.
+
+Texas:
+Just throw them in the river, like the boss said.
+
+Capone:
+This kind of chaos is just the way I like it.
+
+Capone:
+Tonight's big winner is the one who walks out of here alive.
+
+
+

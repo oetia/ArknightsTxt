@@ -1,0 +1,506 @@
+Liskarm:
+Thunderbolt!
+
+Mercenary:
+Aaaagh...! My eyes!
+
+Sarkaz Mercenary:
+Where are the casters?! Take out that Vouivre!
+
+Franka:
+Don't even think about it.
+
+Sarkaz Mercenary:
+What's happening? There's more of them?
+
+Sarkaz Mercenary:
+How?!
+
+Sarkaz Mercenary:
+We're in a bad way. They've got way too much firepower.
+
+Sarkaz Mercenary:
+Cut our losses and fall back before this gets any worse.
+
+Schwarz:
+...I see you...
+
+Sarkaz Mercenary:
+Augh!
+
+Sarkaz Mercenary:
+Sniper! !
+
+Sarkaz Mercenary:
+Shit, where?!!
+
+Sarkaz Mercenary:
+Forget it! Just run!
+
+Schwarz:
+...You're not getting away.
+
+Sarkaz Mercenary:
+Ugh...
+
+Mercenary:
+Fall back! Quickly! Just run!
+
+Frost:
+They're running!
+
+Ash:
+Sitrep!
+
+Blitz:
+You okay, Alexsandr?
+
+Tachanka:
+Yeah, just a flesh wound.
+
+Tachanka:
+Those guys are learning.
+
+Ash:
+Don't let your guard down!
+
+Ash:
+We've still got company.
+
+Ash:
+...That's close enough, friend.
+
+Ash:
+I appreciate the help, but let's keep a comfy distance until we figure things out.
+
+Franka:
+Relax. We mean you no harm.
+
+Franka:
+We're a Rhodes Island field team! And you're holed up in a Rhodes Island safehouse.
+
+Franka:
+We're responding to a distress call.
+
+Franka:
+Please identify yourselves.
+
+Liskarm:
+Calm down! I'm here to help.
+
+Ash:
+It's the Rhodes Islanders?
+
+Blitz:
+Hey, the cavalry came after all!
+
+Ash:
+Go get Mr. Occphen.
+
+Blitz:
+Got it.
+
+Occphen:
+Rhodes Island Operator? Hooray! We're saved! We're saved! !
+
+Occphen:
+That's about the size of it.
+
+Rangers:
+So those four mercenaries are the ones who set up these temporary defenses?
+
+Occphen:
+I'm really sorry. They broke my communicator, and I couldn't protect the safehouse...
+
+Occphen:
+I wouldn't blame you if you fired me on the spot...
+
+Rangers:
+Don't worry, this old man doesn't have the power to fire anybody.
+
+Rangers:
+And the way I see it, you held out this long all by yourself. That's pretty fantastic.
+
+Rangers:
+If it weren't for you, these Infected would've met a much worse fate.
+
+Rangers:
+How many are they?
+
+Liskarm:
+Counting the doctor outside, forty-three. All Infected.
+
+Franka:
+And the four mercenaries were protecting them all this time?
+
+Rangers:
+Mercenaries going out of their way to look after Infected. That's something you don't see every day.
+
+Franka:
+Mercenaries who not only don't look down on them, but actively try to help them.
+
+Franka:
+Maybe I'm being too paranoid, but where did these saints come from?
+
+Rangers:
+I think they may not realize.
+
+Rangers:
+From the way they talk, I get the impression they were just protecting ordinary, innocent townsfolk.
+
+Franka:
+I guess it's less that they don't discriminate against the Infected.
+
+Franka:
+And more that they don't care about Oripathy.
+
+Liskarm:
+But they don't look Infected at all?
+
+Schwarz:
+I've never seen mercenaries like them. I've never heard of any 'Team Rainbow'.
+
+Franka:
+They've got guns, but none of them look like Sankta?
+
+Liskarm:
+Unless the Sankta figured out a way to hide their 'Fluorescent Lamps'...
+
+Franka:
+A non-Sankta mercenary group fully decked out with big guns like that is gonna be huge news.
+
+Liskarm:
+Blacksteel R&D would go nuts if they heard about this.
+
+Schwarz:
+...Let's not talk about them like they're not here.
+
+Rangers:
+Regardless, they saved a Rhodes Island Operator and protected a bunch of Infected.
+
+Rangers:
+Until we have some evidence, we shouldn't be doubting their motives.
+
+Rangers:
+Our top priority is finding a solution to our predicament.
+
+Rangers:
+Let's talk to them.
+
+Ash:
+They've been in there for a while.
+
+Blitz:
+What do you think of this Rhodes Island?
+
+Frost:
+I've been wondering about them.
+
+Frost:
+What kind of pharmaceutical company needs a safehouse full of military-grade hardware out on the edge of civilization?
+
+Frost:
+They've got enough arms and explosives to outfit a platoon.
+
+Blitz:
+And the employees of this 'pharmaceutical company' all look like professional soldiers.
+
+Blitz:
+Either this world's doctors are armed to the teeth, or the pharmaceutical business is a front. Probably both.
+
+Ash:
+They're armed. But they looked well-trained and well-spoken.
+
+Ash:
+It's a night and day difference with the thugs we ran into before.
+
+Ash:
+Also...
+
+Ash:
+Maybe it's just me, but I get a real familiar vibe from them.
+
+Blitz:
+You know, I got that too.
+
+Blitz:
+They're reasonable, civilized people, at least. Everything I saw before had me thinking this world was an apocalyptic, bandit-ridden hellscape.
+
+Miarow:
+I'm finished binding your wound, Mr. Alexsandr.
+
+Tachanka:
+Thanks, Doctor.
+
+Ash:
+Doctor, are you familiar with this Rhodes Island organization?
+
+Miarow:
+...I've heard a bit from the caravans.
+
+Miarow:
+They're a group that specializes in critical care for the Infected, as well as an Oripathy research team.
+
+Tachanka:
+But isn't it an incurable disease?
+
+Miarow:
+Yes...
+
+Miarow:
+Actually, there used to be a lot of people who claimed to be able to cure Oripathy.
+
+Miarow:
+They were mostly shysters who ended up ruined when their scams were exposed.
+
+Miarow:
+As for those who just exaggerated the effectiveness of their drugs suppressing the symptoms of Oripathy, they might not reach the level of fraud yet, but even their suppressant drugs are very expensive.
+
+Tachanka:
+I'd guess so.
+
+Miarow:
+I once heard about a lord whose daughter contracted Oripathy, and he spent a lot of money to buy the suppressants from Columbia to save his daughter.
+
+Miarow:
+Years later, the lord's money dried up, and his daughter died of the disease.
+
+Tachanka:
+......
+
+Miarow:
+But look at this.
+
+Tachanka:
+What is it?
+
+Miarow:
+This is the safehouse's store of Oripathy suppressants.
+
+Miarow:
+These past few days, I injected some of the more serious sufferers with this, and it really did suppress their symptoms. It works better than any drug I've ever seen before.
+
+Miarow:
+This medicine... must be insanely expensive, no?
+
+Miarow:
+But Mr. Occphen wasn't concerned with that at all. When I told him some of my patients were in critical condition, he gave me the box.
+
+Miarow:
+It's not that I don't believe there are good people in this world, but...
+
+Blitz:
+Hey, I didn't expect that.
+
+Ash:
+Don't overthink it. Suspicion is costly. Whether you show it or not, it's going to get in the way of our talks with them.
+
+Ash:
+It looks like our goals are aligned, so we can just lay this stuff on the table.
+
+Tachanka:
+If you say so.
+
+Tachanka:
+Oh, they're here.
+
+Rangers:
+Sorry to keep you waiting.
+
+Rangers:
+Now let's skip the pleasantries.
+
+Rangers:
+Thank you for saving Occphen. Without you, Rhodes Island would have lost a good worker.
+
+Rangers:
+When the mission is over, I'll make a full report, and Rhodes Island will remunerate you appropriately, and compensate you for your supplies.
+
+Ash:
+Remuneration...
+
+Tachanka:
+Remuneration is nice.
+
+Rangers:
+Also, you put your lives on the line for the Infected. And that wins this old man's admiration.
+
+Ash:
+These townsfolk have done a lot for us in our time here. Leaving them to die wouldn't be our style.
+
+Liskarm:
+So you're mercenaries?
+
+Ash:
+No... We're...
+
+Blitz:
+Yes. Yes we are.
+
+Blitz:
+We're mercenaries. The super expensive kind.
+
+Ash:
+......
+
+Liskarm:
+Can you give us the name of your company? Mercenaries like you are a rare breed.
+
+Blitz:
+Err... We're... um...
+
+Blitz:
+(Russian) Help me think of a name!
+
+Tachanka:
+(Russian) Polar Bear Logistics?
+
+Liskarm:
+......
+
+Liskarm:
+I understand if you're not in a position to say.
+
+Blitz:
+We're... We're from a faraway country in... in the south!
+
+Tachanka:
+That's right! We're from way down south!
+
+Rangers:
+The south? South of Sargon? ?
+
+Rangers:
+Beyond the foehn hotlands?
+
+Blitz:
+Foehn...? Yes, the south. Right.
+
+Rangers:
+There's other countries beyond the foehn hotlands? ?
+
+Rangers:
+That's... shocking. I've lived a long time, and this is the first I've ever heard of people down there.
+
+Rangers:
+In all the records of all the Lords Ameer, there's never been a single report of someone crossing the hotlands.
+
+Tachanka:
+(Russian) You could've made your story a little more plausible.
+
+Blitz:
+(Russian) Plausible like Polar Bear Logistics?
+
+Rangers:
+Anyway, warriors with Ursine and Victorian accents, it doesn't matter where you come from.
+
+Rangers:
+You're willing to fight for the Infected. And at least on that point, our interests are aligned.
+
+Rangers:
+At least for now, we can work together to deal with this situation.
+
+Ash:
+I can agree with that.
+
+Rangers:
+So who can tell us what the heck happened to this town?
+
+Schwarz:
+Sarkaz Mercenary...
+
+Schwarz:
+Controlling the monsters, should be casters.
+
+Schwarz:
+They're organized, disciplined, and most importantly, they know when to cut their losses and back down. They're not here for a quick raid.
+
+Franka:
+They are all properly geared up with Columbian equipment. Some of them were extremely tough back when they sieged the safe house.
+
+Schwarz:
+Judging from the equipments and tactics, they should be professional mercenaries who signed the 'Redmark contract.'
+
+Rangers:
+I'm afraid it's a rebellion against the local lord.
+
+Ash:
+But why are they attacking civilians?
+
+Ash:
+They chased us here from the Infected quarter.
+
+Ash:
+What on Earth do these mercs actually want?
+
+Liskarm:
+The most likely answer is they wanted to silence you.
+
+Blitz:
+I'm afraid that's not the only thing they were after.
+
+Liskarm:
+What do you mean?
+
+Blitz:
+When they attacked the Infected quarter yesterday, they were obviously targeting the sick.
+
+Blitz:
+They were trying to round them up.
+
+Blitz:
+I'm pretty sure that was their goal.
+
+Franka:
+Kidnapping... Infected?
+
+Franka:
+That doesn't make any sense.
+
+Rangers:
+The enemy's objectives are a mystery to us, but that's not the most important thing.
+
+Rangers:
+For now, the best thing we can do is wait.
+
+Ash:
+Wait?
+
+Rangers:
+You may not realize it, but we're standing in the middle of a fait accompli.
+
+Rangers:
+We walked into this Lord Ameer's territory without his permission, violating his commandments and the local laws. We've broken a major Sargon taboo.
+
+Rangers:
+The town nobility may be in the middle of a war, but they're still the rulers here.
+
+Rangers:
+Sticking our noses in anything else at this point would only make our situation even worse.
+
+Rangers:
+The local lord set up an Infected quarter. That tells us he's not totally cruel and heartless.
+
+Rangers:
+He was willing to let Rhodes Island build a safehouse here. That means he's not an isolationist.
+
+Rangers:
+I think he'll treat us fairly.
+
+Ash:
+National law... local government... I get it. That's the best we can hope for right now.
+
+Rangers:
+Until the situation changes again, we'll hold out in the safehouse and wait for the riots to die down.
+
+Rangers:
+I hope you can help us.
+
+Ash:
+No problem. We need Rhodes Island's professional expertise too.
+
+Rangers:
+All right then. I'm looking forward to working with the four of you.
+
+
+

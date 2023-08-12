@@ -1,0 +1,1919 @@
+Kal'tsit:
+Damn it, Amiya!
+
+Ch'en:
+Ah...! What happened, Amiya?!
+
+Kal'tsit:
+...Come here, Dr. {@nickname}.
+
+Kal'tsit:
+What I'm about to do next, you are not to tell anyone, ever.
+
+Kal'tsit:
+Superintendent Ch'en of Lungmen!
+
+Ch'en:
+No longer.
+
+Kal'tsit:
+Then I'll ask you to keep an eye on the dragon over there for me. We'll be taking her into custody when this is all over. Any questions?
+
+Ch'en:
+Look after Amiya first.
+
+Kal'tsit:
+Yes. Doctor, give me your hand.
+
+Kal'tsit:
+*Sigh*. This isn't going to hurt. But, don't ask.
+
+Kal'tsit:
+I'm going to jam this syringe into your arm and take some blood. And that's all I'm telling you.
+
+Kal'tsit:
+It's for your own good.
+
+Kal'tsit:
+No questions.
+
+She's right, it doesn't hurt. You don't feel anything.
+
+Kal'tsit places your freshly drawn blood into a device on her waist. Seconds later, she administers a blue solution into Amiya's neck.
+
+Amiya's breathing stabilizes.
+
+Amiya:
+....Nng!
+
+Kal'tsit:
+It worked. Amiya... wake up.
+
+Amiya:
+Huh... Miss... Miss Theresa...?
+
+Kal'tsit:
+...No. It's me, Amiya.
+
+Amiya:
+Dr. Kal'tsit... I...
+
+Kal'tsit:
+You're okay, Amiya. You don't have to talk. Let's get ready to go. It's all okay now.
+
+Amiya:
+Hm.
+
+Amiya:
+...Hmm...
+
+Amiya:
+*whine*...
+
+Amiya:
+Wah... Aahh.... Waaahhh...
+
+Amiya:
+Waaahhh... Doctor... Waaaaahh...
+
+Amiya:
+Um... Mm...
+
+Amiya:
+Hm.
+
+Amiya:
+...My tears... Doctor, I managed not to cry until the end... I... I promised... I... I...
+
+Amiya:
+...Doctor... Doctor...
+
+Amiya:
+...Dr. {@nickname}...
+
+Kal'tsit:
+Ch'en, the aircraft will reach the control tower momentarily. We'll take Talulah and go.
+
+Ch'en:
+Are you sure? I haven't... even decided how to handle her.
+
+Kal'tsit:
+We need Talulah. Rhodes Island must take her first.
+
+Kal'tsit:
+Are you worried we're going to get ourselves killed?
+
+Kal'tsit:
+No need, Dr. {@nickname}, that ship has long since sailed. It sailed as soon as we got involved here.
+
+Kal'tsit:
+We have two swords hanging over our heads: one is Lungmen's and one belongs to the Third Army of Ursus.
+
+Kal'tsit:
+We stopped the core city, we got involved in the attack on Lungmen, and we know the entire conspiracy. That's enough to have them plotting to destroy us.
+
+Kal'tsit:
+What would the Third Army do if Lungmen decided to strike at us?
+
+Kal'tsit:
+They'd grab the popcorn.
+
+Kal'tsit:
+The murderers in their fancy uniforms would watch our landship burn into a scorched hulk in the wastelands, one of the thorns in their side melting away.
+
+Kal'tsit:
+And on the other side, a private company without registration in Lungmen, not under the protection of Lungmen, finds itself attacked and destroyed by unknown forces.
+
+Kal'tsit:
+That doesn't sound like a problem for Lungmen or Yan, does it?
+
+Kal'tsit:
+Unless, of course, we're holding Talulah.
+
+Kal'tsit:
+Anyone who might want to strike at us first needs to consider the signal they're sending. Does it say to their rivals that they need Talulah? That she's key to this case?
+
+Kal'tsit:
+That she grants an advantage, that she could eliminate a weakness?
+
+Kal'tsit:
+That is our one and only chance at survival.
+
+Kal'tsit:
+It is to Rhodes Island's great advantage that the magnates of Lungmen and the ancient nobility of Ursus will not find common ground in the next century.
+
+Kal'tsit:
+If we hold Talulah, their hands are tied. Neither will want to make the first move.
+
+Kal'tsit:
+Neither will want to risk the evidence vital to both sides. Their best course of action will be to remain at a safe distance. Both parties want to distance themselves from this smoking gun.
+
+Kal'tsit:
+It would take only one slight misstep to bring ruin to either the Third Army or Lungmen. Neither has the authority to stand for their entire country.
+
+Kal'tsit:
+The Third Army tried, once. And they will pay a terrible price for the mistake. The stakes are too high.
+
+Kal'tsit:
+So we will seize the advantage in this situation. We will use each side to protect ourselves from the other.
+
+Kal'tsit:
+Talulah is vital to our survival. At least for now.
+
+Kal'tsit:
+Those clever enough to survive will find a balancing point, and with Talulah in our hands, Rhodes Island can actively choose to be that very point.
+
+Kal'tsit:
+At least until this all blows over, or they're swept up in the next storm.
+
+Kal'tsit:
+*Sigh*...
+
+Kal'tsit:
+There's the aircraft. Time to go. Get Talulah and Amiya in first.
+
+Kal'tsit:
+We'll take the next one.
+
+Sarkaz Mercenary:
+There's no point in fighting any more. The guerrillas are gonna kill us.
+
+Sarkaz Mercenary:
+Fall back! Abandon the city! We lost! It's over.
+
+W:
+Says who?
+
+Sarkaz Mercenary:
+You're alive...
+
+W:
+If I went down that easy, I couldn't ask you to come with me.
+
+Sarkaz Mercenary:
+Why? Why should we follow you?
+
+W:
+Hah. Need me to spell it out for you? You're free, ya goof.
+
+Sarkaz Mercenary:
+...Huh? Free? What are you talking about?
+
+W:
+You don't have to kill for anybody anymore. And it's not like I'm your boss now either, I'm just saying you can tag along with me.
+
+W:
+You're done being hired muscle. Now you fight for yourselves! Oh, but still, you can't just be killing for fun. I'll blow your ribcage open if you do.
+
+W:
+What I'm getting at is we don't have to listen to the bitches who just want our blades and bows. The ones who don't care if we die, as long as we take a bunch of lives with us.
+
+W:
+But me? I'm built different. I appreciate money, and they gave us lots.
+
+W:
+The thing is, we're still alive, and we can get more of it. Don't need to go piling up cash on gravestones.
+
+W:
+See some haters? Kill 'em. Kill anybody who looks at us the wrong way. Kill anybody who wants to hurt us. Just wipe 'em all out.
+
+W:
+Not for Reunion, not for all the devils, not for anybody.
+
+W:
+We make our own way in the world. Maybe we wanna go to Yan and learn how to play Go. Doesn't matter. It's all good.
+
+W:
+You in?
+
+Sarkaz Mercenary:
+Not like there's anywhere else to go.
+
+Sarkaz Mercenary:
+We'll follow you. But no tricks, W.
+
+W:
+Sorry, man. All I got is tricks.
+
+Elysium:
+Is it over?
+
+Hawk:
+Looks good. I'm really glad we didn't have to pretend to be anyone's friend in order to kill them.
+
+Hawk:
+I never thought the plan would flip around to helping Reunion like this...
+
+Reunion Member:
+Thanks, bro! Nice work! Let's get out of here!
+
+Hawk:
+(Ursine) Don't mention it!
+
+Hawk:
+Now we're their accomplices.
+
+Elysium:
+Hawk, how about a coffee when we get back? I'll tell you about that op back in Columbia...
+
+Hawk:
+I was on your team.
+
+Elysium:
+Really?
+
+Hawk:
+Don't you remember your squadmates?
+
+Elysium:
+Well you were never there for any of the missions.
+
+Hawk:
+Well then... We might've really done some good this time.
+
+Shieldguard:
+Just a minute, kitten. Is that your aircraft? What's it doing?
+
+Rosmontis:
+Oh, I know...
+
+Rosmontis:
+It must be here to take Talulah. Ah, there it goes... we already have her.
+
+Shieldguard:
+What? You took Talulah?
+
+Shieldguard:
+No, we can't allow that! Rhodes doesn't have the right!
+
+Shieldguard:
+She must stand trial! She can't just walk away!
+
+Rosmontis:
+Sorry... this is how it is.
+
+Rosmontis:
+You want revenge, but you can't have it.
+
+Rosmontis:
+We can't put her on trial.
+
+Shieldguard:
+But you're taking her from us. You stole our chance to execute her!
+
+Shieldguard:
+Kitten, don't be so quick to show off what you've learned...
+
+Shieldguard:
+Hatred runs in our veins. The hatred of Reunion and all the Infected brothers Talulah killed fills us with the rage that gives us the right to try her.
+
+Shieldguard:
+Only us. No one else.
+
+Rosmontis:
+Will you give her a fair trial?
+
+Shieldguard:
+We are justice. Talulah can't escape us.
+
+Rosmontis:
+Okay then, Mister. I'll make you a promise. We won't hand Talulah over to anyone but you and Reunion.
+
+Shieldguard:
+What are you going to do with her?
+
+Rosmontis:
+Even I don't know. But I can make you that promise.
+
+Rosmontis:
+Because I know we're doing what's right.
+
+Rosmontis:
+Kill me now if you have to. I believe in Rhodes Island. I'll stand in for her.
+
+Shieldguard:
+What are you talking about?! Don't talk like that.
+
+Shieldguard:
+Look, kitten, if you think there's any difference between your loyalty and ours, you've got another thing coming. I Trust you. You'll be a glorious fighter someday.
+
+Shieldguard:
+Go on! For you, I'll trust Rhodes Island, just this once.
+
+Shieldguard:
+But you remember. I don't care if it's Talulah or the Lord of Fiends... if I hear you've stepped out of line even just once...
+
+Shieldguard:
+If I hear you've done harm to the downtrodden people of this world, we will hunt you down, we will strike you, and we will kill you all.
+
+Shieldguard:
+Especially Talulah. Don't use her for evil.
+
+Shieldguard:
+We'll spike their heads on the highest point in the city, to honor the Captain, our great warrior, who died here alone.
+
+Shieldguard:
+This isn't how his story was supposed to end.
+
+Rosmontis:
+It won't come to that. Rhodes Island wouldn't do that. Even if they tried, I wouldn't let them.
+
+Rosmontis:
+Someday... I'll be just like you said. I'll be able to pick out who's good and who's bad.
+
+Rosmontis:
+No one should suffer the loss of a loved one. I'll do what's right. I'll be the judge.
+
+Rosmontis:
+I think I almost have my own standard.
+
+Shieldguard:
+We believe in you. We believe your promise, kitten! Young as you are, you're a lot stronger than so many spineless grown-ups.
+
+Shieldguard:
+Alright, we'll hold off on destroying Rhodes Island for now. Because you're there.
+
+Rosmontis:
+Pinky swear?
+
+Shieldguard:
+Huh? Haha, okay. Pinky swear.
+
+Rosmontis:
+Hm.
+
+Shieldguard:
+If I had a daughter, she'd be about your age.
+
+Shieldguard:
+Kitten, the other girl, the Lord of Fiends... the Cautus. If she can really keep doing good...
+
+Shieldguard:
+You can count on us. If you ever get into trouble, we'll be there. Because the Captain... the Captain and Yelena... they chose her..
+
+Shieldguard:
+I hope you'll prove right. I hope we're wrong.
+
+Shieldguard:
+But that's not how it'll go. Because we're doing the right thing.
+
+Shieldguard:
+Time to go.
+
+Rhodes Island Operator:
+Rosmontis! Thank you, Reunion fighters.... We have to go.
+
+Shieldguard:
+We're not Reunion anymore.
+
+Shieldguard:
+Goodbye, kitten. Hurry on home.
+
+Rosmontis:
+Bye bye, Mister.
+
+Shieldguard:
+Bye!
+
+Shieldguard:
+......
+
+Shieldguard:
+They're gone, brothers.
+
+Shieldguard:
+But we can't. We have unfinished business.
+
+'Emperors' Blade':
+Nothing from the leader of Reunion.
+
+'Emperors' Blade':
+Chernobog's core city has stopped moving. Tell the Sixth, Seventh, and Twelfth Divisions, if they still want to proceed, we'll need...
+
+???:
+Stop.
+
+???:
+Or we will be forced to stop you.
+
+???:
+Not that we would be able to, even if we tried.
+
+???:
+Only you can put a stop to your nonsensical war machine in time.
+
+'Emperors' Blade':
+You cannot resist the blade of Ursus. Not this time.
+
+'Emperors' Blade':
+And you, the pawns of an incapable lord, who are you to give orders to us?
+
+Shadow Guard:
+(Gaulish) And how do you know you are not under the spell of Kashchey?
+
+'Emperors' Blade':
+Never speak that language to me again! The age of Gaul is over!
+
+'Emperors' Blade':
+Never again will that language be used to communicate between countries! Not a city of theirs remains!
+
+'Emperors' Blade':
+Kashchey is determined, a determined champion of Ursus!
+
+Shadow Guard:
+You cut down the last man so praised by the people of Ursus.
+
+Shadow Guard:
+You need not be so overly prudent. We can offer you assistance. There are things only you may do.
+
+'Emperors' Blade':
+You would ask us to betray our country?
+
+Shadow Guard:
+Young one... As I see it, you commit treason in proceeding with this plan of yours. What happens next is up to you, but it is Ursus who will suffer the consequences.
+
+Shadow Guard:
+Having done all this, you must know: the nobles started this war to solve a problem, but war is far, far worse than the problem.
+
+Shadow Guard:
+Where is it you will find ultimate peace in Ursus?
+
+Shadow Guard:
+You put an end to that era by your own hands. You know it better than we.
+
+'Emperors' Blade':
+——
+
+'Emperors' Blade':
+Wei Yenwu's minions. How did you find us?
+
+Shadow Guard:
+By our own effort. You have a lot to learn.
+
+'Emperors' Blade':
+Are you threatening me?
+
+Shadow Guard:
+No. Only... we have aged.
+
+Shadow Guard:
+And while you boast of loyalty to your homeland...
+
+Shadow Guard:
+There are some matters, however loyal you may view them... in which we will play no part.
+
+'Emperors' Blade':
+What are you talking about?
+
+Shadow Guard:
+That which we will not do.
+
+Shadow Guard:
+(Gaulish) Let's take a step back, young one.
+
+Shadow Guard:
+The Royal Guard has fresh blood. You have more life ahead of you than we. If this is wrong, you will have time to right it.
+
+Shadow Guard:
+But you must think of Ursus, so as to avoid the same pitfalls.
+
+'Emperors' Blade':
+......
+
+Shadow Guard:
+Who will right it?
+
+'Emperors' Blade':
+We will. You put a stop to your people.
+
+'Emperors' Blade':
+And you, old men... You're not in the Imperial Guard anymore. Don't interfere.
+
+Shadow Guard:
+Indeed, it has been a long, long time since we last were. Such is why we may speak freely. Long life to you, young one.
+
+Shadow Guard:
+There will not be a next time.
+
+Reunion Member:
+Please... I'm begging you!
+
+Reunion Member:
+If you're going to kill me, just do it!
+
+Phantom Crossbowman:
+......
+
+Reunion Member:
+Just don't let them find me! They'll torture us... they always...
+
+Phantom Crossbowman:
+Enough gossip.
+
+Phantom Crossbowman:
+Move out! Come on, we don't want...
+
+Phantom Crossbowman:
+The Shieldguards to get you.
+
+Reunion Member:
+Are you... you really letting us go?
+
+Phantom Crossbowman:
+The captain would want you to live. Confusing one, that.
+
+Phantom Crossbowman:
+You stay away from them. Talulah's guards and the Shieldguards.
+
+Phantom Crossbowman:
+Confusing one.
+
+Phantom Crossbowman:
+You sure you want to stay?
+
+Rhodes Island Guard?:
+Yes.
+
+Phantom Crossbowman:
+But Reunion is gone...
+
+Rhodes Island Guard?:
+I think you can't even call the Shieldguards Reunion anymore.
+
+Rhodes Island Guard?:
+They sure don't call themselves that.
+
+Rhodes Island Guard?:
+Unless... unless we were going to make some changes.
+
+Reunion Member:
+If we're Reunion, we have to change ourselves.
+
+Phantom Crossbowman:
+You still believe that?
+
+Reunion Member:
+I know we Infected can pull ourselves up when we fall.
+
+Over the next thirty-six hours, the soldiers from Ursus's Third Army who had infiltrated the Chernobog core city quietly vanished.
+
+Of course, no one could prove they were Ursus soldiers.
+
+Before leaving the core city, the Shieldguards found Reunion corpses with no identifying items, except for the wounds in their flesh...
+
+They were all caused by the same thrown weapon.
+
+The formless killers planned to kill the heavies they knew, sending a quiet warning to the unseen parties who were not present.
+
+Of course, the Shieldguards were more direct with their message. Traitors drown in their own blood.
+
+A joint investigation team from Yan and Ursus submitted their reports two weeks after arriving in Chernobog.
+
+They were clear: there was zero evidence that either of the two countries had anything to do with the tragedy.
+
+They determined that the Chernobog Incident was created and caused by the Infected.
+
+But the vagaries of political conflict meant that any further legal action to be taken against the Infected that might have been circulating in the major cities ultimately died in various legislatures, piles of unpassable bills...
+
+Until finally meeting an unceremonious end in the old secretary's crank shredder during a cleanup.
+
+Thus, the Chernobog Incident silently drew to a close.
+
+Ursus Civilian:
+Ah...!
+
+Crownslayer:
+Calm down.
+
+Crownslayer:
+I'm not a killer. Go this way. You can't stay here! If the Ursus Army finds you, they won't care if you're Infected or not. They're wiping out the city.
+
+Ursus Civilian:
+......
+
+Ursus Civilian:
+So you're the only one we can trust?
+
+Crownslayer:
+If you want to live... you'll live.
+
+Ursus Civilian:
+We'll live. Where should we go?
+
+Crownslayer:
+...Alright. Sure. This way.
+
+Crownslayer:
+I can't do anything about you hating us. But I hope we won't have any more hate for you, since you also lost your homes.
+
+Crownslayer:
+Brothers! Here. Take them. They're not Infected, so be careful.
+
+Reunion Member:
+Crownslayer? What about you?!
+
+Reunion Member:
+Where are you going...? What should we do?
+
+Crownslayer:
+Why are you still following me?
+
+Reunion Member:
+You're a leader of Reunion...
+
+Crownslayer:
+I'm nothing.
+
+Crownslayer:
+I want to go back to Siracusa.
+
+Reunion Member:
+Why? Why would you...?
+
+Crownslayer:
+I'm weak. I need to get stronger.
+
+Crownslayer:
+Back when I was leaving Siracusa to go to Ursus, to take revenge for my father, my teacher stopped me. Saying I was weak, and I couldn't do it.
+
+Crownslayer:
+I didn't believe it. But it was the truth.
+
+Crownslayer:
+My brain doesn't work like Talulah's. I'm not as skilled as my teacher. I'm weak.
+
+Crownslayer:
+Even the cause I believed in... was just somebody's tool. You all know, right? Talulah betrayed us. No matter what the deal is, Reunion is over.
+
+Nine:
+I don't think this is how the movement ends.
+
+Crownslayer:
+Aren't you from Lungmen?
+
+Nine:
+Yes. But where I come from doesn't matter to what I'm saying.
+
+Nine:
+Whether or not she acknowledges it, and you have to realize it... No matter what happens to Reunion, Talulah already lit the flame.
+
+Nine:
+And you can't just put it out like this.
+
+Crownslayer:
+Sure. If that's how it is, I think they're better off going with you.
+
+Nine:
+Are you asking that of me?
+
+Crownslayer:
+Let's say I'm entrusting them to you. You might be lying to me here, but these people lost their homes. I won't lie to you.
+
+Crownslayer:
+They'll be worse off with me.
+
+Nine:
+Okay, are you willing to come with me?
+
+Reunion Member:
+...Crownslayer...
+
+Crownslayer:
+Ursus... us... Ursus.
+
+Crownslayer:
+The Empire just hasn't gotten to the point where they'll treat all the Ursus like we do.
+
+Crownslayer:
+Goodbye, all of you. Don't make the same mistakes I did.
+
+Nine:
+Girl...
+
+Reunion Member:
+What's your name? And where are you going?
+
+Nine:
+Call me 'Nine.'
+
+Nine:
+I'm going to where the fire burns the hottest.
+
+Rat King:
+I knew you'd be here.
+
+Wei Yenwu:
+Can't hide from you.
+
+Rat King:
+You came here to mourn them.
+
+Wei Yenwu:
+I may be mourning us. Or reflecting on mortality and greed.
+
+Rat King:
+Your sword says something else.
+
+Wei Yenwu:
+At least my sword isn't cutting your throat.
+
+Rat King:
+I know you don't mean it, Old Wei. If we were really going at it, who can say which one of us would drop first?
+
+Wei Yenwu:
+Be serious please.
+
+Rat King:
+I have to give you a few good jabs, old friend. You know, Hui-chieh and those Infected got it done.
+
+Rat King:
+You should think things over again, the arbitrary way you go about them. You almost dragged Lungmen into a war and wrecked the whole place.
+
+Wei Yenwu:
+I'm not sure about that. Even if Lungmen were to choose a certain future, it may yet choke it out over some small thing. A chance occurrence.
+
+Rat King:
+The city didn't choose her. We should be proud that she chose the city.
+
+Wei Yenwu:
+They're not mutually exclusive, Kojui. The city chose her too.
+
+Wei Yenwu:
+Even if it wasn't ready to accept who she is...
+
+Rat King:
+And you should tell that to her. It's time for me to go, Old Wei.
+
+Wei Yenwu:
+Wait, Kojui!
+
+Wei Yenwu:
+Did the Shadow Guard lie to me?
+
+Rat King:
+Oh?
+
+Rat King:
+They're your Shadow Guard, how should I know?
+
+Wei Yenwu:
+I should've known you and Lin Yuhsia were working together.
+
+Rat King:
+Your Shadow Guard aren't the Imperial Guards they once were. They're human now.
+
+Rat King:
+Do you think they can stand to watch you make another mistake?
+
+Wei Yenwu:
+So that means... when I told them to handle the Infected, then you...
+
+Rat King:
+Shh. Heaven knows. Besides, when you knew we would—
+
+Rat King:
+Head back soon. That sick old tiger has something for you.
+
+Rat King:
+—Hui-chieh?
+
+Rat King:
+Oh, you're here.
+
+Ch'en:
+Uncle Lin.
+
+Rat King:
+Look at you, dressed like this, it looks like you're headed right off somewhere.
+
+Rat King:
+Do remember to visit from time to time.
+
+Ch'en:
+I'm not sure I can.
+
+Rat King:
+Then you'll have to write us, let us know you're safe out there.
+
+Ch'en:
+I will, Uncle Lin.
+
+Wei Yenwu:
+......
+
+Wei Yenwu:
+This is where Talulah's father is buried... And your mother.
+
+Wei Yenwu:
+In the end, they couldn't be buried in the city they loved. Or, in the case of your mother, it was a matter of both love and hate.
+
+Wei Yenwu:
+I'll never forget the look of this place, Hui-chieh. I think of them whenever I see it... my sister, and my sworn brother, with whom I shared no blood.
+
+Wei Yenwu:
+They are buried here.
+
+Wei Yenwu:
+A place too small to house their passion, words too weak to express their remorse.
+
+Ch'en:
+An unmarked grave.
+
+Wei Yenwu:
+Yes. Heh... names perhaps mean more to the living.
+
+Wei Yenwu:
+All around the world, we idealize burial, as all graves eventually disappear. No one knows a peaceful, eternal sleep.
+
+Wei Yenwu:
+Catastrophe, war, abandonment, and all such things. Should a city disappear, the souls buried within disappear right along with it.
+
+Wei Yenwu:
+And in the countless settlements that dot the land, I have never yet found one where the descendants knew the location of the graves of their ancestors.
+
+Wei Yenwu:
+There is a form of burial called the Tombway, it denotes a part of a nomadic city's pathing as the burial ground, where the dead will be tossed from the city, with the passing cycle as a form of honor.
+
+Wei Yenwu:
+I'm too forgetful. Too many things I forget too easily, too many things I want so desperately to forget.
+
+Wei Yenwu:
+But dare not ever forget them.
+
+Wei Yenwu:
+And so... I picked this place for them.
+
+Wei Yenwu:
+I brought my sister to Lungmen, I met Fumizuki in Lungmen, along with Edward, who had fled to Lungmen.
+
+Wei Yenwu:
+I can't say we made the best of friends, but he was smart, and bold.
+
+Wei Yenwu:
+Kashchey ruled Lungmen from the shadows, and saw us as thorns in his side. We knew we had no choice but to depose him... it was the only way to give us a future in the city.
+
+Wei Yenwu:
+Here, this grave, is the farthest Lungmen had ever been.
+
+Wei Yenwu:
+After we beat Kashchey and exiled him from Lungmen, the city sat a few dozen miles away, bright, and full of hope. Our future awaited us.
+
+Wei Yenwu:
+We drank, talked, laughed, enjoyed ourselves without a thought to our remaining fuel.
+
+Wei Yenwu:
+We very nearly died of thirst until Adams, that sick old tiger, coughed up his car to come get us. Boy did he give Edward and I the business after that.
+
+Wei Yenwu:
+Oh... he wasn't as old then. Nor was he as sick, or ferocious.
+
+Wei Yenwu:
+But who cares? We were all having a good time.
+
+Wei Yenwu:
+Lin was laughing... laughing like we didn't have blood on our hands... laughing like we were boys in the time of our lives.
+
+Wei Yenwu:
+Edward was the scion of the highest Londinium nobility. And we were keeping that secret in Lungmen. But Kashchey already knew, he may have long since started plotting.
+
+Wei Yenwu:
+He told my jealous twin and the Shadow of Londinium about Edward and my sister... about their relationship...
+
+Wei Yenwu:
+I was forced to choose between Edward or my sister's unborn child.
+
+Wei Yenwu:
+I hid it for ten years after Edward died. Only my brother and Kashchey knew. But now, Edward and my sister are both gone from this world.
+
+Wei Yenwu:
+Someday, a Catastrophe will strike and wipe away everything. No one will remember the tragic lovers buried here. These two, who died because of me, will be forgotten.
+
+Ch'en:
+I met 'Kashchey.' He may be more evil than either of us know.
+
+Wei Yenwu:
+I can imagine.
+
+Ch'en:
+This grave...
+
+Ch'en:
+...Mother.
+
+Wei Yenwu:
+It was my fault your mother wasn't so warm towards you. I had to have her marry that Yan noble, to protect her. I should have done better.
+
+Ch'en:
+It's all in the past.
+
+Ch'en:
+Promise me, Wei Yenwu. Promise me you won't let Lungmen turn into a grave.
+
+Wei Yenwu:
+Never again.
+
+Ch'en:
+As if I could trust a word you say.
+
+Wei Yenwu:
+I never needed your trust. Hmph... But, you can believe me this one time. Like when I promised to train you.
+
+Ch'en:
+——
+
+Ch'en:
+You trained me well. I couldn't have gotten her back without you.
+
+Wei Yenwu:
+I'm glad.
+
+Ch'en:
+I don't think you've spoken to me in ten years as much as you did today.
+
+Wei Yenwu:
+I think we talked a lot?
+
+Ch'en:
+What I mean is as Ch'en Hui-chieh. Not as Superintendent Ch'en.
+
+Wei Yenwu:
+Haha.
+
+Ch'en:
+I'll be off.
+
+Wei Yenwu:
+What are you planning to do with your sister?
+
+Wei Yenwu:
+I have no feelings for Talulah anymore. Except guilt.
+
+Ch'en:
+Good. That's what you should feel.
+
+Ch'en:
+We're one pair of the countless separated siblings in this world. Most will never be reunited.
+
+Ch'en:
+Even so, I can't just let her go. I still don't know what she is, it's still not clear.
+
+Ch'en:
+There's a prison to keep criminals, but Lungmen we know today can't hold her.
+
+Wei Yenwu:
+I can't make the Lungmen that could. Only you can create an L.G.D. that could keep the Infected and the uninfected together.
+
+Ch'en:
+It doesn't have to be me. We all have our own part to play.
+
+Ch'en:
+I know that truth, no matter how correct it might be. If the people of Lungmen don't accept it, then they won't. I've seen too much of the slums.
+
+Ch'en:
+And if it is possible to build something like that, I'd like to do it with Rhodes Island first.
+
+Ch'en:
+Talulah... no matter how long it takes, I will get her a fair trial.
+
+Wei Yenwu:
+You really have grown up.
+
+Ch'en:
+I don't need to hear that from you, Sir. I don't think it's a good thing.
+
+Wei Yenwu:
+If I, on behalf of Lungmen, ask you to stay, will you do it?
+
+Ch'en:
+Hah.
+
+Wei Yenwu:
+If you and Talulah ever wanted to come back, Lungmen would make the move to take you back, if it can.
+
+Wei Yenwu:
+There are so many things we can't do. But maybe them, in the future, maybe they could.
+
+Ch'en:
+I just hope you haven't forgotten what you were reflecting on. That would be good enough.
+
+Ch'en:
+Say hello to Aunt Fumizuki for me.
+
+Ch'en:
+Oh...
+
+Ch'en:
+Err...
+
+Ch'en:
+Uncle...
+
+Ch'en:
+Take care of yourself.
+
+Wei Yenwu:
+......
+
+Wei Yenwu:
+Hui-chieh!
+
+Ch'en stops for a moment, but she does not turn back.
+
+Ch'en:
+What is it?
+
+Wei Yenwu:
+The path before you is long and hard. But I know you will master it.
+
+Ch'en:
+I'll bear that in mind.
+
+Fumizuki:
+Right then. What's the second condition you wanted to offer Rhodes Island?
+
+Wei Yenwu:
+......
+
+Wei Yenwu:
+After using them to wipe out Reunion, I would ask them to take as many of Lungmen's Infected as they could.
+
+Wei Yenwu:
+Give them land, resources, funding, and all the materials they need.
+
+Wei Yenwu:
+They can't refuse. Even if they know this is a hard pill to swallow.
+
+Wei Yenwu:
+I have done this before, and I will continue to do it.
+
+Wei Yenwu:
+No hesitation, no regret.
+
+Fumizuki:
+And for now?
+
+Wei Yenwu:
+*Sigh*. The situation has changed. And we must change with it.
+
+Fumizuki:
+Is there a problem with you thanking them directly?
+
+Wei Yenwu:
+......
+
+Fumizuki:
+You don't worry so much about winning and losing as you used to. And I think I can guess the reason.
+
+Fumizuki:
+It's about our little Ch'en.
+
+Fumizuki:
+That's why things have changed?
+
+Wei Yenwu:
+Lungmen's Infected belong in Lungmen.
+
+Fumizuki:
+So what about Ch'en?
+
+Wei Yenwu:
+She has her own path to walk.
+
+Fumizuki:
+Will you visit her?
+
+Wei Yenwu:
+The Chief of Lungmen can't have anything to do with an Infected organization.
+
+Fumizuki:
+Hmph. Harsh.
+
+Fumizuki:
+Then I'll go.
+
+Wei Yenwu:
+Well... say hello to her for me.
+
+When forced to choose between my sister and my sworn brother, I chose my sister. I vowed to let no harm come to them, but...
+
+I broke that vow.
+
+This time is different. I will never choose again.
+
+Kashchey was wrong. I had no choice. Wei Yenwu, you have only one path to walk, in fact.
+
+Even if it is the path of fratricide.
+
+For the sake of my two nieces, for the sake of the Lungmen in my dreams. Even if it is my one and only path.
+
+Wei Yenwu:
+(Hui-chieh... live well.)
+
+A few weeks later...
+
+Kal'tsit:
+Attention, honored Rhodes Island operators, this is Kal'tsit.
+
+Kal'tsit:
+Thanks to our efforts, the Chernobog issue has been resolved peacefully.
+
+......
+
+Rosmontis:
+Does it hurt?
+
+Blaze:
+Ow... Only if you poke it!
+
+Rosmontis:
+Oh. Sorry.
+
+Blaze:
+It's fine... how are you?
+
+Rosmontis:
+Fine.
+
+Blaze:
+Ehwhaaa? No way, little kitten... since when do you keep things to yourself?
+
+Rosmontis:
+Is that bad...?
+
+Blaze:
+Oh, of course not! Scout, can you see? Our little kitten is all grown up! She's a big girl!
+
+Blaze:
+She's so big now... waaaahhhh...
+
+Rosmontis:
+D-Don't cry... I want to forget!
+
+Rosmontis:
+You're really crying? Why are you crying?
+
+Blaze:
+Waaaahhhh...
+
+Rosmontis:
+D-Don't cry, Blaze... don't...
+
+Blaze:
+Bluishsilver should know... Ace too... our kitten... she's grown up...
+
+Rosmontis:
+...Blaze...
+
+Blaze:
+Waaaaaaahhhhh!
+
+Rosmontis:
+Hey!
+
+Kal'tsit:
+Much of the truth will stay buried forever in the ruins of Chernobog.
+
+Kal'tsit:
+Because we live in an uncaring world.
+
+Kal'tsit:
+But Rhodes Island will remember. No matter what else we undertake... we must remember.
+
+Kal'tsit:
+A Rhodes Operator does not sacrifice her life for a single person or event.
+
+Medic:
+Oh, this topical medicine is really useful!
+
+Medic:
+There are lots of similar patents out there, but I think this cream is effective enough to have a market.
+
+Medic:
+The main point is that even if it's not especially effective, it is very cheap to produce... all the components that came up in analysis were common, wild-growing plants.
+
+Medic:
+It's a bit of a pain to get them from the northwest tundra, they're spread over such a wide area.
+
+Medic:
+The inventor must've had more perseverance than medical knowledge.
+
+Medic:
+Where do you want to apply for the patent, Amiya?
+
+Amiya:
+In Ursus. And make it cheap.
+
+Medic:
+But I think the Empire has similar tech?
+
+Amiya:
+Ursus has more people who need it.
+
+Medic:
+What should we name it then?
+
+Amiya:
+We'll call it... FrostNova.
+
+Amiya:
+Oh, Dr. {@nickname}!
+
+Amiya:
+Medic, you and Warfarin take care of it.
+
+Medic:
+We'll take it from here!
+
+Amiya:
+Doctor, I'm coming!
+
+Kal'tsit:
+It is not for the results that we commit to what we do.
+
+Kal'tsit:
+We do something not because we want to see it done.
+
+Kal'tsit:
+As a business, this may be a foolish strategy. But we live for more than material gain.
+
+Kal'tsit:
+Our brave operators have proved that life, and its value, lay not only in ensuring the survival of one or even many people, or in its biological definition...
+
+Kal'tsit:
+We have to live on in the moral, civilized sense. Because the future of life needs support, and Rhodes Island is that support.
+
+Kal'tsit:
+We are fighting for a cause that will heal the scars on our world.
+
+Dobermann:
+Another mission?
+
+Nearl:
+Yes. With Meteorite.
+
+Dobermann:
+Care to bring a greenie? I have some new recruits who need to learn.
+
+Nearl:
+Oh? I don't think so. This is going to be a tough one.
+
+Meteorite:
+Jessica and FrostLeaf are going out on patrol. They might be in a better place to take a recruit.
+
+Dobermann:
+Jessica? Can she handle it?
+
+Meteorite:
+I think you've seen how far she's come.
+
+Dobermann:
+I have. I think she'll certainly be able to put some pressure on the new recruits.
+
+Meteorite:
+Then Nearl is going to crush me with all her pressure.
+
+Nearl:
+...I... am I really that heavy?
+
+Meteorite:
+No, that's not what I meant. *Sigh*.
+
+Kal'tsit:
+It is for this belief that we are willing to die.
+
+Kal'tsit:
+—Ace Squad, thirteen members. Ace, Bad Tom, Kerg, Hard Brick—
+
+Kal'tsit:
+—WoodsPoon, Seventeen, Bronze Nose, Green Pea, Lunar Silver, Confidenty, Sandwash, Violet Flame, and Caries.
+
+Kal'tsit:
+Amiya Squad, thirteen members. Dim Needle, B-Softhand, ChiliJimme, KeenEar.
+
+Kal'tsit:
+AngerNeighing, Sunty, Marco Smith, Fade.
+
+Kal'tsit:
+Divides, FrostNova, Antonio Lisa, Wildash, Hui, and Indigo Jade.
+
+Kal'tsit:
+I can't put FrostNova on the KIA list.
+
+Kal'tsit:
+No matter what you say, she wasn't an official employee.
+
+Kal'tsit:
+What of the consequences? What if our operators are outraged at you putting a Reunion operative on our casualty list? It's not something you should do.
+
+Kal'tsit:
+Is that all it takes?
+
+Kal'tsit:
+Okay...
+
+Kal'tsit:
+I'll do it. You've done your duty.
+
+Kal'tsit:
+I hope you'll stay as you are now.
+
+Kal'tsit:
+—And I'd like to apologize for that thing back there, Dr. {@nickname}.
+
+Kal'tsit:
+The question you asked me back by the sarcophagus. I can't give you an answer. Not now, not tomorrow, not ever.
+
+Kal'tsit:
+I don't want to hide the truth, but I really can't give you the answer you're looking for, unfortunately. Neither I nor PRTS have a good explanation. I hope you can forgive us.
+
+Kal'tsit:
+But someday, when the time is right, it will appear to you.
+
+Kal'tsit:
+Doctor...
+
+Kal'tsit:
+When that day comes. When you finally know the truth. Will you be ready?
+
+Kal'tsit:
+Another thing, Dr. {@nickname}.
+
+Kal'tsit:
+Amiya has taken on a lot of burdens. I hope you could... avoid giving her more bad memories.
+
+Kal'tsit:
+We should take more onto ourselves instead, those things which we can't even face ourselves. We can do it.
+
+Kal'tsit:
+As long as you're here. As long as you are like this.
+
+Kal'tsit:
+Scout Squad. Thirteen members. Scout, Milim, Tipsy...
+
+Kal'tsit:
+...Slink, Mimi, Leafa, Slanna, Mary...
+
+Kal'tsit:
+...Thumbtack, Mudflower, Macron, Pter, Scorpion.
+
+Kal'tsit:
+Rosmontis Squad, one member, Bluishsilver. Raidian Squad, one member, Liqusa.
+
+Kal'tsit:
+Forty-one sacrifices in all, in the Chernobog Incident.
+
+Kal'tsit:
+Rhodes Island will not forget. We will remember their names forever.
+
+Kal'tsit:
+Even should Rhodes Island cease to exist someday, all that they have done will leave its mark on our world.
+
+Amiya:
+Doctor...
+
+Amiya:
+You don't want to talk?
+
+Amiya:
+I get it. So much has happened.
+
+Amiya:
+But, with you by my side, I feel... I feel happy.
+
+Amiya:
+There are some things we can't do by ourselves.
+
+Amiya:
+Right!
+
+Amiya:
+Rhodes Island... we always press forward, no matter what the dark clouds bring.
+
+Amiya:
+And no matter how many terrible stories unfold across the world...
+
+Amiya:
+I'll always believe in the warmth in your heart.
+
+Amiya:
+Welcome home, Doctor.
+
+Amiya:
+Then I'll have to stop you myself.
+
+Amiya:
+Welcome home, Doctor.
+
+Rhodes Island Operator:
+Did she say anything?
+
+Closure:
+Nope. Not a peep since you brought her in.
+
+Closure:
+She's so calm. Even when, uh... Ch'en, was it? Even when Ch'en came to see her, she didn't say anything.
+
+Rhodes Island Operator:
+So what are you going to do about it?
+
+Closure:
+Me? Do I look like Ascalon...? And I don't think we have anything we need from her yet anyway.
+
+Closure:
+More information is gonna depend on where you use it, I guess. I really don't know how to handle a person like that.
+
+Rhodes Island Operator:
+What about those L.G.D. people?
+
+Swire:
+What? It's not like it's your first time at Rhodes Island. What's there to be shy about?
+
+Hoshiguma:
+I just got promoted. I don't want anyone thinking I'm working under the table with Rhodes.
+
+Hoshiguma:
+Missy, you're totally good with it, huh? You make it look like you're going shopping.
+
+Swire:
+Who could stop me?
+
+Hoshiguma:
+Sure enough. You got that rich girl brain.
+
+Swire:
+Hmm...? Chief Wei's office. Who's... that?
+
+Hoshiguma:
+...An angel with blue hair? Or a Sarkaz?
+
+Swire:
+Woah! She's really hurt!
+
+Hoshiguma:
+Hey! You can't just barge in... Chief Wei is in there.
+
+???:
+Looks like you got company, Chief.
+
+Wei Yenwu:
+Anyone who could make their way in here is someone I can trust. Let's have you look after your own wounds first.
+
+???:
+If you don't mind letting those two out there eavesdrop, then this little scratch is no big deal.
+
+Wei Yenwu:
+What are you doing here, Laterano Messenger?
+
+???:
+I'm not here as an official Laterano Messenger...
+
+???:
+(Although, the Church does actually have a message for you.)
+
+Wei Yenwu:
+Hoshiguma! Take Swire outside.
+
+Hoshiguma:
+Oh, roger that!
+
+Swire:
+Hey! Why just me...?
+
+Wei Yenwu:
+There.
+
+Wei Yenwu:
+Speak, Messenger.
+
+???:
+...He said... (Laterano language).
+
+???:
+'What did you have for breakfast? And what will you eat for dinner?'
+
+Wei Yenwu:
+...Odd. Why would he want to know what I think?
+
+???:
+I think... You are the Chief, Mr. Wei.
+
+Closure:
+They're not here in an official capacity. The blonde tiger and the green-haired Oni... I think they're probably here to meet an old friend or something?
+
+Closure:
+But hey, if we carry on like this, we could have the Ursus Royal Guard taking a stroll around the landship.
+
+Rhodes Island Operator:
+When they came by, did the... patient, react at all?
+
+Closure:
+Nope.
+
+Closure:
+I can only ever guess at what Kal'tsit's thinking. Oh, I'll get the surveillance set up, you stand under that camera. C'mon, c'mon~
+
+Kashchey:
+Talulah.
+
+Kashchey:
+Humans are weak, complicated, selfish creatures.
+
+Kashchey:
+Even cystybeasts possess a nobility human beings lack. They forage the land day after day, never stopping, never giving up.
+
+Kashchey:
+Unlike humans.
+
+Kashchey:
+Humans kill one another for food. Humans harm one another for selfish desires.
+
+Kashchey:
+As such, human beings use others to determine their own value, to measure their worth. You have what it takes to enlighten them them, you have the right to use them.
+
+Kashchey:
+You know what you must do. I taught you all that you are... How do you overcome these countless years of oppressive history? The history of humanity is a history of struggle.
+
+Kashchey:
+Wisdom, ideals, and methods... Your sight is my sight. Surrender your fantasies. Sooner or later, you will return to me.
+
+Kashchey:
+I am your only end.
+
+Kashchey... No, Kashchey. Absolutely not.
+
+All that you taught me now weighs on my body, carved into it as scars forever. The past is behind us.
+
+It's all... over.
+
+Indeed... I must put an end to all you have brought.
+
+All the ugliness and shame you cast upon me... will be my fuel. It will fuel my future.
+
+Until I find you, until this world is liberated, I will never stop burning.
+
+I will not deny you again, Kashchey. I oppose you.
+
+Until all the wrongs have been righted and all our sins purged.
+
+It will be done. Even if our end is the same, I will burn it all to ashes. Even if I burn to death.
+
+How long have you been out?
+
+Oh, I can't be bothered to count. I lost track a while ago.
+
+But even if you run, you won't get away.
+
+One needs a hammer to strike a nail. And if all you have is a hammer, everything looks like a nail.
+
+Maybe now is the time.
+
+Kal'tsit:
+Vina! Come here, please. I have words for you.
+
+Siege:
+Alright, Dr. Kal'tsit.
+
+Kal'tsit:
+Just a moment. One question. Are you ready?
+
+Siege:
+I'm not sure. But I guess I'm ready whenever.
+
+Islam Witte:
+Your Majesty...
+
+Islam Witte:
+Here is the completed report on the incident.
+
+Fyodor:
+—How did this happen?
+
+Fyodor:
+Did one of the Royal Guards betray us?
+
+Fyodor:
+Witte, give me an honest answer.
+
+Fyodor:
+My chest is an unlit fireplace on a winter day. Only honest words will get my heart beating again, whether or not an unpleasant truth may break it.
+
+Islam Witte:
+No. Your Royal Guards would never betray Your Majesty. They will remain loyal to you until the world itself is consumed by fire, as long as you are the rightful Emperor of Ursus.
+
+Fyodor:
+You and I both know those are but empty words. Would that the Guard did more than stand back and watch the old monster die...
+
+Fyodor:
+Enough! No more platitudes, no more masks, I've grown weary! Witte, you are no fool. Tell me your thoughts! And look me in the eye as you do!
+
+Fyodor:
+Where are the puppetmasters behind this plot?
+
+Islam Witte:
+——
+
+Islam Witte:
+Grand Duke Baikal, Deputy Marshal of the Third Army and Governor General Rosin, and Viscount Kerque.
+
+Islam Witte:
+Of course, I still lack the evidence to prove that they actually orchestrated the entire ordeal.
+
+Islam Witte:
+Further, when the Royal Guard went to hang them all in their homes. They found...
+
+Islam Witte:
+These traitors, lacking the courage to face their crimes and your wrath, they took their own lives rather than bear their due punishment.
+
+Fyodor:
+Cowards... absolute cowards! Have they not even the meager courage it takes to stand trial?
+
+Fyodor:
+They must have known! They knew that a trial would reveal their base desires, their corrupted minds, to all the people of Ursus!
+
+Fyodor:
+And yet... now we will never bring them to trial.
+
+Islam Witte:
+True, Your Majesty. How regrettable that we must now keep this knowledge behind the curtain, rather than take it out onto the stage.
+
+Islam Witte:
+Even a stupid burdenbeast will do more than chew grass when roused.
+
+Islam Witte:
+Nevertheless, the Royal Guard disposed of their remains in the proper manner.
+
+Islam Witte:
+Their rotten corpses will dangle, stinking from the ceiling. No one will dare take them down.
+
+Islam Witte:
+Had their conspiracy succeeded, Ursus would have suffered another war, they would have seen their influence increase, proportionally draining the power of the Council... perhaps further degrading our cities.
+
+Islam Witte:
+We are most fortunate they failed.
+
+Fyodor:
+Traitors! Death was too good for them. I should feed them to the Flesh Buthidas!
+
+Fyodor:
+But... that would be a terrible thing. No. We can't do that.
+
+Fyodor:
+Pardon me, Witte. I didn't mean to lash out like that.
+
+Fyodor:
+We must not go back down the road of ruin. No matter how much rage I have for my enemies, I cannot exhibit such behavior.
+
+Islam Witte:
+You did not resort to them during the Great Rebellion. To this day, I feel that only a proper, blood-soaked threat would have stirred them.
+
+Islam Witte:
+Pure terror is the only language those who terrorize the innocent can understand.
+
+Islam Witte:
+Although I am personally opposed to such measures.
+
+Fyodor:
+Unfathomable.
+
+Fyodor:
+Must I resort to such ancient brutality, such poisonous traditions to stand against the ignorant?
+
+Fyodor:
+And as these maggots seize the swords and shields of our empire, are even we left to naught but rot?
+
+Islam Witte:
+Forgive me, Your Majesty. I do not have an answer to that question. From a constitutional perspective, I am not your legal spymaster.
+
+Fyodor:
+More importantly, Witte, is the legend true? Is the 'Deathless Black Snake' a malignant deity that cannot be slain?
+
+Fyodor:
+And are there other such deities like it in our realm? What can we do to free our people from this tyranny?
+
+Fyodor:
+Witte, we stand now in the light... surrounded by darkness! Can we use fire to illuminate Ursus?
+
+Islam Witte:
+Your Majesty, I must point to one fact. In recent decades, only the Duke of Kashchey, among all the Ageless, shows clear signs of involvement in these events.
+
+Islam Witte:
+And even after his death, we are unable to confirm her identity.
+
+Islam Witte:
+That tells us that the Ageless of Ursus... still fear you.
+
+Islam Witte:
+They fear you and your contempt.
+
+Islam Witte:
+Nearly a thousand years have passed since we overthrew the Hippogryph. A couple of dying monsters cannot stand against the might of the Ursus people.
+
+Islam Witte:
+Let them do as they will. They will fail.
+
+Islam Witte:
+We will find them, and we will destroy them. Your Majesty need not worry.
+
+Fyodor:
+I hope it all proceeds as you've said.
+
+Fyodor:
+What of the Infected situation? Any developments?
+
+Islam Witte:
+Your Majesty is overhasty. You acted too quickly to close the Infected mines the armies held in the northwest.
+
+Islam Witte:
+It may have been your hope to weaken the Army's supply reserves, or even show a little benevolence—
+
+Islam Witte:
+But as much as the Army opposes you, your people also oppose this. They fear the Infected.
+
+Islam Witte:
+It is unwise to go against your people, at this juncture. They by and large despise the Infected, and standing against the Army here could be seen as you standing against the people.
+
+Islam Witte:
+You lack the resources to pursue this course.
+
+Fyodor:
+......
+
+Fyodor:
+Even if it's the right thing to do?
+
+Islam Witte:
+Even if it's the right thing to do. This is to show leniency to the Infected by shoveling them into the jaws of hell.
+
+Islam Witte:
+It is time, Your Majesty. Yurodstvo has been waiting at the door for over fifteen minutes. I think you may want to see to him.
+
+Fyodor:
+Hmph. Raving lunatic with his holy visions! I'll make a proper joke of him.
+
+Fyodor:
+But before that, Witte, do you think we can do it? Can we make Ursus great again?
+
+Islam Witte:
+I don't know, Your Majesty. Now is not an appropriate time to answer you.
+
+Islam Witte:
+But at least you do not lay waste to the world as your father did. That is already quite good.
+
+Islam Witte:
+Talulah the Infected... hm.
+
+Islam Witte:
+Should you break the curse of the Deathless Black Snake, then you should be able to break through everything that weighs upon you.
+
+Islam Witte:
+I hope that one day we have a real chance to defeat the country of the last emperor.
+
+Talulah?
+
+You're doing a good service, standing guard in this weather.
+
+I know it is what you want.
+
+Talulah:
+So you do. Until we walk out of this winter, my fire will keep burning.
+
+FrostNova:
+(Sh. Quiet...)
+
+FrostNova:
+(They're sleeping.)
+
+Talulah:
+(Oh, sorry. Shh.)
+
+Talulah:
+(They trained all day?)
+
+FrostNova:
+(The kid with the dark hair looks like he could handle a bow.)
+
+FrostNova:
+(But he'll need to grow a bit.)
+
+Talulah:
+(Then let them sleep. But...)
+
+FrostNova:
+(I'm about to leave. I'm dropping the temperature too much. They'll catch a cold.)
+
+Talulah:
+(Sorry to bother you.)
+
+FrostNova:
+(You didn't. It's just the one with the white hair... he's a light sleeper. If I don't sing to him, he has night terrors. I don't know what he's been through.
+
+Talulah:
+(Time heals all wounds.)
+
+Talulah:
+(Is your father still working on tomorrow's battle plan? He told me something about an Ursus Infected transport center.)
+
+FrostNova:
+(He has to think carefully, keep our losses low. He always tells me to pay attention to that.)
+
+Talulah:
+(It's already so late.)
+
+FrostNova:
+(I've never seen him sleep. Not once.)
+
+Talulah:
+(Heroes need rest too. The other fighters should've taken some.)
+
+FrostNova:
+(Think of yourself before him. Who was that you reached out to a few days ago? Where were they from?)
+
+Talulah:
+(Lyudmila and Alex. Looks like they've been around Chernobog. They know the city well.)
+
+FrostNova:
+(That's a big city.)
+
+Talulah:
+(Yes. And with lots of Infected in it. We might be able to bring them in... with the right plan.)
+
+Talulah:
+(Lyudmila and the people with her seem strong. I think they might become dependable allies, even if they're a little ornery right now.)
+
+FrostNova:
+(Ornery as those of us fighting the Ursus Army all the time?)
+
+FrostNova:
+(Chernobog. It's too far, and too many things stand in our way. How many years would it take? Three or four still wouldn't get us there.)
+
+Talulah:
+(Even if we don't fight it or stop it... it will have to come to us. With the efforts of the Infected in the city, we can build a city of our own.)
+
+Talulah:
+(And maybe, in three or four years' time... we'll be looking at tomorrow. Tomorrow is so close.)
+
+FrostNova:
+(I like the sound of that.)
+
+FrostNova:
+(Get some rest.)
+
+Talulah:
+(Right. Good night.)
+
+Talulah:
+(Good night, Sasha, and Eno.)
+
+FrostNova:
+(Hurry back. I'll send the kids to the settlement soon.)
+
+Talulah:
+(Right.)
+
+Talulah:
+(My brothers and sisters...)
+
+Good night.
+
+
+

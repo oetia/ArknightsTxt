@@ -1,0 +1,485 @@
+Rebellious Townsfolk:
+Wh-why are those outsiders sticking their noses in our business?!
+
+Rebellious Townsfolk:
+And you, Severin! Your son died in that fire! How can you still aid those incompetent swine?!
+
+Severin:
+...Put down the blade and tell me who pushed you to do this? Who gave you those weapons?
+
+Severin:
+Final warning.
+
+Rebellious Townsfolk:
+Gah—!
+
+Severin:
+That's assault with a deadly weapon. You think you can just go back to your homes? You'll get a knock on your door soon enough. The Gendarmerie will hold you accountable.
+
+Folinic:
+Just 'hold them accountable?'
+
+Severin:
+I don't have to explain our accountability processes to a couple of tourists.
+
+Folinic:
+Do you have anything at all to tell 'a couple of tourists' then? 'Schultz?'
+
+Severin:
+I do. You're strong. Stronger than I'd expect a doctor to be. Impressive.
+
+Severin:
+And... thank you for the assistance.
+
+Folinic:
+Usually, we go by 'Operator.'
+
+Folinic:
+Now can you tell us where Atro is?
+
+Severin:
+It's not safe here. Let's talk somewhere else.
+
+Folinic:
+......
+
+Suzuran:
+Good work, Miss Folinic.
+
+Suzuran:
+Sorry I'm not much help in battle...
+
+Folinic:
+It's fine. You did your best. If I'd known what was happening in Wolumonde, I wouldn't have brought you along.
+
+Folinic:
+Even if we're just helping resolve some disputes, you're too young to be dragged into—
+
+Suzuran:
+Miss Folinic!
+
+Folinic:
+—*Sigh* ...Fine, fine. Little Lisa's all grown up now. Did you get hurt?
+
+Suzuran:
+No, I'm fine.
+
+Suzuran:
+But you were spacing out back there. What's wrong?
+
+Folinic:
+The quarantine zone is right near here. Everything seems to have gone back to peace and quiet after we drove off the protestors.
+
+Suzuran:
+Mm... It doesn't seem that different from any other place.
+
+Folinic:
+You're right, it's not that different. They have shops, cafés, ads for music halls and art salons...
+
+Folinic:
+No one's getting rounded up by guards and sent out to the tundra to die. They get to live pretty ordinary lives... You might even say they live well.
+
+Folinic:
+The Infected get treated so differently all around the world.
+
+Suzuran:
+If every place was so good to the Infected...
+
+Folinic:
+We'd be out of a job.
+
+Suzuran:
+Wha?! I mean, that's true, but I'd be really happy about it! E-even though I just became an operator...
+
+Folinic:
+I'm kidding... The fact that Infected can roam the streets freely only serves to underscore how special the situation in Wolumonde is.
+
+Folinic:
+...They're hiding something from us.
+
+Suzuran:
+Huh? Where did that come from—
+
+Folinic:
+Shh! Lower your voice! We'll talk once the officer is gone!
+
+Folinic:
+The Infected rebels are acting really weird. And they keep talking about a 'fire' and a 'doctor,' right?
+
+Folinic:
+Add in that officer who definitely knows who we are, and who really doesn't want to tell me anything about Atro...
+
+Folinic:
+And I can't shake the feeling that something rotten is brewing in this town.
+
+Folinic:
+Even Leithanien wouldn't go so far as to let the Infected riot in the streets. Where are the guards? Why isn't anyone stopping them?
+
+Suzuran:
+Now that you mention it...
+
+Folinic:
+I've got a bad feeling about this.
+
+Suzuran:
+M-maybe everyone's just a little on edge? Considering what the town's been through...
+
+Folinic:
+...I pray that's all it is.
+
+Tatjana:
+I'm so sorry to have dragged you into all this just as you've arrived. It's shameful...
+
+Folinic:
+Oh, don't worry about it.
+
+Folinic:
+Are you part of the local Gendarmerie?
+
+Tatjana:
+Not really. But everyone in Wolumonde undergoes military training. When the time comes, we have a duty to take up arms...
+
+Tatjana:
+But Uncle... Err, Schultz Severin is our town's highest official.
+
+Folinic:
+The middle-aged smoker who really doesn't want to do his job? Too bad, but that irresponsible disregard for duty doesn't exactly come off as mysterious.
+
+Tatjana:
+There's a reason he is the way he is—
+
+Tatjana:
+No... never mind...
+
+Tatjana:
+Oh right, how should I call you two?
+
+Folinic:
+Call me Operator Folinic, and this is Operator Suzuran.
+
+Tatjana:
+Folinic, Suzuran... these are code names?
+
+Folinic:
+Where we come from, most people prefer not to use their real names at work. Just like 'Atro.'
+
+Tatjana:
+Dr. Atro...
+
+Folinic:
+Seems you're acquainted.
+
+Tatjana:
+Yes... Sorry. I know you have your doubts, but the Schultz will give you the answers you need. It's not my place to say.
+
+Tatjana:
+Now, come with me please.
+
+Folinic:
+Of course.
+
+Councilor:
+How much did you tell them?
+
+Severin:
+Not much. Not enough to upset anyone.
+
+Councilor:
+I... I've put forward some unreasonable ideas, but you're always free to reject them.
+
+Severin:
+That's a creative way to dodge responsibility. But you'll get no comfort from me.
+
+Severin:
+If I stood here and told them the whole, unadulterated truth right now, would you be happy? Would that make everyone happy?
+
+Councilor:
+I represent the people, but you're the leader of Wolumonde. What does it matter if we're happy or not?
+
+Severin:
+I don't want to make things difficult. Especially when I'm hosting guests at the same time the Infected are stirring.
+
+Councilor:
+*Sigh*... Put it away. You want to make a good impression on Rhodes Island. Now's not the time to be lighting cigarettes or playing with crossbow bolts.
+
+Severin:
+I think we're well past any good impressions...
+
+Councilor:
+You——Wait, are they the two young girls out there?
+
+Severin:
+Young girls? Hah, wait until you see them fight. Then you'll start wondering if Leithanian schools focus too much on the arts, just like those bureaucrats.
+
+Tatjana:
+Sirs, they're here.
+
+Councilor:
+Ah, it's the doctors from Rhodes Island! Welcome to Wolumonde! I am so sorry you had to get roped into our local affairs like that. Let us make it up to you with an evening—
+
+Folinic:
+Thank you for the offer, but we're only here to establish Dr. Atro's whereabouts. We don't intend to stay long.
+
+Folinic:
+So, where is she?
+
+Councilor:
+Erm, well—
+
+Folinic:
+The local Infected seem to know 'Dr. Atro.' You're stalling, and I'd prefer you not.
+
+Councilor:
+Doctors, I'm very sorry, but things in Wolumonde are very complicated right now. We need some time to give your company a proper explanation, in order to guarantee—
+
+Severin:
+She disappeared.
+
+Suzuran:
+Wha?!
+
+Folinic:
+...Sir, when it comes to matters such as this, you might want to shed that flippant attitude of yours.
+
+Severin:
+The truth is flippant. It's simple. No need to sugar coat it. You're angry now, but you're not surprised. You already guessed it, didn't you?
+
+Severin:
+We received the Infected doctor who called herself 'Atro.' And we greatly appreciate her help caring for the many Infected residents of Wolumonde during this difficult time.
+
+Folinic:
+And you show your appreciation by telling us 'she disappeared?'
+
+Severin:
+No need for hostility here... *Cough*, *hack hack*—
+
+Suzuran:
+Sir, you look unwell. You should quit smoking.
+
+Suzuran:
+It would probably be a good idea to get a physical examination, as it could be—
+
+Severin:
+...No thanks, but I appreciate the concern.
+
+Severin:
+Back to business, after Wolumonde steered over here to avoid Catastrophe, Dr. Atro set up camp on the edge of town. She was housing some Infected residents.
+
+Severin:
+But not long ago, there was a fire in her camp.
+
+Tatjana:
+......
+
+Councilor:
+Er...
+
+Folinic:
+...A fire?
+
+Severin:
+I know what you're thinking. But according to what we currently know, it seemed to be an accident.
+
+Severin:
+Dr. Atro left town after that. And we don't know where she went.
+
+Folinic:
+How can you act like this is all no big deal?!
+
+Suzuran:
+Miss Folinic! C-calm down!
+
+Suzuran:
+We... We'll investigate ourselves. But you tell us she just disappeared after a fire like that's not going to upset us!
+
+Severin:
+...I'm very sorry.
+
+Severin:
+If I'm not going to talk lightly, all I can give you is 'I'm very sorry.'
+
+Severin:
+Dr. Atro is a good egg. She's got no Leithanian blood. No connection to us at all, really. And yet she's nobler than anybody around here.
+
+Severin:
+And when the Catastrophe struck Wolumonde, she didn't run away. She offered us help.
+
+Severin:
+I have the utmost respect for the good doctor. I hope nothing happened to her.
+
+Severin:
+But after the fire, you saw it yourself, some of the Infected folks don't have the same ideas.
+
+Severin:
+Not that I blame them. The town's cut off from the outside world. We're short on supplies. And a gang of armed Infected are out there circling.
+
+Folinic:
+Armed Infected?
+
+Severin:
+Outlanders. All of them Infected, all of them armed. Most are Leithanian, but there are a few devils among them.
+
+Folinic:
+The term is 'Sarkaz,' please. I hope the meaning of the word is not lost on you. Do you have any other information about the armed Infected?
+
+Severin:
+They're merely vultures waiting to pick our bones. And they're not the first.
+
+Folinic:
+Oh? So why didn't they immediately show up to plunder the town? Why are they just 'loitering' out there?
+
+Severin:
+Just come out with it already.
+
+Folinic:
+Wolumonde's lack of sensitivity toward the Infected is understandable.
+
+Folinic:
+After all, it's a miracle Leithanien was letting infected people live alongside non-infected people for so long—
+
+Folinic:
+—But it's also an opportunity for bad actors to take advantage of such leniency.
+
+Severin:
+What do you mean?
+
+Folinic:
+I told you, Rhodes Island isn't just a bunch of doctors. We're also experts at dealing with the Infected.
+
+Folinic:
+There are some areas... where I'd rather trust our own judgment.
+
+Folinic:
+For example... have you ever heard of the 'Reunion Movement?'
+
+Severin:
+Before the Great Rift, I saw that name in the newspapers from time to time. Mostly reports from Ursus, but occasionally in Leithanien.
+
+Severin:
+But to a small tourist town, it doesn't mean much. Folks around here would rather listen to the gossip from the next town over than official reports on faraway countries.
+
+Severin:
+What are you getting at? You think Reunion has something to do with this?
+
+Folinic:
+No, I don't want to jump to conclusions. Let's leave it there for now.
+
+Severin:
+Right... *Cough*. Either way, thanks for the info.
+
+Folinic:
+Speaking from experience, I don't think your side of the story will have much influence on our mission.
+
+Severin:
+That's too bad. But honestly, I didn't expect much.
+
+Folinic:
+We may have to do some investigating around town. We need to find out what the deal with this 'disappearance' is...
+
+Folinic:
+Rhodes Island will demand the necessary compensation from the relevant people.
+
+Councilor:
+Er...
+
+Severin:
+...Understood.
+
+Severin:
+I've no reason to argue with that face of yours.
+
+Severin:
+You can move about the town freely, as Dr. Atro's associates. You are honored guests of Wolumonde.
+
+Councilor:
+Ah! But of course! Please, make yourselves at home here. Upstairs is the Wolumonde government's finest parlor.
+
+Councilor:
+You must be tired from your long journey? Please, take a rest upstairs while we—
+
+Folinic:
+No need. I have something to attend to.
+
+Folinic:
+Can we start our investigation now?
+
+Severin:
+We'll prepare the paperwork and notify the residents after the meeting. As you wish.
+
+Folinic:
+Thank you.
+
+Folinic:
+Suzuran, let's go.
+
+Suzuran:
+Oh? Er, okay! See you soon, Wolumonders!
+
+Severin:
+...*Sigh*.
+
+Councilor:
+How long can you keep them in the dark?
+
+Severin:
+Did you see her expression?
+
+Councilor:
+I did.
+
+Severin:
+You did. Rhodes Island may not be the type of company to try to extort us, but who knows what they might do to avenge a lost colleague?
+
+Severin:
+The way I see it, it all ends the same.
+
+Councilor:
+But... but, it wasn't our fault. Shouldn't they be after the damned Infected that caused the fire?!
+
+Severin:
+We have no proof.
+
+Councilor:
+But we can't just take the blame either!
+
+Councilor:
+We tolerated the Infected as much as we could, and how did they repay us? Ever since the Gendarmerie left, they've completely been running rampant!
+
+Severin:
+...Indeed. As for the truth, truth is a fickle thing. See this match? Matches are more reliable than the truth.
+
+Councilor:
+The doctor's right. You really should quit. You've got a long life ahead of you.
+
+Severin:
+They're 'operators.' I only listen to 'doctors.'
+
+Councilor:
+Touché...
+
+Severin:
+Tatjana, keep an eye on our guests. Make sure they don't get into trouble.
+
+Tatjana:
+Ah, yes, sir! Of course!
+
+Councilor:
+Her?
+
+Severin:
+That one, what was the name... Folinic. Yes.
+
+Severin:
+Do you know what Folinic's expression of pain and anger reminded me of?
+
+Councilor:
+Don't keep me waiting.
+
+Severin:
+Tatjana. It made me think of her. Why didn't she show me a face like that?
+
+Severin:
+Thor was very nearly her husband. You'd think she'd be a little sad.
+
+
+

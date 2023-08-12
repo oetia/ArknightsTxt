@@ -1,0 +1,243 @@
+Clear \ Visibility: 14 km
+
+Mt. Terrat tunnel
+
+Big Bob:
+We'll be safe after we enter this tunnel. At the other end of this tunnel is Mt. Mortica, which won't have very many bounty hunters.
+
+Big Bob:
+As for that Skadi... I used to scoff at those rumors that described her as a living avalanche. Turns out, I learned the truth today.
+
+Big Bob:
+I was expecting her to be a bit stronger than your average shmuck, but those rumors turned out to not be exaggerated after all.
+
+Big Bob:
+No wonder why the guys at the bar always looked at me like I'm crazy when I laughed at them for being terrified of her.
+
+Big Bob:
+Now it's my turn to be terrified, hah.
+
+Grani:
+It's true! I heard those same rumors going around in Rhodes Island too.
+
+Grani:
+I've also never been sent on a mission with her before. I knew that she was really powerful, but I never expected this to happen...
+
+Grani:
+I didn't even know that she was a bounty hunter before.
+
+Big Bob:
+She's one of the most infamous bounty hunters out there.
+
+Big Bob:
+Now that she's also after the treasure, we're going to have our work cut out for us.
+
+Big Bob:
+I have no idea if the two of us will be able to beat her to it.
+
+Carol:
+If that's the case, does that mean my village...
+
+Big Bob:
+Don't worry. I think she'll drive the rest of the bounty hunters away.
+
+Big Bob:
+Though... she might destroy a few villages in the process.
+
+Carol:
+Ugh...
+
+Grani:
+I don't think she's here for the treasure. I can't let something like that happen.
+
+Big Bob:
+So, your Rhodes Island or whatever, will hire just about anyone?
+
+Grani:
+No Rhodes Island operator would ever harm others recklessly for their own selfish gain.
+
+Big Bob:
+Hmph. Well, you seem nice enough, and even did me a favor. However, the fact that your Rhodes Island is enabling Skadi, an entity who knows only destruction, makes me question whether your organization truly seeks to help the Infected.
+
+Big Bob:
+Furthermore, as someone stricken with Oripathy, I've never seen Rhodes Island do anything to help those like me. We're still abused wherever we go.
+
+Grani:
+Big Bob...
+
+Big Bob:
+What, got nothing to say to that? Honestly, I have no idea why you have so much faith in an organization like that.
+
+Big Bob:
+As far as I can tell, their claim of wanting to help the Infected is just lip service. In the end, all they see is money.
+
+Big Bob:
+Hmph, what's the deal with Rhodes Island anyway? In this world, there's nothing that speaks louder than the coins in my hand!
+
+Grani:
+Sorry...
+
+Big Bob:
+What are you apologizing for? You're still a kid, and you still can't tell between ideals and reality, nor do you know your worth. But all of this is perfectly normal.
+
+Grani:
+No, that's not what I meant. I know that I'm still lacking.
+
+Grani:
+It's just that... whether as a police officer, or as an operator, I've met a lot of Infected.
+
+Grani:
+...I wasn't able to save them all, because I was lacking.
+
+Grani:
+Rhodes Island is the same.
+
+Big Bob:
+In other words, they're useless? Hah!
+
+Big Bob:
+That's right. When the Infected were slaving away underground, locked away in remote places, or being killed for no reason, where was Rhodes Island?
+
+Grani:
+Even when we try our hardest, we sometimes still come up short. That's true for both me and for Rhodes Island.
+
+Grani:
+Despite that, I'll never give up on any innocent Infected who I see.
+
+Grani:
+Rhodes Island is the same.
+
+Big Bob:
+Tch.
+
+Grani:
+Sorry, Big Bob...
+
+Big Bob:
+...I told you, you're just a kid. What good does it do to hammer you with my grievances?
+
+Big Bob:
+But that Skadi, your coworker, would not hesitate to point her weapon at you, or abduct Carol to seize the treasure.
+
+Big Bob:
+Can you say with confidence that someone like that would share your ideals and work with you to help the Infected?
+
+Grani:
+I don't know what Skadi plans on doing, so I can't answer that.
+
+Grani:
+However, I trust that if Rhodes Island took her in, then she must have her reasons.
+
+Big Bob:
+You can forget my rambling then. I overstepped my bounds.
+
+Grani:
+It's okay.
+
+Grani:
+Anyway, our priority right now is to help Miss Carol find the treasure.
+
+Big Bob:
+I'm just dead weight now, with this injured leg. Heh, I never thought I'd be the one burdening two little girls.
+
+Grani:
+Big Bob, we'll only consider you a burden on one condition...
+
+Grani:
+...and that's if you don't plan on sharing the treasure with us.
+
+Big Bob:
+Oh? Hahaha!
+
+Carol:
+Mister Bob, I wasn't disgusted by your condition. It's just that... I was a bit scared.
+
+Carol:
+I'm from the sticks, and I haven't seen many Infected people. But even I can tell... that you've endured a lot of hardship.
+
+Carol:
+I apologize if I was rude to you before.
+
+Big Bob:
+Don't worry about it. Heh, as long as we find the treasure and you get me my share, I'll be a happy camper.
+
+Carol:
+Mhm... The treasure is important to our village, but we only need enough to resolve our problems. Mister Bob, you'll be able to get your fair share.
+
+Carol:
+That's why Grani and I need help, and will aid you as well.
+
+Carol:
+Right, Grani?
+
+Grani:
+Of course. In any case, we need to get moving soon.
+
+Big Bob:
+Our next destination should be Mt. Mortica. That mountain was named after some knight who died long ago.
+
+Big Bob:
+If my intuition is correct, then that should be where the treasure is located, right?
+
+Carol:
+However, there are a lot of caves up ahead. It'd take an average person weeks to search them all.
+
+Big Bob:
+Of course. That's why we can't do this without you. There's no way we're going to hand you to that red-eyed woman.
+
+Carol:
+Please lead the way then.
+
+Big Bob:
+Sounds like a plan.
+
+Big Bob:
+Wait a moment.
+
+Big Bob:
+There's some movement near the tunnel's exit...
+
+???:
+Aaaagh—
+
+'Captain':
+Someone... help... save me...
+
+'Captain':
+It's... the Infected...
+
+Reunion Member A:
+...What'd you do to him?
+
+Reunion Member B:
+I didn't even do anything. He just tripped over himself...
+
+Reunion Member B:
+Huh.
+
+Reunion Member A:
+...
+
+Grani:
+They're... from Reunion?
+
+Big Bob:
+You guys...
+
+Grani:
+Big Bob, what are you doing?
+
+Grani:
+These guys aren't your ordinary...
+
+Big Bob:
+Say no more. We're going to have to fight!
+
+Reunion Member:
+...
+
+Reunion Member:
+Quick, capture them before they get away!
+
+
+

@@ -1,0 +1,667 @@
+11:00 A.M., Somewhere in the countryside
+
+Lens:
+We have entered Area 10 according to plan. Enemy presence sighted at three o'clock.
+
+Fang:
+How many left?
+
+Lens:
+...Scan complete. Three within visible range.
+
+Fang:
+There were four who fled for Area 10 just now. If we wipe out the opposing forces here, we can prevent the other side from returning combat intelligence. It'll give us an incredible advantage for our second assault.
+
+Fang:
+These three... we can't let them go, and we need to find the fourth too.
+
+Fang:
+I'll go pin them down! The rest of you, just stick to the plan!
+
+Aciddrop:
+Stick to... the plan? Captain Fang, what am I supposed to be doing?
+
+Fang:
+(Huh? Did I forget to explain again?)
+
+Fang:
+Aciddrop, you find high ground and provide cover fire, risk mitigation. Frostleaf, stay behind me, and attack as soon as we catch the enemy.
+
+Fang:
+Lens, keep tabs on the full field of view, and you have to ensure Scene's safety.
+
+Lens:
+Understood. Currently verifying Lens composite camouflage defense and concealment status.
+
+Frostleaf:
+Huh? There's a burnt smell...
+
+Fang:
+...It's an ambush from the fourth target! Sure enough, they weren't just retreating, they wanted to trick us into falling for their trap.
+
+Fang:
+Aciddrop, it's up to you!
+
+Aciddrop:
+Wha? So you want me igniting the ambush?
+
+Fang:
+It's set to my left. You deal with the trap, Frostleaf and I will go catch the leftovers—
+
+Aciddrop:
+Got it. Check this.
+
+Aciddrop:
+Wait up... Captain Fang, target's out of my attack range. I'm switching positions—
+
+Fang:
+Huh?
+
+Fang:
+(Ah, Aciddrop's specialty is high-precision, close-range fire. Her position there was too far for her fire to reach.)
+
+Fang:
+(I just planned around Kroos's attack patterns out of habit...)
+
+Lens:
+Captain Fang, Target 4... Target 4 is not ahead, they are behind—
+
+Fang:
+What?
+
+Frostleaf:
+It's an ambush! Captain!
+
+Fang:
+Dammit, that's how they're countering Aciddrop—
+
+Aciddrop:
+*cough*, *cough* *cough*... What the—
+
+Lens:
+Aciddrop, Aciddrop, please respond. Your signal has been interrupted—
+
+Frostleaf:
+I'll go look for her.
+
+Fang:
+Okay, Frostleaf. You assist Aciddrop, and withdraw from the trap position. I'll find the fourth guy... I can't let anyone get away.
+
+Fang:
+Aciddrop, can you hear me? Aciddrop!
+
+Aciddrop:
+Captain Fang... I'm alright, the explosion just rocked my comms. *cough*...
+
+Fang:
+......
+
+Fang:
+I've found you... scoundrel!
+
+???:
+！！！
+
+???:
+Urghh!!
+
+Frostleaf:
+Found her. Captain, Aciddrop is hurt.
+
+Aciddrop:
+It's light injuries, no big. They'll be fine once I'm on the move. Relax, Captain Fang, I'm still good to fight.
+
+Fang:
+......
+
+Aciddrop:
+Captain?
+
+Fang:
+We can retreat for now. Lens, any other risks on the map?
+
+Lens:
+Area 10 is now fully secured. Further, no sign of danger on evacuation route.
+
+Aciddrop:
+Hold on, I'm alright. Captain Fang, there's still the three guys from...
+
+Fang:
+All four have been dealt with. Our mission is already complete. Area 10 is secured.
+
+Fang:
+Let's pull out for the time being.
+
+Fang:
+...Sorry.
+
+Ten minutes later...
+
+Fang:
+Aciddrop... your wounds...
+
+Aciddrop:
+I'm chill... *cough*, I'm seriously alright, Captain Fang! My board covered me from pretty much most of the explosion damage, I just kinda fell and got a scrape or two.
+
+Fang:
+I'm sorry... I can't believe I'm the reason you got hurt.
+
+Fang:
+I should've obviously just kept up the search-and-destroy in Area 10, and we would've safely and promptly withdrawn in the end. It's all my fault...
+
+Aciddrop:
+Captain...? I'm being serious, I'm fine. See? For real, it's only a few scrapes. I'm cool for the next phase of the mission, I'm at like 90% here!
+
+Frostleaf:
+The other squads should be rendezvousing very soon.
+
+Frostleaf:
+Our mission's first phase is complete either way. Now we just wait to converge and carry out the next wave of our formal assault.
+
+Fang:
+I was too reckless... I clearly should've known that area had a high risk of being trapped, and yet I was the first to charge in.
+
+Frostleaf:
+Your judgment wasn't at all flawed, Captain. We were just slightly disjointed in that last mission, but we didn't lose any opportunity to carry out our search-and-destroy.
+
+Frostleaf:
+Though it might seem extreme in hindsight, if we'd all gone on the offense together, we probably had sufficient strength to defeat them.
+
+Aciddrop:
+Honestly, it's not like I don't get how you were thinking either, Captain.
+
+Aciddrop:
+I could see the situation up from where I was stood just then.
+
+Aciddrop:
+Like, you've found their weakness already, Captain. You wanna rush the enemy directly, yeah? If we've got rear support watching for traps, we'll be good.
+
+Fang:
+It was a lapse in judgment with my command. I subconsciously... took my team members' combat styles to be those under simulated circumstances I knew better.
+
+Fang:
+I had forgotten everyone's personal strengths by the time the mission started, and employed my habitual line of thought. I took it for granted and gave you the wrong assignment, Aciddrop.
+
+Fang:
+Not just that, I even failed to clearly relay the plan to my team members... and caused everyone to spend even more energy on the mission.
+
+Aciddrop:
+I don't think you messed up at all just now, Captain. With the whole situation, putting me in charge of clearing the traps, and you and Frostleaf pursuing the enemy, that's solid tactics.
+
+Aciddrop:
+Just didn't predict the enemy would still be on the counter after that. They really bit off way more than they could chew. I mean, you dealt with them all yourself.
+
+Scene:
+......
+
+Lens:
+Miss Scene wishes to say that actually, Captain Fang truly trusts her team, and therefore believes they will understand her instructions via action?
+
+Fang:
+That's...
+
+Frostleaf:
+Every captain's style of execution has its own differences. You have your own strong points, Captain Fang.
+
+Aciddrop:
+I'm kinda curious, though. You said you messed up by using a simulation you were used to? What exactly was that?
+
+Fang:
+It's... my habits with the Reserve Op Team A1, more or less. I know I'm not in any of the team's simulation exercises, but in an actual, crucial combat situation...
+
+Fang:
+Aaagh, what am I even doing?!
+
+Scene:
+D o n ' t . . .
+
+Lens:
+Calm down, calm down, Captain Fang. Miss Scene is very concerned you're blaming yourself too much.
+
+Aciddrop:
+Chill out, Captain. Mission one's basically a clean finish. Get your mood out, shake yourself off, yeah? Or, uh, if you're torn-up, you can just say. We're a team right now, y'know.
+
+Aciddrop:
+The A1 detachment, huh... your team's a real party, right? You train together, you do simmed battles together. I bet your team coordination level's through the roof.
+
+Fang:
+Thank you, Aciddrop, Scene, Frostleaf... and Lens, too.
+
+Fang:
+In all honesty... I believe that when it comes to team operability, A1 doesn't fall short against other reserve detachments.
+
+Fang:
+We've known each other for a very long time, and we've all reached the point we can fully understand each other's reasoning and operation methods. Some things we can get done even without words.
+
+Aciddrop:
+That's so neat. I see you hanging with Beagle and Kroos all the time, too. You're really good friends too?
+
+Fang:
+Yes... Before Beagle, Kroos and I came to Rhodes Island, we were an intern team at a Columbian garrison.
+
+Aciddrop:
+That's some major force. All I ever had on the brain was skateboarding, back in Columbia. Only realized after hitting Rhodes Island, hey, when that old police guy taught me those crossbow techs? Actually got a use for those.
+
+Aciddrop:
+If it was a competition, I'd be way below your league, Fang.
+
+Fang:
+Even so, now you've adapted just fine to field combat missions, Aciddrop.
+
+Aciddrop:
+Heheh, you think so? It's not my first time getting a combat scrape, though. Always easy to lose track and get hurt, and I get my captains keyed up all the time with it.
+
+Fang:
+You'll improve with experience.
+
+Fang:
+A1's been through a lot of combat training.
+
+Fang:
+With how we've worked each other out, we've devised a set of handy signals only we understand.
+
+Fang:
+They give me the time and space to judge a situation. That gives me the opportunity to command as a captain. But...
+
+Aciddrop:
+But?
+
+Fang:
+To tell the truth, this is my first time directing combat as an official acting team leader...
+
+Fang:
+I don't know why I've been unable to adjust my plans or instructions... I haven't just failed to make my orders understood, I've given the wrong orders to the wrong teammates.
+
+Fang:
+I... just can't figure it out. Apart from my own incompetence, where else could the problem lie?
+
+Scene:
+I t ' s   n o t . . .
+
+Lens:
+You can't let yourself think that way, Captain Fang! Your response and judgment just now were completely correct.
+
+Lens:
+Scene and I observed very clearly in our previous battle that your assessment of the situation was abundantly exact.
+
+Lens:
+You possessed the ability to rapidly locate the enemy's vital points on the front line, and were exceptionally brave in leading your charge to open the way for us.
+
+Fang:
+If it's just a question of bravery, it doesn't matter who, anyone on this battlefield could...
+
+Frostleaf:
+It doesn't stop at bravery.
+
+Fang:
+Frostleaf...?
+
+Frostleaf:
+Some people are soldiers from birth. Soldiers obedient to command.
+
+Frostleaf:
+Able to consider, assess and change their approach based on the battlefield situation, but absolutely compliant to their superiors' orders.
+
+Frostleaf:
+But Fang, you're not just a soldier. You also have the heart to direct us.
+
+Fang:
+Is that really true...? I can really do that?
+
+Frostleaf:
+Mmhm. At least, to the best of your ability, you've enabled our team to complete this first mission.
+
+Aciddrop:
+And besides, the way you lead A1 to victory out there in battle, and then come back and have such a great, friendly relationship, that all shows what a great captain you are.
+
+Aciddrop:
+I mean, it's not like everyone's lucky enough to get set up in an reserve op team. Like me, I'm such a free spirit they won't even give me the chance.
+
+Aciddrop:
+So buck up, Captain Fang.
+
+Aciddrop:
+Nobody thinks you gave the wrong orders. You're just hung up on doing better.
+
+Lens:
+If you would like to change, then learn from your failures. You definitely have what it takes to find a solution.
+
+Fang:
+Huff... puff...
+
+Fang:
+I got it.
+
+Fang:
+I'll keep working hard to be a good captain, but I hope you will all keep giving me suggestions on how to improve.
+
+Aciddrop:
+Well... Like, I guess I didn't really get why you went rushing on ahead, and it sorta freaked me out?
+
+Lens:
+Aciddrop, I think what you are trying to say is the captain should 'improve communication.'
+
+Aciddrop:
+Yeah, that!
+
+Fang:
+Right... so I need to give clear and concise commands...
+
+Frostleaf:
+Yes, communication is important. You act and react decisively, but it's important to make sure everyone can keep up.
+
+Fang:
+Get a plan in place and keep everyone safe...
+
+Lens:
+Battlefield command is very difficult, but crucial. There is no doubt you have what it takes to be captain.
+
+Lens:
+But we hope you will provide more encouragement to your teammates, such that they will have even more faith in you.
+
+Aciddrop:
+Yeah, like, beyond just training, you and the A1 girls do other stuff to build teamwork, right?
+
+Fang:
+Hm... we do talk strategy, I guess. And we fight, and chat, and argue...
+
+Lens:
+You argue? That sounds like a rather intense pastime.
+
+Fang:
+Yes, like at times like these, they'll be so caught up in themselves, I have to push them to rest, or they'll talk right through their break time...
+
+Fang:
+We have thirty minutes until the next mission, so you should be resting up too. I'll wake you when it's time to move.
+
+Aciddrop:
+Wha? But I wanted to hear more about you and your reserve op team.
+
+Fang:
+We can't keep talking, you're wounded. You need your rest. Lay down, Aciddrop.
+
+Aciddrop:
+Ugh, fine. But after the mission, you've gotta gimme some real tight war stories, okay? I'm jonesing.
+
+Fang:
+Alright...
+
+Scene:
+......
+
+Lens:
+Miss Scene wants to ask if you have cheered up? She hopes that conversation was helpful to you.
+
+Fang:
+Don't worry, Scene, or Lens. I just need a little alone time to think.
+
+Frostleaf:
+Yeah... good call.
+
+Fifteen days ago, Rhodes Island Training Grounds
+
+Grace:
+...That's it for today.
+
+Beagle:
+Phew... alright.
+
+Kroos:
+Finally done... huff... I'm totally spent...
+
+Hibiscus:
+Kroos never misses a chance to catch a break... Why don't you take me up on my offer and have healthy meals with me?
+
+Hibiscus:
+You'll have more energy. We'll get you on a regular schedule.
+
+Kroos:
+No thanks. I might be better off living like you, Hibiscus... but I think I'd rather take it easy.
+
+Beagle:
+Shhh! Kroos! The instructors are still here!
+
+Fang:
+Alright, no joking around in front of Instructor Grace. Everybody form up and head out.
+
+Grace:
+Fang, hold back a second.
+
+Fang:
+Huh...?
+
+Fang:
+Yes, Instructor!
+
+Hibiscus:
+Poor Fang. Team leaders always have to stay late.
+
+Kroos:
+But Fang won't mind talking to the instructor for a while more. She's so responsible and serious. I couldn't handle more lessons, but Fang...?
+
+Beagle:
+(And her tail's still flapping away. Fang really has so much energy.)
+
+Kroos:
+Yeah, Fang's always worn her heart on her sleeve. Training doesn't get to her, not like us. We can't hold up in a protracted fight...
+
+Hibiscus:
+You're the one who's always slacking off.
+
+Fang:
+(You two...!)
+
+Beagle:
+Ah! We'd better go! Bye, Instructor Grace, Captain Fang!
+
+Fang:
+Sorry you had to see that, Instructor... I hope we don't come off too lazy...
+
+Grace:
+Relax, you're doing fine. I asked you to stay not for Reserve Op Team A1, but for you yourself.
+
+Fang:
+Me?
+
+Grace:
+Correct. I've gleaned a few things from conversations with the rest of A1. There are some concerns about your leadership.
+
+Fang:
+I... I don't want to make anyone worry.
+
+Grace:
+Anyone can see that A1 has grown a lot. When you're done with training, we'll break out the team members for temporary practical duty with other squads.
+
+Grace:
+And you haven't been doing too badly as captain.
+
+Fang:
+But... I almost never do that kind of temporary duty alone.
+
+Fang:
+Hibiscus, Kroos, and Beagle all had great temporary duty runs, and Lava gets out there on real missions, everyone can see how well she does alone.
+
+Fang:
+But me? I may be captain, but I only pull it off with my team's support.
+
+Fang:
+I mean, I sometimes think it'd be fine to just keep on leading A1, as selfish as that is...
+
+Fang:
+I wish A1 could stay together, but I know everyone has their own futures ahead of them. I... I know we have to move on.
+
+Grace:
+Yes, well, your teammates have all talked about how you feel. They know your sense of responsibility and duty.
+
+Grace:
+And honestly, it's important for your feelings to get through to your teammates.
+
+Grace:
+I've been around the block enough that I can tell you Rhodes Island's training regimen isn't just about getting your combat scores up.
+
+Fang:
+Right, I know!
+
+Grace:
+Instructor Dobermann always talks about how she wants Rhodes Island Operators to be strong and steadfast in battle, but also... to never blind themselves to the cruelty of war, to keep a beating heart.
+
+Grace:
+Never see yourself as a pawn on the board.
+
+Grace:
+What that means, Fang, is a lot more opportunities for you, not only for Rhodes Island to trust in your strength, but to refresh yourself.
+
+Fang:
+Re...fresh myself?
+
+Grace:
+Your A1 teammates recognize your strength, they trust in you. The understanding you have is unmatched.
+
+Grace:
+Trust in yourself, but also trust in the idea that, no matter your teammates, no matter the odds, you can find a way to achieve the goal before you.
+
+Grace:
+No one person is perfect, but two, or three... when they converge, the power in the center grows, maybe at the cost of some differences and disagreements.
+
+Grace:
+I'm always pushing you one step further, Fang. Go make yourself into the leader who can guide that power in the center.
+
+Fang:
+Instructor...
+
+Fang:
+...Yes. I... I won't give up.
+
+Grace:
+Not everyone can handle the burden of command.
+
+Grace:
+Alright. Believe in yourself. And remember that feeling you had today when you dove in there. You can do it.
+
+Fang:
+Um... But, Instructor Grace... I kinda feel like hearing this stuff from you... it's weird.
+
+Grace:
+Ahaha... is it a little different from my usual style?
+
+Fang:
+Not exactly, it's just... a little more... professional? Than usual!
+
+Grace:
+Ah, you know me too well. And I think you can guess who's really telling you this stuff.
+
+Grace:
+But even if 'she' isn't here to speak up and tell you herself, she definitely hopes you can get that courage and confidence from somewhere.
+
+Fang:
+Alright! I got it!
+
+Grace:
+Okay, go rest up. You'll have your first solo temporary duty assignment soon.
+
+Fang:
+Huh? So soon?
+
+Grace:
+You're not up for it?
+
+Fang:
+Of course I am! I'll be ready...
+
+Grace:
+Don't blame me for not reminding you, the first time you make a mistake. And don't cry in front of your team.
+
+Fang:
+I won't! Thank you, Instructor Grace!
+
+Fang:
+(And thank you... Instructor Dobermann.)
+
+Fang:
+Whew... I almost lost it there. How embarrassing, hehe...
+
+Fang:
+Everyone's encouraging me. And I really do believe I can do it.
+
+Fang:
+Instructor Dobermann, Instructor Grace, I... I think I finally get it. I know what it means to be trusted by your teammates, and how comforting it can be.
+
+Fang:
+I'm... the leader. I have to keep training, and take on more responsibility. That's my decision.
+
+Half an hour later...
+
+Fang:
+Phew... alright.
+
+Fang:
+Team three, up!
+
+Aciddrop:
+Whew... glad we had some time to rest.
+
+Scene:
+Y e s . . .
+
+Lens:
+It may have been time to rest, but Captain Fang did not close her eyes. I took many shots of the captain's serious expression as she looked through her combat intelligence.
+
+Fang:
+Erm... it's nothing special...
+
+Fang:
+Phase two begins in twenty minutes. We'll form up for a joint attack with team two, moving in from Area 10, surveying the ground, and taking up a vantage point.
+
+Aciddrop:
+We're the first to engage the enemy? Not an easy job, but seems right for us.
+
+Aciddrop:
+Captain Fang, what's the plan after that?
+
+Fang:
+I revised my plan based on our previous engagement. Here's your copies to review.
+
+Fang:
+Taking our previous experience into account, I think we'll want to take a more aggressive stance.
+
+Fang:
+Lens and Scene need to stay secure, keep our communications unobstructed. The front line needs clear maps and imaging.
+
+Fang:
+Aciddrop, we still want you on the high ground for covering fire. But don't spread out too much, we want you close.
+
+Aciddrop:
+Roger that! My crossbow does more damage at close range.
+
+Fang:
+Frostleaf, you and I will launch an attack on the center of the enemy force. Scout from concealment when you engage.
+
+Frostleaf:
+Roger.
+
+Fang:
+Lens's terrain imaging needs to get to team two as quickly as possible. The other team can then move to support us.
+
+Fang:
+Once we break through the first enemy line, we'll direct the supporting fire.
+
+Fang:
+That's all we've got for the plan before we move. Once we reach Area 10, listen for my orders.
+
+Fang:
+I... appreciate everything you said to me back there. My mistakes in the first phase cost us, we suffered a casualty. I won't make any mistakes again.
+
+Fang:
+That's the last time I'll misjudge things or give bad orders. Please, trust me.
+
+Fang:
+I now know what it means to be a team leader.
+
+Fang:
+Now, all hands, conduct your equipment checks before we move out.
+
+Fang:
+......
+
+
+

@@ -1,0 +1,333 @@
+Radio Broadcast:
+Course set. Drizzles observed. Wayside stations will allow passage.
+
+Radio Broadcast:
+Incoming telegram from Viscount Dawson. They would like to use this journey as an opportunity to meet with the Dublinn representative.
+
+'The Brigadier':
+More nobles coming over to our side.
+
+Harmonie:
+Don't you worry. The Leader won't deign to make them any statements.
+
+Harmonie:
+Did they think a simple show of friendliness would earn them a guarantee of peace from Dublinn, a Taran population kept in check?
+
+Harmonie:
+I say at some point, they need to learn what constitutes true sincerity.
+
+'The Brigadier':
+The Leader is still sending you to negotiate?
+
+Harmonie:
+Perhaps I <i>should</i> fritter away some more time, at least enough that people forget about me.
+
+'The Brigadier':
+Good to hear. You've made your share of errors by my standards.
+
+Harmonie:
+Heheh... well, since you came back to report on your lonesome, I take it you haven't caught Loughshinny yet?
+
+'The Brigadier':
+Don't ask rhetorical questions.
+
+'The Brigadier':
+You hindered my ranks in their search, only to then leak her prior trail to my men. Not exactly a smart way to save someone, in your case.
+
+Harmonie:
+And how do you know it wasn't you I was saving?
+
+Harmonie:
+You know, I don't recall The Leader ever saying anything about executing her. Do you?
+
+'The Brigadier':
+The Leader did allow her to roam free. The Leader also allowed me to deal with her at my own discretion.
+
+'The Brigadier':
+Don't blame me for being harsh on your friend, Harmonie. In these times, no one in their right mind would let a Draco act freely in Victoria.
+
+Harmonie:
+Oh, never you mind that. I don't think we were ever that close, anyway.
+
+Harmonie:
+And you see, I'm about to pay a visit to that medical organization she was holing up in.
+
+Harmonie:
+Hm-hm-hmm! Maybe, just maybe, I'll be the first to get her.
+
+Victorian Officer:
+Wait, a building in the way? Blast this low visibility! How was this not foreseen?
+
+Victorian Officer:
+Who signed off on navigation plans? Which team was on survey yesterday?
+
+Victorian Officer:
+It's too late for the fleet to turn. Check for any presence of personnel in the building.
+
+Victorian Officer:
+Excellent... Brick and wooden construction, small enough not to pose a threat to the ship's treads. Continue on course.
+
+Harmonie:
+Oh... would you look at that, another tiny mistake.
+
+'The Brigadier':
+There are always sacrifices to be made in war.
+
+Harmonie:
+Yes, I gather what you mean. But listen—I have my own sense of 'discretion'.
+
+Harmonie:
+Loughshinny as a sacrifice? I say that might be too high a price to pay.
+
+Harmonie:
+The blood of the Draco still flows in her veins, you see. She remains ever so useful, even with Oripathy.
+
+'The Brigadier':
+Yes, I did not bring her back.
+
+'The Brigadier':
+She has no resolve to fight, but is plenty capable of fleeing.
+
+'The Brigadier':
+Further to which... we pursued her tracks to where the old Taran palace stood. The fires within the ruins have gone out.
+
+'The Brigadier':
+Becoming Infected may have changed her Originium Arts.
+
+Eblana:
+You seem to think it was Oripathy that made her stronger?
+
+Eblana:
+Heh... of course not.
+
+Eblana:
+She's my sister. It would be disappointing if she couldn't even hold her own.
+
+Eblana:
+Tell me. Who's with her?
+
+'The Brigadier':
+A few vagrants. She calls herself the Leader before them.
+
+Eblana:
+Then there's no need to follow her.
+
+Eblana:
+Since she has at last awakened, and become aware of her power as a Draco...
+
+Eblana:
+She will return to me soon.
+
+Ch'en:
+Are you sure the long-haul trucks pass through here?
+
+Bagpipe:
+Aye, I hitched on one when I fled Victoria.
+
+Bagpipe:
+......
+
+Ch'en:
+...Bagpipe.
+
+Bagpipe:
+Eh?
+
+Ch'en:
+Do you remember when I asked you... what the truth you wanted was, and what you wanted to do after learning it?
+
+Ch'en:
+Because you knew things would turn out this way. Most things that happen in Victoria end up as a power struggle like this.
+
+Bagpipe:
+Mm, you could say... but it's never the same people involved, each time.
+
+Bagpipe:
+My feelings still haven't changed. I have to submit my report.
+
+Bagpipe:
+I just wonder, you know... when will any part of Victoria truly accept it?
+
+Bagpipe:
+What can I even do, personally speakin', to speed up that process?
+
+Ch'en:
+You still want to change Victoria, after all this? It amazes me how you're so...
+
+Bagpipe:
+So what? Stupid? Stubborn?
+
+Ch'en:
+So strong.
+
+Bagpipe:
+Come on, Chenchen, that's why we've always been friends, na? We fixate on a goal and don't change it easily. Not me, not you, not my leader!
+
+Ch'en:
+Ha. Doesn't seem like a compliment when it's from you.
+
+Bagpipe:
+And I've been thinkin' these days, anyway... who's to say someone else's dream can't be achieved, right?
+
+Radio:
+(White noise)
+
+Ch'en:
+You're still holding onto that thing Fionn gave you.
+
+Bagpipe:
+Aye. What's wrong with that?
+
+Ch'en:
+Let me do it... It's an old radio, and I don't want you to turn it into scrap metal.
+
+Ch'en:
+There we go.
+
+Radio:
+...the attention of all citizens. The conflict in Londinium between Victoria and Kazdel continues to escalate...
+
+Radio:
+War has... *static*... broken out...
+
+Radio:
+The Duke of Wellington... *static*
+
+Radio:
+We ask you make war preparations...
+
+Bagpipe:
+......
+
+Bagpipe:
+......
+
+Fischer:
+Yes, I'm driving back. I noted nothing unusual during my recon assignment.
+
+Fischer:
+The office I used for my last identity? You needn't worry. I'll erase all trails as soon as I return.
+
+Fischer:
+Of course I'll accept promotion from the Duke, if all goes according to plan.
+
+Fischer:
+I don't plan to hide it. I'll have abandoned my personal identity and face by that point. Whatever I say to you now under my current guise doesn't matter, does it?
+
+Fischer:
+......
+
+Fischer:
+I think I'll get off and take a little walk.
+
+Fionn:
+Oh, sir, would you like a wooden doll? I've brought some from a village on the other side of the river. The woman who makes them, excellent craft, bless her old heart.
+
+Fischer:
+No, thank you.
+
+Fionn:
+Alright... excuse me, are you from around here?
+
+Fischer:
+Why do you ask?
+
+Fionn:
+Er, just thought you looked familiar? Really, I'm sorry, I just settled down, I still don't know the people around here all too well.
+
+Fionn:
+I'm Fionn. Peddler of wares. Let me know if you want to buy or sell anything, and I'll sort it for you.
+
+Fionn:
+I live right there, see? That house, just finished yesterday. It's a little far from the village, but I like it here right next to the road.
+
+Fionn:
+Oh, er, there's your car, I see... Do I have the wrong person?
+
+Fionn:
+Sorry for bothering you and all, I won't keep you any—
+
+At a massive rumbling, they both turn around.
+
+A huge shadow looms on the horizon, the earth trembling beneath their feet.
+
+Fischer:
+......
+
+Fionn:
+W-What's that sound?
+
+Fionn:
+No. Nonono, what's THAT?
+
+Fionn:
+An army?
+
+Fischer:
+Yesterday, 400km away, I signed off on a reconnaissance mission scouting this force.
+
+Fionn:
+What are you talking about?
+
+Fischer:
+All along, I've been of the belief that with his militant vice grip, the Iron Duke is our greatest enemy.
+
+Fischer:
+With his support, Dublinn will incite hatred amongst the population, dragging innocent people into riot and even outright war. We must find a way to check his power.
+
+Fischer:
+Hundreds, if not thousands of lives, hinge upon my every move.
+
+Fischer:
+But as for the moment...
+
+He could not let out a sound if he tried.
+
+Rumble. Rumble.
+
+The battle fleet, led by a grand high-speed battleship, sails along its set course.
+
+This is the territory of Duke Caster. She has silently assented to all this, assented to war passing through her roads and across Victoria.
+
+Fischer:
+...Flee, Taran.
+
+Fischer:
+You built your house in the wrong place.
+
+Fionn:
+W-Why?
+
+Fischer:
+This belt remains the territory of Duke Caster. The boundary is vague, and you have yet to cross it.
+
+Fischer:
+The Marquess of Trent did not switch over to the Duke of Wellington's side come the conclusion of negotiations. Moreover, pressure on the Tarans is set to increase once again.
+
+Fischer:
+Perhaps you'll sight those brutal patrol squads again in the next two days. Perhaps they haven't forgotten the appearance of your name in the case files.
+
+Fischer:
+Did he mistake the Duke's intentions? Is he simply another pawn sacrificed in this war?
+
+Fischer:
+None of us know the answer.
+
+Fischer:
+And if we did, that lone hut would not be built in a wrong place.
+
+Fionn:
+Er, what <i>are</i> you going on about...
+
+Fionn:
+—Wait, I remember now! You! You're the one who came after us back then!
+
+Fionn:
+W-What are you trying to...
+
+Fischer does not answer. He simply turns, gets back in the car, and starts the engine.
+
+Behind him, the sound of the tiny brick hut collapsing, and the plaintive cry of the villager, are drowned out in the deep cacophony of the battleship at the head.
+
+
+

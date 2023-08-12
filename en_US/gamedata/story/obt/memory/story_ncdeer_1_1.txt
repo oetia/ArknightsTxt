@@ -1,0 +1,754 @@
+Villager:
+Please, I'm begging you!
+
+Villager:
+The merchant is offering a fortune to anyone who saves his daughter! Please, doctor, I'll do anything!
+
+Nine-Colored Deer:
+......
+
+Villager:
+A Catastrophe is coming to the city my family lives in, and they're trapped... I can't bear the thought of leaving them there!
+
+Villager:
+I know it's asking a lot after you saved my life, and I know you don't want to come down from the mountains, but I'm at my wit's end...
+
+Nine-Colored Deer:
+......
+
+Villager:
+I'll only use the money to get my family out of there! I won't use it for anything else!
+
+Villager:
+Please, this means everything to me! I swear to the heavens that I won't tell anyone! Let my flesh rot off my body if I break my vow!
+
+Nine-Colored Deer:
+......
+
+???:
+It worked! It worked! Thank you! Thank you so much! I swear to the heavens that I'll repay your kindness! Let my flesh rot off my body if I break my vow!
+
+???:
+Oh, mother... Here, drink up, it'll make you better.
+
+???:
+We're out of medicine? Don't worry, we have Dr. Nine-Colored Deer here!
+
+???:
+We haven't been able to contact the outside for days. Is there any other way?
+
+???:
+More and more people are dying! I thought Nine-Colored Deer was supposed to save them!
+
+???:
+Something's not right with her... Where did she come from? Why doesn't she charge any money? Don't tell me she's...?
+
+???:
+She only stayed behind to advertise her medicine and gain our trust!
+
+???:
+Look at her Originium Arts! She was the one who brought down the Catastrophe!
+
+???:
+Elafia! Bringer of evil! Get out! Get out!
+
+Nine-Colored Deer:
+......
+
+Nine-Colored Deer:
+I thought I could earn their trust by saving their lives.
+
+Nine-Colored Deer:
+I thought we could coexist in peace as long as I healed them, and showed them love.
+
+Nine-Colored Deer:
+But is that true?
+
+Nine-Colored Deer:
+Go.
+
+Villager:
+Doctor!
+
+Nine-Colored Deer:
+You should not have come to me. I want nothing more to do with the world outside these mountains.
+
+Nine-Colored Deer:
+Go, and do not return.
+
+Villager:
+......
+
+Villager:
+I-I understand. I was foolish.
+
+Villager:
+I-I'll try to think of something else... I'm sorry for bothering you.
+
+Nine-Colored Deer:
+......
+
+Nine-Colored Deer:
+Hello?
+
+Clinician:
+Ah, I knew you'd show up. Thank you for coming so late.
+
+Nine-Colored Deer:
+How is the merchant's daughter?
+
+Clinician:
+She's here in the clinic. It's not clear what afflicts her, but she's getting weaker by the day. She's able to eat, but she spends most of the time sleeping. She complains of neck pains, and has had a fever for days.
+
+Clinician:
+Her father is extremely anxious. Everyone knows he's looking for the great healer rumored to be living in these parts. I thought it was only a matter of time before you came down.
+
+Nine-Colored Deer:
+I have never stood idly by and watched a patient die.
+
+Nine-Colored Deer:
+But I had a visitor today. I'll need to find somewhere else to stay for a few days.
+
+Clinician:
+Someone you saved?
+
+Nine-Colored Deer:
+Yes.
+
+Clinician:
+There's always people like that... Why don't they respect your wish to not be disturbed?
+
+Nine-Colored Deer:
+It doesn't matter. I'll be more careful.
+
+Clinician:
+Well, I'm just glad you're still willing to stay in the area at all.
+
+Nine-Colored Deer:
+Thank you, Zishu. Now take me to the child.
+
+Sickly Child:
+It hurts... It hurts so much...
+
+Nine-Colored Deer:
+Hmm...
+
+Nine-Colored Deer:
+This is a rare illness... Not something that I can just whip up a remedy for.
+
+Nine-Colored Deer:
+I'll be staying here for a couple of days. I want no visitors, other than patients.
+
+Clinician:
+Understood. I'll make sure to keep out unwelcome guests.
+
+Nine-Colored Deer:
+Mm.
+
+Nine-Colored Deer:
+One more thing. I want you to pass this on to the merchant tomorrow...
+
+Nine-Colored Deer:
+What will people think this time? A cold and merciless Elafia...?
+
+Nine-Colored Deer:
+......
+
+Nine-Colored Deer:
+Two mace, half a mace, three mace... Roll these herbs into balls, and take them for eight days.
+
+Sickly Child:
+It's so bitter...
+
+Nine-Colored Deer:
+Would you like another flavor? Flowers perhaps, or tea?
+
+Sickly Child:
+I like flowers...
+
+Nine-Colored Deer:
+Well then... there.
+
+Nine-Colored Deer:
+Take a sniff.
+
+Sickly Child:
+It smells... sweet?
+
+Nine-Colored Deer:
+There, now swallow it. Not bitter at all, is it? It won't hurt so much anymore.
+
+Sickly Child:
+Why is it sweet?
+
+Nine-Colored Deer:
+You were crying because you didn't want to take your medicine, weren't you? It's sweet now, so there's no need to cry.
+
+Sickly Child:
+*Sob*...
+
+Nine-Colored Deer:
+And I'll give you some honey once you've had your medicine.
+
+Clinician:
+Doctor, you need sleep. You haven't slept in three days!
+
+Nine-Colored Deer:
+No, I need to finish this book first. It's important. I'll have my dinner after I'm done.
+
+Clinician:
+What...? You just had dinner! I had to make you eat it!
+
+Nine-Colored Deer:
+Oh, I see... Well, I'll go to bed after I finish this book—
+
+Clinician:
+Go to bed NOW!
+
+Day 2
+
+Passing Villager:
+What's up, Wang?
+
+Villager:
+I'm busy! Don't bother me!
+
+Passing Villager:
+What's the matter? Still short on money?
+
+Passing Villager:
+People like us, we've gotta make it penny by penny, don't we? Wish I was like that rumored doctor who cured the merchant's daughter. Must've gotten a handsome reward.
+
+Villager:
+...Doctor?
+
+Passing Villager:
+Yeah!
+
+Passing Villager:
+Anyway, I'll leave you to it. It's already been a few days, and you need to get your family back as soon as you can, before anything else happens.
+
+Villager:
+Impossible... But she said...
+
+Villager:
+The doctor's not that kind of person...
+
+Villager:
+......
+
+Villager:
+I'll confirm it with my own eyes tonight!
+
+Nine-Colored Deer:
+This one didn't work... This one's no good either; they can't be taken together.
+
+Nine-Colored Deer:
+The last prescription was a little strong for little Ci's constitution... I need to rethink the dosage...
+
+Nine-Colored Deer:
+The side effect of this ingredient is too strong for her. It needs to go...
+
+Nine-Colored Deer:
+She's allergic to this one. I need to find a substitute...
+
+Nine-Colored Deer:
+No, it's not enough... I need more knowledge, to find another way. Time is running out...
+
+Clinician:
+We have the herbs you asked for... Whoa! What happened to your hair?
+
+Nine-Colored Deer:
+Oh... Here, look at this, this recipe...
+
+Clinician:
+You keep doing that, I'll fetch a comb.
+
+Nine-Colored Deer:
+These two ingredients don't go well together, but...
+
+Nine-Colored Deer:
+But...oh!
+
+Clinician:
+Whoa!
+
+Nine-Colored Deer:
+I'm going into the mountains!
+
+Clinician:
+I guess your hair can wait...
+
+Nine-Colored Deer:
+What?
+
+Clinician:
+It's way after dark. Do you really have to go right now?
+
+Nine-Colored Deer:
+I could be back by dawn if I hurry. This new medicine should finally do the trick.
+
+Nine-Colored Deer:
+This is a poisonous weed that looks like an edible plant. Better mark it so no one eats it by accident.
+
+Nine-Colored Deer:
+I've tried marking immature herbs, but that hasn't worked. Next time, I should move them into the garden.
+
+Nine-Colored Deer:
+I hope bugs don't get to them... Never mind, I don't have time for this.
+
+Villager:
+......
+
+Nine-Colored Deer:
+The sun's already rising. Still no luck...
+
+Nine-Colored Deer:
+Was it here? I can't find the marks I left the last time...
+
+Nine-Colored Deer:
+Whoa, this is a poisonous plant... Never mind, it can wait. But this is about as high an altitude as the herbs will grow.
+
+Nine-Colored Deer:
+'It is the color of snow, with a bitter but pure taste. It is found mostly in the clefts of rocks or on cliffs.' On cliffs...
+
+Nine-Colored Deer:
+I'm exhausted... but I have to get the herb. Ci can't wait...
+
+Nine-Colored Deer:
+The books say you should tie a knot like this... Never thought I'd be using that knowledge like this.
+
+Nine-Colored Deer:
+There! Let's hope this works.
+
+Villager:
+She's treating the girl?
+
+Villager:
+Didn't she refuse? Didn't she say she didn't want to come down from the mountains?
+
+Villager:
+...Why?
+
+Nine-Colored Deer:
+How is she?
+
+Clinician:
+Her fever has subsided, she had porridge this morning without throwing up, and the swelling in her neck has gone down somewhat.
+
+Nine-Colored Deer:
+Thank goodness.
+
+Sickly Child:
+Why is your hair a different color from ours?
+
+Nine-Colored Deer:
+Hmm... Do you like the pattern it makes?
+
+Sickly Child:
+Yes! Daddy said your hair is so beautiful because you're a really good person.
+
+Sickly Child:
+My daddy's a good person too. Why won't you trust him?
+
+Nine-Colored Deer:
+What do you mean?
+
+Sickly Child:
+Zishu won't let me or daddy tell anyone that you saved my life.
+
+Clinician:
+I...
+
+Nine-Colored Deer:
+It's alright.
+
+Nine-Colored Deer:
+I'm just happy you're alive and well, Ci. You don't need to say or do anything for me.
+
+Sickly Child:
+Hmm...
+
+Sickly Child:
+But I haven't seen daddy for days. Where'd he go?
+
+Nine-Colored Deer:
+I asked your daddy for a favor. Just let him see you happy and healthy when he comes back in a few days, okay?
+
+Sickly Child:
+Okay!
+
+Nine-Colored Deer:
+It's getting late. Come on, lie down and I'll tell you a story.
+
+Nine-Colored Deer:
+A long, long time ago in a forest far, far away...
+
+Two days later
+
+Clinician:
+*Yawn* Oh, it feels so good to stretch like this...
+
+Nine-Colored Deer:
+*Yawn*...
+
+Clinician:
+You need to rest your eyes after going through an entire roomful of books these past few days. It's a nice day outside. I should let Ci's bedding get some sun too.
+
+Clinician:
+It's nice to see her getting better, isn't it?
+
+Nine-Colored Deer:
+Yes, I'll go see if she needs a change of medicine. Let's get her an armchair so she can sit outside.
+
+Clinician:
+And I'll make some tea. Any preferences?
+
+Nine-Colored Deer:
+Anything made by you.
+
+Nine-Colored Deer:
+Remember to add some sugar for Ci though.
+
+Clinician:
+Sugar in tea? Blasphemy!
+
+Sickly Child:
+I want something sweet...
+
+Clinician:
+Alright, alright.
+
+Nine-Colored Deer:
+What a beautiful day... Not a cloud in the sky.
+
+Nine-Colored Deer:
+Ci, remember that poem you said you liked? How did it go?
+
+Sickly Child:
+'A little sun, and floating cotton, speckles made of porcelain paint.'
+
+Sickly Child:
+My name means porcelain, too!
+
+Nine-Colored Deer:
+Now, make sure you keep your blanket on, so you don't catch a cold.
+
+Nine-Colored Deer:
+Hm?
+
+Clinician:
+Is somebody there?
+
+???:
+Open up! Open up!
+
+Clinician:
+Who is it?
+
+???:
+Anyone in there?
+
+Villager:
+I know you're there, doctor! I saw you with my own eyes!
+
+Villager:
+You've been treating that merchant's daughter, haven't you? I thought you didn't care about money.
+
+Villager:
+I believed you, and look what it got me!
+
+Passing Villager:
+Who's this doctor you're talking about?
+
+Onlooker:
+What's going on here?
+
+Clinician:
+What nonsense are you on about!?
+
+Nine-Colored Deer:
+What happened...?
+
+Villager:
+I know you're in there, doctor!
+
+Villager:
+They say they've already evacuated the city, but I haven't heard from my family in days! I have no idea where they are! The Catastrophe, it...
+
+Villager:
+It's my own fault that I couldn't get the money to save my family! I'm not blaming anyone for that!
+
+Villager:
+But do you really take us for fools!?
+
+Villager:
+Did you lie to me because you wanted the money yourself!?
+
+Nine-Colored Deer:
+Me? Money?
+
+Onlooker:
+My goodness! It's one thing to not offer help, but to lie?
+
+Onlooker:
+Who is this doctor? I'm certainly never visiting them!
+
+Passing Villager:
+That's right! That's right!
+
+Nine-Colored Deer:
+*Sigh*...
+
+Nine-Colored Deer:
+I knew it would come to this.
+
+Nine-Colored Deer:
+(I thought I could earn their trust by saving their lives.)
+
+Nine-Colored Deer:
+(I thought we could coexist in peace as long as I healed them, and showed them love.)
+
+Nine-Colored Deer:
+(But is that true?)
+
+Sickly Child:
+You're lying! She didn't ask for a single coin! *cough*...
+
+Nine-Colored Deer:
+...!
+
+Clinician:
+Hey, you shouldn't be running around!
+
+Sickly Child:
+I'm fine... I can't let them bully her!
+
+Sickly Child:
+You're all bad people! How could you think... She's not like that...
+
+Sickly Child:
+*cough*...
+
+Nine-Colored Deer:
+Ci...
+
+Nine-Colored Deer:
+Thank you, Ci.
+
+Nine-Colored Deer:
+I'll speak to him.
+
+Villager:
+Showing your face at last, doctor?
+
+Passing Villager:
+The door's opening... So who is it?
+
+Nine-Colored Deer:
+......
+
+Enthusiastic Villager:
+Here they come... Wait, Dr. Nine-Colored Deer?
+
+Onlooker:
+He was talking about Dr. Nine-Colored Deer? Er...
+
+Enthusiastic Villager:
+I'm an ass! We're all asses! It's Dr. Nine-Colored Deer!
+
+Enthusiastic Villager:
+She's the who saved my life when I was so badly hurt from falling rocks that my family started preparing the funeral!
+
+Onlooker:
+Oh, THAT doctor? Wait, who should I believe now?
+
+Enthusiastic Villager:
+S-She told me not to let anyone know! But didn't I tell you? She didn't charge me a single coin, and even gave me a whole bunch of herbs!
+
+Nine-Colored Deer:
+Ah... it's you.
+
+Enthusiastic Villager:
+Yes, me! You remember, right?
+
+Enthusiastic Villager:
+You guys hear that? Everything I said was true, every last word! She's not the kind of person who'd lie for money!
+
+Enthusiastic Villager:
+You saved my life, doctor! I'm on your side, no matter what anyone else says!
+
+Nine-Colored Deer:
+...Thank you.
+
+Villager:
+But—
+
+Merchant:
+Daddy's back, Ci! But why are you standing out here like that? And what's with all these people?
+
+Sickly Child:
+You're back, daddy! A bad guy is bullying the doctor!
+
+Sickly Child:
+He said the doctor tricked him and won't save his family...
+
+Merchant:
+Family? You mean the two people from the city?
+
+Merchant:
+She didn't ask me for any money. She only asked me to fetch those two. They're staying at a nearby inn right now. What's going on?
+
+Villager:
+Two people from the city... You can't mean...?
+
+Nine-Colored Deer:
+I never intended for you to find out.
+
+Nine-Colored Deer:
+I wasn't lying when I said I didn't want to be involved with other people.
+
+Villager:
+Really? My family... They're safe?
+
+Merchant:
+If you mean the woman and child I brought back, yes, they're perfectly safe.
+
+Villager:
+......
+
+Villager:
+Y-You did this for me, doctor?
+
+Nine-Colored Deer:
+I wasn't helping you.
+
+Nine-Colored Deer:
+I was just... just...
+
+Nine-Colored Deer:
+......
+
+Villager:
+You were helping me the whole time...
+
+Villager:
+But I doubted you... I... I...
+
+Villager:
+What have I done... I'm such a fool.
+
+Villager:
+I... I'm so sorry...
+
+Nine-Colored Deer:
+It's alright. I never told you anything.
+
+Merchant:
+Thank you for saving my daughter, doctor. It seems we've caused you more trouble than expected though.
+
+Merchant:
+I owe you so much, and have more than a few connections... I could put you in touch with one of the big city hospitals, if you like.
+
+Villager:
+D-Don't go, doctor, I still have to make it up to you!
+
+Nine-Colored Deer:
+No need to worry.
+
+Nine-Colored Deer:
+I'm happy right where I am.
+
+Some days later
+
+Merchant:
+My daughter has made a full recovery, thanks to you. Please accept these medical books as a token of my appreciation.
+
+Sickly Child:
+Nine-Colored Deer! Zishu!
+
+Merchant:
+Mind your manners, Ci.
+
+Nine-Colored Deer:
+It's alright. It's good to see her up and about like this, after being sick for so long.
+
+I thought I could earn their trust by saving their lives.
+
+Wounded Villager:
+Thank you so much... I thought I'd be fine after washing the wound, but that plant turned out to be poisonous and my leg started swelling...
+
+Clinician:
+You would have lost it if you'd waited any longer!
+
+Wounded Villager:
+Thank you so much, doctor. We're so blessed to have you in our village!
+
+Nine-Colored Deer:
+Just be careful in the future. Take these pills; they'll cure the toxins from most poisonous plants.
+
+I healed them.
+
+Nine-Colored Deer:
+Let's see... I believe I left a mark here, for the herbs on the cliffs?
+
+Nine-Colored Deer:
+Good, the bugs haven't gotten to them.
+
+Nine-Colored Deer:
+It's almost autumn. I should save some seeds and try planting them myself.
+
+Showed them love.
+
+Frisky Kid:
+I got Nine-Colored Deer! I win!
+
+Frisky Kid:
+Aw, I want some too!
+
+Frisky Kid:
+No, I won, so I get the candy!
+
+Nine-Colored Deer:
+No need to fight; there's enough for everyone. We'll play again tomorrow, okay?
+
+And we coexisted in peace.
+
+Nine-Colored Deer:
+Hmm...
+
+Dusk:
+How was it?
+
+Dusk:
+Has the painting helped you come to terms?
+
+Nine-Colored Deer:
+......
+
+Nine-Colored Deer:
+It is...
+
+Nine-Colored Deer:
+All is ethereal, like a fleeting dream.
+
+Dusk:
+So, how are things now?
+
+Nine-Colored Deer:
+I...
+
+Nine-Colored Deer:
+I have not seen Zishu in years. I should find her.
+
+Nine-Colored Deer:
+But I also have herbs to deliver elsewhere... They should be nearby.
+
+Dusk:
+Already giving yourself more work? Fascinating.
+
+Dusk:
+I don't wish to leave this place just yet... When these mountains are covered in flowers, I'll seek you out again. Let's have a drink together.
+
+
+

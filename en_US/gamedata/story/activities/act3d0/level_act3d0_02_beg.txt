@@ -1,0 +1,227 @@
+Ceylon:
+Cross Civic Square, and the highest building over there is the City Hall.
+
+D.D.D.:
+What's up, everyone!! Thank you all for coming out here! This is... D— D— D——!
+
+Audience:
+(Thunderous cheering)
+
+D.D.D.:
+We're all gathered here on this scorching summer day for the same purpose... and that is—
+
+Audience:
+MUSIC!
+
+D.D.D.:
+What was that? I couldn't hear you! Gimme your loudest voice, and let the whole city know what you want!!
+
+Audience:
+M U S I C ! ! ! !
+
+D.D.D.:
+In that case... put your hands up! Let's go!!
+
+Ceylon:
+This is an everyday occurrence during the Obsidian Festival. After all, the concerts are one of the most beloved things about the Festival.
+
+Ceylon:
+The major concert starts at night in Garrison Amusement Park, while at daytime, you can see small concerts in every district.
+
+Ceylon:
+Haha, but you know what, I studied in Victoria, so I prefer more elegant music and classical.
+
+Ceylon:
+Even though classical artists are invited to the Obsidian Festival, this kind of music is more attractive to the tourists.
+
+Ceylon:
+It started trending the last few years or so. When I was younger, jazz was all the rage.
+
+Ceylon:
+I love spending the day on 2nd Avenue. With a few books with me, I can stay an entire day in one of the cafés.
+
+Ceylon:
+Listening to music, having  a cup of green tea, and enjoying the sea breeze...
+
+Ceylon:
+It was then that I thought, Siesta must be the best city in the world.
+
+Ceylon:
+Of course! This is all possible due to the support I have, including from my family.
+
+Ceylon:
+Besides my father, someone close to me works at the City Hall here.
+
+Ceylon:
+You'll meet her soon. With her help, it will be much easier to determine how serious the problem is!
+
+Ceylon:
+My mother died when she gave birth to me. After that, my father buried himself in his work.
+
+Ceylon:
+Since I was little, she has been taking care of me as my bodyguard. Her name is Schwarz.
+
+Ceylon:
+Whenever my father was busy with work, she patiently kept my company. Though we're not related by blood, she treats me just like a sister would, so I consider her to be an important part of my family.
+
+Ceylon:
+I'll introduce you to her when we meet.
+
+Ceylon:
+Look, Doctor, we're almost there. Let's head straight in.
+
+Bodyguard:
+Mister Cronin, Miss Ceylon would like to see you.
+
+???:
+......
+
+Cronin:
+What important matters bring you to the City Hall, milady?
+
+Cronin:
+Everyone is busy organizing the festival right now, so I'm afraid there is little time to spare.
+
+Ceylon:
+Cronin, I'll get to the point. The Siesta Volcano is likely to erupt soon. I can't say exactly when, but it could be as soon as the next few days.
+
+Ceylon:
+In other words, all the citizens and tourists will be in danger. We need to start evacuating them and help them find shelter.
+
+Ceylon:
+We must stop the Obsidian Festival right away.
+
+Cronin:
+Oh milady, do you know what you're saying?
+
+Cronin:
+Anyone else would have been driven out the moment they talked to me like that.
+
+Cronin:
+But because you're special, I'm willing to explain it just for you.
+
+Cronin:
+You don't have to worry about the volcano 'issue' at all. Even though I don't know where you got your information, I can assure you that it's nonsense.
+
+Ceylon:
+...Are you kidding me?
+
+Ceylon:
+There's plenty of evidence that suggests that the volcano is active again and will likely erupt soon.
+
+Cronin:
+Such as?
+
+Ceylon:
+Agitation of the Originium slugs living there, unusual changes in temperature, and a strange smell. The conclusion should be obvious.
+
+Ceylon:
+If you don't believe me, read the material I brought. It contains a detailed analysis and the conclusion.
+
+Cronin:
+Obvious? Did you go interview the Originium slugs? Or maybe the hot air, or that strange smell?
+
+Cronin:
+I don't quite understand. What do these baseless numbers have to do with this so-called imminent eruption?
+
+Cronin:
+All I know is, I designed the volcano observation system, the mayor built it, and it is still working well.
+
+Cronin:
+Right now, the Siesta Volcano's parameters aren't much different from previous years. If anything, they're even more stable?
+
+Ceylon:
+What are you talking about? The truth is right before you...
+
+Cronin:
+And who exactly are you?
+
+Ceylon:
+Dr. {@nickname} is from a professional organization, with colleagues who are experts in volcanology.
+
+Ceylon:
+These parameters were examined by the analysts from their specialized department.
+
+Cronin:
+I see, I see.
+
+Cronin:
+...Haha, I get it now.
+
+Cronin:
+So it was you bunch who managed to fool the mayor's daughter, strange visitors.
+
+Ceylon:
+What are you talking about?
+
+Cronin:
+Milady, isn't it obvious? You were duped by this faceless stranger.
+
+Ceylon:
+Cronin, what are you trying to say? You don't even believe my word?!
+
+Cronin:
+What I'm saying is, you've been studying abroad so you might not know this, but many people are jealous of Siesta's development.
+
+Cronin:
+These kinds of people appear every year. They've tried every trick in the book to try to stop our development. Blackmail, explosions, assassinations. They've even targeted no-name people like me.
+
+Cronin:
+Of course, this is not the first time that someone has tried to spread rumors about this so-called 'volcanic eruption.' However, it is the first time one of these rumors has even been able to deceive someone like you.
+
+Cronin:
+I must say, these grifters must have done their homework on the mayor. They even knew that you just returned from studying abroad.
+
+Cronin:
+And look at their nerve, marching into the City Hall like they own the place.
+
+Ceylon:
+...You're right that I didn't know about this, but I'm telling the truth!
+
+Ceylon:
+There's no way I'd just trust any stranger who shows up!
+
+Cronin:
+As far as I can tell, there's no difference between this 'Doctor' and the swindlers I've encountered in the past.
+
+Cronin:
+There's no depths to which they won't stoop in order to take away this city!
+
+Cronin:
+Jumping to conclusions? Hah, that's what all you swindlers say.
+
+Cronin:
+What a coincidence. I didn't find your little joke funny either.
+
+Cronin:
+Milady, you're still young, so things like this are bound to happen sometimes.
+
+Cronin:
+But don't worry, these swindlers will be punished accordingly. This, I promise you.
+
+Cronin:
+Security.
+
+Cronin:
+Take them away.
+
+Bodyguard:
+Yes, sir.
+
+Ceylon:
+Cronin! You won't even listen to me now?
+
+Ceylon:
+You won't have your way as long as I'm here!
+
+Cronin:
+What a pity then. I can't just stand by and watch you disturb Siesta's order.
+
+Cronin:
+Hurry and arrest these con-artists already.
+
+Cronin:
+Also, suppress Miss Ceylon as well. Don't hurt her though; just let her calm down a little!
+
+
+

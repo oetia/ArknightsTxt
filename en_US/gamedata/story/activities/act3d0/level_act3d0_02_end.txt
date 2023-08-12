@@ -1,0 +1,41 @@
+Ceylon:
+Quick! Doctor! Let's head towards the beach!
+
+Ceylon:
+There are a ton of tourists gathered on the beach, so we'll be able to blend into the crowd and shrug them off!
+
+Bodyguard:
+Stand still!
+
+Ceylon:
+You wish!
+
+Schwarz:
+...
+
+Ceylon:
+Schwarz! Great! You're finally here!
+
+Ceylon:
+I'm so glad you're here. What's going on with Cronin?!
+
+Ceylon:
+Doctor, she's the one I was telling you about...
+
+Schwarz:
+Milady, Master Doykos is currently out of town. You ought to listen to Cronin.
+
+Ceylon:
+Schwarz? What are you saying...?
+
+Schwarz:
+Let's head back to Cronin now and hand these people over.
+
+Schwarz:
+I do not wish to resort to violence, milady.
+
+Ceylon:
+...Schwarz?
+
+
+

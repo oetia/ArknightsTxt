@@ -1,0 +1,230 @@
+Dobermann:
+Prepare for impact!!
+
+Dobermann:
+Spread out—!!!
+
+Dobermann:
+There's too much coming... at this rate, every single building in this city is going to be destroyed!
+
+Dobermann:
+This is looking bad...!
+
+Ace:
+——！
+
+Ace:
+We have to relocate!
+
+Medic:
+...!
+
+Ace:
+Hold on!!
+
+Reunion Member:
+Aaaaagh!! It's falling... It's falling!
+
+Reunion Member:
+The sky is crashing down!
+
+Reunion Member:
+Aghhhh! It hurtsss...!
+
+Reunion Member:
+My hand... my hand! Where's my hand...
+
+Reunion Member:
+No, no way!! I don't want to die...!
+
+Reunion Member:
+Aaaaaaaghh!!!
+
+Nearl:
+Defenders!
+
+Nearl:
+Protect our Casters! !
+
+Nearl:
+...!!
+
+Nearl:
+What's that sound?!
+
+Ace:
+A massive cluster just toppled the building across the street from us! Get down! !
+
+Medic:
+Eeek...!
+
+Amiya:
+... Don't stand there... Medic! Watch out!
+
+Guard:
+Oh no... Medic, get out of there!
+
+Medic:
+Aaaahh!
+
+Medic:
+...Huh, D-Doctor?
+
+Guard:
+The Doctor pushed the medic out of the way? Wouldn't that mean... Doctor...?!
+
+Guard:
+No, Doctor!!
+
+Nearl:
+Dr. {@nickname}!!
+
+Guard:
+Huh?
+
+Guard:
+N-Nearl's charging forward!
+
+Nearl:
+Get down, Doctor!
+
+Nearl:
+Aagh...
+
+Nearl:
+She made it in time!
+
+Guard:
+She did it... She saved the Doctor!
+
+Nearl:
+*cough*... Haah...
+
+Amiya:
+Nearl! Doctor! Hurry back over here!
+
+Nearl:
+It's fine now!
+
+Nearl:
+I can still hold my shield...!
+
+Nearl:
+Jump, Doctor!
+
+Nearl:
+Jump!
+
+Amiya:
+Doctor, Doctor...
+
+Amiya:
+You're, you're not hurt?
+
+Nearl:
+How could you... put yourself in danger like that!
+
+Nearl:
+At least take me with you, so I can protect you!
+
+Nearl:
+I can't allow you to be harmed...
+
+Nearl:
+Especially, right before my eyes!
+
+Amiya:
+We should count ourselves lucky that everyone is still safe...!
+
+Amiya:
+But...
+
+Amiya:
+(How much longer is this going to last?)
+
+Amiya:
+(How long are we going to be able to stay alive?)
+
+Amiya:
+... Hm...
+
+Amiya:
+Are fewer rocks falling now?
+
+Amiya:
+So we managed to weather the first impact...
+
+Dobermann:
+But we have to be careful still. Nobody knows how long this Catastrophe will continue for.
+
+Dobermann:
+At least... we weren't caught dead in the middle of it.
+
+Dobermann:
+We were lucky to slip through.
+
+Amiya:
+Mmhm...
+
+Amiya:
+How's everyone doing?
+
+Guard:
+Looks like all of the Operators made it through just fine...!
+
+Guard:
+Some were lightly injured, but considering the circumstances, we were quite fortunate!
+
+Guard:
+We... we made it!
+
+Reunion Member:
+Ugh...
+
+Amiya:
+Some of the Reunion members have also...
+
+Reunion Member:
+...Huh?
+
+Reunion Member:
+Huh... Ahh! ! Rhodes Island!
+
+Dobermann:
+...What?
+
+Reunion Member:
+Arghh...!!
+
+Amiya:
+They're still trying to attack us?!
+
+Reunion Member:
+...
+
+Reunion Member:
+Rhodes Island!
+
+Dobermann:
+What's wrong with you bunch!
+
+Reunion Member:
+Come back here...!
+
+Dobermann:
+They've gone insane.
+
+Nearl:
+Do they not value their lives at all?!
+
+Amiya:
+Dobermann...
+
+Dobermann:
+We have no choice...
+
+Dobermann:
+We'll suppress them first, and then immediately relocate!
+
+
+

@@ -1,0 +1,506 @@
+Skadi:
+......
+
+Inquisitor:
+High Inquisitor!
+
+High Inquisitor:
+Stand down. You're no adversary for her.
+
+Inquisitor:
+But I...
+
+High Inquisitor:
+Stand down.
+
+Inquisitor:
+By your order!
+
+Skadi:
+You. You're very strong.
+
+High Inquisitor:
+You should not have set foot in this city.
+
+Skadi:
+I'm already here.
+
+High Inquisitor:
+Violate the rules, and you must pay the price.
+
+Skadi:
+I can't care about that much.
+
+High Inquisitor:
+You will remain here.
+
+Skadi:
+I don't want to fight with you.
+
+Inquisitor:
+Hmph. Wicked Ægir, you're surely frightened! Now that the High Inquisitor is here, you absolutely cannot run.
+
+Skadi:
+But, if this is necessary—
+
+Skadi:
+(Ægirian) I will take you down.
+
+Inquisitor:
+Such speed! So much faster than her prior hand-to-hand bout with me!
+
+Inquisitor:
+With speed like that, I could hardly even hope to touch her hemline... Just how much more was she still hiding?!
+
+Inquisitor:
+Her attack and evasion are becoming more and more rapid, as are my instructor's. I almost can't keep up now.
+
+Inquisitor:
+Was I really... still this lacking?!
+
+Inquisitor:
+No, this won't do. That's an Ægir. Of course I cannot lose to an Ægir.
+
+Inquisitor:
+Yet this Ægir seems, somehow, to be using that case of hers as a weapon... Just what is that made of?! Why is it so tough?!
+
+Inquisitor:
+But my instructor isn't using the handcannon. If he was... wouldn't we have her seized in a blink? It'd blow this entire street into slag.
+
+Inquisitor:
+Is that... simply an Ægir, however? Her appearance is nothing at all like those monsters...
+
+Inquisitor:
+She's using... some form of Arts, is it? I can't quite tell. And our lamp... cannot inhibit her power whatsoever.
+
+Inquisitor:
+—This Ægir has too many secrets kept with her.
+
+High Inquisitor:
+......
+
+Inquisitor:
+High Inquisitor! You're victorious. I knew no one could ever sway you by even a hair.
+
+Inquisitor:
+Er, where's that Ægir?
+
+High Inquisitor:
+Fled.
+
+Inquisitor:
+What? That... how?
+
+High Inquisitor:
+She is injured, and cannot run far.
+
+Inquisitor:
+I'll search for her—
+
+High Inquisitor:
+You cannot overcome her.
+
+Inquisitor:
+Ahem... But we absolutely cannot allow her sort to run free along the coast!
+
+Inquisitor:
+Direction suggests she may have made for the citizens' assembly area. She's likely mixed in with the crowd, and has accomplices among the citizens aiding her. I'll search the houses for her one by one.
+
+High Inquisitor:
+If you believe this is right, then go.
+
+Inquisitor:
+Understood—
+
+Inquisitor:
+......
+
+Inquisitor:
+High Inquisitor, was she the one who brought anomaly upon this city?
+
+High Inquisitor:
+I had you go and see. What was it you saw?
+
+Inquisitor:
+The behavior of the locals is highly abnormal. It's as if they live every day in an unwoken state. They act, yet not to complete anything. When they eat, it's not even to fill their stomachs.
+
+Inquisitor:
+They're entering the sea, and they don't even consider it suicide.
+
+High Inquisitor:
+Did you put a stop to them?
+
+Inquisitor:
+Yes. This is evidently wrong, after all.
+
+High Inquisitor:
+What we are concerned with is the results. If you believe your corrections can have right results, then go do so.
+
+Inquisitor:
+Right results...
+
+High Inquisitor:
+If they cannot, then you must make some choices.
+
+High Inquisitor:
+Inquisitor—with your own two eyes, your blade, you must stare down the greatest menaces to Iberia.
+
+Inquisitor:
+Yes, sir!
+
+Inquisitor:
+The greatest menace to Iberia... is those monsters presently climbing ashore.
+
+Inquisitor:
+Could it be? These people who head into the ocean have some relation to these monsters?
+
+Inquisitor:
+Yes... they are surely related.
+
+Inquisitor:
+I remember you once taught that abnormality often takes more than a single form. Between all these terrible visions, there must be connections.
+
+High Inquisitor:
+To address an issue—you must first see clearly where that issue lies.
+
+Inquisitor:
+I—I know!
+
+Inquisitor:
+—It's those Ægirs hidden in the darkness, conspiring everything!
+
+Inquisitor:
+They're hidden ashore, concealed in the minor loopholes of our laws, rotting our cities' skin and flesh, destabilizing our fellows' wills, attempting to corrode our country's muscle and bone.
+
+Inquisitor:
+Before their plot prevails, before it drags this city into the abyss of despair—
+
+Inquisitor:
+We must—find them—and wipe them out!
+
+Anita:
+Singer... singer? Are you in here?
+
+Skadi:
+......
+
+Anita:
+I've been searching for you forever. The Inquisitors won't know about this place. There are too many empty houses here, and come night, searching will be awfully hard.
+
+Anita:
+I know... I'm sure you want to avoid us. That the farther you stay from where we live, the better.
+
+Anita:
+Finding you here definitely wasn't easy... phew... it's so close to the coast.
+
+Anita:
+Is this the sound of the waves? I never knew it was so loud. And... I can hear breathing now.
+
+Anita:
+Singer, what are you doing in here? Your breathing's become quite different.
+
+Skadi:
+You're all in danger.
+
+Anita:
+What are you talking a... um, what's—are you hurt?
+
+Skadi:
+I'm bleeding. Get away!
+
+Inquisitor:
+Thinking of leaving? It won't be that easy.
+
+Anita:
+The Inquisitor?! Did you follow me the whole way...? I—I didn't realize.
+
+Inquisitor:
+I could hardly let a commoner notice me. *cough* Of course, even if I don't tail you, I'd still have methods of finding this place!
+
+Skadi:
+You again.
+
+Inquisitor:
+What's wrong? Scared now?
+
+Inquisitor:
+Earlier—Ahem—I concede, I was negligent for a moment, and narrowly let you escape.
+
+Inquisitor:
+But now, Ægir, I'll definitely have you caught!
+
+Anita:
+B—But, she's already hurt—
+
+Inquisitor:
+Hmm? Are you certain about getting in my way, so as to protect a dangerous Ægir, citizen? If so, you'll become a criminal, the same as her!
+
+Anita:
+I—I...
+
+Inquisitor:
+You and all the others are unalike. At the very least, your eyes show fear.
+
+Inquisitor:
+Until now, you have not yet done wrong. Out of the way! I don't want to have to sort you out with my blade.
+
+Skadi:
+It's not the time—
+
+Inquisitor:
+It's not what time? Are... Are you scorning me? You think I have absolutely no way to seize you?
+
+Inquisitor:
+Hmph. Certainly, I may not be the High Inquisitor. But I've already made my preparations.
+
+Inquisitor:
+I will deal with you, no matter the cost to me!
+
+Inquisitor:
+What—What is the meaning of this?
+
+Skadi:
+Don't make noise.
+
+Inquisitor:
+Unhand me, you Ægir reprobate! You'd better not think I can't employ my sword with a hand pinned, and I still have the handcannon—
+
+Skadi:
+Keep it down. They'll hear you.
+
+Inquisitor:
+Ngh-ghhh... I can't move... my other hand either...
+
+Anita:
+Um, can either of you hear something?
+
+Anita:
+I heard... sticky things, rubbing along the floor... so, so many... and the sound was right outside.
+
+Anita:
+What... is that? It's not the work of any of us. I've never heard it before...
+
+Skadi:
+They're closing in.
+
+High Inquisitor:
+Their numbers are growing.
+
+High Inquisitor:
+What is causing it? The people of this place, or that woman and her companion?
+
+High Inquisitor:
+Ten of them—
+
+High Inquisitor:
+Twenty of them.
+
+High Inquisitor:
+—Still growing, still advancing. Something is leading them to clamber ashore, and spill into the city.
+
+High Inquisitor:
+And their course stems from—
+
+High Inquisitor:
+The chapel.
+
+Bishop:
+Hm? They are very excited.
+
+Gladiia:
+Are you sure you should be petting these things so?
+
+Bishop:
+Pay mind to the words you use. They are not 'things' of any sort. They are already a part of this expanse of ocean. They have become the heirs born of the sea, and are much purer than you are.
+
+Gladiia:
+......
+
+Bishop:
+Ah... the news on the tide has already arrived. Tonight will be yet another special one.
+
+Bishop:
+They have surely smelt the scent. When bloodkin join them, they become so spirited, so agitated, that they even wish to emerge from the sea, and give their welcome on land.
+
+Bishop:
+It is very normal. We all love our own brothers and sisters.
+
+Gladiia:
+Do you truly treat them as your own brothers?
+
+Bishop:
+Why not, I ask? At times of necessity, I am willing to address those of land, those who cannot help but still walk on two legs, as my brothers too.
+
+Bishop:
+If you did not hold the most dirtied, mixed blood within you, then one day, you may also possess this chance.
+
+Gladiia:
+Oh? What a crying shame.
+
+Bishop:
+(He touches the seawater.)
+
+Bishop:
+Fascinating. This evening... they seem to be especially vigorous. Perhaps because so many old friends have come as guests to their home.
+
+Bishop:
+Are you not curious? Wondering just what is happening upon the surface.
+
+Male Inhabitant C:
+...Loud.
+
+Male Inhabitant D:
+So loud. I cannot sleep.
+
+Male Inhabitant C:
+Stuff your head in your quilt.
+
+Male Inhabitant D:
+I cannot hear.
+
+Male Inhabitant C:
+I cannot see.
+
+Male Inhabitant B:
+......
+
+Male Inhabitant B:
+Ngh... So hungry...
+
+Male Inhabitant C:
+So hungry.
+
+Male Inhabitant D:
+So hungry.
+
+Male Inhabitant B:
+Sheetmetal...
+
+Anita:
+Ah!
+
+Inquisitor:
+Uwargh-wah-hh—
+
+Skadi:
+They're here.
+
+Inquisitor:
+What—What are these horrendous things?! Black... flowers? Or fish? Why do they move? How disgusting, eugh...
+
+Inquisitor:
+It couldn't be... That's not right, this doesn't make sense!
+
+Anita:
+They're knocking on the windows! Are they... do they want to enter?!
+
+Inquisitor:
+W—We cannot let them!
+
+Inquisitor:
+Close the windows shut—
+
+Anita:
+It's pointless. The windows here are all broken. Look at the top, it's full of cracks...
+
+Inquisitor:
+—They're reaching in!
+
+Inquisitor:
+Uwargh, it's still moving! Is this tiny chunk writhing on the floor trying to force its way to us?!
+
+Inquisitor:
+Even supposing it's one of those things... nothing gives it the right to be so difficult!
+
+Anita:
+So very many... there's still so many outside.
+
+Inquisitor:
+Why can I not cut them down?!
+
+Inquisitor:
+My lamp... no, the lamp would be of no use against them.
+
+Inquisitor:
+I only have enough ammunition for one more round.
+
+Anita:
+I—Inquisitor?!
+
+Inquisitor:
+Freeze! In a moment, I'll fire, and you two run for the interior. The ruins ought to be a little sturdier than these worn-out windows.
+
+Anita:
+Your hand is trembling...
+
+Inquisitor:
+Holy scriptures... lend me strength.
+
+Inquisitor:
+I—I do not fear them!
+
+Inquisitor:
+I'll head out right away, kill as many as I can, and I should be able to hold a wave back. You must run with haste...
+
+Skadi:
+......
+
+Skadi:
+You, take her and hide inside.
+
+Inquisitor:
+What? What are you spouting?! Have you not seen? I can't cope with—this many! They're nigh coming in already. There's no difference between the inside and outside!
+
+Skadi:
+Remember, as far from doors and windows as possible.
+
+Inquisitor:
+You utterly don't listen to people when they tell you—
+
+Skadi:
+I'll go out. Draw them away.
+
+Inquisitor:
+What?!
+
+Anita:
+Singer, you can't go outside either...
+
+Anita:
+You're very strong, stronger than anyone I've seen before, but you're hurt! And these odd things—there's—there's so many of them!
+
+Anita:
+Inquisitor, don't—don't leave either...
+
+Anita:
+What if we all hide together? I—I know there's a cupboard in here, and the door still closes. It's in the back. If all three of us squeeze, we should hopefully...
+
+Skadi:
+I have to go out. Only this way, will you survive.
+
+Inquisitor:
+Hey! Ægir, even if you want to play the hero, this isn't your place to!
+
+Skadi:
+Listen well. This is genuinely nothing to do with you.
+
+Skadi:
+Because—they're here looking for me.
+
+Skadi pushes open the door.
+
+A long-lost scent following the sea breeze bores into the brain's tissue, creatures never of dry land pack densely into the streets.
+
+They bubble up and down, spitting, contracting, imitating rot and growth in their actions, the shore of civilization falling to their sinister bodies.
+
+Monster A:
+......
+
+Monster B:
+......
+
+Monster C:
+!!!
+
+
+

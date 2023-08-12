@@ -1,0 +1,879 @@
+Biu:
+Biu!
+
+Cafeteria Staff:
+Where are the ingredients?
+
+Cafeteria Staff:
+The dishes?
+
+Cafeteria Staff:
+Did someone let Kay in?
+
+Gummy:
+That thing keeps changing colors! How does it do that?
+
+Ethan:
+Where did they find this? It's just like me.
+
+Ethan:
+Be nice to him, medical.
+
+Ethan:
+Wait, you want to give me a check up too?
+
+Biu:
+Biu!
+
+Playing Child:
+Where did that toy go?
+
+Truant Child:
+Oh no, Instructor Dur-nar must've come to bring me back! What do I do?
+
+Calm Child:
+No need to panic. Just say you came looking for the toy that mysteriously went missing, and accidentally stumbled on a secret in the depths of Rhodes Island...
+
+Chiave:
+Really?
+
+Chiave:
+No joke?
+
+Chiave:
+I want in on this.
+
+Calm Child:
+?
+
+Biu:
+Biu!
+
+Engineering Operator:
+—?
+
+Engineering Operator:
+What the heck are you? What are you doing?!
+
+Engineering Operator:
+That's a machine component, you can't eat it!
+
+Engineering Operator:
+Oh. Ms. Christine?
+
+Engineering Operator:
+Whew, that's a relief. I should thank Phantom. He may look hard to get along with, but he's got a heart of gold.
+
+Engineering Operator:
+Have a nice day, madam!
+
+Biu:
+Biu...!
+
+Xiaohei:
+Gotcha!
+
+Xiaobai:
+Why won't you listen, Biu?
+
+Xiaobai:
+You'll get hurt if you keep running around like this!
+
+Ah Gen:
+What's with this color?
+
+Biu:
+Biu!
+
+Ah Gen:
+Looks like he ate a lot.
+
+Ah Gen:
+So where did you find him, Xiaohei?
+
+Xiaohei:
+The room at the end of the hallway.
+
+Xiaohei:
+He also went to the toyhouse and the restaurant, and ate some of the food and toys. Without permission.
+
+Xiaobai:
+Whoops... Guess we'll have to apologize.
+
+Ah Gen:
+Yes, and keep a close eye on him.
+
+Xiaobai:
+Okay. Let's go!
+
+Xiaobai:
+So Biu didn't cause too much damage, and even caught an operator who skipped class?
+
+Xiaobai:
+And that fierce-looking red guy over there... was talking about digging something up, and now he's leaving by himself... Oh, he's looking this way!
+
+Truant Child:
+I'm sorry, Instructor Dur-nar! I won't do it again!
+
+Chiave:
+Don't worry, brother, I'll complete the mission!
+
+Xiaobai:
+...How touching.
+
+Ah Gen:
+......
+
+Ah Gen:
+Nice job, Biu.
+
+Ah Gen:
+So, apparently we won't need to pay any compensation, just do a few missions for them.
+
+Xiaobai:
+Does that mean Biu can't come with us?
+
+Ah Gen:
+Yeah, but they gave us a cage to put him in.
+
+Ah Gen:
+But we still need to find someone to take care of him...
+
+THRM-EX:
+Mmph! Ohhhh!
+
+THRM-EX:
+The ingenious Master Closure has added so many features with this update!
+
+THRM-EX:
+I can feel my passion break through and shine even brighter!
+
+Castle-3:
+Our storage capacity has increased by 35.7%, allowing us to download and install more engineering-related files.
+
+Lancet-2:
+I've been updated with more first aid procedures and language modules, further enhancing my support capabilities.
+
+Lancet-2:
+I especially appreciate the ability to recover deleted files. I recovered a recording of the Doctor snoring from a few years ago. Would you like to hear it?
+
+Xiaobai:
+Wow!
+
+Xiaohei:
+What are those?
+
+Ah Gen:
+Robots? Talking to each other?
+
+THRM-EX:
+Good morning, unfamiliar lady and gentlemen! Are you in awe of my perfect form?
+
+THRM-EX:
+I knew no one could resist my scorching charisma!
+
+Castle-3:
+Unknown personnel detected. Do you require assistance from Rhodes Island?
+
+Lancet-2:
+I can help you if you're not feeling well.
+
+Xiaobai:
+Wow, they really can talk!
+
+Xiaobai:
+Hi there, we're new here, but we have a pet who needs to be looked after while we're away. Do you know anyone who can help us?
+
+Castle-3:
+A pet?
+
+THRM-EX:
+Not a problem! This update includes 956 volumes on pet care, encompassing every species of plant and animal known to be kept for recreational purposes. I guarantee my burning core will keep them warm!
+
+Lancet-2:
+I can also help when they are not feeling well.
+
+Lancet-2:
+I have extensive experience in caring for operators.
+
+Xiaobai:
+Really? Wow, amazing!
+
+THRM-EX:
+More than amazing, incredible! For I, Closure's masterpiece, will singlehandedly solve all your problems!
+
+Xiaohei:
+(Whisper) Are they spirits?
+
+Xiaobai:
+Smart robots, Xiaohei. Way more advanced than the ones we're used to, though. They may not look like people, but they definitely talk like people.
+
+Xiaobai:
+The technology here is incredible.
+
+Xiaobai:
+So, he says he knows a lot about caring for pets. I think we can trust him. What about you guys?
+
+Xiaohei:
+Hm... Why not?
+
+Ah Gen:
+It wouldn't be easy to find someone else on short notice... Alright then.
+
+Xiaohei:
+Stay here, Heixiu.
+
+Heixiu:
+Hey-xiu!
+
+THRM-EX:
+Oooh! What an adorable black blob! Sitting right on my outer frame!
+
+Xiaobai:
+Haha. We'll leave things to you then!
+
+Xiaobai:
+And don't give Biu any metal or living things. It's dangerous!
+
+Xiaobai:
+You can take him out of the cage if Heixiu's around.
+
+Xiaobai:
+But he's still very excited, so keep him locked up for a little longer.
+
+Castle-3:
+Understood. Please register your names and that of your pets, to be uploaded to the terminal as a mission.
+
+Xiaobai:
+Thanks!
+
+Biu:
+Biu! Biu!
+
+Castle-3:
+Behavior analysis indicates a desire to go out and play.
+
+THRM-EX:
+Let him ride on my broad back! I'll show him every corner of Rhodes Island!
+
+Biu:
+Biu?
+
+Lancet-2:
+He's clawing at the cage. Is he not feeling well?
+
+Lancet-2:
+Hey, why does he not talk?
+
+Castle-3:
+Querying the latest language modules.
+
+Lancet-2:
+I seem to have previously deleted some language data. Allow me to restore it...
+
+Lancet-2:
+Eat my shorts, berk, guan ni pi shi...!
+
+Castle-3:
+Analysis indicates this is from a collection of Terran expletives that was accidentally added to your library. The engineering department prepared a plugin for you because of this.
+
+Lancet-2:
+Apologies... I have re-deleted them.
+
+THRM-EX:
+No, no, time waits for no man. I can't hold back my core's burning passion anymore! Put the cage on my back, and let's depart!
+
+Castle-3:
+Hold on. According to '100 Tips on Keeping a Pet,' animals demonstrate stress reactions when exposed to an unfamiliar environment.
+
+Castle-3:
+This is because they are unsure if it is safe or not. We must create an environment for Biu that is absolutely safe.
+
+THRM-EX:
+Acknowledged! Scouting the nearby environment.
+
+THRM-EX:
+Scouting! Scouting!
+
+THRM-EX:
+Failed! Feature not found!
+
+Castle-3:
+I will do it.
+
+Castle-3:
+Hallway confirmed safe.
+
+Castle-3:
+There is no need to worry, Biu.
+
+Lancet-2:
+Is he trembling?
+
+Castle-3:
+It may be a stress reaction.
+
+Biu:
+Biu! (I wanna go out and play!)
+
+Lancet-2:
+What do we do?
+
+Lancet-2:
+Let me give him a check-up.
+
+Biu:
+Biu! (I wanna go out and play!)
+
+Lancet-2:
+Data within expected range. We can go.
+
+THRM-EX:
+Ooorah! Let's go!!!
+
+Biu:
+Biu!
+
+Lancet-2:
+Do you want to go out and play?
+
+Castle-3:
+We cannot. The operators said he is still excited, and that it will be dangerous.
+
+Castle-3:
+I must scan each room to ensure absolute safety.
+
+Biu:
+Chirp...
+
+THRM-EX:
+Don't be frustrated, little one! I'll give you the full tour during the long wait!
+
+THRM-EX:
+This is the Rhodes Island rest area. Operators put up stalls over there from time to time, where you can buy whatever you like!
+
+Lancet-2:
+I doubt Biu would be interested in shopping.
+
+Biu:
+Chirp...
+
+THRM-EX:
+Then what about the workshop? I can't wait to bring him inside!
+
+Biu:
+Biu! Biu! (I wanna go!)
+
+Castle-3:
+Scan complete. The garage contains large quantities of metal, indicating a high degree of danger.
+
+Biu:
+Chirp...
+
+Castle-3:
+Continuing scan of conveyor area.
+
+Operator Passerby:
+Hey, what's that?
+
+Curious Operator:
+Gummy said he's a big eater! Want some fries?
+
+Biu:
+Biu!
+
+Curious Operator:
+Oh, he's so cute!
+
+Operator Passerby:
+Come on, eat up, I have more where that came from!
+
+THRM-EX:
+Apologies, operators, but his owner warned us not to feed him because it's dangerous.
+
+Operator Passerby:
+I see.
+
+Curious Operator:
+Sorry.
+
+THRM-EX:
+So what about the conveyor area? I can't stop myself from overheating anymore!
+
+Biu:
+Biu! Biu! (I wanna go!)
+
+Castle-3:
+Scan complete. The conveyor area contains conveyor belts, indicating a high degree of danger.
+
+Biu:
+Biu...
+
+Castle-3:
+Scan complete. A high degree of danger.
+
+Biu:
+Biu...
+
+Castle-3:
+Scan complete. A high degree of danger.
+
+Castle-3:
+Biu, you need to stay within a 5-meter area in this hallway. Both ahead and behind are too dangerous.
+
+Castle-3:
+You must remain in this cage until you calm down, to ensure your own safety.
+
+Biu:
+Biu...
+
+Lancet-2:
+Biu is looking even worse. Is he afraid of the outside?
+
+Biu:
+Biu! Biu! (No! No!)
+
+Castle-3:
+He became more excited upon hearing your words. I gather you were correct.
+
+Castle-3:
+Let's return. Scans indicate a large amount of metal and living beings in these rooms, but no wood, making it dangerous.
+
+Lancet-2:
+Here is some disinfected wood. According to 'Pets for Dummies,' it is ideal to feed once every 2.5 hours.
+
+Lancet-2:
+Here, an appropriate portion.
+
+Biu:
+Biu! Biu! (It's too little!)
+
+Lancet-2:
+The serving size has been meticulously calculated. The next feeding will occur in 2.5 hours.
+
+Lancet-2:
+According to 'How to Make Your Pet Love You,' one must always be attentive to their physical and mental state.
+
+Lancet-2:
+One hour has elapsed since the last check-up. I must perform another check-up to ensure that you are healthy, and continue to do so every hour.
+
+Biu:
+......
+
+Biu:
+Biu!!! (I'm gonna bite your head off!)
+
+Biu:
+Biu... (No, Xiaobai said not to...)
+
+Biu:
+Biu... (Sob...)
+
+Lancet-2:
+Come on, Biu, turn on your back and let me check your pulse...
+
+Castle-3:
+I observed the black blob open Biu's cage, causing Biu to flee into a corner of the hallway.
+
+Castle-3:
+I am unable to bend down, so I do not know where he went.
+
+Lancet-2:
+But I can hear him run away as soon as we approach.
+
+Lancet-2:
+He seems to be avoiding us.
+
+THRM-EX:
+I'm sorry, Biu! Were you scorched by my burning passion?!
+
+THRM-EX:
+I haven't learned to cool it down, but I'll control myself for your sake if you don't like it!
+
+THRM-EX:
+For that is my duty!
+
+Castle-3:
+Biu remains stationary beneath a box.
+
+Lancet-2:
+Heixiu is still here, which means Biu is safe, but keeping his distance.
+
+Castle-3:
+I ran another self-diagnostic. There is no error with my programming. Every step was taken in accordance with the instruction in the books.
+
+Castle-3:
+I do not understand why this is happening.
+
+Lancet-2:
+Perhaps we should ask other operators for assistance.
+
+Lancet-2:
+But we clearly did exactly as instructed, and have not had similar issues when interacting with operators...
+
+Lancet-2:
+What could be the issue?
+
+Rockrock:
+Biu? Biu? Where are you?
+
+Rockrock:
+I just reported back, Lancet-2. I heard Biu is with you, but I don't see him.
+
+THRM-EX:
+Hello, Operator Rockrock!
+
+THRM-EX:
+While I would love to share the burning warmth of my core with you, we need your help!
+
+Castle-3:
+We have a situation here, Operator Rockrock.
+
+Castle-3:
+Based on your interactions, how did Ah Gen and the others take care of Biu?
+
+Lancet-2:
+We followed the pet care manuals to the letter, but ran into some trouble.
+
+Rockrock:
+Hmm... let me think...
+
+Xiaobai:
+Uh oh, Biu, what did you just eat?
+
+Biu:
+Biu!
+
+Ah Gen:
+He's turned black, with red and white dots on him.
+
+Xiaobai:
+Eek!
+
+Biu:
+Biu!
+
+Rockrock:
+Er, I think he just ate the comb I made.
+
+Xiaobai:
+Oh, I'm so sorry!
+
+Rockrock:
+It's fine, there's plenty of wood for me to make another one.
+
+Rockrock:
+But does he eat wood?
+
+Xiaobai:
+Yup! Biu loves wood. He even made a big hole in my grandpa's house!
+
+Rockrock:
+...And you're that happy about that?
+
+Xiaobai:
+Teehee.
+
+Rockrock:
+Fine, just give him what he wants.
+
+Rockrock:
+He ended up eating most of the materials I brought. And I was planning on making something, too. Oh well.
+
+Biu:
+Biu!
+
+Rockrock:
+There you are.
+
+Rockrock:
+Here, my last two pieces of wood...
+
+THRM-EX:
+But it's not feeding time—
+
+Castle-3:
+Your machine has not yet been scanned—
+
+Lancet-2:
+It must be disinfected first—
+
+Biu:
+(Swallow)
+
+Biu:
+Biu!
+
+Rockrock:
+Well, now he's a light yellow. Looks like the wood wasn't thoroughly dried. Thanks, Biu.
+
+Rockrock:
+Oh, there you are, Heixiu.
+
+Castle-3:
+There was no scan, nor is it feeding time. Your actions are not in accordance with the manuals.
+
+Lancet-2:
+But Biu came out of his own accord, and he looks happy.
+
+THRM-EX:
+Thank you, Operator Rockrock! You have relit my core, which had gone cold at not being able to solve the problem!
+
+Rockrock:
+Yeah, so just do it like that.
+
+Rockrock:
+Let him run around and eat whatever he wants. Other people can hold him too, as long as Heixiu's around.
+
+Rockrock:
+Don't overthink it.
+
+Lancet-2:
+We should relax our parameters? I can try.
+
+Lancet-2:
+...Biu, I have a piece of wood here. Would you like it?
+
+Biu:
+Chirp!
+
+Castle-3:
+You are feeding him directly?
+
+Rockrock:
+Yeah. Look at how flat his tummy is. He's hungry. Just give him something to eat and he'll take a nap.
+
+Castle-3:
+What about the unfamiliar environment?
+
+Rockrock:
+Heixiu's around, so no worries.
+
+THRM-EX:
+Can others feed him too?
+
+Rockrock:
+Sure, as long as it's not metallic or alive.
+
+Lancet-2:
+Understood. Thank you, Operator Rockrock.
+
+Rockrock:
+Alright, I gotta get going.
+
+Castle-3:
+Have a nice day.
+
+Castle-3:
+Lancet-2, I think we can delete some of the books in our library.
+
+Castle-3:
+Or all of them.
+
+Castle-3:
+Biu has responded better to Rockrock's methods than the ones we have recorded.
+
+THRM-EX:
+You're absolutely right! We must warm Biu with our burning cores!
+
+Lancet-2:
+I will retain 'Basic Pet Habits,' to ensure that I have essential veterinary knowledge.
+
+Lancet-2:
+I was originally designed to care for operators, after all.
+
+Lancet-2:
+Is that ok, Biu?
+
+Biu:
+Biu!
+
+Castle-3:
+Where do you want to go, then?
+
+Biu:
+Biu!
+
+THRM-EX:
+Wherever you like!
+
+THRM-EX:
+My warmth will always be by your side!
+
+Lancet-2:
+We can just follow him.
+
+Biu:
+Biu!
+
+Biu:
+Biu!
+
+THRM-EX:
+Wooow, look at that setting sun!
+
+THRM-EX:
+It's lit a fire in my core!
+
+THRM-EX:
+And look how stylishly Biu eats, like the wind sweeping through the clouds!
+
+Castle-3:
+Did you install a module of Yanese expressions, THRM-EX?
+
+THRM-EX:
+The amazing Doctor did! They believed it would help me convey my thoughts even better!
+
+THRM-EX:
+And it just happens to have an expression that describes Biu perfectly!
+
+Biu:
+Biu!
+
+Castle-3:
+......
+
+Lancet-2:
+......
+
+Castle-3:
+According to Ah Gen, they should be about done with their mission soon.
+
+Castle-3:
+No wonder Biu wanted to get out.
+
+Lancet-2:
+Did you like the food from the cafeteria, Biu?
+
+Biu:
+Biu!
+
+Lancet-2:
+That said, the staff were a little sad to see you ignore their dishes and go straight for the chopsticks.
+
+Castle-3:
+Fortunately, operators from Yan or Higashi are rare, so we have plenty to spare.
+
+Biu:
+Biu!
+
+THRM-EX:
+Look, Biu likes it!
+
+THRM-EX:
+Oooooohhh!
+
+THRM-EX:
+Oooooohhh!!!
+
+THRM-EX:
+He's approaching me for the very first time! He likes me! I can't control the heat of my core—
+
+Lancet-2:
+——
+
+Lancet-2:
+Good thing I have the cold spray first-aid module. That seemed effective on you.
+
+Castle-3:
+If only Biu could install language modules.
+
+Lancet-2:
+My programming has determined that that would be illegal.
+
+Castle-3:
+I mean, if only he could communicate with us.
+
+Castle-3:
+Taking care of a creature that cannot speak is much more difficult than expected.
+
+Castle-3:
+At least we didn't fail the mission.
+
+Castle-3:
+Thank you, Biu. I am not equipped with an emotion chip, but my core is instructing me to sing a folk song for you. Would you like me to play it?
+
+Lancet-2:
+It feels as though my clock speed is dropping. Why is that?
+
+Lancet-2:
+Oh, it's back to normal.
+
+Biu:
+Biu! Biu!
+
+Lancet-2:
+Ride on me and we'll climb the hill ahead of us. That way, we can see the vehicles headed back to the ship.
+
+Lancet-2:
+Would you like to ride on me, or walk by yourself?
+
+Biu:
+Biu!
+
+Lancet-2:
+You want to go by yourself?
+
+Biu darts through branches, bushes, and rocks towards the peak of the hill.
+
+The setting sun shines on him and the robots.
+
+Castle-3:
+Lancet-2, THRM-EX, can you sing?
+
+Castle-3:
+I looked up a song that I previously learned.
+
+Castle-3:
+'♪My parents want me to be a lawyer♪'
+
+Castle-3:
+'♪My grandparents want me to form a family♪'
+
+Castle-3:
+'♪But all I want to do is pick up my brush♪'
+
+Castle-3:
+'♪And draw this sunset♪'
+
+Lancet-2:
+Can Biu draw the sunset, Castle-3?
+
+Castle-3:
+I am unable to answer this question.
+
+Castle-3:
+But the way he runs around under the setting sun shows that he is happy.
+
+Biu:
+Biu! Biu!
+
+Castle-3:
+It is what he likes to do.
+
+Castle-3:
+♪That is all good, but I love the sunset the most♪'
+
+THRM-EX:
+Hey, I can see the sunset reflecting off the vehicles on their way back!
+
+THRM-EX:
+Let's go meet them with my burning passion!
+
+Lancet-2:
+Please wait while I update my database.
+
+Lancet-2:
+Update complete. Let us go.
+
+Biu:
+Biu!
+
+The robots follow behind Biu, leaving long clouds of dust in their wake.
+
+A line of text flashes across Closure's robot monitoring terminal.
+
+'Worry not and enjoy the present.'
+
+
+

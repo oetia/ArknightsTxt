@@ -1,0 +1,697 @@
+Ace:
+I bet 300. It's just a pile of broken scrap metal. Not worth the trouble.
+
+Scout:
+You sure? I'll bet 500, then. That thing's important to us.
+
+Ace:
+How do you figure?
+
+Scout:
+Intuition.
+
+Ace:
+Not tricky to find old gadgets in the wastes, though, when Catastrophes blow them out all the time.
+
+Scout:
+But intuition tells me that's not your average trash.
+
+Doctor:
+What are you two chatting about?
+
+Ace:
+Oh, Doctor.
+
+Scout:
+Good evening, Dr. {@nickname}.
+
+Scout:
+We went to a drifter settlement yesterday while on field duty, and turned out something fairly interesting.
+
+Ace:
+It's just industrial scrap. I've seen this stuff all over the western wastes. Not worth your time, Doctor.
+
+Scout:
+But incredibly, it's industrial scrap that still works. It seems to be playing some kind of audio.
+
+Doctor:
+Music?
+
+Ace:
+You'd be hard-pressed to convince me that's music.
+
+Doctor:
+The circumstances it was found in?
+
+Scout:
+There was a strange machine in the middle of the drifters' settlement. Painted red, very heavy, and made strange noises when anyone came near.
+
+Scout:
+The drifters weren't too keen on approaching it, but they still set up camp around it.
+
+Scout:
+We ought to have moved it back. Dame Kal'tsit might know the specifics of its technology.
+
+Ace:
+Spend cash to drag back a pile of industrial scrap? Have we ever had the luxury?
+
+Scout:
+Perhaps that banshee might take a liking to it.
+
+Ace:
+If you have some personal beef going on, I suggest you don't bring it to work.
+
+Doctor:
+Sounds interesting.
+
+Doctor:
+Time permitting, we can visit that settlement together sometime. Maybe I'll be able to tell you what it is.
+
+Ace:
+Oh, looks like our gamble's gonna pay off, then.
+
+Scout:
+Then it's settled. Once Her Majesty's affairs are worked out for the time being, together we'll go.
+
+Scout:
+And keep to that deal.
+
+You awaken to an unpleasant mechanical noise.
+
+A normal day.
+
+Before your eyes is the ceiling of an ordinary living room in Rhodes Island. The furnishings look just as ordinary, though the hum of the ventilation system seems a bit deeper than in other cabins.
+
+You know why. It is one of the most inconspicuous parts of your many peculiarities.
+
+You wash up perfunctorily. This part isn't so different from ordinary people. You take special medication to maintain your condition. This part is a bit different from ordinary people.
+
+Next, you don the full-body protective clothing that hampers your normal activities, but considering your physical condition, it is necessary. It may also be temporary, depending on your recovery.
+
+These are all orders from Dr. Kal'tsit. According to her, you used to know more about these things than she did; but now, only she can look after your health.
+
+Kal'tsit:
+Of course, Dr. {@nickname}. You are not like that one.
+
+Kal'tsit:
+Is there anyone out there like us?
+
+Kal'tsit:
+...Is anyone out there like you?
+
+The world has not been kind to you, and you know this.
+
+Amiya:
+Ah, Doctor, you're awake.
+
+Amiya:
+Considering how late you stayed up, you can rest a bit longer.
+
+Amiya:
+Doctor... I'm not trying to supervise your work or anything. You should rest when it's time to rest.
+
+Amiya:
+Hmm... Dr. Kal'tsit says you need to be getting enough sleep, and that means more than usual.
+
+Amiya:
+Really...? Doctor, I'm worried you may be a little TOO energetic.
+
+Amiya:
+Oh, by the way, Dr. Kal'tsit stepped out for the day. She asked me to tell you that the meeting is postponed to tomorrow.
+
+Amiya:
+Yes, that's why you should take advantage of it and rest up.
+
+7:33 A.M.
+
+Rhodes Island Cafeteria
+
+Fang:
+Oh, Doctor! Good morning.
+
+Kroos:
+Ehh? Oh, Doctor~!
+
+Kroos:
+Wooow, Doctor, you actually got the time to come down to the cafeteria for breakfast today?
+
+Noir Corne:
+Heh, would you look at that.
+
+Noir Corne:
+I never see you in the cafeteria so early.
+
+Noir Corne:
+What impression, huh... Probably a workaholic, chronically overworked all year round?
+
+Noir Corne:
+Seriously though, this is long overdue. You've been like this ever since we left Lungmen. Don't want to see you break down.
+
+Noir Corne:
+Be a little kinder to yourself, Doctor. After all, we were—
+
+Noir Corne:
+—Ouch... Gahhh, g'damn, the hell are you doing?!
+
+Yato:
+Loose lips sink ships.
+
+Noir Corne:
+Huh?
+
+Noir Corne:
+Oh, it's not that, Doctor. That's not what I meant...
+
+Noir Corne:
+Well, whatever. Enjoy your breakfast. I'll leave you in peace.
+
+The operators gradually disperse, and you find yourself sitting in the corner of the canteen, a rare occurrence indeed.
+
+Rhodes Island, a place that makes you feel both at home yet also estranged, just like those clear but also unrecognizable memories. A pharmaceutical company with the primary goal of resolving the problems surrounding the Infected.
+
+It is said that the past you was intimately connected to all of this. It is said that you played a key role in its establishment. It is said that you were the brains of Rhodes Island, and that Rhodes Island was the extension of your will.
+
+A portion of what was spoken of has been slowly returning to you, but you are not sure if this is good or bad.
+
+You have forgotten too much. Rhodes Island has welcomed you, but you don't know if you are worthy of its welcome.
+
+Your breakfast lies before your eyes, a bland but healthy meal. You know that this, too, is Kal'tsit's work.
+
+Over the past three months, your life has been filled with these feelings—
+
+Everything is so strange yet so nostalgic. Conceptually, these feelings are completely contradictory, yet they manifest in front of you together.
+
+Three months ago, during the sudden outbreak of rioting and conflict, they... Rhodes Island, rescued you from the epicenter of the turmoil.
+
+In the ensuing conflict, too many people lost their lives.
+
+So many of the deceased recognized you, yet you do not recognize them; So many of the deceased heard about you, yet you have not heard about them.
+
+You gave your utmost, gaining greater respect in the process, and your hard work finally bore the fruit of victory. Yet that victory still came laden with inevitable pain.
+
+Up until now... Up until now, you've had but one question, a question that you've repeatedly raised to yourself but have never been able to answer.
+
+Is it all worth it?
+
+2:45 P.M.
+
+Rhodes Island Integrated Bioprocessing Unit
+
+Stretching out before your eyes is the most unique warehouse in all of Rhodes Island.
+
+A large number of unclaimed objects are stacked in this warehouse.
+
+A petite Perro operator is struggling to wipe down a badly-damaged shield.
+
+You recognize the shield, and remember the former owner of that shield.
+
+You remember that tall, somewhat slovenly operator who always sported a hearty smile. He was once your friend, or so you've been told. But you don't know anything.
+
+You're weary of this repetitive, contradictory nonsense, but nothing better encapsulates the current state of your existence.
+
+All the specifics sift through the cracks of your fingers. You extend your hand to catch them, but the fine sands of memory are dragged down by gravity and fall into the abyss, grain by grain.
+
+Beagle:
+D-Doctor?
+
+Beagle:
+How'd you end up over her...
+
+Beagle:
+Yes. It belonged to him. Every week, I come by... to keep it clean.
+
+Beagle:
+Ugh, it's... so heavy.
+
+Beagle:
+Um, can you lend me a hand, Doctor? It's really, really heavy... I always have trouble lifting it back onto the shelf.
+
+You step forward to help her, but soon realize that you are too weak to lift the shield even a single centimeter off the ground.
+
+Perhaps you were able to do it in the past, but such a task is no longer possible for your convalescing body. Kal'tsit has reminded you of this, as well as everything else.
+
+Beagle:
+Hey! Heyyyy! Doctor, don't lift with your back!
+
+Beagle:
+Um, never mind. I can do it myself.
+
+Beagle:
+Don't worry about it. They always said you're the smartest person on Rhodes Island.
+
+Beagle:
+Alright! Just like this though— and be careful!
+
+Beagle:
+Phew! We did it!
+
+Beagle:
+Let's see, Instructor Dobermann and others used to say that, as well as the elite operators.
+
+Beagle:
+Including Ace...
+
+Beagle:
+He used to talk about you. He said that you could stand up to half an army by yourself, hahaha.
+
+Beagle:
+Huh? Um... were we close...?
+
+Beagle:
+Ace was close to everyone. That's the kind of person he was.
+
+Beagle:
+The very reliable type... During training, he taught us all sorts of things, fighting as a team, cooperation, breaking encirclement.
+
+Beagle:
+The elite operators are always busy, but Ace took the time to drop by the training grounds.
+
+Beagle:
+I always thought to myself, when could I become as reliable as Ace...?
+
+Beagle stares at the shield with a sad smile. The dust from the warehouse plaster her hair and face, but the Perro operator doesn't seem to care.
+
+You look around the room, and in the corner of the shelf, something catches your attention.
+
+Various photos and ornaments stacked in a small, messy box. Underneath it are some old, faded documents.
+
+Beagle:
+Oh... That's....
+
+Beagle:
+......
+
+Beagle:
+Doctor, you shouldn't...
+
+Beagle:
+These are... things that belonged to... they're from the Reunion fighters, back in Lungmen...
+
+Beagle:
+The handlers in the Processing Room were discussing what to do with these for a long time, and ended up stuffing everything in here.
+
+You flip through a few photos. These old, yellowed, stained photos almost all depict Ursus people.
+
+Most of the people in the photos are clad in ragged clothes, showing a mix of awkwardness, joy, or numbness when facing the camera.
+
+On the backside of a silver pendant in the box is an engraving in the Ursus script—
+
+—'To Ivana, my darling daughter. May she always know happiness.'
+
+Among them are former enemies, as well as former friends.
+
+You know that some of them fought against Rhodes Island to the bitter end, and you also know that some of them became allies of Rhodes Island in a time of crisis.
+
+You don't know all their stories, but you do know the suffering of the Infected. You know... and yet you do not know.
+
+Beagle:
+Sometimes, those of us who were there, will also ask ourselves this question......
+
+Beagle:
+All of us have been through disaster. Ursus, the Infected, as well as us, but...
+
+Beagle:
+Was all of this truly worth it?
+
+Beagle:
+Ah, sorry. I, I shouldn't be venting my frustration... But every time I come here, and see these things...
+
+Beagle:
+A-Anyways, please forget I said anything, Doctor— Doctor?
+
+Beagle:
+Ah, it's already three! Gotta head to the training grounds. If I'm late, Instructor Dobermann's gonna chew me out again.
+
+Beagle:
+Gotta go, Doctor! Remember to lock the door, okay?
+
+The Perro operator rushes out, leaving you alone with the ownerless objects stacked in the warehouse, save the slowly-settling dust of time.
+
+You are about to turn and leave, but a strange red shadow enters your field of vision. Curious, but just not enough to stop your movement.
+
+It's just a strange red machine.
+
+3:53 P.M. \ Overcast
+
+Rhodes Island Landship, Lower Deck
+
+W:
+Real talk, don't you guys get hot in here all day? Not even thinking about heading up to catch some fresh air?
+
+Sarkaz Boiler Worker:
+This heat is just right for us Goliaths. Besides, someone's gotta keep an eye on this equipment.
+
+Sarkaz Boiler Worker:
+Rhodes Island depends on the power system here.
+
+W:
+Whatever keeps your motor running.
+
+Sarkaz Boiler Worker:
+Getting ready to leave?
+
+W:
+Yup, there's nothing for me here, plus that old hag Kal'tsit's giving me the evil eye again.
+
+Sarkaz Boiler Worker:
+I'm actually really surprised that Dame Kal'tsit even let you back on.
+
+W:
+Hah. Do you have any idea how many swords the hag has hanging over my head right now?
+
+W:
+More than you could ever... Oi, look at the corridor over there. Wanna guess who's standing in that corner?
+
+Sarkaz Boiler Worker:
+...Are you going to Victoria?
+
+W:
+Guess so. Just had a few words for my dear old pals before I go.
+
+Sarkaz Boiler Worker:
+We all know what you're trying to do. We also know we can't talk you out of it.
+
+Sarkaz Boiler Worker:
+But I have to say it one more time. Going to Victoria is not a good idea, W.
+
+Sarkaz Boiler Worker:
+I think Sarkaz maybe shouldn't...
+
+Sarkaz Boiler Worker:
+Ah, whatever. I'm just a boiler worker, and I shouldn't even be saying this stuff to you. Forget I brought it up.
+
+W:
+There is something I've wanted to ask... Most of the gang already left, so why are you staying behind?
+
+W:
+With your skills, don't you think you could make a good living anywhere?
+
+Sarkaz Boiler Worker:
+......
+
+Sarkaz Boiler Worker:
+Her Majesty left us this home. No reason we should leave it.
+
+Sarkaz Boiler Worker:
+Having a place we belong to sure as hell beats wandering the wastes.
+
+Sarkaz Boiler Worker:
+Besides...
+
+The burly Sarkaz knocks on the nearby machine.
+
+Sarkaz Boiler Worker:
+We have to protect the things Her Majesty left behind. I guess it's not much different from what you're trying to do... And you know that, W, better than anyone else.
+
+W:
+Protecting a boiler? That big ol' hunk of steamy machinery is your home, huh?
+
+Sarkaz Boiler Worker:
+Basically, yeah. I'd say this boiler is my purpose in life. Laugh if you want.
+
+W:
+Yeah, you know this isn't exactly a laughing situation.
+
+Sarkaz Boiler Worker:
+Haha. You're still thinking of us, and we appreciate that.
+
+Sarkaz Boiler Worker:
+Safe travels.
+
+W:
+Ugh... saps.
+
+???:
+It's time to go.
+
+A voice from the shadows. W looks up, and though the light isn't on, someone has been staring at her from the darkness since the beginning.
+
+W:
+I know, I know... Ascalon, you're the most impatient one of all, aren't you?
+
+W:
+But you're really not gonna let me see that 'Doctor' or the dragon lady? There's a loooot— that I still want to say to them—
+
+???:
+......
+
+W:
+Aww, giving me the cold shoulder?
+
+W:
+So, Ines is still alive? What's the situation in Londinium?
+
+W:
+Then what's the plan? You used to be with Theresis—
+
+???:
+......
+
+W:
+Haha, fine. Spooking me with the silent treatment isn't easy. You used to be a lot more talkative. I guess seeing me pissed you off? I'll leave then, happy?
+
+W:
+It just so happens that I had some stuff to check with the old hag first, otherwise I wouldn't have wanted to be here either.
+
+???:
+We work together for now.
+
+W:
+Work together, huh? I'm not sure I'd call it that. It's more like making sure I've got all my targets nice and clear before we meet up out there in a warzone later.
+
+W:
+I'm not gonna randomly stroll into Rhodes Island, don't worry. Though, those folks sure have an interesting look in their eyes. It's a warrior's look, you see it in battle—
+
+???:
+......
+
+The Sarkaz in the shadows does not answer.
+
+W knows of this habit, in Ascalon's line of work. The rule is, each extra word makes your head hit the ground a little bit faster.
+
+W:
+My dear sweet Ascalon, you're not my boss anymore.
+
+W:
+See you in Londinium.
+
+Sarkaz Boiler Worker:
+What's wrong, W? You haven't left yet? Huh...
+
+Sarkaz Boiler Worker:
+That's weird. How come there's nobody here?
+
+4:10 P.M.
+
+Rhodes Island Landship, Lower Deck
+
+The roar of machinery fills the lowest level of Rhodes Island, the area that provides power to the entire ship.
+
+The Sarkaz Goliaths are the operators responsible for running it. On weekdays, the bottom level is populated pretty exclusively by technical staff.
+
+You are wandering around aimlessly.
+
+In these three months, you still have not set foot in every corner of Rhodes Island.
+
+Rhodes Island is like a small nomadic city. Though much smaller in scale, it is still well-equipped.
+
+Its internal structure is far more complicated than it seems at a glance, and the power plant is one such example.
+
+Sarkaz Boiler Worker:
+Hm? Why's it so lively here today? Nobody ever comes down to a place like... Oh...
+
+Sarkaz Boiler Worker:
+Doctor?
+
+Sarkaz Boiler Worker:
+Yes, that's right. Actually... Uh, I've been wanting to talk to you for a while.
+
+Sarkaz Boiler Worker:
+But you didn't need to come down here in person. I'm drenched in sweat, and it's way too hot here for you...
+
+Sarkaz Boiler Worker:
+Why don't take this somewhere else? How does that sound?
+
+Sarkaz Boiler Worker:
+It's just... about some nostalgic stuff. Sorry to make you listen to my rambling.
+
+The burly Sarkaz man puts down the wrench in his hand and removes his dirty work gloves.
+
+From the bottom of his toolbox, he takes out a small teapot and the accompanying teacups, contrasting sharply with his large, rough hands.
+
+Sarkaz Boiler Worker:
+Do you drink tea?
+
+Sarkaz Boiler Worker:
+Don't worry about it. You're here, I might as well take a break.
+
+Sarkaz Boiler Worker:
+You... Haha, I won't try to hide it. In fact, I never thought I'd get a chance to chat with you like this.
+
+Sarkaz Boiler Worker:
+Seems like you're in a bad mood. Is something wrong? Something to do with the weather?
+
+He knows more about Rhodes Island than you.
+
+You suddenly feel that it is this Sarkaz and his fellow workers who are keeping Rhodes Island going.
+
+They grasp the lifeblood of the landship in their hands, yet they deliberately avoid the public eye.
+
+You are grateful for everything they do, but don't know why.
+
+Sarkaz Boiler Worker:
+It's hard to see the weather when we're working down here. Even through the lower windows, all you can see is the dust kicked up by the treads.
+
+Sarkaz Boiler Worker:
+I don't know what complex problems you're mulling over, Doctor. I'm just a simple boiler worker.
+
+Sarkaz Boiler Worker:
+I'm not exactly the big brain type over here.
+
+Sarkaz Boiler Worker:
+Yes, Doctor. Miss Amiya and Dame Kal'tsit are always ready to help you, so you should probably start with them.
+
+Sarkaz Boiler Worker:
+There are too many things... and bottling them all up isn't a good option.
+
+Sarkaz Boiler Worker:
+I'm an old Rhodes Island hand, Doctor. We used to know each other. I took orders from you a few times before I started my technical work, even if you don't remember.
+
+Sarkaz Boiler Worker:
+The only advice I can give you is this: if they can't be the ones to answer you, who else can you ask to give you that answer?
+
+Sarkaz Boiler Worker:
+(Whispers) You are the ones She put her trust in... She trusted in you, and She trusted in them.
+
+Sarkaz Boiler Worker:
+In fact, I just saw W.
+
+Sarkaz Boiler Worker:
+Doctor, you must know by now, but W and Rhodes Island have a connection... and you're mixed up in that too.
+
+Sarkaz Boiler Worker:
+When a Sarkaz like Flamebringer showed up at Rhodes Island, I knew this day would come.
+
+Sarkaz Boiler Worker:
+It's something. From Kazdel to Ursus, then to Lungmen, and onto us here today, and even on into the future...
+
+Sarkaz Boiler Worker:
+We've kept moving forward, but we keep bumping into the same faces we started this journey with. Only now, they bring some of those far-reaching effects they left behind...
+
+6:22 P.M.
+
+Amiya:
+Doctor, you're back?
+
+Amiya:
+I haven't seen you all day... Where have you been?
+
+Amiya:
+It's fine. Getting enough rest is also a part of your job.
+
+Amiya:
+Doctor...
+
+Amiya:
+I'll tell you a little secret, but don't let Dr. Kal'tsit know.
+
+Amiya:
+The truth is, Dr. Kal'tsit didn't have anything that important to do today. She didn't need to go out.
+
+Amiya:
+She's seen how tired you've been lately and wanted you to take a break.
+
+Amiya:
+But, you look pretty happy? Did something good happen?
+
+Amiya:
+Storage room... Doctor, did you... What do you mean by something strange?
+
+Amiya:
+Oh, you're probably talking about that 'red industrial scrap.'
+
+Amiya:
+You might not remember, but... it was a bet between Scout and Ace. One day, they brought that device back to Rhodes Island.
+
+Amiya:
+Closure spent some time on it and decided it was useless, so she let it sit there in the warehouse.
+
+Amiya:
+Oh, of course.
+
+Among the various discarded, unused mechanical equipment in the warehouse, that strange device towers above the rest.
+
+The box-shaped device stands more than two meters tall. The red paint on the surface is clearly visible, but has been severely worn down under the perennial erosion of wind and sand.
+
+Closure:
+It's this thing. You're weird, Doctor. Why the sudden interest?
+
+Amiya:
+When they first brought it back, the box would make noises as soon as someone got close to it, but I think Closure broke it.
+
+Closure:
+What do you mean I broke it?! It was already like this when I moved it back here. All I did was 'study' it a little.
+
+Closure:
+I've never been able to figure out what this thing is really for. Originally wanted to see if I could open it up, but ended up breaking three power saws without a crack.
+
+Closure:
+So, yeah... Doctor, do you have any idea what this is?
+
+Closure:
+A safe this big and conspicuously colored? Maybe if you really wanted to attract thieves, I guess?
+
+Closure:
+Welp, even the Doctor doesn't know what it is.
+
+Closure:
+...Doctor, are you okay? All that work finally rotting your brain?
+
+You observe the enigmatic device carefully. There are no buttons and no gaps under its worn-out metal casing.
+
+You haven't seen anything like it before. At least in your existing memory, you have no impression of it.
+
+You lightly knock on the casing of the device, out of curiosity.
+
+Closure:
+Huh?
+
+Amiya:
+D-Doctor! Watch out!
+
+Closure:
+Don't worry about that right now, just stand back!
+
+After a violent rattling noise, the device lets out a small 'ding.'
+
+The complete, box-like structure suddenly opens, the once seamlessly-shut outer shell sliding up and down like a cabin door.
+
+Inside the box-like structure, you see an artifact with a metallic luster.
+
+Unlike the wear and tear that the outside of the box had been subjected to, everything inside is as smooth as ever, with no trace of the passage of time.
+
+However, the manmade object within fills everyone with a sense of familiarity.
+
+Closure:
+......
+
+Amiya:
+This is...
+
+Closure:
+A bottle... of beer... right?
+
+Closure:
+What the heck! I thought there'd be something super high-tech in it! Something a bit more constructive!
+
+Closure:
+After all that time, it turns out it's just a vending machine? What's the point of making something this tough anyway? You need it to withstand an originium bomb?!
+
+Closure:
+Ugh... But, isn't that kind of a weird color for beer? I'll have to look into it some more...
+
+Amiya:
+Doctor, do you know what this is?
+
+
+

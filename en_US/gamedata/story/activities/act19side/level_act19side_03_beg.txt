@@ -1,0 +1,632 @@
+Mechanist:
+Composition analysis failed.
+
+Mechanist:
+Liquid does not match any known compound.
+
+Saria:
+Look.
+
+White crystals form at her fingertips, spreading to cover her entire hand and forearm.
+
+It is a scene that you just saw, and which is as familiar to you from combat reports as from your own experience.
+
+Saria does not answer.
+
+Suddenly, she raises her hand, and you find her fist in front of your nose faster than you can blink.
+
+You hear the sound of mineral impacting metal, and know that Mechanist blocked the attack for you.
+
+Before you can catch your breath, you feel something cold touch your neck.
+
+Saria's other hand never moved.
+
+But there is a calcified blade at your throat, nonetheless.
+
+You instinctively hold your breath.
+
+Mechanist:
+Explain yourself, Saria.
+
+Saria:
+This is the quickest way to explain it.
+
+Saria:
+My Originium Arts reconstruct matter containing calcium, at a molecular level. This is what you call calcification.
+
+Saria:
+I can control the enamel formed this way using my mind, without the need to move.
+
+Saria:
+No radio signals or programs.
+
+Saria:
+They are like an extension of my limbs.
+
+Mechanist:
+Do you mean the power armor—
+
+Saria:
+A power armor is nothing more than a power armor.
+
+Saria:
+This silvery liquid is the key.
+
+Saria:
+It's the neurotransmitter of the power armor, linking the brainwaves of the operator to the machine.
+
+Mechanist:
+Like an Arts Unit?
+
+Saria:
+More than that, I should say.
+
+Saria:
+Sorry if I've caused any discomfort.
+
+Mechanist:
+I would not have gone for the Doctor's hand, were it not for that gesture to me.
+
+Saria:
+Good thing we know each other so well.
+
+Saria:
+There's someone I want to see.
+
+Saria:
+As far as I know, he's the first to actually use this prototype power armor.
+
+Saria:
+I would like you to come, with Mechanist.
+
+Ho'olheyak:
+You saw them go into a bar near the university?
+
+Columbian Mercenary:
+Yes, ma'am. All three of them.
+
+Ho'olheyak:
+I can guess who it is Saria's looking for.
+
+Ho'olheyak:
+We just saw him last week.
+
+Columbian Mercenary:
+Didn't he agree not to meet anyone from Rhine Lab?
+
+Ho'olheyak:
+Is Saria still Rhine?
+
+Ho'olheyak:
+I don't think she knows the answer herself.
+
+Columbian Mercenary:
+Should we stop them?
+
+Ho'olheyak:
+No.
+
+Ho'olheyak:
+I'm curious how much Saria knows.
+
+Ho'olheyak:
+It's about time we had a talk.
+
+Ho'olheyak:
+And one more thing... Loken Williams is a graduate of the Trimounts Institute of Technology.
+
+Columbian Mercenary:
+Loken Williams...? Who is that?
+
+Ho'olheyak:
+I guess time really does fly.
+
+Ho'olheyak:
+One accident, and everyone forgets the brightest star of academia.
+
+Ho'olheyak:
+Saria and the Control of Rhine Lab went to the same school.
+
+Ho'olheyak:
+Social gatherings in Columbia's tech sector are basically all TIT reunions.
+
+Ho'olheyak:
+I wish I could've spent some time at that school myself.
+
+Ho'olheyak:
+Let's go. Maybe it's not too late to join the fun.
+
+Pioneer Team Member:
+The last fire bomb!
+
+Sonny:
+Throw it! Far as you can!
+
+Pioneer Team Member:
+Here goes!
+
+Sonny:
+With me! Get inside!
+
+Sonny:
+We got everybody?
+
+Pioneer Team Member:
+Whew... yes, sir. All present and accounted for.
+
+Sonny:
+What about the monsters?
+
+Pioneer Team Member:
+Not yet. The flask's still burning, looks like it's got their attention.
+
+Silence:
+Thank you, everyone.
+
+Silence:
+We have all of the injured.
+
+Sonny:
+What's next, Doc Silence?
+
+Pioneer Team Member:
+Sir, the door—
+
+Pioneer Team Member:
+It won't open! What the hell is going on?!
+
+Sonny:
+You lock that door, Doc?
+
+Silence:
+I've never been to this test site before.
+
+Sonny:
+Dr. Urbica?
+
+Elena:
+The lab doors are automatic.
+
+Pioneer Team Member:
+But it's locked!
+
+Elena:
+......
+
+Sonny:
+Doctor...
+
+Elena:
+What are you complaining about? Aren't you afraid of those silver constructs outside?
+
+Pioneer Team Member:
+How're we supposed to know if you're trying to keep them out, or keep us in?
+
+Pioneer Team Member:
+Maybe you planned all this!
+
+Elena:
+Are you joking?
+
+Elena:
+Hah! You're saying I somehow made you kidnap me?
+
+Pioneer Team Member:
+Watch it! You're our prisoner, don't forget!
+
+Sonny:
+Sam!
+
+Pioneer Team Member:
+You're the one who said these whitecoats are fooling us!
+
+Sonny:
+No, be quiet for a sec—
+
+Sonny:
+You hear it, Doc Silence? A rustle, like something slithering on the ground...
+
+Silence:
+......
+
+Gentle Female Voice:
+Do not stop, and do not look back.
+
+Gentle Female Voice:
+Push open the third door on your right.
+
+Pioneer Team Member:
+It opened!
+
+Gentle Female Voice:
+Do not be afraid. I will protect you.
+
+Gentle Female Voice:
+As always.
+
+Ferdinand:
+Test results for the latest batch of Transmitter?
+
+Rhine Lab Tech:
+Yes, sir.
+
+Rhine Lab Tech:
+In a laboratory environment, of course...
+
+Ferdinand:
+A one-point-seven percent increase in efficiency.
+
+Ferdinand:
+A massive breakthrough in one month.
+
+Ferdinand:
+Excellent work. Do you need more time? Ten days? Twenty?
+
+Rhine Lab Tech:
+S-Sorry! Whoa...
+
+???:
+Come now, don't frighten the youths like that.
+
+???:
+No wonder the staff so fear the accolades of the Director of Energy.
+
+Ferdinand:
+Come to boast about your people skills, Parvis?
+
+Parvis:
+Just passing through.
+
+Parvis:
+Back to your lab now, poor little fellow, I'll keep your director company for a bit.
+
+Rhine Lab Tech:
+Er, alright, ok!
+
+Rhine Lab Tech:
+Thank you...
+
+Parvis:
+Ahah! So quick on his feet. Such is youth, eh? Gone in a flash.
+
+Ferdinand:
+I don't see you outside your lab often, except for directors' meetings.
+
+Ferdinand:
+What brings you here, exactly?
+
+Parvis:
+Where do I even start? The brain doesn't spin so fast at my age.
+
+Ferdinand:
+You were born with white hair, Caprinae.
+
+Parvis:
+Haha.
+
+Parvis:
+Oh, now I remember. Do you know where Muelsyse is?
+
+Ferdinand:
+......
+
+Parvis:
+We made a bet. She wagered ten boxes of black bean tea from hydroponics in Ecological.
+
+Ferdinand:
+A bet?
+
+Parvis:
+Two days ago, she told me that you were planning to rid Ferdinand Clooney's name of the 'Director' title.
+
+Silence:
+Sonny...?
+
+Sonny:
+......
+
+Silence:
+Why did you stop?
+
+Sonny:
+We can't do this.
+
+Silence:
+Do what?
+
+Sonny:
+We can't follow that voice.
+
+Silence:
+The voice... you mean Director Franks?
+
+Silence:
+Sonny, Director Franks knows this lab better than anyone, better than Elena or myself. She knows where we'll be safe.
+
+Sonny:
+That's why I don't trust her!
+
+Sonny:
+Don't you see? She's pulling our strings, guiding every step, drilling into our minds...
+
+Sonny:
+She's walking us right into her cage, and we're going along with it!
+
+Silence:
+Please calm down, Sonny. Getting excited could exacerbate your condition.
+
+Sonny:
+Lemme go! Get away from me!
+
+Silence:
+Oof...
+
+Elena:
+Olivia! Are you okay?
+
+Silence:
+I'm fine.
+
+Elena:
+That's enough, Pioneer.
+
+Elena:
+I would have left you outside, if Olivia didn't insist we help you.
+
+Pioneer Team Member:
+Ha, like we wanted to be here with you in the first place.
+
+Elena:
+I don't understand. At all.
+
+Elena:
+Dorothy was so kind to you.
+
+Dorothy:
+How's your son, Dirk?
+
+Pioneer Team Member:
+Not so good, Director Franks. The doctor says he needs an operation.
+
+Pioneer Team Member:
+But...
+
+Dorothy:
+Is it the cost?
+
+Pioneer Team Member:
+Nothing gets past you. I joined the Pioneer Team to try to help my boy. This is my first project.
+
+Pioneer Team Member:
+We don't have much money. I shouldn't've spent any on Oripathy medicine. If only I knew my son had heart trouble.
+
+Pioneer Team Member:
+There's no hope for me, but him... he's still so little...
+
+Dorothy:
+Don't worry, Dirk. I know a way.
+
+Dorothy:
+Here's the best heart surgeon I know. Take your son and find her.
+
+Pioneer Team Member:
+The best surgeon? In Trimounts?
+
+Pioneer Team Member:
+Must be awful pricey...
+
+Dorothy:
+She's an old classmate of mine. Tell her Dorothy Franks sent you, and she'll give you a discount.
+
+Pioneer Team Member:
+R-Really?
+
+Dorothy:
+Don't tell anybody. It'd be bad for her reputation if word got out that she gives discounts.
+
+Pioneer Team Member:
+Won't tell a soul! Cross my heart!
+
+Pioneer Team Member:
+I... I gotta go! Thank your friend for me!
+
+Elena:
+......
+
+Dorothy:
+Why are you standing there? The coffee's getting cold.
+
+Elena:
+So much the better.
+
+Elena:
+It'll hurt less when I spill it on you.
+
+Dorothy:
+Are you worried about me, or the coffee?
+
+Elena:
+......
+
+Elena:
+You can smile and plead all you want, but I'm not lending you lunch money.
+
+Dorothy:
+Looks like it's plain rice for the rest of the month then.
+
+Elena:
+A director of Rhine Lab, begging for food from a low-level researcher... can you imagine the scandal?
+
+Dorothy:
+Originium Art Section is the poorest of the five, after all.
+
+Dorothy:
+I'm not Ferdinand, I don't have sponsors lined up waiting to dress me in gold from head to tail.
+
+Elena:
+At least the boss has good taste.
+
+Elena:
+Back on topic, it's not like I don't know the classmate you're talking about. She probably couldn't wait to double her fee when she heard your name.
+
+Elena:
+You're willing to pay anything for your Pioneer friends. No wonder people take advantage of you.
+
+Dorothy:
+Hahah...
+
+Elena:
+Laugh all you want. Not like I can do anything about it.
+
+Elena:
+I'm going back to my lab.
+
+Elena:
+Maybe finishing this experiment will help stuff your wallet a little.
+
+Elena:
+She did so much for you, and pushed me into keeping it secret.
+
+Elena:
+How could you do this to her?
+
+Sonny:
+Dr. Urbica, you're Dorothy Franks's friend.
+
+Sonny:
+You see only what she wants you to see.
+
+Sonny:
+You don't know what terrible things she's hiding under the surface.
+
+Pioneer Team Member:
+Director Franks! My boy's surgery went great. The doctor says he'll be out of the hospital by next week!
+
+Dorothy:
+Fantastic. Would you like to go home and see him?
+
+Pioneer Team Member:
+G-Go home? Back to the city?
+
+Pioneer Team Member:
+B-But I'm Infected. I can't enter a nomadic city on my own...
+
+Dorothy:
+Unless you have a new contract that pays for the insurance.
+
+Dorothy:
+You're looking at a chance, Dirk. One that can change your destiny.
+
+Dorothy:
+Sign this consent form, and you'll be able to go home.
+
+Pioneer Team Member:
+Of course I...
+
+Dorothy:
+No rush. You have twenty-four hours to think about it.
+
+Dorothy:
+This isn't a trick, nothing in the fine print.
+
+Dorothy:
+I've circled the important points. Make sure you understand the risks.
+
+Dorothy:
+Come find me if you have any questions.
+
+Sonny:
+Dirk!
+
+Pioneer Team Member:
+S-Sir? What're you doing here? Did you sign up for...
+
+Sonny:
+Give me the consent form.
+
+Pioneer Team Member:
+W-Why? No!
+
+Sonny:
+Don't you get it? She's stuffing you into a cage, to experiment on!
+
+Pioneer Team Member:
+S-So what?
+
+Pioneer Team Member:
+Director Franks says she's giving me a chance.
+
+Pioneer Team Member:
+When was the last time we heard the word 'chance'?
+
+Sonny:
+......
+
+Pioneer Team Member:
+I don't need twenty-four hours.
+
+Pioneer Team Member:
+I won't wait another minute for a chance to see my boy!
+
+Sonny:
+That's how she got Dirk.
+
+Sonny:
+Not just Dirk. Alan, Gale, Sophia...
+
+Sonny:
+She knew everyone's weaknesses. No one could say no to her.
+
+Sonny:
+That's Dorothy Franks!
+
+Sonny:
+Those silver creatures were her...
+
+Elena:
+The silver constructs?
+
+Elena:
+They're... *cough* *cough*... you know nothing!
+
+Silence:
+......
+
+Silence:
+How much do the two of you know about our pursuers?
+
+Sonny:
+......
+
+Elena:
+......
+
+Silence:
+One of you calls them creatures, the other uses the word constructs.
+
+Silence:
+I'm certain I heard correctly. My people are renowned among Liberi for our sense of hearing.
+
+Sonny:
+I'm just guessing.
+
+Elena:
+Same here.
+
+Silence:
+......
+
+Silence:
+At least you agree on something.
+
+Silence:
+Never mind that. No matter what you think of Dorothy, at this moment, she's helping us escape.
+
+Silence:
+Let's follow her instructions for now.
+
+Silence:
+Maybe our pursuers on the other end of the corridor will help you collect your thoughts.
+
+
+

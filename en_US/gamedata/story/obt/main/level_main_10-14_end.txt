@@ -1,0 +1,500 @@
+Victorian Officer:
+Do we... Do we need to keep increasing our reload rate?
+
+Victorian Officer:
+Are you seriously trying to eradicate every mobile plate in the city?
+
+Sarkaz Warrior:
+Got a problem with the general's orders?
+
+Victorian Officer:
+I... I'm just concerned that bombardment on this scale will have an effect on the walls...
+
+Victorian Officer:
+Nothing like this has ever happened before. If Londinium wants to swap out plates inside the city, we'd simultaneously have to shift around the walls...
+
+Sarkaz Warrior:
+Didn't ask.
+
+Sarkaz Warrior:
+Are you going to obey, or are you going to die? Those are your only two options.
+
+Victorian Officer:
+I...
+
+Sarkaz Warrior:
+What's the matter?
+
+Horn:
+I think he still has a third option.
+
+Sarkaz Warrior:
+You––! Urgh...
+
+Horn:
+Can you still stand, Captain?
+
+Victorian Officer:
+I... I'll be alright. Who are you?
+
+Horn:
+An old battle buddy.
+
+Sarkaz Warrior:
+Over here! Someone snuck in!
+
+Horn:
+—
+
+Sarkaz Warrior:
+This shield? Where the hell did Victorian soldiers come from––
+
+Horn:
+It feels pretty nice to use a weapon I'm familiar with.
+
+Horn:
+Captain, can this model of cannon... take out the control system of the city defense artillery?
+
+Victorian Officer:
+No... It's not possible...
+
+Horn:
+I was expecting as much.
+
+Rescued Soldier:
+Horn, we've mopped up the Sarkaz outside!
+
+Horn:
+Make sure to thank Mr. Misery again on my behalf.
+
+Horn:
+Captain, is there any other way to deactivate the artillery?
+
+Victorian Officer:
+......
+
+Horn:
+No need for the long face. You've been praying that we'd come.
+
+Horn:
+After all, you didn't even cover up your old ID from the city defense forces.
+
+Victorian Officer:
+This is just a blunder. The Sarkaz... won't kill me over something like this yet.
+
+Horn:
+But if you help us, you'll be put to death?
+
+Victorian Officer:
+And my family too.
+
+Victorian Officer:
+They'll get dragged in. The Sarkaz can kill them off at any time.
+
+Horn:
+I understand.
+
+Horn:
+Carle, put your sights on this traitor.
+
+Rescued Soldier:
+Um, Lieutenant... Where am I supposed to aim...?
+
+Victorian Officer:
+Here. At my heart.
+
+Victorian Officer:
+If I die... Perhaps only then, the Sarkaz will forget about me, and stop haunting my family.
+
+Horn:
+......
+
+Horn:
+If you've made up your mind, we'll work with you.
+
+Victorian Officer:
+Alright. Thank you, Lieutenant.
+
+Victorian Officer:
+If you want to turn off the cannons, there are only two ways.
+
+Victorian Officer:
+One, is to have the Sarkaz general stop them himself... The other, is to completely destroy the control room.
+
+Horn:
+For the first method to work, we'll have to defeat Manfred.
+
+Victorian Officer:
+That's right. As for the second option... We don't have enough firepower. And besides... Are you prepared to tear down a cornerstone of Londinium's walls with your own hands?
+
+Horn:
+......
+
+Horn:
+I know it's what we should do.
+
+Horn:
+What about you, Captain? Are you prepared?
+
+Victorian Officer:
+I've been waiting for this moment... for a long time.
+
+Rescued Soldier:
+Lieutenant, you missed.
+
+Horn:
+Bloody hell, I suppose my hand slipped.
+
+Horn:
+Help him down the lift. Whether he lives or dies... should be in his own hands.
+
+Horn:
+Too much has happened on these walls today. We don't need to add another traitor.
+
+Rescued Soldier:
+What about us? Should we head up as well?
+
+Horn:
+Let's go. We're going to pay Manfred another visit.
+
+Closure:
+Woah, this lift is going up way too fast––
+
+Feist:
+L-Let's not talk right now... or I might vomit all over the Doctor.
+
+Feist:
+After all, we've been dragged several hundred meters via zipline...
+
+Amiya:
+Everyone catch your bearings? Enemies are approaching!
+
+Sarkaz Warrior:
+We've got more intruders here! Report to the general immediately!
+
+Amiya:
+Closure, we need to find some way of shutting down those cannons––
+
+Amiya:
+If that means we have to take out Manfred, we'd better make it quick.
+
+Amiya:
+The longer we take, the more the remaining Self-Salvation Corps on the ground will be at risk.
+
+Hoederer:
+*cough* *cough*...... *cough* *cough* *cough*...
+
+???:
+To think you'd get blasted like this by a boy who's barely seen a fight... What an embarrassment you are.
+
+Hoederer:
+Even a tiny metal crab, when backed into a corner... will pinch your hand.
+
+???:
+You'd better hope Manfred buys your story.
+
+Hoederer:
+You shouldn't be here. It's too risky.
+
+???:
+So you'd rather lean against rubble gasping for breath than let me lend you a hand?
+
+Hoederer:
+*wheeze*... If you wanted to hold me up... the other side would be better.
+
+Hoederer:
+Thanks to her, I can't move this arm anymore.
+
+???:
+You ran into her. What did you think?
+
+Hoederer:
+Well, she noticed 'Her Highness.'
+
+???:
+Then, she...
+
+Hoederer:
+Didn't change at all.
+
+???:
+You're positive? We all saw what she was like back then.
+
+???:
+Even when she was chasing down those assassins, her body riddled with wounds, could she have imagined... that Her Majesty wasn't dead?
+
+Hoederer:
+She's not the volatile, impulsive mercenary she used to be.
+
+???:
+So, she's getting even crazier?
+
+Hoederer:
+Who can say?
+
+Hoederer:
+The truth is in front of us. She snuck into Londinium by herself and didn't toss a single bomb for two weeks. Not even Manfred noticed her.
+
+Hoederer:
+The way she was before, she would've rushed straight into Westhaleg and buried a hundred landmines under Theresis's throne before getting herself killed by Confessarii.
+
+Hoederer:
+I can reasonably assume she's formed some wiser plans with those folks from Babel... Or rather, Rhodes Island.
+
+???:
+You almost traded your life away just to make sure of that? Aren't you playing it a bit too fast-and-loose?
+
+Hoederer:
+Manfred's underlings always have eyes on me. This was the only safe way we could meet.
+
+???:
+Too bad for Schwab...
+
+Hoederer:
+He made his peace the moment he sided with W.
+
+Hoederer:
+Or should I say... We've all made our peace.
+
+???:
+I sure hope so.
+
+Hoederer:
+Who's there?
+
+???:
+I smell... Confessarius!
+
+Confessarius Guard:
+I told Manfred you can't be trusted.
+
+Confessarius Guard:
+Hoederer, did you really think you could hide your clever little gestures from our eyes?
+
+Hoederer:
+This is all a misunderstanding.
+
+Confessarius Guard:
+Oh? Unfortunately for you, you won't have another chance to twist words around in front of the leader and the Regent.
+
+Confessarius Guard:
+You don't need to pretend to bow your head anymore. Pick up your sword and revel in your last battle, mercenary.
+
+Hoederer:
+If that... is an order, then...
+
+Confessarius Guard:
+You are powerless.
+
+Confessarius Guard:
+You can't hope to protect your companions.
+
+Confessarius Guard:
+Not a single shadow here... can escape my eyes.
+
+???:
+Hoederer...
+
+Hoederer:
+Run!
+
+???:
+No, you're not giving the orders here. It cost us a lot to come this far––
+
+Hoederer:
+Even more reason why we can't both die here!
+
+Confessarius Guard:
+Worry not. I'll execute both of you here, together.
+
+Confessarius Guard:
+You may take a moment to decide who goes first––
+
+Confessarius Guard:
+Nngh?!
+
+Hoederer:
+He went down... without a struggle?
+
+Hoederer:
+You... It's you.
+
+Ascalon:
+He got too cocky.
+
+Ascalon:
+No one can claim to master all shadows. Infinite possibilities lie where the eyes cannot perceive.
+
+Hoederer:
+*cough*... *cough* *cough* *cough*...
+
+Ascalon:
+Hurry, get out of here. If you want to live, return to the sunlight.
+
+Hoederer:
+What about you?
+
+Ascalon:
+I still have other things to do.
+
+Ascalon:
+I'll have you know... Confessarii underlings aren't the only ones here.
+
+Clovisia:
+What's that sound?
+
+Self-Salvation Corps Soldier:
+Commander, the metal structure behind us just fell––
+
+Clovisia:
+That's not all...
+
+Siege:
+He's here.
+
+Clovisia:
+You feel it too?
+
+Morgan:
+Vina, I didn't hear anything except the sound of shelling.
+
+Siege:
+The sound of his heartbeat disappeared.
+
+Morgan:
+What?
+
+Siege:
+Run!!!
+
+Clovisia:
+We've lost contact with the 12th––
+
+Siege:
+They've all been sacrificed.
+
+Clovisia:
+Yes...
+
+Clovisia:
+Their voices completely vanished.
+
+Siege:
+These... pitch-black pipes should amplify any and all sounds.
+
+Siege:
+Breathing or footsteps, the clacking of a metal crab crawling through the pipe, or the rumble of machinery––
+
+Siege:
+These pipes will record the vibrations of any signs of life.
+
+Siege:
+And in an instant... all of those voices were devoured.
+
+Morgan:
+You mean to say, this darkness behind us––
+
+Siege:
+Is all the life it has devoured.
+
+Clovisia:
+Just like what happened at that banquet three months ago.
+
+Clovisia:
+Engineering team, close the first safety lock!
+
+Self-Salvation Corps Soldier:
+Yes, Commander!
+
+Clovisia:
+Miss Siege, you've... got sharp senses.
+
+Clovisia:
+Are you familiar with Londinium's underground structure?
+
+Clovisia:
+I remember Feist saying... you're from around these parts?
+
+Siege:
+I've... only been here once.
+
+Siege:
+But I've heard a lot of stories about these pipes.
+
+Clovisia:
+A hundred years ago, a terrible fire ripped through the heart of Londinium. Only the royal family and a few nobles managed to escape the flames.
+
+Clovisia:
+After that, a legend began to circulate that a magic circle was hidden beneath the palace that could allow the royal family to escape any disaster.
+
+Clovisia:
+When I first heard that story, I couldn't help but wonder... would our royal family also use these very same pipes for their escape?
+
+Siege:
+Hmm... The story I heard was very similar to your version.
+
+Clovisia:
+The workers who built Londinium, the posh aristocrats and nobles, and the royal family itself–– are all forced to take the same route during times of crises.
+
+Clovisia:
+That already is a story that writes itself.
+
+Self-Salvation Corps Soldier:
+Commander, the safety lock is starting to give!
+
+Siege:
+This door cannot hold him back.
+
+Self-Salvation Corps Soldier:
+Are you serious? This door's thickness can withstand seven or eight salvos from an armored vehicle!
+
+Siege:
+Retreat! Fall back!
+
+With a sharp, earsplitting noise, a fissure appears in the middle of the metal door.
+
+Under the tearing and folding of the tremendous force behind the door, the thick metal sheet seems thinner than paper. The fissure continues to grow, the dark void behind it like a monstrous, abyssal maw.
+
+Clovisia:
+Close the second safety lock!
+
+Self-Salvation Corps Soldier:
+Understoo–– Arrrgh!!
+
+The door slams shut with a heavy thud, but the person sealing the door suddenly slips. Before he has a chance to scream, something invisible drags him into the shadows behind the door.
+
+A smudge of blood seeps through the door's crack.
+
+But not even the pool of blood is allowed to escape. In an instant, the shadows lurch through the door and instantly devour half the passageway.
+
+Another massive roar rings out, though it is unclear whether it came from overhead or behind.
+
+The pipe shudders, and the shadow's edge blurs like a predator's mouthparts, extending to latch onto its prey's ankle.
+
+Siege:
+I... I've also heard of another story.
+
+Siege:
+During a battle two hundred years ago, the Victorian Army joined forces with two other nations to lay siege to a city called Kazdel.
+
+Siege:
+One night, an entire army of heavily-armed troops disappeared in the valley where they were stationed.
+
+Siege:
+The count who had dispatched the army sent men to investigate their whereabouts, but only saw the crimson of the setting sun reflected against the mountain walls.
+
+Siege:
+And as everyone remembered, that day... the sun had not come out at all.
+
+Clovisia:
+The third safety lock––
+
+Siege:
+Is this... the last one?
+
+Clovisia doesn't answer her.
+
+Just like her answer... Devoured by the monster flooding through the pipes.
+
+
+

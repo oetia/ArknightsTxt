@@ -1,0 +1,462 @@
+Alty:
+You're not gonna help?
+
+Kal'tsit:
+You aren't rising from your seat either.
+
+Alty:
+I'm not needed.
+
+Kal'tsit:
+Strictly speaking, I'm still a prisoner of Iberia. It is not my place to worry for a High Inquisitor.
+
+Kal'tsit:
+Let's talk about the two of us.
+
+Alty:
+We'll stay in this town on the coastline, for a while.
+
+Alty:
+We know how to follow stage directions. If you and your Abyssal Hunters fail, we'll take the Iberians and pull back to an appropriate position.
+
+Alty:
+Assuming the old man outside listens to us, anyway.
+
+Kal'tsit:
+...You're willing to help the people on the land.
+
+Alty:
+Frost is young, I'm about the same age as Dan, and Aya maybe a little older.
+
+Alty:
+There's little left for us to love, except... music.
+
+Alty:
+Frailty of body and mind has driven humans to seek breakthroughs within their short lifespans.
+
+Alty:
+And what do you know, they pulled it off.
+
+Kal'tsit:
+...Indeed.
+
+Alty:
+But the sea's not a fan of heavy metal.
+
+Alty:
+We don't have a choice. As far as survival is concerned, the land is the lesser evil.
+
+Kal'tsit:
+It would not be difficult to get this country to listen. Reveal a few secrets, hint at old wounds, and promise that the same disaster will not strike again.
+
+Alty:
+Can it really be that easy?
+
+Kal'tsit:
+Even simpler, if promises can be considered lies.
+
+Panicking Townsfolk:
+Monsters! Monsters!
+
+Panicking Townsfolk:
+Where's the Inquisition?! Anyone?! Help!
+
+Sea Terror:
+Grr... grr...
+
+Panicking Townsfolk:
+Eek!
+
+Gladiia:
+As ever, Kal'tsit picks the worst meeting locations.
+
+Gladiia:
+What's going on here?
+
+Panicking Townsfolk:
+T-Thank you... A-Are you an Ægir too? From the outside?
+
+Gladiia:
+...'Too?'
+
+Gladiia:
+Ah, you refer to AUS. Ægir, eh...
+
+Panicking Townsfolk:
+A-Are you here to fight them? You took out those monsters in the blink of an eye...
+
+Gladiia:
+Your attitude towards the Ægir seems different in this town.
+
+Panicking Townsfolk:
+There used to be a lot of them around here, until about twenty years ago.
+
+Panicking Townsfolk:
+Did the Inquisition send you? Sh-Should we ask for their help?
+
+Gladiia:
+None of my concern.
+
+Gladiia:
+But unless you intend to get hurt, I recommended hiding until this is over.
+
+Panicking Townsfolk:
+A-Alright.
+
+Skadi:
+This place, they're everywhere.
+
+Skadi:
+Not as bad as Sal Viento, but it's still strange.
+
+Gladiia:
+This town has not been consumed by rot. There are even those leading more or less normal lives here.
+
+Skadi:
+The waves have not touched this place.
+
+Gladiia:
+Then the flotsam has gone into hiding.
+
+Gladiia:
+No surprise there. If our target is that ship, then Kal'tsit must have chosen this place for a reason.
+
+Skadi:
+Should we split up?
+
+Gladiia:
+I'll find Kal'tsit. You and Shark handle the Sea Terrors.
+
+Skadi:
+Right.
+
+Gladiia:
+They are weak, but don't get hurt. Weakness is often bait.
+
+Gladiia:
+...Shark?
+
+Specter:
+Hm?
+
+Gladiia:
+......
+
+Gladiia:
+Take care of her, Skadi. I still have trouble getting used to how she is now.
+
+Skadi:
+I know.
+
+Fleeing Townsfolk:
+Monsters?! Where did they come from?
+
+Elysium:
+This way!
+
+Fleeing Townsfolk:
+Oh, er, right!
+
+Elysium:
+They're relatively few in number, but surprisingly coordinated. Is someone leading them?
+
+Elysium:
+And how could they have just popped up out of nowhere? Where are they hiding?
+
+Elysium:
+Is it... this way?
+
+Elysium:
+(Getting closer... there's someone here!)
+
+Mournful Adherent:
+One falls, another takes their place. We give our lives only to buy time.
+
+Silent Cultist:
+......
+
+Mournful Adherent:
+No one here can stand against a High Inquisitor. All who resist are doomed.
+
+Silent Cultist:
+In death lies hope. Do not squander it.
+
+Mournful Adherent:
+Yes... we must hasten our departure. But it is a shame to abandon the closest outpost we have to the Eye of Iberia...
+
+Mournful Adherent:
+We need but one to reach the Eye... Who goes there?!
+
+Elysium:
+(Crap!)
+
+Mournful Adherent:
+Liberi! Don't let him get away!
+
+Elysium:
+Tch.
+
+Amaia:
+Gran Faro will be no more. Is this really what you want?
+
+Bizarre Hunter:
+......
+
+Amaia:
+Our interests are aligned. This shouldn't have to happen.
+
+Amaia:
+You're the only one who can stop the both the Inquisition and your own people.
+
+Bizarre Hunter:
+I'll kill you, Amaia. Soon.
+
+Amaia:
+My, my... I thought we were on a first-name basis, Ulpianus.
+
+Ulpianus:
+......
+
+Amaia:
+Perhaps you intended to make your move once we'd arrived at the lighthouse? But you know full well that's not our destination.
+
+Amaia:
+We're going someplace further, and it's there that we'll make our choice.
+
+Ulpianus:
+......
+
+Amaia:
+Aren't the Abyssal Hunters all of one mind? Why haven't you gone back to your squad?
+
+Amaia:
+What are you thinking?
+
+Ulpianus:
+You never saw what I saw.
+
+Amaia:
+Ah, yes... the oldest story in the book. They never saw what you saw, either.
+
+Amaia:
+Did you lose trust in each other?
+
+Ulpianus:
+Ægir is united by the bonds of blood.
+
+Ulpianus:
+I chose to go into exile in order to achieve our common goal.
+
+Amaia:
+Uh huh...
+
+Ulpianus:
+Stay away from them, Amaia.
+
+Ulpianus:
+Even on dry land, Gladiia, Skadi and Laurentina can wipe this town from existence with little more than a shrug.
+
+Amaia:
+Hmph.
+
+The hand that Amaia has placed on the book moves ever so slightly.
+
+Unperturbed, she smiles back at the provocation.
+
+Amaia:
+You're right. Thank you for your concern.
+
+Ulpianus:
+I need that ship.
+
+Ulpianus:
+I must reach it before Gladiia. They cannot return to Ægir knowing nothing of what's going on.
+
+Elysium:
+Finally shook them off!
+
+Elysium:
+How can they be hiding this many people? Is this town some kind of clown car?
+
+Elysium:
+There's nothing but barrens to the north.
+
+Elysium:
+So where are they coming from?
+
+Gladiia:
+Hm.
+
+Saint Carmen:
+A pleasure to meet you, ma'am.
+
+Saint Carmen:
+You must be the Abyssal Hunter that Kal'tsit mentioned.
+
+Gladiia:
+Is this your work?
+
+Saint Carmen:
+Iberia is not always so messy. I beg your pardon.
+
+Gladiia is quiet for a moment.
+
+In her long years on dry land, she has seen how weak and backwards the terrestrial states are, but also the strength of the Inquisitors at Sal Viento.
+
+Kal'tsit's words echo in her mind as she thinks on how to live alongside those above water.
+
+The silence lasts only a moment.
+
+Gladiia:
+I am Gladiia, Technology Consul of Ægir, and the Abyssal Hunters' Chief Designer of Warfare.
+
+For the first time, she speaks to a land-dweller as a representative of Ægir.
+
+Her counterpart nods, sheathes his rapier, and strides over the silent carcass of the Sea Terror.
+
+Saint Carmen:
+Carmen, High Inquisitor of the Iberian Inquisition. I see the legends of Ægir hold true.
+
+Gladiia:
+You're different from the others.
+
+Saint Carmen:
+I have a few more years under my belt.
+
+Gladiia:
+Where's Kal'tsit?
+
+Saint Carmen:
+She's speaking to another guest from the ocean in the chapel.
+
+Gladiia turns to walk away when—
+
+Saint Carmen:
+If you've come to speak to the doctor, I'm sure she's shared the same information with you.
+
+Gladiia:
+...Perhaps.
+
+Saint Carmen:
+What do you think of her suggestion?
+
+Gladiia:
+We can talk after I've confirmed she's unharmed.
+
+Saint Carmen:
+We have no reason to harm someone who wishes to protect Iberia from the bottom of her heart.
+
+Gladiia:
+So you say.
+
+Gladiia:
+I've seen more foolishness in my brief time on land than I have for half a lifetime.
+
+Saint Carmen:
+If it's been such a brief time, how can you be so sure?
+
+Gladiia:
+The worst of times brings out the worst in people. Iberia's current reality is far from gilded.
+
+Gladiia:
+Regardless, I'm not here to debate.
+
+Gladiia:
+If she's in the chapel behind you, then—
+
+Saint Carmen:
+You'll never reach the Eye of Iberia without the Inquisition's help.
+
+Gladiia:
+......
+
+Saint Carmen:
+It was not destroyed in the Profound Silence. If the Stultifera remains afloat, then the Eye of Iberia is the only way to find it in the vastness of the ocean.
+
+Gladiia:
+......
+
+Gladiia:
+What Iberia can offer, I can achieve on my own with only slightly more effort.
+
+Saint Carmen:
+I suppose I have something to look forward to then, Gladiia.
+
+Vigilant Cultist:
+How many left?
+
+Agitated Cultist:
+Four or five, maybe. Some have departed to seek sanctuary elsewhere.
+
+Vigilant Cultist:
+Very well. Burn these documents. We don't have time for them.
+
+Agitated Cultist:
+Gran Faro... I once called this place home.
+
+Vigilant Cultist:
+You are still bound by such distractions?
+
+Agitated Cultist:
+No... no more. Burn them all.
+
+Vigilant Cultist:
+The Inquisition must not find them.
+
+Vigilant Cultist:
+We embrace this knowledge, and promote harmony through enlightenment. The Inquisition, in their ignorance and selfishness, calls it heresy.
+
+Agitated Cultist:
+Let's go. We will find a way to reestablish contact.
+
+Agitated Cultist:
+We too will embrace the ocean, someday.
+
+Elysium:
+(Are they gone? Is this one of their hideouts? And here I thought it was just a struggling restaurant. It's only two blocks from the chapel, for crying out loud.)
+
+Elysium:
+(They're burning their papers? I have to put the fire out!)
+
+Elysium:
+(The flames are too strong. I have to save what I can—)
+
+Elysium:
+Yowch, that's hot!
+
+Elysium:
+Whew... are these blueprints? Some sort of equipment...? The stamp of approval has been burned to ash.
+
+Elysium:
+Historical records of Iberia... theses on ocean currents...
+
+Elysium:
+What are they planning? Breo... gan? Royal shipwright?
+
+Elysium:
+And what's this? A drawing of that statue in the square?
+
+Elysium:
+—!
+
+Ulpianus:
+Put that down, Liberi. Let it burn as it should.
+
+Elysium:
+You—
+
+Elysium has always been confident in his ability to talk his way out of a situation.
+
+In this case, however, he does not get a chance to, barely avoiding the touch of cold steel.
+
+Elysium:
+Hey, don't you know it's rude to strike without warning?!
+
+Ulpianus:
+......
+
+Elysium:
+Dr. Kal'tsit! Their goal is—
+
+
+

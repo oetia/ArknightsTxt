@@ -1,0 +1,474 @@
+Magallan:
+Have you started packing your gear, Aurora?
+
+Aurora:
+Yeah. We've finished organizing the samples and testing materials, right?
+
+Aurora:
+Starting preparations today will make things much smoother if we're going back tomorrow.
+
+Magallan:
+Well, I've got a new proposal. We actually have some room on the schedule, and it happens to be aurora season. How about we push the return trip back a couple of days?
+
+Aurora:
+Really?
+
+Magallan:
+Of course! Pushing it back two days will put us right on schedule. I wanted to do something for my 'assistant surveyor', who helped me so much on this trip.
+
+Aurora:
+Just doing my job, Maggy.
+
+Aurora:
+I wouldn't have accepted the offer if I didn't think there was something I could help with.
+
+Magallan:
+So we're good on this? We'll stay two days, then we'll head back if we still don't see the aurora.
+
+Aurora:
+Thanks, Maggy.
+
+Aurora:
+Could I ask a favor?
+
+Magallan:
+Of course!
+
+Aurora:
+I want to use these two days to continue testing the new defensive shield. Can I use the camera drone to record the testing?
+
+Aurora:
+I have a camera module on my own shield, but it can't run autonomously.
+
+Aurora:
+The shield's Originium circuits aren't fully stable either, and it's safer to have a drone record from a distance than to have a person operate the camera.
+
+Magallan:
+Sure. I'll show you how to set it up.
+
+Aurora:
+Alright. I'm gonna go further away, because it might get loud.
+
+Magallan:
+Be sure to holler if there's a problem!
+
+Aurora:
+Okay!
+
+Magallan:
+And there I was, thinking I was giving her two days of rest. She was always running ahead when we were looking for samples.
+
+Magallan:
+She may be Ursus, but she's a patient too.
+
+Magallan:
+And she keeps talking about the shield—
+
+Magallan:
+Is that wind?
+
+Magallan:
+Tall, dark clouds with indistinct edges...
+
+Magallan:
+That's...
+
+Magallan:
+Aurora—
+
+Magallan:
+Aurora!
+
+Aurora:
+Maggy, get into protective gear!
+
+Aurora:
+I've seen these clouds before. Could be an Originium hail. It—
+
+Aurora:
+Get behind me! Stay behind the barriers and put on protective gear. We already have injured students!
+
+Aurora:
+There's Originium in the hail! Be careful!
+
+Scared Student:
+Lara! Your shoulder...?
+
+Brave Student:
+I'll take over the barrier. Get back, Lara!
+
+Brave Student:
+You've been hit by Originium hail!
+
+Aurora:
+!!
+
+Aurora:
+You—
+
+Aurora:
+Stay behind me, Maggy!
+
+Aurora:
+I've been through this kind of Originium hail before. The risk of infection is very high. Make sure you keep that protective suit tight around you!
+
+Aurora:
+Is your suit on, Maggy? Help me with mine after you're done—
+
+Magallan:
+I'm done!
+
+Magallan:
+Listen, Aurora. I've encountered this stuff before. Let's go back and use those rocks for cover. We won't last five minutes out in the open!
+
+Aurora:
+But I won't be able to protect you properly on the move!
+
+Magallan:
+But you'll definitely get hurt in the open!
+
+Aurora:
+......
+
+Magallan:
+I have experience with these things. I can take care of myself. Don't—
+
+Magallan:
+Watch your leg! The strap on your suit is loose!
+
+Aurora:
+I'll protect you, Maggy. We'll go, but I'll carry you.
+
+Aurora:
+Curl up and stay under my shield!
+
+Magallan:
+I can run by myself! I'm not afraid of the hail. I'm worried that you—
+
+Magallan:
+Are all Ursus so strong? If you try to carry me, you'll—
+
+Magallan:
+Aurora!
+
+Aurora:
+We're here, safe and sound.
+
+Magallan:
+Are you crazy?! Let me check your suit!
+
+Aurora:
+One second, Maggy.
+
+Aurora:
+I want to get the barrier set up by the rock. I'm not sure we can keep it up by ourselves.
+
+Magallan:
+Alright, you talk first. I'm definitely gonna check, though. We'll need a new plan, if there's the slightest hint of a gap—do you need the drone for anything?
+
+Magallan:
+Absolutely no gaps between the rocks and the shield where hail might come through. It's so cramped in here, there'll be no room to dodge.
+
+Aurora:
+Looks like we'll need to submit another modification application when we get back.
+
+Aurora:
+We need portable equipment to set up protection quickly, away from well-supplied bases, without having to rely on individual aptitude and reactions.
+
+Aurora:
+We're lucky there are suitable rocks nearby... oh, and I brought the camera drone that you lent me too.
+
+Magallan:
+Drone? Just leave stuff like that in an emergency! Get yourself to safety first!
+
+Aurora:
+I kno—
+
+Aurora:
+...
+
+Magallan:
+What is it, Aurora? Why did you suddenly go quiet?
+
+Aurora:
+Something's not right, Maggy.
+
+Magallan:
+Move over a little, let me look outside.
+
+Magallan pokes her head out from behind Aurora and peeks through a crack.
+
+The sun has been completely blocked out by the dark clouds, while Originium-filled hail blasts at the shield from all directions, surrounding it and the pair behind it.
+
+The wind rushes at the filter of the protective mask, and the mixture of sleet makes it almost impossible to breathe. Ice shards cut through Aurora's gloves, but she continues to grab the shield tightly.
+
+Aurora:
+My shield won't last long. It wasn't designed to protect against Originium events. Most of my equipment is back at the base.
+
+Magallan:
+The hail shouldn't last too long. Leave the drones outside; they can help clear up some of it. I think we'll make it—
+
+Magallan:
+Angle the shield inwards a little bit more. Right now, it's putting to much of a burden on you, and it's hard for me to apply any force!
+
+Aurora:
+I have two plans, Maggy.
+
+Aurora:
+Plan A. You stay here with the shield, while I go back to the base and come back with proper barriers. You'll be absolutely safe here.
+
+Aurora:
+Plan B. I'll change the shield to the prototype that I'm still testing, but it might—
+
+Magallan:
+Plan B.
+
+Magallan:
+If you want to charge out by yourself because I'm not Infected, I'll be coming with you, no matter what, because I'm not accepting that kind of help.
+
+Magallan:
+You stay here. I have an idea, even if the prototype doesn't work. We can move along the rocks and try to find a hollow space to hide in.
+
+Magallan:
+Don't try to carry everything on your shoulders!
+
+Aurora reaches for the prototype shield.
+
+She began developing its Originium circuit while she was still at Ironforge Polytechnic. She wanted to return to Kjerag with a breakthrough in defensive technology.
+
+She went to great lengths to be able to go to the world outside, even getting into a fight with her father.
+
+Lara's Father:
+Why do you insist on going out there, Lara?
+
+Lara's Father:
+There are machines in the mines. You can work under Enciodes. Kjeragandr will protect Kjerag and His people!
+
+Lara's Father:
+Why won't you work for the future with me and your brother in the mines?
+
+Aurora:
+I believe in Kjeragandr, but I don't want to see the names of other countries on the machines we use in the mines!
+
+Aurora:
+I want the name of Kjerag on them!
+
+Brave Student:
+Aurora, get back! Your suit is broken!
+
+Brave Student:
+Why do you insist on being in front? Because you think you can? It's a Catastrophe!
+
+Brave Student:
+You might be infected already! Leave the barrier to me! I'm in better shape than you are!
+
+Aurora:
+I—
+
+Aurora:
+No, I'm staying here!
+
+Aurora:
+I designed the barrier, I know how to use it best!
+
+Aurora:
+Since I'm already hurt, I should be the one standing in front to protect the ones who aren't hurt!
+
+The Originium in Aurora's body aches. The hail that fell upon the ice and upon Aurora now falls before her.
+
+She recalls the letter from her parents after they learned about her infection, the igloo that she built with her friends, Enciodes's staffing proposal, trains rushing by, and the high-rises of Columbia.
+
+Outside the shield, the hail presses on. She can smell it through her mask.
+
+Am I afraid?
+
+The shield is right behind her, the circuit on the back is still unfinished, because of her condition.
+
+It is what she has longed to accomplish, her long-time dream, what keeps her standing up front, each and every time.
+
+The hail is getting fiercer, and she feels Magallan's hands frantically trying to help support the barrier.
+
+Aurora raises the prototype shield.
+
+Magallan:
+Aurora?
+
+Magallan:
+You can't run so much Arts at the same time. It'll overload you!
+
+Aurora:
+It won't, Maggy. I want to try it.
+
+Aurora:
+I developed this shield to protect my home and the people around me.
+
+Aurora:
+This is what it's made for. And this is the time to give my all.
+
+Aurora:
+I became infected with Oripathy because I couldn't do enough. I won't let it happen again.
+
+Aurora:
+I don't want to disappoint you, disappoint anybody else, or disappoint myself!
+
+Aurora:
+This is my choice, and I'll see it through.
+
+Aurora:
+How could I talk about protecting all of Kjerag, if I can't even protect you, here and now?
+
+Aurora:
+You've got the experience, Maggy! Tell me what to do to protect both of us once it's activated!
+
+Magallan:
+......
+
+Magallan:
+Activating drone offensive module. Move over a little, Aurora.
+
+Magallan:
+Listen for my cue once it's activated, and I'll blast the hail away!
+
+Magallan:
+How are you feeling, Aurora?
+
+Magallan:
+We're at the supply station that we left from, located at where the barrens meet the Icefields.
+
+Magallan:
+You passed out right after the hail ended. The prototype shield was damaged, but I knew you wouldn't throw it away, so I brought it here after cleaning it up.
+
+Aurora:
+......
+
+Aurora:
+...Are you hurt, Maggy? No infections or anything?!
+
+Magallan:
+No infections, just a couple of flesh wounds.
+
+Aurora:
+Whew... I thought I had to—
+
+Magallan:
+You thought you had to shield me with your torso? That's what your body language said. Protecting yourself is always the priority on the Icefields.
+
+Magallan:
+You need to keep yourself safe in order to keep others safe.
+
+Aurora:
+Maggy, I...
+
+Magallan:
+You want to see your shield, right? Here, all cleaned up and wrapped up.
+
+Aurora:
+No...
+
+Aurora:
+Maggy, I... Catastrophes are avoidable, right?
+
+Aurora:
+Not saying that we can stop them from happening, but if we had operated according to plan, we would have been back at base, going through the supplies in safety, while watching the hail fall outside...
+
+Magallan:
+Aurora.
+
+Magallan:
+I knew you'd think that way. Irregular events are a regularity when you do research this far north.
+
+Magallan:
+I've encountered blizzards that kept me in an ice hole for five full days. I've encountered avalanches that buried all my drones. And don't get me started on invisible cracks in glaciers...
+
+Magallan:
+The north doesn't change for anybody. We get what we want from it on our own, and pay the appropriate price.
+
+Magallan:
+A few months of solitude, or some kind of injury... this is what we deal with all the time.
+
+Magallan:
+The north doesn't cause a Catastrophe just because you decided to delay a few days. It does what it wants, and we just happened to run into it. Don't blame yourself.
+
+Aurora:
+......
+
+Magallan:
+Well, I wanted to let you see the aurora with your own eyes...
+
+Magallan takes out a heavily-damaged drone.
+
+Its camera module is connected to a data cable, and the screen is showing an intermittent video recording.
+
+The little corner of sky visible from the edge of the shield is obscured by clouds and hail. Then, a single ray of light shines through.
+
+Like a veil of silk, it slowly begins to cover the clouds.
+
+It's at that time that Aurora lowers her head, and the shield's Originium circuit glows a bright blue, indicating overload.
+
+Aurora presses at the barrier, forming an impregnable line of defense, as Originium and hail bounce off the shield.
+
+The sky shines brightly with a myriad of colors.
+
+Magallan:
+I saw this recording when I was taking stock of the remaining supplies. The drone's camera kept running, showing that we actually encountered the aurora that you wanted to see.
+
+Magallan:
+But it was me who proposed that we stay two more days, Aurora.
+
+Magallan:
+I know the north better than you do, and I know better what we're dealing with here.
+
+Magallan:
+That's why I wanted to wait until you saw the aurora with your own eyes.
+
+Aurora:
+Maggy!
+
+Aurora:
+Maggy—
+
+Aurora:
+My goal has always been to achieve what I wanted under my own strength and hard work.
+
+Aurora:
+What I care about is that I managed to protect ourselves from the hail, and that you haven't been infected! And I completed the project I've been working on for so long!
+
+Aurora:
+Now I can tell my parents and siblings that I never stopped trying, even with my illness. I achieved a lot, and I'm gradually realizing my dream!
+
+Aurora:
+And I can tell myself that I made the right choice. It's not about seeing the aurora; it's about successfully accomplishing these things.
+
+Aurora:
+That's why this video is even more precious to me than seeing the aurora with my own eyes!
+
+Aurora:
+Look here, Maggy.
+
+Aurora excitedly adjusts the playback bar until it stops on a particular frame:
+
+Magallan is stretching out her arms, supporting Aurora's body, while a drone flies above the shield under her command.
+
+Aurora:
+Look! The drone didn't just record me supporting the defenses; it caught you on camera too!
+
+Aurora:
+We're in this shot together, under the aurora!
+
+Aurora:
+I love this recording sooooo much! This was a great mission!
+
+Aurora:
+Maggy! Where are you?
+
+Aurora:
+I've been thinking about the next expedition, and I've been working with Engineering to come up with a draft for that new equipment I wanted to make!
+
+Aurora:
+I have a few other operators here who are interested. Let's talk things over.
+
+Magallan:
+Coming!
+
+
+

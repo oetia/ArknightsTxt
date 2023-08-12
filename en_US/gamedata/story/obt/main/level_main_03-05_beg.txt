@@ -1,0 +1,251 @@
+Amiya:
+Dr. {@nickname}...
+
+Amiya:
+I... I didn't mean to... I...
+
+Hoshiguma:
+The fog has dispersed.
+
+Hoshiguma:
+We've received communications from the L.G.D. They found more Reunion movements.
+
+Hoshiguma:
+They're currently tracking down one enemy, described as female with white hair--
+
+Amiya:
+...
+
+Hoshiguma:
+Amiya, Ch'en told me that she wanted you to...
+
+Hoshiguma:
+...
+
+Hoshiguma:
+...You don't look so good.
+
+Hoshiguma:
+Well...
+
+Hoshiguma:
+I'll leave her to you, Dr. {@nickname}.
+
+Hoshiguma:
+It'd be ideal to leave within 5 minutes.
+
+Amiya:
+...
+
+Amiya:
+Dr. {@nickname}...
+
+Amiya:
+Huh...? I...
+
+Amiya:
+Doctor... it's not like I'm afraid or anything...
+
+Amiya:
+Of course, I'm afraid... of losing you again... That's why...
+
+Amiya:
+I just... didn't mean to...
+
+Amiya:
+I... I just don't know...
+
+Amiya:
+I don't know if I should be saying this, but...
+
+Amiya:
+It shouldn't... only be hurting other people.
+
+Amiya:
+I don't want you to see me like this, up close...
+
+Amiya:
+...I took someone's life.
+
+Amiya:
+I feel no regret.
+
+Amiya:
+No, what I mean is...
+
+Amiya:
+I will always use my power for your sake. No matter what kind of burden he was carrying, I don't regret killing him.
+
+Amiya:
+But... there should have been a better way.
+
+Amiya:
+He died because... I wasn't able to find it.
+
+Amiya:
+And that... is eating me up inside.
+
+Amiya:
+I don't want...
+
+Amiya:
+I don't want you to see this side of me, {@nickname}.
+
+Amiya:
+Even though I've always talked about freeing the Infected from pain and suffering...
+
+Amiya:
+But when matters the most, I have to persuade myself, again and again, that it's justified to take the life of another Infected.
+
+Amiya:
+I am truly pathetic.
+
+Amiya:
+...
+
+Amiya:
+...This was my duty.
+
+Amiya:
+I understand.
+
+Amiya:
+I never believed that anything was already determined by fate.
+
+Amiya:
+But, no matter what happens... no matter what I become...
+
+Amiya:
+I'll always protect you, Doctor.
+
+Amiya:
+I promise.
+
+Reunion Member:
+No!
+
+Reunion Member:
+You all go first!
+
+Reunion Member:
+I need to... I need to bring Skullshatterer back!
+
+Reunion Member:
+Are you insane?
+
+Reunion Member:
+That's suicide... If you're going, we're all going together!
+
+Reunion Member:
+All right!
+
+Reunion Member:
+I can't leave him alone out there...
+
+Reunion Member:
+Let's go then!
+
+Hoshiguma:
+Why...
+
+Hoshiguma:
+Why is Reunion... turning back around?
+
+Hoshiguma:
+What are they doing...?!
+
+Amiya:
+Madam Hoshiguma! Fall back!
+
+Hoshiguma:
+L.G.D., don't panic!
+
+Hoshiguma:
+Prepare for enemy attack!
+
+Reunion Member:
+Cover! Cover me!
+
+Reunion Member:
+That woman...
+
+Reunion Member:
+It's impossible... We can't get past her shield!
+
+Reunion Member:
+Quick! Wrap around, before they have a chance to react...
+
+Reunion Member:
+We have to get to Skullshatterer... and bring him...
+
+Reunion Member:
+And bring him home!!
+
+Hoshiguma:
+Rhodes Island! They're changing their target, watch out!
+
+Amiya:
+Oh no!
+
+Amiya:
+Madam Hoshiguma! Watch your right!
+
+Hoshiguma:
+Huh...?
+
+W:
+Hehe, you managed to block that? That's a bit interesting...
+
+Hoshiguma:
+An explosion? Another Reunion ambush?!
+
+W:
+Not just that, of course~
+
+W:
+I'd like you to behave yourself and stay put right here. Don't think about turning back, all right?
+
+Hoshiguma:
+Tsk... Where the hell did you come from?!
+
+Hoshiguma:
+Again with those explosives...!
+
+Hoshiguma:
+Amiya! I'm getting bombarded by Reunion!
+
+Hoshiguma:
+Their forces are currently headed your way!
+
+W:
+Hmm, that shield of yours is pretty sturdy.
+
+W:
+Seems like I've gotten myself into a bit of trouble...
+
+W:
+Whatever, I'll just treat it like I'm doing Reunion a little favor.
+
+W:
+Show me something entertaining. Make sure you don't let me down~
+
+Amiya:
+That's the 'W' person who we saw at Chernobog!
+
+Amiya:
+Could she... have managed to shake off Madam Ch'en? !
+
+Amiya:
+Be careful of the enemy assault! We've got to help Madam Hoshiguma right away!
+
+Amiya:
+There are many more enemies hiding nearby!
+
+Amiya:
+We won't be able to get the upper hand unless we reveal them!
+
+Amiya:
+Doctor! Please lead our squads and hold off the enemy assault!
+
+
+

@@ -1,0 +1,251 @@
+Suzuran:
+Hurry! This way!
+
+Townsfolk:
+Thanks!
+
+Suzuran:
+Folinic!
+
+Folinic:
+Lisa! Take the civilians and get out of here!
+
+Folinic:
+Gah—!
+
+Folinic:
+Are the rioters... just attacking at random?
+
+Armed Infected A:
+Hey! It wasn't easy to get that gizmo. You better shoot straight!
+
+Armed Infected B:
+Shut it! This thing isn't easy to use! Luckily I studied at the conservatory!
+
+Armed Infected A:
+Which one?! Hey, Gendarmerie! Don't do anything stupid. We got hostages!
+
+Armed Infected B:
+What hostages?!
+
+Armed Infected A:
+Arschgeige! The ones running down the street!
+
+Folinic:
+Hmph!
+
+Tatjana:
+Miss Folinic! You have to stop them!
+
+Tatjana:
+Everything here is made of wood. This whole block will go up in flames!
+
+Townsfolk:
+Fire! Put it out! Everyone else, get out of here!
+
+Tatjana:
+So many innocent people won't make it out in time. We must save them!
+
+Folinic:
+How are we supposed to get over there?!
+
+Tatjana:
+Gah! The fire!
+
+Tatjana:
+Folinic! Please tend to the wounded!
+
+Folinic:
+Hey!
+
+Stubborn Townsfolk:
+Winterwisps! Infected! Vermin!
+
+Stubborn Townsfolk:
+Why did you burn my home?! Why?! We did so much for you!
+
+Tatjana:
+Watch your head.
+
+Stubborn Townsfolk:
+Huh?
+
+Stubborn Townsfolk:
+Hmm... Oh. Tatjana? A-are you okay?!
+
+Tatjana:
+Ugh... I'm fine. But they can't control those automatic Arts units. We're in danger here!
+
+Stubborn Townsfolk:
+We'll fight back together! Push them out!
+
+Tatjana:
+Now... isn't the time...! Gah...!
+
+Stubborn Townsfolk:
+Your foot...! F-fine, I'll listen to you!
+
+Tatjana:
+Get out of here!
+
+Tatjana:
+(This terrible pain in my ankle... is my bone broken? Damn it...)
+
+Tatjana:
+(I have to get back to the others...)
+
+Armed Infected:
+You! Noble puppet!
+
+Tatjana:
+Huh?!
+
+Severin:
+They all routed?
+
+Townsfolk:
+Y- yes!
+
+Suzuran:
+Mr. Severin, we have a lot of wounded. We need help...!
+
+Severin:
+Medics, you are to obey this young Vulpo's every word. Able-bodied youth will help as well.
+
+Townsfolk:
+Yes, sir!
+
+Suzuran:
+If only Miss Folinic was here...
+
+Severin:
+Wait... she isn't back yet?
+
+Severin:
+Oi! Where are Folinic and Tatjana?
+
+Townsfolk:
+They, I think they're still at Zwölftontechnik Strasse...
+
+Severin:
+Did I not just ask if they all routed?!
+
+Townsfolk:
+Er! S- sorry, sir! But Folinic and Tatjana should be alright. They've saved many lives!
+
+Severin:
+What do you mean they'll be alright? The insurgents have control of our town's defenses, we have no regular troops, and——*cough* *cough* *cough*!
+
+Severin:
+——*cough*, get some heavies and come with me.
+
+Townsfolk:
+But they have firepower, and maybe hostages. We shouldn't provoke them any more. Let's wait for a chance to parley.
+
+Severin:
+A chance? You're going to wait for the enemy to give you a chance? Have you ever fought a battle?!
+
+Townsfolk:
+S-sorry!
+
+???:
+But his concerns are reasonable. The active Originium left behind by the Great Rift are likely still in the foundation of Wolumonde. The consequences of letting them destroy it would be unthinkable.
+
+Townsfolk:
+Where did you come from? You shouldn't be here!
+
+Severin:
+No.
+
+Severin:
+With no Gendarmerie, we're the ones who shouldn't be here... I've seen you before, Rhodes Island Operators.
+
+GreyThroat:
+Thank you for understanding. Ayerscarpe?
+
+Ayerscarpe:
+A quick, on-the-spot assessment: if they continue to bombard the area with that device, we have ten to thirty minutes before Wolumonde comes to a halt.
+
+Ayerscarpe:
+The best way to handle this would be to sever the link between this district and the rest of the city, but Wolumonde is no nomadic city. Individual districts do not have the power to move autonomously.
+
+Severin:
+Actually, a tractor could do it... But not when the streets are full of rebels.
+
+GreyThroat:
+Is there an application procedure for an armed intervention?
+
+Severin:
+...Go nuts.
+
+Severin:
+And please... Be sure to save Tatjana and Folinic.
+
+Suzuran:
+Mr. Severin, we need— Ah!
+
+GreyThroat:
+...Lisa?
+
+Suzuran:
+Is... is that Operator GreyThroat? And who's this?
+
+Ayerscarpe:
+Operator Ayerscarpe, bodyguard of Catastrophe Messenger Leonhardt. He is out on another mission, so I got dragged over here.
+
+GreyThroat:
+Lisa, where are Atro and Folinic?
+
+Suzuran:
+Miss Folinic is still in there! But Miss Atro... she's... um...
+
+GreyThroat:
+It's okay. I understand. I just had to be sure... We'll talk about it later.
+
+Suzuran:
+Mmm... It's, it's nice to have some senior operators coming to help...
+
+Suzuran:
+B-but I still need to stay focused!
+
+Suzuran:
+I'll take care of the wounded. Whatever you do, please bring Miss Folinic back safely!
+
+GreyThroat:
+Right. I will.
+
+Ayerscarpe:
+Such a young child... she's an operator?
+
+GreyThroat:
+Amiya isn't much older than Lisa, you know.
+
+Ayerscarpe:
+Yeah...
+
+Ayerscarpe:
+We did not plan for this rescue, nor do we have the protective equipment. Are you going to be okay?
+
+GreyThroat:
+Yes.
+
+Ayerscarpe:
+What a surprise. They always said you couldn't handle working around Originium. I was worried.
+
+GreyThroat:
+I've had enough of tragedy is all. Saving lives is what matters. Cut the chatter.
+
+Armed Infected:
+What the? More people coming in?
+
+Armed Infected:
+And they're fast! G-get rid of them!
+
+Ayerscarpe:
+So many locals. You fine with that?
+
+GreyThroat:
+Avoid the vitals. Engage.
+
+
+

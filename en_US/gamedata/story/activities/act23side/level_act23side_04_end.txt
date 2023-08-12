@@ -1,0 +1,551 @@
+Innkeeper:
+Who was that man? He just came in, looked around, and left.
+
+Inn Assistant:
+Could be a plainclothes from the Patrol Battalion, coming to see if there are smugglers here?
+
+Innkeeper:
+Plainclothes won't bumble like that or draw so much attention.
+
+Inn Assistant:
+Then he came to cause trouble. I'll go and catch him.
+
+Innkeeper:
+How? He was gone in the blink of an eye. He clearly knows qinggong.
+
+Burly Man:
+That was the last inn. Nothing.
+
+Burly Man:
+The girl said she wanted to leave the city, but she's not at the gates.
+
+Burly Man:
+The doc had to use the best meds to treat her. What if she doesn't come back, and he puts the bill on my tab?
+
+Burly Man:
+I have to catch her.
+
+Lin Yühsia:
+I'm not sure I understand your analogy.
+
+Lee:
+Ah, it wasn't the most apt.
+
+Lee:
+I opened my little agency in Lungmen to make a living, but business ended up better than I expected.
+
+Lee:
+Wei Yenwu and the L.G.D. can't deal with every little trouble out there.
+
+Lee:
+We need good citizens like Mr. Lin to pitch in.
+
+Lin Yühsia:
+It can't be helped.
+
+Lee:
+Can't be helped... that's true for Lungmen, and it's true for Yumen as well.
+
+Lee:
+Yumen patrols the northern borders to repel potential threats to Yan.
+
+Lee:
+Back when Originium technology was not so advanced, it took several times the manpower to run a mobile fortress like Yumen, compared to today.
+
+Lee:
+A group of patriotic martial artists went to Yumen at the time. They never officially joined the army, but they helped out with all sorts of things.
+
+Lee:
+Escorting Messengers, scouting the path ahead, even going into battle with the army... they played a key role in Yumen's peace and prosperity, and earned the respect of the city.
+
+Lin Yühsia:
+The court and jianghu were of one mind.
+
+Lee:
+This was how Yumen used to be... until twenty years ago.
+
+Lin Yühsia:
+The Shanhaizhong?
+
+Lee:
+Yes. Once again, the Shanhaizhong were the reason.
+
+Meng Tieyi:
+There's nothing else.
+
+Meng Tieyi:
+I hope I didn't bother you in your duties. It would be on my head.
+
+Zuo Xuanliao:
+......
+
+Zuo Xuanliao:
+You knew I wouldn't agree.
+
+A short whistle, then the tower's Originium lighting shuts off without warning, surrounding the pair in darkness.
+
+A flickering flame lights up in the distance a second later.
+
+The soldiers run back and forth, passing the torch between the beacons.
+
+Seventeen roars of the drum, dragged through the night sky by the rapidly moving Yumen.
+
+Meng Tieyi:
+Today is the second day of the Wangfeng Festival.
+
+Meng Tieyi:
+It was created to remind the people of Yumen to remember the past.
+
+Meng Tieyi:
+This meeting may have taken place earlier, or later.
+
+Meng Tieyi:
+By then, you may have recalled a few things.
+
+Zuo Xuanliao:
+I've never forgotten.
+
+Meng Tieyi:
+Do you remember how many of the heroes who died for Yumen were not soldiers?
+
+Meng Tieyi:
+They owe Yumen nothing.
+
+Zuo Xuanliao:
+Nor does Yumen owe anyone anything.
+
+Meng Tieyi:
+Zuo!
+
+Patrol Battalion Soldier:
+......
+
+Zuo Xuanliao:
+Stand down.
+
+Meng Tieyi:
+It was my negligence that allowed those criminals into the city twenty years ago, disguised as Yumen martial artists. You can blame me, punish me, execute me!
+
+Meng Tieyi:
+But the blame should fall only on me—or on you!
+
+Zuo Xuanliao:
+All the responsibility falls upon me.
+
+Meng Tieyi:
+And how have you taken responsibility? Alienating the brothers who gave blood and sweat for Yumen, driving them away—is that your idea of taking responsibility?
+
+Zuo Xuanliao:
+......
+
+Meng Tieyi:
+Yumen owes them an answer!
+
+Zuo Xuanliao:
+Yumen belongs to Yan. All it does is in the service of the Yanese people. That's my answer.
+
+Zuo Xuanliao:
+This meeting is over.
+
+Lee:
+The name 'Shanhaizhong' is not widely known.
+
+Lee:
+It wasn't that anyone was negligent. Everyone was so focused on guarding against external threats, they didn't realize there were enemies hiding in the shadows.
+
+Lee:
+Bodyguards, bouncers, blacksmiths... these civilians often fought alongside the soldiers, and enjoyed a great deal of freedom in Yumen. The Shanhaizhong took advantage of this fact.
+
+Lee:
+The city was caught off-guard and responded slowly. The Shanhaizhong's plot to destroy the city's power core was foiled, but only after heavy casualties had been taken.
+
+Lee:
+After that...
+
+Lin Yühsia:
+Taking measures after the fact is still better than not at all.
+
+Lee:
+But the measures might have gone too far.
+
+Lee:
+After that, the Lord Exorcist began to reform the city's administration, removing jianghu involvement, and setting increased restrictions on the movement of people.
+
+Lee:
+Some of those who stayed joined the army. Others put their swords down and took up another living. An ordinary cook at an inn may have been a famous swordsman, back in the day.
+
+Lee:
+Twenty years is plenty of time for a city to look very different.
+
+Lin Yühsia:
+Dad always says that there will come a day when Lungmen won't need downtown or the Rat King anymore.
+
+Lin Yühsia:
+If there comes a day when this city no longer needs to patrol the barrenlands, then the people in the city won't need to carry swords anymore.
+
+Lee:
+Times change. Some want to give it a push, others a pull. In the end, they're all left behind.
+
+Lee:
+That's the story that I heard. Does it help?
+
+Lin Yühsia:
+A lot, actually.
+
+Lin Yühsia:
+Thank you, Mr. Lee.
+
+Meng Tieyi:
+What did you learn?
+
+Yumen Martial Artist:
+Ten-man, two-hour shifts. No extra guards at the sand sluice.
+
+Meng Tieyi:
+Just as I saw.
+
+Meng Tieyi:
+One more thing to ask you to do.
+
+Meng Tieyi:
+At the Hour of Yu, I want you to cause a little commotion around the sand sluice.
+
+Meng Tieyi:
+Nothing too big, just draw away the patrols.
+
+Yumen Martial Artist:
+What do you...?
+
+Meng Tieyi:
+Ask no questions, if you still trust me.
+
+Yumen Martial Artist:
+...Alright.
+
+Yumen Martial Artist:
+Did you see Zuo Xuanliao on the tower?
+
+Meng Tieyi:
+Yes, I did.
+
+Qiubai:
+It's getting hotter...
+
+Qiubai:
+Someone attacked Wei Yenwu last night and threw the Yumen barracks into chaos. You were the assassin.
+
+Qiubai:
+You cause abnormal weather wherever you go. Is this Arts? Or some other trick?
+
+Shanhaizhong Boss:
+......
+
+Zuo Le:
+Murder of a Messenger, attempted theft of Catastrophe data, attempted assassination of a court official.
+
+Zuo Le:
+What do you think Yumen is, Shanhaizhong?!
+
+Shanhaizhong Boss:
+A city headed the wrong way.
+
+Shanhaizhong Boss:
+This way is wrong. Go no further.
+
+Zuo Le:
+You know why Yumen is returning...
+
+Shanhaizhong Boss:
+It's not hard to guess.
+
+Zuo Le:
+Father tasked me to complete three tasks in three days: recover the Grandmaster's sword, catch the assassin, and track down the Shanhaizhong who have infiltrated the city.
+
+Zuo Le:
+It turns out all the answers were right here in the Sword Forge.
+
+Shanhaizhong Boss:
+You won't complete any of them.
+
+Qiubai:
+Stand back. This one's kung fu is unfathomable. We're no match for him.
+
+Shanhaizhong Boss:
+You're not as strong as the Forte man, but you seem a little quicker on the uptake.
+
+Qiubai:
+So it was you who attacked Lord Taihe.
+
+Shanhaizhong Boss:
+You dodged the last strike. Will you dodge or block the next one?
+
+Qiubai:
+......
+
+Neither.
+
+He often told her that kung fu is like climbing a mountain, whether as a tool of revenge, or a way of life. The more treacherous the path, the steadier one's heart must be.
+
+She saw her enemy, and she saw the mountain. That is why she spent five years with him.
+
+If the battle cannot be won, she would seek to not lose.
+
+Shanhaizhong Boss:
+Offense is the best defense?
+
+Shanhaizhong Boss:
+You have guts, I'll give you that...
+
+Shanhaizhong Boss:
+But things are not as simple as you think.
+
+Qiubai:
+––
+
+They cross swords, and she realizes her decision was imprudent.
+
+She is facing another mountain.
+
+Cold steel flashes before her face, the droplets on the blade touching her nose. She can hear her own heartbeat.
+
+If the Record Keeper was here, he would have exclaimed that Qiubai recreated the move on the training ground.
+
+Dive, stop, and turn around before hitting the arc of death, like the fowlbeast that narrowly avoids the waves on the river.
+
+Qiubai:
+(Groans)
+
+Shanhaizhong Boss:
+You dodged again.
+
+Zuo Le:
+How dare you!
+
+Shanhaizhong Boss:
+You?
+
+Qiubai:
+Get out of the way, Zuo Le!
+
+Qiubai grabs Zuo Le by the collar and pulls him back.
+
+He sees the foe's third swing, which lights up the yard.
+
+It is March, but the Sword Forge feels like it is mid-summer. Even the night sky looks a little whiter in the heat wave.
+
+There is only a pagoda tree behind them. There is nowhere to run.
+
+Jieyun:
+......
+
+Jieyun:
+The sword.
+
+Du Yaoye:
+Don't move!
+
+Du Yaoye:
+You're still trying to take the sword? Do you want to get yourself killed?
+
+Du Yaoye:
+You're not dying until you tell me where Meng Tieyi is, guawazi!
+
+A burly man suddenly appears in the yard.
+
+He grabs the girl and knocks away the sword in one fluid motion.
+
+Like a bucket of cold water poured down on the ground, he forces everyone to scatter.
+
+The heat disappears.
+
+Burly Man:
+I've been looking for you.
+
+Jieyun:
+Let me go!
+
+Burly Man:
+You almost got yourself killed.
+
+Burly Man:
+I told you to stay put in the clinic. Now you've made your injuries worse.
+
+Jieyun:
+......
+
+Qiubai:
+You're still in Yumen, Huai?
+
+Huai:
+Oh, it's you.
+
+Huai:
+Your shifu won't fight me until he's left his post. I have to wait for him.
+
+Qiubai:
+You haven't budged for three years?
+
+Huai:
+Nope.
+
+Huai:
+What's more important than this? Where can I find an opponent like him after he leaves Yumen?
+
+Qiubai:
+There's a kung fu master right here in front of you. Why don't you have a go at her if it's a fight you're looking for?
+
+Huai:
+This woman?
+
+Shanhaizhong Boss:
+You're in my way.
+
+Huai:
+Something didn't feel right when I blocked that attack.
+
+Huai:
+It was heavy, but had neither form nor design. I don't know what that strange power is, but you're no master.
+
+Huai:
+I have no time for you.
+
+Wanderer:
+You hear that commotion inside, Jing?
+
+Wanderer:
+That young man just broke in before I could stop him.
+
+Jing:
+Damn.
+
+Jing:
+This is Tieyi's last workshop. He's been good to us. We need to protect it.
+
+Alert Shanhaizhong Member:
+Master, Boss, there are more jianghu adventurers coming.
+
+Alert Shanhaizhong Member:
+And Yumen soldiers behind them, coming from three directions, around a hundred in total.
+
+Shanhaizhong Boss:
+......
+
+Shanhaizhong Boss:
+No point wasting time here if the one we're looking for isn't here.
+
+Sudden silence. It is as though the cicadas were never there.
+
+It is still March. The chill of early spring makes everyone shiver.
+
+Shanhaizhong Ringleader:
+Let's go!
+
+Zuo Le:
+Stop right there!
+
+Zuo Le:
+......
+
+Wanderer:
+That's the one, Jing!
+
+Jing:
+Where are you going, sir?
+
+Zuo Le:
+Out of my way!
+
+Jing:
+Look at the mess here. Hardly anything left standing except the walls. You owe us an explanation.
+
+Zuo Le:
+This is a Yumen military case. Anyone who interferes will be arrested.
+
+Jing:
+Wait... you're Zuo Xuanliao's kid.
+
+Jing:
+So Zuo Xuanliao wants to take down the last Sword Forge now?
+
+Zuo Le:
+Impudence!
+
+Millenion:
+Lord Zuo.
+
+Zuo Le:
+Did you see the Shanhaizhong on your way here?
+
+Millenion:
+We've sent men after them.
+
+Zuo Le:
+Good. Round them up and take them into custody.
+
+Millenion:
+Lord Zuo, there are dozens of them... all local residents...
+
+Zuo Le:
+They appeared right as the criminals retreated and obstructed our pursuit. They must be investigated thoroughly.
+
+Zuo Le:
+All the rest have something to do with the case.
+
+Du Yaoye:
+The girl in the exotic outfit was hiding in the Sword Forge. She must know where Meng Tieyi is. I'm going with you, if you take her away.
+
+Zuo Le:
+The Sword Forge is linked to the Shanhaizhong. Given your ties to Meng Tieyi, I would have asked you to come with us regardless.
+
+Du Yaoye:
+......
+
+Zuo Le:
+As for you...
+
+Jieyun:
+......
+
+Huai:
+She's coming with me to get her wounds treated, and pay her bill.
+
+Zuo Le:
+This is no time for jokes.
+
+Jieyun:
+I-I can't go with you...
+
+Huai:
+Hmph, all you care about is the sword.
+
+Jieyun:
+Why you—!
+
+Zuo Le:
+—!
+
+Zuo Le:
+Take these people back to the barracks for questioning. I'll go after the Grandmaster's sword.
+
+Millenion:
+Are you alright, Miss Qiu?
+
+Qiubai:
+Just a scratch. Do as Zuo Le says for now.
+
+Qiubai:
+Please treat these jianghu people with proper respect, Millenion.
+
+Waai Fu:
+That man...
+
+Noises continue to emanate from the direction of the Sword Forge, but Waai Fu stops in her tracks.
+
+The figure on the roof vanished in the blink of an eye, as though it was just a gust of wind.
+
+Waai Fu tightens her fist.
+
+She has never been more certain.
+
+
+

@@ -1,0 +1,572 @@
+Manfred:
+We're down thirteen civilians and nine soldiers.
+
+Manfred:
+Rhodes Island...
+
+Manfred:
+They're proving to be quite troublesome.
+
+Sarkaz Warrior:
+General, we've finished the head count on the remaining Dublinn soldiers.
+
+Manfred:
+Give them one chance.
+
+Manfred:
+Those willing to join us will enter the mercenary squad.
+
+Manfred:
+As for those who aren't... You already know what to do with them.
+
+Sarkaz Warrior:
+Yessir!
+
+???:
+Not your best showing, General Manfred.
+
+Manfred:
+...I didn't expect for Confessarius's Messenger to still be here.
+
+Confessarius Guard:
+Both the Leader and the Regent are concerned about the battle situation unfolding in this inconspicuous corner.
+
+Manfred:
+I trust the Sanguinarch is no exception.
+
+Manfred:
+After all, his generosity last night took a lot of the pressure off of us.
+
+Confessarius Guard:
+Oh right, he wanted me to let you know, the atmosphere here is too filthy. He doesn't plan to wait around much longer.
+
+Confessarius Guard:
+At the moment, he is in the unfortunate process of requisitioning the property of a factory owner, and will be enjoying a late dinner.
+
+Manfred:
+Requisitioning?
+
+Manfred:
+I do hope that... whoever the Prince 'requisitioned' the factory from isn't one of our partners.
+
+Confessarius Guard:
+Does that matter?
+
+Confessarius Guard:
+These inefficient factories provide us with hardly anything worthwhile. All they do is breed pests.
+
+Confessarius Guard:
+His patience will only last until tomorrow night.
+
+Confessarius Guard:
+If you are unable to provide him with a satisfactory banquet, then he will 'sweep' these filthy streets as he sees appropriate.
+
+Manfred:
+......
+
+Manfred:
+Is this the Sanguinarch's intent, or the decision of the Military Commission?
+
+Confessarius Guard:
+Always fussing over these irrelevant details. This is exactly why you've been pinned down in this little dump. His Highness expected more of you.
+
+Manfred:
+...Please report back to the Prince: We are deeply grateful for his assistance, and will proceed with the next phase of the operation.
+
+Confessarius Guard:
+Very well. We look forward to seeing your results.
+
+Manfred:
+......
+
+Hoederer:
+Heading off to war isn't nearly as much of a slog as talking to these Royal Court people, eh?
+
+Manfred:
+So this is where you've been hiding.
+
+Hoederer:
+I assure you, I haven't been slacking off.
+
+Manfred:
+You can stop cradling that arm you nearly lost. Tell me, which of your old acquaintances did that to you? The one with the explosives, or the one with the sword?
+
+Hoederer:
+Sorry, it hurts so bad I can't remember anything.
+
+Manfred:
+Since they left you with another arm to pick up a sword with, it seems whoever it was still has a soft spot for you.
+
+Hoederer:
+......
+
+Manfred:
+It's almost daybreak.
+
+Hoederer:
+...Yeah, looks like it.
+
+Manfred:
+Stop leaning against the wall in a daze. Break time's over.
+
+Hoederer:
+Mercenaries aren't eligible for sick leave, right?
+
+Manfred:
+Let's go. This battle is far from over.
+
+Clovisia:
+How many injured are there? Take them to get treated right now!
+
+Medic Operator:
+I'll also help out!
+
+Clovisia:
+Mhm, thank you.
+
+Clovisia:
+Bring Harmo over here. We have to speed up the evacuation.
+
+Clovisia:
+Also, dispatch some Messengers outside the city. Worst case scenario, we need to be prepared to relocate the bulk of the population.
+
+Self-Salvation Corps Soldier:
+Yes, Commander!
+
+Clovisia:
+Miss Siege...
+
+Siege:
+......
+
+Clovisia:
+Miss Siege?
+
+Siege:
+Oh... Sorry, your voice always makes my mind wander off.
+
+Clovisia:
+You must be exhausted. Just like our soldiers.
+
+Siege:
+Thanks for your concern. I'm hanging in there.
+
+Clovisia:
+The piece of intel you brought back— that the warriors of Team 6 were slaughtered by extremely terrifying Originium Arts, is critically important to us.
+
+Siege:
+If only I could've gone to the surface to check on them sooner...
+
+Clovisia:
+No, you would've been in danger too.
+
+Clovisia:
+Besides, you've already done enough. If not for your quick-thinking, it might not have been just Team 6 that ran into him, but the rest of our troops and your people as well.
+
+Siege:
+Who is he? Those Sarkaz soldiers seemed to call him a prince.
+
+Clovisia:
+...Three months ago, a nobles' banquet was held in northern Londinium.
+
+Clovisia:
+It began with great fanfare. The lights stayed on the entire night, and it wasn't until the servants went to clean the venue on the second day that they discovered that the only thing left was a still-playing record player.
+
+Siege:
+Everyone was dead?
+
+Clovisia:
+All killed in a single instant, it seems. Some of them still kept their posture from the moment of death, glasses raised in a toast.
+
+Siege:
+......
+
+Clovisia:
+Among the slain were those with connections with us. Heidi knew them too.
+
+Heidi:
+That's right.
+
+Heidi:
+I lost several old friends that night. The Self-Salvation Corps also lost a significant portion of its network throughout the city.
+
+Clovisia:
+It's not for no reason that we retreated to the edge of the wall.
+
+Clovisia:
+But it's thanks to Heidi's unfaltering efforts that we've managed to survive. And soon enough, we'll have a chance to face the Sarkaz head-on.
+
+Clovisia:
+Before that though... we still need to escape the gaze of that terrifying individual.
+
+Clovisia:
+Amiya, would you happen to know who he is?
+
+Amiya:
+......
+
+Amiya:
+If my hunch is correct, the person looming above us is probably... a vampire.
+
+Closure:
+...This'll be tough.
+
+Feist:
+How tough?
+
+Closure:
+To be honest, it's probably easier for me to make a new one from scratch than try to glue the pieces together.
+
+Feist:
+Don't have the parts.
+
+Closure:
+Huh? No way...
+
+Feist:
+We're in Londinium. Most of the city's industrial resources are controlled by the Sarkaz, and we don't exactly have the luxury of scrounging up scraps for something that won't be used on the battlefield.
+
+Closure:
+Your work environment is way too...
+
+Feist:
+Impoverished? You can speak your mind, the commander isn't here.
+
+Closure:
+...Way too much of a challenge. *cough* *cough*...
+
+Feist:
+Miss Closure...
+
+Closure:
+What's up?
+
+Feist:
+D-Did you know, when you talk about being challenged, your eyes seem to... light up? Physically.
+
+Closure:
+Huh? Really? Must be because I'm getting excited... Is it scary?
+
+Feist:
+I-It's fine.
+
+Feist:
+To be honest, it wasn't until I met you that I found out... Uhh, that Sarkaz can do more than just fight.
+
+Closure:
+Oh... Uh, there are a lot of people who aren't fighters, like me.
+
+Closure:
+Naturally, I'm a vampire, so of course I was born with some handy talents.
+
+Feist:
+Huh? Y-You... what is this speed?! It'd take a week for me to do what you did in a single night!
+
+Closure:
+Why do you think the pillars of Rhodes Island are so good?
+
+Closure:
+Take a good look at my eyes. If the Rhodes Island landship was filled with vampires, working at night would be no problem, and we'd cut down big on the electricity bill.
+
+Feist:
+Are there... a lot of vampire engineers?
+
+Closure:
+Of course not! They... They all...
+
+Feist:
+Hey, why'd you start shuddering all of a sudden?
+
+Closure:
+Blame Londinium. It's been a long time since I last felt the fear of being this close to a den of evil. Look, my hands are totally frozen stiff! And I need these hands!
+
+Feist:
+Could it be... that Team 6 ran into...?
+
+Closure:
+I sure hope not.
+
+Closure:
+If so... For real, I need to give you guys a serious warning.
+
+Closure:
+Just in case... I mean, just in case—if you ever run into another vampire, run!
+
+Closure:
+No, it might already be too late by then.
+
+Siege:
+Morgan, you and Indra will go help the Self-Salvation Corps relocate.
+
+Siege:
+Mm, I'll be there right away.
+
+Siege:
+What is it, Doctor?
+
+Siege:
+Were you looking for me?
+
+Siege:
+Dagda... made her decision.
+
+Siege:
+I... When I had to take up the mantle as their leader, I've never stopped thinking about how to do the right thing.
+
+Siege:
+And at Rhodes Island, I saw how you went about doing that.
+
+Siege:
+I'm fine... But, I'm really worried about Dagda.
+
+Siege:
+It's no different from how you're worried about us, though. We both have our own responsibilities to shoulder.
+
+Siege:
+Dagda is... pretty much in the same situation as me.
+
+Siege:
+Every moment she stayed with me, her actions were bound by responsibility. No matter how many times I told her to make her own decisions, she would never be able to choose any other outcome.
+
+Siege:
+When we truly have the capacity to make a choice, what truly matters is having the authority to make that so-called choice. Otherwise, it is nothing more than coercion, wrapped in a more palatable package.
+
+Siege:
+I don't want to have to push her along ever again. She needs to accept herself, and then walk down her own path with conviction.
+
+Siege:
+......
+
+Siege:
+Becoming a run-of-the-mill soldier might be the easy way out.
+
+Siege:
+But my family name... No matter what you all decide to call me, I can't deny my name. It's a part of me.
+
+Siege:
+I hope I didn't scare you by telling you the truth, Doctor.
+
+Siege:
+Dr. Kal'tsit said she was willing to tell you, but I decided to do it myself.
+
+Siege:
+You don't seem all that surprised.
+
+Siege:
+...You don't remember the past?
+
+Siege:
+Even though you've suffered so much due to that... I can't help but wonder, is your life a little bit easier because you can't remember?
+
+Siege:
+That's right, what's most important is always the present.
+
+Siege:
+When I made the decision to leave Victoria, all I wanted was for me and Indra to live to see this moment.
+
+Siege:
+The future...
+
+Siege:
+Which way... will my future take me?
+
+Siege:
+Only I can answer that question. Nobody else can.
+
+Siege:
+Phew... When I'm around you, I can always relax so easily.
+
+Siege:
+It might be because... even when you found out the truth, the only person reflected in your eyes was the operator known as 'Siege'.
+
+Siege:
+Instead of... Victoria.
+
+Siege:
+Coming back to Londinium has brought back many memories.
+
+Siege:
+But at the same time, so much has changed.
+
+Siege:
+The decisions I make no longer solely affect my team.
+
+Siege:
+Doctor... I don't actually want 'choice' to be an excuse that holds me back.
+
+Siege:
+......
+
+Amiya:
+...Miss Heidi.
+
+Heidi:
+Amiya? I'm currently tending to the wounded.
+
+Amiya:
+You... practice medicine?
+
+Heidi:
+Only some basic nursing techniques.
+
+Heidi:
+This job inevitably brings me into emergency situations. To give me and my friends a better shot at survival, I had to at least learn to use a first-aid kit.
+
+Amiya:
+You're really amazing.
+
+Heidi:
+All we're doing is protecting our home. But Kal'tsit... and you, Amiya, you all carry so much more responsibility on your shoulders.
+
+Amiya:
+...We've lost a lot of people on this operation.
+
+Amiya:
+I... I feel the pain of the Self-Salvation Corps' soldiers. They've never had to deal with such horrific enemies before.
+
+Amiya:
+The Sanguinarch... Did he come here because of us?
+
+Heidi:
+Amiya, what you need to hear isn't me saying 'no, it's not your fault.'
+
+Amiya:
+Yes...
+
+Amiya:
+Clovisia said she was afraid Rhodes Island would get the Self-Salvation Corps involved in a war they weren't a part of.
+
+Amiya:
+If working with us puts them at greater risk...
+
+Heidi:
+During last night's operation, what would've happened if Rhodes Island had not been there?
+
+Heidi:
+Without W colluding, had she not stopped the mercenary leader... and without Rhodes Island's operators keeping Manfred at bay, we wouldn't even be having this conversation right now.
+
+Heidi:
+The calculus of exchanging one set of lives for another simply does not exist for Rhodes Island—
+
+Heidi:
+But even if Kal'tsit were here, I'm sure she would say every opportunity comes with its risks.
+
+Amiya:
+......
+
+Amiya:
+I understand.
+
+Amiya:
+That's why we have to be better prepared.
+
+Amiya:
+Miss Heidi, I need more information from within the city. Not counting the Sanguinarch, how many kings do the Sarkaz have inside Londinium?
+
+Horn:
+Excuse me, I'd like a bag of bread.
+
+Londinium Citizen:
+I don't need your money, lass. Take all of these with you.
+
+Horn:
+Huh?
+
+Londinium Citizen:
+Hurry along, and don't come out here again.
+
+Horn:
+What do you mean...?
+
+Londinium Citizen:
+I know who you are. Actually, we can all tell.
+
+Londinium Citizen:
+Even if you took off your equipment and changed your clothes, both your actions and the look in your eyes won't fool anyone.
+
+Horn:
+...Thank you.
+
+Londinium Citizen:
+I might as well pack up too. Don't think there's business to be had today.
+
+Sarkaz Mercenary:
+We're doing another sweep of this street! Take away anyone whose name is on the list!
+
+Londinium Citizen:
+Wh-What's going on? I... I'm just a restauranteur. Didn't you come by to have fried finmeat before...?
+
+Sarkaz Mercenary:
+You're the one we're after.
+
+Sarkaz Mercenary:
+Your cover runs pretty deep. Selling fried meat to us by day, peddling information to the rebels by night?
+
+Sarkaz Mercenary:
+Take them away! And check those buildings next door. They're all rebels!
+
+Horn:
+......
+
+Horn:
+Why are the Sarkaz suddenly going around grabbing people?
+
+Self-Salvation Corps Soldier:
+H-Hurry, take a turn at the alley just ahead and find the others—
+
+Self-Salvation Corps Soldier:
+Ugh—!
+
+Sarkaz Mercenary:
+Another one down.
+
+Sarkaz Mercenary:
+You lot, search that alley over there. Don't let a single one of them escape this borough.
+
+Self-Salvation Corps Soldier:
+Report, we ran into Sarkaz as soon as we came out...
+
+Self-Salvation Corps Soldier:
+No, they weren't guarding the city exits, they suddenly appeared in the middle of the streets!
+
+Self-Salvation Corps Soldier:
+Commander, do you think our comms have been compromised?
+
+Self-Salvation Corps Soldier:
+Please be careful... The soldiers dispatched out of the city have all perished. I can't hide for much longer either!
+
+Self-Salvation Corps Soldier:
+I—
+
+Self-Salvation Corps Soldier:
+Bloody hell, why can't I shake them off?
+
+Self-Salvation Corps Soldier:
+The Sarkaz seem to have suddenly figured out all our passages and networks!
+
+Self-Salvation Corps Soldier:
+In just... a single night...?
+
+Self-Salvation Corps Soldier:
+What exactly happened last night?
+
+Sarkaz Mercenary:
+Haha, wouldn't you like to know.
+
+Sarkaz Mercenary:
+Huh? What the hell are you? My blade snapped clean in half—
+
+Self-Salvation Corps Soldier:
+The way you're dressed... Are you a Rhodes Island operator? Thank you. You guys saved us again.
+
+Misery:
+Hurry back.
+
+Misery:
+Wait, be sure to tell Amiya and the Doctor that the underground isn't safe anymore.
+
+Misery:
+The traps we ran into yesterday... aren't the only ones we've discovered.
+
+
+

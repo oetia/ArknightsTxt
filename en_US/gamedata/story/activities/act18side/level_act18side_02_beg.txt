@@ -1,0 +1,434 @@
+Hibiscus:
+Huff...
+
+Hibiscus:
+It didn't go so well with Mr. Czerny, but everyone else in the Afterglow has been nice and easy to talk with.
+
+Hibiscus:
+I've visited ten or so houses by now, and picked up a few blood samples. Not bad results.
+
+Hibiscus:
+It's almost night now...
+
+Food Stall Owner:
+Junge Frau, I've seen you busy all day long, running to and fro. I bet you're hungry, aren't you?
+
+Food Stall Owner:
+How about trying some Afterglow specialties?
+
+Hibiscus:
+Specialties?
+
+Food Stall Owner:
+Take a look at this. Pan-fried sauerkraut! The aroma, the color!
+
+Hibiscus:
+(A pickled food sautéed in oil. The very opposite of healthy.)
+
+Food Stall Owner:
+What, scared I'm overcharging you? Here, this one's yours, free of charge!
+
+Food Stall Owner:
+Don't be shy, now, you've been all over the streets checking up on us. This is to thank you.
+
+Hibiscus:
+(Oh, I can't turn down hospitality...)
+
+Hibiscus:
+Thank you very much, then.
+
+Food Stall Owner:
+Don't mention it!
+
+Food Stall Owner:
+What's wrong? You've only taken one bite. I told you, it's on the house.
+
+Hibiscus:
+I'm not quite hungry—I'll carry on eating later.
+
+Hibiscus:
+Actually, have you ever considered adjusting your recipe slightly?
+
+Food Stall Owner:
+In what way?
+
+Hibiscus:
+You see, this serving is approximately that of an adult's, but the salt and fat content are at least three and five times the recommended intake respectively. It's more harmful than anything.
+
+Food Stall Owner:
+Junge Frau, I've been making this for decades. There's no one buying it who doesn't like it.
+
+Food Stall Owner:
+If I suddenly changed my recipe, my regulars would have my head!
+
+Hibiscus:
+I'm suggesting it with their health in mind.
+
+Hibiscus:
+Everyone spending their money here, myself included, is an Infected. A diet so high in salt and fat can only have even worse repercussions on Infected than on the healthy...
+
+Food Stall Owner:
+I'll just ask you this one thing—does my food taste good or not?
+
+Hibiscus:
+It's extremely delicious.
+
+Food Stall Owner:
+Then that settles it!
+
+Hibiscus:
+But I still think—
+
+Food Stall Owner:
+Alright, alright. I know you can't appreciate my craft, I get it. My heart goes out to you.
+
+Hibiscus:
+Haha...
+
+Hibiscus:
+Oh, by the way, I'd like to ask a few questions. Can I?
+
+Food Stall Owner:
+Seeing as business isn't exactly booming right now, ask away.
+
+Hibiscus:
+Well, why don't you tell me how business has been lately?
+
+Food Stall Owner:
+Up to my ears! More and more people out to eat the past few days, probably thanks to the warm weather.
+
+Hibiscus:
+Are you familiar with everyone who comes to eat?
+
+Food Stall Owner:
+I am. Every patron of mine's from the Afterglow. I know basically all of them.
+
+Hibiscus:
+Are they all Infected?
+
+Food Stall Owner:
+They are.
+
+Hibiscus:
+Have there been any who hadn't shown themselves for a while, but came to buy from you again these past few days?
+
+Food Stall Owner:
+That's right. Quite a few too, if I think about it.
+
+Hibiscus:
+Could I ask you to tell me which of your customers that applies to? Where do they all live?
+
+Hibiscus:
+Thank you!
+
+Food Stall Owner:
+No problem!
+
+Hibiscus:
+Finally... how have you been feeling recently?
+
+Food Stall Owner:
+You mean the Oripathy? Fairly regular, nothing one way or the other. But with business good lately, I've been really on top of keeping my stocks up.
+
+Hibiscus:
+I'm guessing you're not too obsessed with music?
+
+Food Stall Owner:
+Heh, I've never been much of an artist. Don't have as much drive as them. If I can keep my family fed, I'm happy.
+
+Hibiscus:
+That's all my questioning, then.
+
+Hibiscus:
+Thank you for humoring me! I hope business thrives for you!
+
+Food Stall Owner:
+Thank you, thank you.
+
+Food Stall Owner:
+But you've still only taken one bite, Junge Frau. Won't you have a little more?
+
+Hibiscus:
+Well—didn't I just—
+
+Food Stall Owner:
+I'm joking.
+
+Food Stall Owner:
+You doctors put health first, I understand that! But naturally, taste's a priority for us chefs, and doctors by and large, well, they give us some understanding back. What do you say?
+
+Hibiscus:
+Erm... I can understand, but I still can't approve.
+
+Food Stall Owner:
+Just understanding's a good start. We can put our differences aside. Next time you want a bite, remember, come by!
+
+Hibiscus:
+Mmhm, mmhm.
+
+Food Stall Owner:
+She has me wondering, though. Seemed on the verge of tears after she took one bite...
+
+Food Stall Owner:
+*sigh* Such a nice young girl. Makes you wonder why she had to be a Sarkaz.
+
+Coffee Shop Owner:
+Chefkoch, one thing of sauerkraut, please.
+
+Food Stall Owner:
+Coming up—oh, it's you.
+
+Food Stall Owner:
+Two portions of minced meat and a slight char on your sauerkraut, yeah?
+
+Coffee Shop Owner:
+Thank you!
+
+Coffee Shop Owner:
+That girl just now looked a little strange. You seen her before?
+
+Food Stall Owner:
+She's been all around the streets lately. If I didn't before, I have now. What, are you going to invite her to yours for a cup?
+
+Coffee Shop Owner:
+Forget it.
+
+Coffee Shop Owner:
+You've seen how she's so busy. Probably on some serious business, no chance to have a coffee.
+
+Hibiscus:
+Cases with abnormal improvement are distributed over an even wider area than I guessed...
+
+Hibiscus:
+I'm sorry!
+
+???:
+That's alright, I should be the one apologizing. I was so preoccupied, admiring this magnificent building, I got in the way of your motif.
+
+Hibiscus:
+...Motif?
+
+???:
+Goodbye.
+
+Hibiscus:
+(She's in a hurry...)
+
+Hibiscus:
+(Though I suppose it's about time to head back. There's no residents in the square...)
+
+Drunken Infected:
+Hey, fräulein!
+
+Hibiscus:
+Um?
+
+Hibiscus:
+(What a strong smell of alcohol...)
+
+Drunken Infected:
+Yeah, you, devil!
+
+Hibiscus:
+......
+
+Hibiscus:
+And you are...?
+
+Drunken Infected:
+You just left my house! You don't remember?
+
+Hibiscus:
+So, you're a relative of Mr. Schneider's? You didn't seem to be at home when I made my visit just now.
+
+Drunken Infected:
+I'm his son! You sucked my father's blood!
+
+Andante:
+Hibiscus! Hibiscus!
+
+Hibiscus:
+Andante, not a moment too late. This man here's extremely worked up, and I don't know what he's trying to convey...
+
+Drunken Infected:
+Andante? Andante from Rhodes Island! Go tell your boss right now, to send this devil back home, never let her back in the Afterglow!
+
+Andante:
+That... Just calm down for now. Tell me what she did. It helps me write my report afterward.
+
+Andante:
+(Whisper) I was wondering why you were taking so long to return... head back to the branch office for now!
+
+Hibiscus:
+(Whisper) I'll observe a little longer. Something's not right here. Maybe what he says can help us out somehow.
+
+Drunken Infected:
+She sucked my father's blood! Devil! Bloodsucker! You know what that means?
+
+Hibiscus:
+Er, Mr. Schneider, you may have heard legends about Vampires, but I'm just an ordinary Sarkaz. Fresh blood has no attractive force on me...
+
+Drunken Infected:
+Who said anything about Vampires?
+
+Drunken Infected:
+Hey, buddy. What do you say? What's she doing... collecting blood from Infected?
+
+Passerby Infected:
+Me?
+
+Drunken Infected:
+Yeah, you! G—Go on!
+
+Passerby Infected:
+I... I'm busy right now, excuse me...
+
+Drunken Infected:
+Gah, some people got no spine...
+
+Drunken Infected:
+Bro, you—you tell me!
+
+Suspicious Infected:
+Well... I'm not too sure of the details, but I have heard about Casters using Infected blood to do their Arts.
+
+Suspicious Infected:
+And the Spire Casters secretly abducting Infected lately. They're doing about the same thing...
+
+Drunken Infected:
+That's what I want to hear! This devil's been collecting our blood from all over! That shit's exactly what she's doing!
+
+Hibiscus:
+Collecting the blood of Infected for Arts... Based on what I know, nothing apart from the, um, quote-unquote 'Witch King's remains'...
+
+Infected:
+?!
+
+Hibiscus's mindless utterance stuns not just the two Infected into silence, but the entire crowd about them who gathered to see what the fuss was about.
+
+Suspicious Infected:
+You'd... utter the Majesty's name just like that... You really are... all tied up.
+
+Drunken Infected:
+That's it, she has to be! It's what the prophecy said! This devil's going to use Infected blood to blast us all with Arts!
+
+Suspicious Infected:
+Prophecy? You mean the one His Majesty issued...
+
+Drunken Infected:
+Right! That one! We can't let that prophecy come true!
+
+Meddlesome Infected:
+Did you say prophecy?
+
+Meddlesome Infected:
+I heard there was a prophecy recently, but it was all vague... what did it say, exactly?
+
+Hibiscus:
+I'm just as curious. You're trying to drive me off based on some prophecy, but I don't even know anything about it. How do you expect me to go, just like that?
+
+Suspicious Infected:
+We can't just talk about it out loud. Who can guarantee he didn't leave behind some kind of Arts? Maybe our each and every move is all...
+
+Meddlesome Infected:
+Eek!
+
+Meddlesome Infected:
+Th-Th-Th... Then tell us quietly. What exactly did the prophecy say?
+
+Hibiscus:
+Tch.
+
+Hibiscus:
+(Whisper) Andante, have you heard similar rumors recently?
+
+Andante:
+(Whisper) It rings a faint bell, to be honest, but I never paid any attention to it...
+
+Andante:
+(Whisper) Not to mention His Majesty died long ago. And even if he were alive and well, he'd have no reason to leave any prophecies specifically in the Afterglow.
+
+Andante:
+(Whisper) People just keep coming...
+
+Meddlesome Infected:
+Girlie, I think you should take a hike. There's everything to fear here...
+
+Drunken Infected:
+Get out of the Afterglow!
+
+Hibiscus:
+Please, everyone, don't just trust an unfounded rumor like this!
+
+Suspicious Infected:
+Rumor?! You have the gall to call a prophecy a 'rumor,' you...
+
+Hibiscus:
+Sir, one moment you saying me and the Wi... those remains are 'all tied up,' the next you're suggesting I'm disrespecting him. What exactly are you trying to get at with all these contradictions? What are you inciting?
+
+Suspicious Infected:
+The way your sort behave, common sense never applies.
+
+Suspicious Infected:
+Besides, who knows what a devil like you is up to, coming here to the Afterglow and using your 'investigation' as a cover to steal our blood.
+
+Suspicious Infected:
+Even if you *mean* no harm, we can't just ignore the prophecy and let you stay here! Isn't that right, everyone?
+
+Onlooking Infected:
+Yeah! That's right!
+
+Hibiscus:
+I'm not sure why you all seem so scared of a fictional calamity taking place here. It's probably 'His Majesty's' name hanging over you?
+
+Hibiscus:
+But there's something that scares me more.
+
+Hibiscus:
+I'm scared I won't be able to find an explanation for this incident.
+
+Hibiscus:
+If I cower now, then maybe I'd be losing a golden chance to save lives; maybe, I'd leave you all to be endangered just because of my own cowardice.
+
+Hibiscus:
+You can look at me like a cruel caster using Infected blood for Arts, you can treat me like some 'devil' spreading disaster... I don't mind any of it.
+
+Hibiscus:
+I just want to save lives. Beyond that, I'm not asking the Afterglow for anything else.
+
+Drunken Infected:
+No more lies! If you don't go, you're here to destroy the Afterglow!
+
+Hibiscus:
+......
+
+Hibiscus:
+Everybody, I don't intend to start a conflict with you here.
+
+Hibiscus:
+If you truly want me out of sight, I can return to the Rhodes Island branch office for a time, and you can all cool down in the meanwhile. Would that be okay?
+
+Drunken Infected:
+Pssh, now you're talking reason—
+
+Suspicious Infected:
+No!
+
+Suspicious Infected:
+Where do you think the Rhodes office is? It's here in the Afterglow too!
+
+Suspicious Infected:
+Or do you think Rhodes Island has some special privilege, huh? That you can just take it out of the Afterglow's hands?
+
+Suspicious Infected:
+We won't let that happen!
+
+Suspicious Infected:
+Everyone with me! Drive this devil away!
+
+Some come charging in, some stay motionless where they are, and some choose to turn their backs on Hibiscus, leaving this site of trouble.
+
+No matter the choice they've made, Hibiscus simply stands there, not choosing to fight, nor choosing to flee.
+
+
+

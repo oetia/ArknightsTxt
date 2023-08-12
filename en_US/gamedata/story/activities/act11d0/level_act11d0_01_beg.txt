@@ -1,0 +1,389 @@
+2:10 P.M. \ Clear
+
+Wolumonde, Leithanien. Once a bustling hub of commerce, this nomadic town is now rarely seen by outsiders.
+
+Rathaus
+
+Councilor:
+Schultz Severin Hawthorn, where have you been?
+
+Councilor:
+How are we supposed to get anything done in a strategic planning session without you?
+
+Severin:
+Was I here when you decided my son's fate?
+
+Councilor:
+Well... Tatjana should already have...
+
+Severin:
+Yes, she told me. You had her tell me. I'm only reminding you what you've done.
+
+Severin:
+What's the situation?
+
+Councilor:
+The Infected are still protesting. They've even started chasing off Infected newcomers.
+
+Severin:
+What do they want?
+
+Councilor:
+They... they believe the fire was part of some kind of plot. They demand an explanation for Dr. Atro and the dead Infected.
+
+Severin:
+A plot? An explanation? Great, someone must be riling them up.
+
+Severin:
+Even the Infected wouldn't stoop that low. Most of them are from Wolumonde.
+
+Severin:
+Have they had any contact with that militant group out there?
+
+Councilor:
+None, for now.
+
+Councilor:
+But the militants have been lingering around the outskirts of the hamlet. I'm worried they might influence the protestors.
+
+Councilor:
+Just a second, it's from the sentry—
+
+Severin:
+Go ahead.
+
+Councilor:
+Two? Infected?
+
+Councilor:
+They claim to be from Rhodes Island? I know that name—
+
+Severin:
+That would be Dr. Atro's company. *Sigh.* We knew this was coming.
+
+Councilor:
+Wh-what do we do?
+
+Severin:
+Dr. Atro was a respectable Infected. They may be here looking for her. And they have a right to know the truth.
+
+Severin:
+Let them in.
+
+Councilor:
+...You heard him. Do as he says.
+
+Councilor:
+Hmm, are you sure about this? What if they have something to do with the militants out there?
+
+Severin:
+Between the Great Rift, the fire, and the Infected, do we have the luxury to be suspicious of everyone who knocks on our door?
+
+Councilor:
+What about after they learn the truth? What if Rhodes Island seeks reparations from us? How much is Wolumonde to suffer?!
+
+Severin:
+...So what should we do?
+
+Severin:
+Lock our doors and send them away? Lie to them? Tell them Dr. Atro took some Oripathy patients out on a hike?
+
+Councilor:
+I know we can't sweep it under the rug. But you don't have the final say in this. We have to prepare for the worst.
+
+Severin:
+No one has the final say on the truth, but... Never mind. Do as you will.
+
+Severin:
+I'm leaving.
+
+Councilor:
+Leaving? Where are you going this time?
+
+Severin:
+...I have a problem to solve.
+
+Severin:
+My only job is to get this town back on track. The decision-making process? I have little patience for your political games.
+
+Councilor:
+Hey! Wait!
+
+Councilor:
+I know you're suffering, and there's so much we could've done better, but we had no choice!
+
+Severin:
+I understand. That's why I'm still talking to you nice and peacefully.
+
+Severin:
+I'll leave Rhodes Island to you. You're good at these things. I'll walk the blocks.
+
+Severin:
+That's the deal.
+
+Councilor:
+Severin! Severin Hawthorn! You are this town's Schultz! You can't be running all over the—
+
+Councilor:
+Ugh! Must he always...
+
+Councilor:
+Sigh...
+
+Councilor:
+Forget it. Tatjana, Severin, Thor. They're all tragic figures, really.
+
+Councilor:
+Let's get this place cleaned up. Rhodes Island will be here soon.
+
+Suzuran:
+Wolumonde. Its name means 'The Eighth Moon,' and together with seven other nearby towns, it makes up Leithanien's flourishing northern trade network—
+
+Suzuran:
+That's what the book said, anyway.
+
+Folinic:
+From what I'm seeing, 'flourishing trade' isn't exactly how I'd describe it.
+
+Suzuran:
+Could it be because of the 'Great Rift' thing?
+
+Folinic:
+Yes. A Catastrophe of that scale is rare. It could be more than a thousand meters deep, with exposed active Originium on the cliffsides. I shudder just thinking about it.
+
+Suzuran:
+But, Miss Folinic... You were very curious what would happen if you lobbed a shell into it...
+
+Folinic:
+Nay, that was just my academic curiosity speaking. Realistically, one wrong move and the entire plateau could get cleaved in half.
+
+Folinic:
+Considering the detour we had to take, looks like this town won't be moving an inch.
+
+Townsfolk:
+Visitors at a time like this? And such strange clothes. I hope this isn't an ill omen...
+
+Townsfolk:
+Look at her tails. Oh, and the crystals on her shoulder! Is she Infected?
+
+Townsfolk:
+But those clothes look familiar... Where have I seen them before...?
+
+Suzuran:
+M-Miss Folinic, can we really just walk down the street like this?
+
+Folinic:
+The prevalence of Originium Arts in Leithanien have brought two major benefits: first, the incredible music scene, and second, a broad tolerance of the Infected.
+
+Folinic:
+There may be restrictions on your personal freedom, but should you want to live, you can win back that right as long as you're willing to pay the price.
+
+Suzuran:
+...Price?
+
+Folinic:
+At least it's something affordable.
+
+Folinic:
+Wolumonde may be in the boonies and have its fair share of problems, but at least the Infected have a place to live... That's what she told me anyway—
+
+Folinic:
+—Oh, someone's coming.
+
+Severin:
+...Hm?
+
+Suzuran:
+(Hm? That man's uniform...)
+
+Folinic:
+(Is he with the Wolumonde Gendarmerie? Should we ask for directions?)
+
+Suzuran:
+(He's coming toward us. Is this the welcoming committee?)
+
+Folinic:
+(I'm not sure...)
+
+Suzuran:
+(Oh, he lit a cigarette.)
+
+Suzuran:
+(He put his lighter into his pocket. Now he's holding the cigarette with his other hand. He switched hands again—)
+
+Suzuran:
+(—He walked away without looking back! Miss Folinic!)
+
+Folinic:
+Excuse me—!
+
+Severin:
+Hm.
+
+Folinic:
+Hello, we're—
+
+Severin:
+Ah, Rhodes Island, I take it?
+
+Severin:
+The Rathaus is just up ahead, right in front of the tallest tower. You see it? Good. Someone will meet you there.
+
+Folinic:
+Er, thanks. Can I ask your name...?
+
+Severin:
+Me? I'm off duty.
+
+Folinic:
+Um, what?
+
+Severin:
+I'm off duty. And I really don't want to talk so much when I'm off... I have my own business to deal with.
+
+Severin:
+That's the deal. Later.
+
+Folinic:
+And he's gone?
+
+Suzuran:
+He was kind of rude, but I think he's been through a lot...
+
+Folinic:
+Hah... as if we're not tired!
+
+Folinic:
+But at least he told us where to go. Let's go talk to the local—
+
+Tatjana:
+Schultz! There you are!
+
+Tatjana:
+The Infected are protesting again. The Gendarmerie are already on the scene, but they need you there leading them—
+
+Tatjana:
+Ah! You're smoking! Did the shopkeepers get to you again? Please, you have an image to maintain. You wouldn't want to lose the trust of the people—
+
+Tatjana:
+Hm? What is it?
+
+Severin:
+......
+
+Folinic:
+......
+
+Suzuran:
+...That's a... Schultz? A 'Schultheiß' is like a local leader?
+
+Tatjana:
+Is something wrong, Schultz?
+
+Severin:
+No. You're always working so hard, Tatjana. I admire you.
+
+Tatjana:
+Do you? Thank you—
+
+Tatjana:
+Now, about those two, they're not from around here, are they? Could they be the doctors from Rhodes Island?
+
+Folinic:
+Oh? Well, yes. We are indeed. I am Folinic and this is Suzuran.
+
+Suzuran:
+(Doctors?)
+
+Folinic:
+(I think we count.)
+
+Suzuran:
+(Even me?)
+
+Folinic:
+(I'm a fully-fledged operator assigned to the Medical Department. And Lisa, you've... studied with Dr. Kal'tsit, so we can call you a medical intern. I guess.)
+
+Tatjana:
+I see... Oh! You two must be on your way to the Rathaus? I'm so sorry to get in your way!
+
+Tatjana:
+Of course it should be the Schultz who receives you, but he really is needed at Zwölftontechnik Strasse... Er...
+
+Folinic:
+Oh, really, he can—
+
+Severin:
+Ahem! Very good, Tatjana, you take them. I'll go look into this Infected situation.
+
+Severin:
+You two.
+
+Folinic:
+—Yes?
+
+Severin:
+I know why you're here. But our situation is dire.
+
+Severin:
+Do you know what happened to Wolumonde?
+
+Folinic:
+The Great Rift.
+
+Severin:
+Yes. I get to skip over so much when dealing with smart people.
+
+Severin:
+So now the Infected are more riled up than ever before. If you don't want to get mixed up in that, stay away from Zwölftontechnik Strasse.
+
+Folinic:
+We are experts at dealing with the Infected.
+
+Severin:
+I know. We had a Dr. Atro from your company working closely with us.
+
+Folinic:
+So you know we can help.
+
+Severin:
+We don't need it yet. It wouldn't be right to drag our guests into this mess as soon as they've arrived. That would get us into trouble too.
+
+Folinic:
+...So what is Atro doing here?
+
+Tatjana:
+Um...
+
+Severin:
+She's not here right now.
+
+Folinic:
+So where is she?
+
+Severin:
+She...
+
+Townsfolk:
+Oh no! Fighting has broken out!
+
+Townsfolk:
+Th-those Infected have weapons! What's going on?!
+
+Townsfolk:
+They've got blades! Are they going to kill us?
+
+Tatjana:
+Schultz!
+
+Severin:
+...I know.
+
+Severin:
+You two are Infected experts, yes?
+
+Severin:
+Come with me.
+
+
+

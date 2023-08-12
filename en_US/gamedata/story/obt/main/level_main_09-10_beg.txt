@@ -1,0 +1,376 @@
+Outcast:
+Is everyone okay?
+
+Operator Oliver:
+We took cover in time, thanks for the warning... *cough*, Janie, what about you? You in one piece?
+
+Janie:
+I'm okay. Outcast covered me proper.
+
+Janie:
+But... what happened outside?
+
+Janie:
+I hear lots of screaming... and the children...
+
+Outcast:
+Jane, don't go outside yet! All of you, stay low and stay in cover. Get away from the windows!
+
+Outcast:
+An explosion of this scale always comes in waves—
+
+Operator Fred:
+Aarrrggh! M-My leg... The bookshelf's got my leg pinned...
+
+Outcast:
+Will, give Fred a hand!
+
+Operator Fred:
+Ha... thanks, mate. I can move now.
+
+Outcast:
+Are you bleeding anywhere?
+
+Operator Fred:
+I'm fine. Just a little bit.
+
+Outcast:
+Do we have a first aid kit? Take that acute infection inhibitor right now!
+
+Operator Fred:
+Huh? Lass, I got a gash on my leg 'cause of the splinter, that's all.
+
+Outcast:
+No, you don't get it.
+
+Outcast:
+Right now, you're at the highest possible level of infection risk. Did you see the black crystal that smashed through the windows?
+
+Operator Fred:
+M-My god... I...
+
+Operator Shredder:
+Is that Active Originium...?!
+
+Outcast:
+That it is.
+
+Janie:
+You mean, all the black stuff that's blanketing the streets... All of it?!
+
+Outcast:
+I'm afraid so.
+
+Janie:
+I... I can't believe it...
+
+Operator Oliver:
+D-Doesn't this mean the whole city's in terrible danger?!
+
+Operator Oliver:
+Dammit! Lass, we've gotta hurry and rescue the townsfolk! We're short on time, but we need to save as many as we can!
+
+Outcast:
+Any objections?
+
+Operator Shredder:
+I figured Oliver would raise his hand.
+
+Operator Oliver:
+Mock me all you want later, but get your arse moving now and get that first aid kid packed! Fred, you're hurt. Stay here and coordinate the rest of us! Will, go home and check on your parents—
+
+Operator Will:
+I can go with the rest of you...
+
+Operator Oliver:
+Don't be an idiot, boyo. Family's more important than work! Bring some medicine with you, and check on your neighbors once you're done helping your family!
+
+Operator Will:
+Thank you, Boss...
+
+Operator Oliver:
+Shredder, old mucker, looks like you and I've got a few more streets to take.
+
+Outcast:
+Don't forget about me, Oliver. It may only be a temporary arrangement, but I am an operator under your wing nonetheless.
+
+Operator Oliver:
+Lass, don't be absurd.
+
+Outcast:
+I'm being serious. Leave the District Ten and its surroundings to me.
+
+Operator Oliver:
+That's the epicenter. It's way too dangerous...
+
+Outcast:
+Do we have a choice? Give me a temporary set of comms too. We'll give each other progress reports.
+
+Janie:
+I'm going too...
+
+Operator Oliver:
+Er, Janie, this rescue op's not a playdate, and you've not gone through training like the rest of us. You don't need to put yourself in harm's way.
+
+Operator Oliver:
+Whose bloody idea was it to dump all this Active Originium on a town anyway?! They've got to be out of their minds!
+
+Outcast:
+They bombed so much land in such a short period of time... Whoever planned this attack must've at least ten brand new ground suppression howitzers.
+
+Janie:
+That much artillery...
+
+Outcast:
+I watched the battle over the past two days from afar, and there are some formidable Casters among the so-called rioters. That gives their force a certain degree of stealth capability.
+
+Outcast:
+—But that's not enough to hide so much materiel coming into town, especially not from the garrison's watchful eyes.
+
+Outcast:
+And they're not stupid enough to point their cannons at a city block they finally managed to bring under their control. As if they'd blow up all the locals, their own men included.
+
+Janie:
+You—you mean...
+
+Outcast:
+Jane, you know the answer.
+
+Janie:
+No, it can't be...
+
+Janie:
+You mean our men annihilated a city block? It was us... who killed all those townsfolk, condemned countless more to death by Oripathy?
+
+Outcast:
+It's the barracks.
+
+Outcast:
+They know they can't win a war with the Tarans on the other side. With no way to tell friend from foe, they'll take them all down in one shot, even the common folks.
+
+Outcast:
+And they used a dirty bomb precisely because it saves them the trouble later on. The Infected get rounded up, and that gives them the most righteous excuse to dispose of the Tarans.
+
+Janie:
+They used... the people as a tool like that? Isn't the Victorian Army meant to protect its citizens?
+
+Outcast:
+You're agitated. I can tell. That's because you've got a kind heart that most soldiers lack.
+
+Outcast:
+Over the last few centuries, the Victorian Army has trampled all kinds of nations and peoples across the world, and it was never out of the goodness of their hearts.
+
+Janie:
+......
+
+Janie:
+Now I see why the townsfolk thought the rioters were in the right...
+
+Outcast:
+But they're just as ready to use innocent lives for their own gain. They got different masks on, but the faces under them are just as ugly. What's the difference?
+
+Janie:
+Then—Is Rhodes Island the only side doing what's right?
+
+Outcast:
+How well do you know Rhodes Island?
+
+Janie:
+I trust Uncle Oliver and everyone else here, and I've known to trust you ever since the day we met.
+
+Outcast:
+And how well do you know me?
+
+Janie:
+......
+
+Operator Oliver:
+Lass, why be so intense? Janie here needs some time to take this all in...
+
+Janie:
+It's okay, Uncle Oliver. I know what Outcast is trying to tell me.
+
+Janie:
+I really am... thankful you took me in when I had nowhere to go.
+
+Janie:
+And I really am—still confused... Whenever I pick a side, someone tells me I don't belong.
+
+Janie:
+But, at least for the time being, I know what I have to do.
+
+Janie:
+Please let me come with you. I want to help the injured outside as best I can.
+
+Outcast:
+Even if some of them were throwing rocks at you, chasing you away just a minute ago?
+
+Janie:
+It's just as you said. I can't stand by and watch evil happen over and over—This has nothing to do with what side I choose.
+
+Outcast:
+You hear that, Oliver? You're the officer-in-charge of County Hillock. Will you let Jane Willow join our ranks, if temporarily?
+
+Operator Oliver:
+I—I've got no problem with that!
+
+Operator Oliver:
+We've got all the first aid kits packed. Janie, you can come with any one of us.
+
+Janie:
+I'm going to the central block too...
+
+Operator Oliver:
+Haha, so you're going with the Lass? Phew, and I thought you'd be scared of her after all that just now.
+
+Outcast:
+Hmm?
+
+Operator Oliver:
+Nothing!
+
+Outcast:
+If everyone's ready, let's go.
+
+Outcast:
+Remember, your own safety comes first. You've got lots of contaminated ground to look out for, and enemies to keep in mind too.
+
+Outcast:
+Given the situation, forces on either side won't be too friendly to us.
+
+Bagpipe:
+Mr. Chef! Mr. Chef—
+
+Bagpipe:
+Ugh, where to start? We've got wounded everywhere.
+
+Bagpipe:
+*cough*, *cough*...
+
+Bagpipe:
+No, I have to find Chef! He should be around here. I need to get him out of town!
+
+Bagpipe:
+I... Ugh, what's got my leg?
+
+Dublinn Soldier:
+......
+
+Bagpipe:
+A... a hostile?!
+
+Bagpipe:
+—!
+
+Bagpipe:
+No, you're out like a light. No threat to me.
+
+Dublinn Soldier:
+Kill... me...
+
+Bagpipe:
+Later. Let me move this rock that's got your leg pinned first.
+
+Bagpipe:
+Huff—
+
+Bagpipe:
+There we go! Oh, it's all mush... And these black crystals... Looks serious.
+
+Dublinn Soldier:
+Kill... me!
+
+Dublinn Soldier:
+I can't...! The Infected... are dirty... I mustn't be sullied like that!
+
+Bagpipe:
+Oh, wheesht. Nothin' wrong with hangin' in there to live another day, is there?
+
+Dublinn Soldier:
+You... don't get it...
+
+Dublinn Soldier:
+This is a fate... worse than death...
+
+Bagpipe:
+Alright, I don't get it, fine then. I'm lookin' for someone. No one's got help for you now.
+
+Bagpipe:
+Mr. Chef! Mr—
+
+Dublinn Soldier:
+Hngh...
+
+Bagpipe:
+What are you tugging my leg for this time? This... This apron! Mr. Chef—!
+
+Bagpipe:
+......
+
+Bagpipe:
+(The rock crushed Chef too. No wonder I couldn't find him.)
+
+Bagpipe:
+(The intel's still here.)
+
+Bagpipe:
+(He tried his best to protect it till the very end. I can tell.)
+
+Bagpipe:
+*Sigh*...
+
+Bagpipe:
+Mr. MacMartin. I don't know your real name—but I will remember you for what you've done.
+
+Bagpipe:
+Rest in peace, my friend in arms.
+
+Bagpipe:
+Your bravery won't go to waste.
+
+Bagpipe:
+......
+
+Bagpipe:
+And you. I need to thank you, nameless hostile.
+
+Bagpipe:
+I should give you what you want. But I can tell, you'll be gone soon even if I don't do a thing.
+
+Bagpipe:
+Any last words?
+
+Dublinn Soldier:
+...The Leader.
+
+Bagpipe:
+You're about to peg out, and your leader's what comes to mind?
+
+Dublinn Soldier:
+Hah... hahahaha!
+
+Dublinn Soldier:
+We... will give rise... to... a fire of rebirth!
+
+Bagpipe:
+Where're you looking a—
+
+More and more enemies are pouring in through the ruins.
+
+Bagpipe:
+Reinforcements?!
+
+Bagpipe:
+The cannons didn't do a thing...
+
+Bagpipe:
+Captain... They're all gonna be in danger!
+
+Bagpipe:
+I need to regroup with them—
+
+Bagpipe:
+My mission's a failure. In that case, takin' the communications center's our last chance!
+
+
+

@@ -1,0 +1,452 @@
+Ch'en:
+You have nowhere left to run.
+
+Mephisto:
+...Damn... you!
+
+Blaze:
+Where do you think you're going?
+
+Faust:
+Ngh...
+
+Blaze:
+Put your hands where I can see them!
+
+Blaze:
+I've seen through all your tricks, kid with the scales!
+
+Blaze:
+I told you, that's not going to work!
+
+Amiya:
+Blaze!
+
+Blaze:
+Hmph, don't worry. These attacks hurt about as much as firecrackers!
+
+Faust:
+You blocked my shots in advance.
+
+Faust:
+You know where they're coming from?
+
+Blaze:
+Of course I do, I've already figured you out.
+
+Blaze:
+Amiya, back off. I'm going to use 'that'!
+
+Amiya:
+Got it! I'll disrupt Mephisto's guards again, so make it quick!
+
+Blaze:
+Take this bit of my blood as a farewell gift, Reunion's 'Phantom Crossbowmen!'
+
+Blaze:
+Seethe, and blast apart their disguise!
+
+Faust:
+...!
+
+Faust:
+You're using your own blood as an incendiary?
+
+Blaze:
+Hah, do I look like some sort of caster to you? Only some egotistical newbie would go around committing arson like that.
+
+Blaze:
+Sorry, but this is just one of my fighting techniques. Show yourselves - you have nowhere to hide!
+
+Phantom Crossbowman:
+...
+
+Phantom Crossbowman:
+Faust, my camouflage is gone.
+
+Faust:
+Command, retreat.
+
+L.G.D. Agent:
+What are those...?! When did Reunion hide snipers over there?
+
+Phantom Crossbowman:
+Now?
+
+Faust:
+Right now.
+
+L.G.D. Agent:
+Multiple Reunion snipers have appeared, primarily in the 2nd floor of the east building and the 3rd floor of the south building!
+
+Amiya:
+Proceed with caution. They might have set up ambushes for us on the lower levels!
+
+L.G.D. Agent:
+Was the strange phenomenon in the building also caused by them?
+
+Blaze:
+Clever, you used refraction to make themselves seem invisible.
+
+Blaze:
+However, you can't completely conceal your tracks, or make sudden movements without compromising the effect of your Arts.
+
+Blaze:
+Am I correct?
+
+Faust:
+...You're quite smart.
+
+Blaze:
+It's all because of our great intel. Now that you know the gig's up, you should surrender.
+
+Blaze:
+If you want to continue fighting, I'll make you pay for the deaths of Ace and Scout. Hmph, I don't even care if you weren't involved, kid.
+
+Phantom Crossbowman:
+Faust, we still have ammunition.
+
+Faust:
+Retreat. We've already lost our intel advantage. I will keep them occupied. The rest of you, move immediately.
+
+Phantom Crossbowman:
+Understood.
+
+Mephisto:
+Why aren't you shooting her? Faust!
+
+Mephisto:
+Attack, my guards! Hurry! There are four of them, just four... and only three of them pose any threat!
+
+Mephisto:
+Fight! Tear apart those sinners now!
+
+Amiya:
+With Dr. {@nickname}'s leadership, the three of us are more than enough to defeat all of you!
+
+Amiya:
+Not to mention, those Infected who you harmed, who you robbed of their free will to the point of not even being people anymore...
+
+Amiya:
+Even that scaled boy next to you might not side with you anymore. His thoughts are filled with sorrow and turmoil...
+
+Amiya:
+Mephisto, you are alone on this battlefield!
+
+Mephisto:
+...
+
+Faust:
+You can read my mind?
+
+Amiya:
+No, I just felt it.
+
+Faust:
+So, you'd have no idea what I'm thinking.
+
+Amiya:
+...!
+
+Blaze:
+Amiya!
+
+Amiya:
+I'm fine, I can barely block his shots...! However, I won't be able to keep suppressing...
+
+Mephisto's Guard:
+GRAAAAAAGHHH!! AAAARRRRGGHH!!
+
+Amiya:
+My control is slipping!
+
+Faust:
+Mephisto, let's go.
+
+Faust:
+Their reinforcements are wiping out our forces.
+
+Faust:
+We've never even seen some of them before. There's been a change in the plan. Our moves have been read.
+
+Mephisto:
+...Why haven't our forces come? We have over twenty squads and two major brigades, so why are none of them here still?
+
+Mephisto:
+Where is Crownslayer? Or FrostNova?
+
+Faust:
+This isn't like Chernobog. We couldn't shut down the enemy's communications, so they were able to call lots of reinforcements and put up a vigorous resistance.
+
+Faust:
+Mephisto...
+
+Mephisto:
+Where are they still not here yet?!
+
+Faust:
+We won't know the reason unless we see it for ourselves. Let's get out of here first.
+
+Amiya:
+Blaze, I'm about to reach my limit. Can you finish this?
+
+Blaze:
+Sure thing. Just me and that Ch'en lady should suffice!
+
+Faust:
+Quick!
+
+Ch'en:
+Did I give you permission to leave?
+
+Mephisto:
+You... Guards! Kill her! Kill her!!
+
+Mephisto's Guard:
+Grrr... Grooooar!!!
+
+Blaze:
+Tsk... Over a dozen of them started moving at once. That's going to be a pain.
+
+Mephisto's Guard:
+GROOAAAAAR!!!
+
+Blaze:
+They're coming at us, Ch'en!
+
+Ch'en:
+Thank you, Rhodes Island operator. Now, nobody can get in my way.
+
+Blaze:
+Huh?
+
+Ch'en:
+(Haah... it's still no good? I don't have a way to completely counteract their cloaking... Forget it, this should be good enough.)
+
+Ch'en:
+(Chi Xiao, this time...)
+
+Ch'en:
+'Crimson overflowing—'
+
+Mephisto's Guard:
+...Gah!
+
+Blaze:
+...Can it be...?
+
+Mephisto's Guard:
+Uaaagh... Argh...
+
+Mephisto's Guard:
+Thank... you...
+
+Mephisto:
+...
+
+Blaze:
+Did you unsheath your sword just then? Just one slash? And you managed to cut down a dozen of those things?
+
+Amiya:
+That sword...
+
+Blaze:
+Amiya, I think I should start choosing my words a lot more carefully around her.
+
+Ch'en:
+Hmph.
+
+Mephisto:
+You... What did you do...
+
+Faust:
+Run!
+
+Ch'en:
+You can't escape either.
+
+Faust:
+Gah...!
+
+Mephisto:
+Faust... Faust! You're injured! You're... no, no... Nooo!
+
+Faust:
+...
+
+Ch'en:
+It's over.
+
+Faust:
+Not yet.
+
+Ch'en:
+What?!
+
+Ch'en:
+*cough* *cough*... He lured me in to shoot from point blank?
+
+Blaze:
+Didn't you manage to block it though?
+
+Ch'en:
+They used the cover of the explosion to make their escape!
+
+Blaze:
+Woah, a chain of explosions?
+
+Blaze:
+Argh, the entire top level is collapsing! We're not going to be able to chase after them?
+
+Ch'en:
+Half of that was your doing.
+
+Blaze:
+Can't do a thing about that.
+
+Faust:
+Hurry, we need to go.
+
+Mephisto:
+No, I need to stay here, until they come...
+
+Faust:
+We've failed this step. You must leave.
+
+Mephisto:
+I failed? I failed? Impossible!
+
+Mephisto:
+Wasn't everything going according to plan...? Did I not call for our reinforcements a long time ago?
+
+Mephisto:
+Were we betrayed? Was our information leaked? Who was it? Why does the L.G.D. know about our deployment and our strategies?
+
+Faust:
+Just go!
+
+Mephisto:
+If we weren't betrayed, then who could have done it?!
+
+Mephisto:
+Talulah would never make a mistake... So she must have planned for this...
+
+Mephisto:
+No, that's impossible... Why would she set us up like this?
+
+Mephisto:
+...Faust, there's no way I can accept this... I refuse to believe it.
+
+Faust:
+Jump! I'll hold on to you!
+
+Mephisto:
+Fine...
+
+Blaze:
+Well... shoot, Madam. Looks like this building's going to need some serious renovating.
+
+Blaze:
+It's a shame that those two kids got away though.
+
+Blaze:
+Those mindless followers are still coming at us like cornered animals. Dealing with all of them is still going to be a serious thorn in the side.
+
+Amiya:
+At least we managed to take back the headquarters.
+
+Amiya:
+This is our victory, even if it's a short-lived one.
+
+Ch'en:
+Amiya...
+
+Ch'en:
+...
+
+Ch'en:
+How did Rhodes Island manage to make it out of Chernobog?
+
+Amiya:
+Miss Blaze came to our aid in the knick of time.
+
+Amiya:
+There was also a loud-mouthed L.G.D. officer just outside the ruined city...
+
+Blaze:
+It would've been easier if you had just helped us in the first place instead of watching from the sidelines.
+
+Blaze:
+I was expecting you to say something like 'I didn't need Rhodes Island's help anyway,' or 'I'd rather die than work with them.'
+
+Blaze:
+But at least you don't seem to be that stubborn. Is there anything else you'd like to say? If not, I'd like to head back to Rhodes Island.
+
+Ch'en:
+I never knew Rhodes Island had an aircraft like that.
+
+Blaze:
+Heh, we have a lot of things that might surprise you.
+
+Ch'en:
+Just like you, we don't want to play our entire hand.
+
+Blaze:
+You're not counting us as one of your cards, are you?
+
+Ch'en:
+...
+
+L.G.D. Agent:
+Um, Madam Ch'en... there's an incoming transmission on a private line.
+
+L.G.D. Agent:
+It's for you.
+
+Ch'en:
+Hello?
+
+Wei Yenwu:
+Well done, Madam Ch'en.
+
+Wei Yenwu:
+Is Madam Swire also on this channel?
+
+Swire:
+I am.
+
+Wei Yenwu:
+Please report your progress.
+
+Swire:
+I bailed Rhodes Island out, and also finished arrangements for the various brigades. Coordinating and managing everything took me three full nights.
+
+Swire:
+How about you, Madam Ch'en?
+
+Ch'en:
+I've already taken back—
+
+Ch'en:
+...
+
+Ch'en:
+—with Rhodes Island's assistance, we've taken back the L.G.D. Headquarters. Their commander will spread word of their defeat through the ranks.
+
+Ch'en:
+The Reunion forces left in Lungmen have been coralled into our ambush points using the routes we arranged for them.
+
+Ch'en:
+Next, we just need to wait for their counterattack.
+
+Ch'en:
+My mission is now complete.
+
+Wei Yenwu:
+I've also received reports from a few of your other colleagues. All missions in the last phase have been completed flawlessly. Well done, all of you.
+
+Wei Yenwu:
+We will now move onto the next phase.
+
+
+

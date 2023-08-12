@@ -1,0 +1,587 @@
+9:27 A.M. \ Overcast
+
+Atop the wall, Sudean Borough, Londinium
+
+Sarkaz Warrior:
+There's been a riot at Port 309!
+
+Sarkaz Warrior:
+Tell the general the patrol squad has sniffed out the rebels.
+
+Sarkaz Warrior:
+It's not just the rebels! We're exchanging fire with multiple groups––
+
+Sarkaz Warrior:
+General, can you get us backup?
+
+Manfred:
+No need.
+
+Manfred:
+How are we doing?
+
+Sarkaz Warrior:
+Debugging will take roughly another fifteen minutes.
+
+Manfred:
+You've got eight.
+
+Manfred:
+We don't have time to spare here.
+
+???:
+You don't need me to go see what's going on down there? Just a suggestion, of course.
+
+Manfred:
+You're worried I'll fail.
+
+???:
+Of course not. When have your plans ever failed?
+
+???:
+My job is just to make sure we've got fewer unknowns along our path to victory.
+
+Manfred:
+You've already done more than enough, mercenary.
+
+Manfred:
+Come, stand with me. I need you to see for yourself what is going on beneath these walls, before the experiment begins.
+
+Hoederer:
+......
+
+Hoederer:
+Lively.
+
+Manfred:
+How does it compare to the battlefields of Kazdel?
+
+Hoederer:
+Nothing new.
+
+Hoederer:
+But at least... it's not Sarkaz on both sides tearing each other apart.
+
+Manfred:
+Surely you hunted, during your time in Kazdel.
+
+Hoederer:
+You're asking if I've been hunting? Us mercs are out in the wilderness all year 'round. Hunting is how we get fed.
+
+Manfred:
+Then, you should understand why I left these ports open.
+
+Hoederer:
+Sometimes, even if your trap is obvious, a beast will step right into it because there's no other choice.
+
+Hoederer:
+If it can't find a way out, it'll panic and run wild. That means we've got to expend energy and spread our forces thin to round up all the wild beasts.
+
+Manfred:
+Sure. That's how things go in the wilds, but there's more to it.
+
+Manfred:
+Look at the city below us. It is little more than a concrete wilderness.
+
+Manfred:
+Who has the confidence to seal off every exit to the wilds themselves? Who can find every nook and cranny in a jungle? Who can secure every last potential hiding spot?
+
+Manfred:
+I am certainly not so conceited.
+
+Hoederer:
+So that's why you left a few openings. Focus your attention, and wait for the enemies to reveal themselves. That's a pretty efficient way of dealing with it.
+
+Manfred:
+But it does come with one risk.
+
+Hoederer:
+Nothing ventured, nothing gained, right?
+
+Hoederer:
+If I was in your position, I'd do the same thing.
+
+Manfred:
+Good. If you're capable of leading mercenaries, you're capable of leading the hunt.
+
+Manfred:
+That's why I'd rather fight alongside you than the relics in the Court.
+
+Hoederer:
+And by the looks of things, you'll be feasting tonight.
+
+Hoederer:
+Not just the rebels, but Dublinn as well...
+
+Hoederer:
+Wait, I've seen that caster before. She came to see you once. Didn't you sign a truce? Not that either of you took it particularly seriously.
+
+Manfred:
+If you recognize her, then you should also know that people like her don't know when to stop.
+
+Hoederer:
+You've been wanting to eliminate that variable for a while now, huh?
+
+Manfred:
+The situation has changed. His Majesty's opus is reaching its conclusion. If the theatre is too rowdy, it is too easy to overlook an actual threat.
+
+Manfred:
+We need to keep a closer eye on the dukes out there.
+
+Hoederer:
+Couldn't you just send me to do that?
+
+Manfred:
+If I wanted her dead, I wouldn't even need you.
+
+Hoederer:
+What's the problem then?
+
+Manfred:
+'The Iron Guard of Wellington.'
+
+Hoederer:
+You mean...
+
+Manfred:
+He hasn't made a move on Londinium yet.
+
+Manfred:
+And if he's quiet for even a single day, all the nobles outside Londinium ask their emissaries, first thing in the morning, whether the Iron Duke has spoken.
+
+Hoederer:
+Okay.
+
+Manfred:
+Which is why we haven't made an enemy of Dublinn, so far.
+
+Manfred:
+Now though, since she's the one who lost control and took the first step toward violating our agreement––
+
+Manfred:
+The Sarkaz have no more reason to continue tolerating them.
+
+Hoederer:
+So the commotion down there is just the beginning.
+
+Manfred:
+Yes. We still need something... more decisive, to take Dublinn out of the picture.
+
+Mandragora:
+Where the hell did they come from?
+
+Dublinn Soldier:
+I don't know, Captain... I haven't seen these weapons or Arts before!
+
+Mandragora:
+They're also fighting the Sarkaz... They're not here to back up the devils?
+
+Mandragora:
+Not that it matters. We'll eliminate anyone who gets in our way.
+
+Indra:
+Hey––
+
+Indra:
+Give us our guy back!
+
+Dublinn Soldier:
+It's... It's you!
+
+Indra:
+Oh, a familiar face? Too bad I still recognize you after the pummeling I gave you this morning.
+
+Dagda:
+Look out behind you––
+
+Dagda:
+People don't just stand around in a fight and wait for you to run up to them swinging.
+
+Indra:
+Isn't that why I have you?
+
+Dagda:
+Don't go too crazy. Remember, we're getting out of here as soon as we secure our target.
+
+Indra:
+I know.
+
+Indra:
+That just means I gotta punch faster.
+
+Mandragora:
+You're telling me... these are the ones who snatched our mark?
+
+Mandragora:
+Don't forget their faces.
+
+Mandragora:
+No, wait a moment... Try to capture one of them alive. I'm sure the Leader would be interested to find out what new power has its eyes on Londinium.
+
+Rhodes Island Operator:
+Uhh... Where are these rocks coming from?
+
+Siege:
+......
+
+Siege:
+Stay on your guard. We're still not inside the city yet, and the Doctor doesn't want to see anyone get hurt.
+
+Rhodes Island Operator:
+Alright... You too!
+
+Mandragora:
+She smashed my construct to pieces with one swing of a hammer?
+
+Mandragora:
+This one... she's just as nasty as that Victorian soldier!
+
+Mandragora:
+I wasn't even trying for that one though... See how you like this instead!
+
+Rhodes Island Operator:
+Get out of the way, Siege!
+
+Siege:
+Who covered me?
+
+Siege:
+Balin, did you see who that was?
+
+Rhodes Island Operator:
+No, there's too much going on. I can't make heads or tails of it.
+
+Siege:
+Amiya, there's somebody else in this fight.
+
+Siege:
+Someone besides us, Dublinn, and the Sarkaz...
+
+Siege:
+And they just might be on our side.
+
+Dublinn Soldier:
+Captain, the situation isn't looking good for us... Do you think you could bring down this entire wall...?
+
+Mandragora:
+The entire wall, huh? Hah... I've fantasized about it too many times...
+
+Mandragora:
+But, not now. We'll still have our chance, whenever the Leader decides to come.
+
+Mandragora:
+Let's not get too carried away here, and just grit our teeth for the time being...
+
+Mandragora:
+Hear me. Pack your weapons and try not to leave a mess. I don't want that Manfred devil to come knocking on my door ahead of schedule.
+
+Manfred:
+Four minutes. We'll wait four more minutes.
+
+Manfred:
+As it happens, our men haven't had a chance to do anything fun. Defending a city like Londinium is worlds apart from raiding Lateran caravans in the wilderness.
+
+Hoederer:
+The nice thing about meeting old friends is you don't have to worry about them taking your head. I've got nothing to complain about.
+
+Manfred:
+Don't mistake yourself for one of them.
+
+Manfred:
+There aren't a lot of mercenaries out there who could stand being locked up in a little courtyard, reading books all day. That's your department.
+
+Hoederer:
+I do remember thanking you when you scooped me up and gave me back my sword.
+
+Manfred:
+Enough. You're not here to share me this drivel.
+
+Hoederer:
+Sure, I know.
+
+Hoederer:
+You need mercenaries, and for more than a couple reasons.
+
+Manfred:
+Indeed... And you're as good as they come.
+
+Manfred:
+Coincidentally, a few more mercenary squads have joined up with us recently, including some of your old acquaintances from the Scar Market.
+
+Hoederer:
+What mercenary could resist an offer from the Regent himself?
+
+Manfred:
+They want more than just the payout from completing a contract or two.
+
+Manfred:
+When we followed the Regent out of Kazdel, each warrior carried a different weapon, some even wearing armor that belonged to the enemy just moments ago.
+
+Manfred:
+But what about now?
+
+Manfred:
+As you've seen, the factories of Londinium now work day and night to produce weapons and armor for us. Our troops are well-regulated, and take orders as a unified unit.
+
+Manfred:
+We are united as never before, and that makes our solidarity stronger than ever.
+
+Hoederer:
+Yes, all of Victoria... No, all of Terra is watching.
+
+Hoederer:
+All according to the Regent's calculations.
+
+Manfred:
+Just a year ago, they guffawed about how Londinium's defenses were impenetrable. They thought we were mercenaries in service to some duke.
+
+Manfred:
+Profit is no longer the only thing that motivates mercenaries... They are all looking to see what the Sarkaz can do.
+
+Hoederer:
+What's a sellsword who's lost interest in selling his sword?
+
+Manfred:
+We're not asking our compatriots to give up their status as mercenaries. They simply found other reasons to follow the Regent.
+
+Manfred:
+They believe he has created a turning point in the fate of the Sarkaz. That we have an opportunity to earn a new identity for ourselves, not just as looters and servants of the powerful.
+
+Hoederer:
+You need a home to have an identity.
+
+Hoederer:
+'When the Sarkaz desire war, the Sarkaz become war itself––'
+
+Manfred:
+'––And when each battle ends, the Sarkaz have a home to return to.'
+
+Manfred:
+This is what the Regent told all the Sarkaz in Londinium. You saw it yourself. That was the first time we met.
+
+Manfred:
+I asked what you thought about that statement.
+
+Hoederer:
+'If you're a fighter who crawled out of the ruins of Kazdel, how could you say no to that?'
+
+Manfred:
+It was three years ago I heard that answer.
+
+Manfred:
+Since then, you've left that estate, and now stand with me.
+
+Manfred:
+Do you still... hold the same belief?
+
+Hoederer:
+Manfred, you've earned my loyalty.
+
+Manfred:
+......
+
+Manfred:
+Does your left eye still hurt?
+
+Hoederer:
+It's been over a year. It healed a long time ago.
+
+Manfred:
+I... hope you understand. I've never doubted our friendship, not once since that day.
+
+Manfred:
+But you know what I'm talking about.
+
+Hoederer:
+The Confessarii don't drop their guard around a merc. That's how they look after the Regent.
+
+Hoederer:
+And I... I'm not here to prove my loyalty to anyone. That'd just make me a weaker blade in a fight.
+
+Manfred:
+So your answer is still 'no.'
+
+Manfred:
+That's fine too.
+
+Manfred:
+Sometimes, what I need more is a friend, and for that, Kazdel must temporarily endure the absence of an officer.
+
+Sarkaz Warrior:
+We're ready, General!
+
+Manfred:
+Excellent.
+
+Manfred:
+Tell the patrol to retreat immediately.
+
+Manfred:
+Activate the automatic aiming system and enter the long-distance targeting coordinates––
+
+Manfred:
+––Coordinates, Sudean Borough, Port 309.
+
+Manfred:
+Our efforts over the last few months are finally about to bear fruit.
+
+Manfred:
+Hoederer, will you do the honors?
+
+Londinium Citizen?:
+Lieutenant, Dublinn looks like they're about to win.
+
+Horn:
+That's not the situation, but it's also not what matters.
+
+Horn:
+Regardless of who wins, what's important is that they keep each other in check.
+
+Horn:
+That's the situation we need, one that allows your people to charge.
+
+Londinium Citizen?:
+Charge...?
+
+Horn:
+Indeed. While they're too occupied with us, that's your best opportunity to get out of the city.
+
+Londinium Citizen?:
+No... No!
+
+Horn:
+What's on your mind, Robben?
+
+Londinium Citizen?:
+Lieutenant, I don't want to leave anymore.
+
+Horn:
+But...
+
+Londinium Citizen?:
+I have to stay.
+
+Horn:
+But this might be the only chance you have to leave Londinium!
+
+Horn:
+After the scuffle here today, the Sarkaz will have the gate blocked tomorrow.
+
+Horn:
+Conceal your weapons and blend in with the other civilians! Hurry, get going!
+
+Londinium Citizen?:
+We can't just run away like this.
+
+Londinium Citizen?:
+Lieutenant, we can still fight.
+
+Londinium Citizen?:
+Did you see that? I just took down a Dublinn fighter and injured two Sarkaz!
+
+Londinium Citizen?:
+This crossbow is... pretty crude. It's nothing like the standard-issue military crossbows we're used to.
+
+Londinium Citizen?:
+You made it, right? If you even need to make your weapons yourself, don't you also need more men?
+
+Horn:
+It's not a question of what I need...
+
+Horn:
+If you don't want to leave, I won't force you.
+
+Horn:
+I don't want to order another good soldier out of the fight, not again, not when she wanted to stay...
+
+Londinium Citizen?:
+Lieutenant...?
+
+Horn:
+But let's set that aside for now.
+
+Horn:
+We need to get out of here first.
+
+Horn:
+Now's the best shot we're going to get, so if you don't want to move onwards, then fall back with us!
+
+Amiya:
+Doctor, the Sarkaz troops are withdrawing from the fight.
+
+Amiya:
+I find it strange that after fighting us and Dublinn for so long, the Sarkaz didn't call in reinforcements or start massacring the Dublinn forces.
+
+Amiya:
+That's not how the Sarkaz usually fight. Even the mercenaries that W brought with her into Reunion fought more ferociously than they did.
+
+Amiya:
+Doctor, have we fallen into a trap?
+
+Amiya:
+This conflict came about so spontaneously and coincidentally... It's as if someone was trying to corral us all together, and then...
+
+Amiya:
+Umm, do you think they set all this up for us?
+
+Amiya:
+Siege said she found other people who were blending into the crowd just like us... and they seemed to be on the civilians' side.
+
+Amiya:
+Might they be the ones the Sarkaz were after?
+
+Siege:
+The Doctor ordered a retreat.
+
+Indra:
+Huh? We're about to complete our rescue though!
+
+Siege:
+There must be a reason behind it. Let's go.
+
+Indra:
+Grr.
+
+Londinium Citizen:
+Excuse me, Miss Indra! I, I'm over here!
+
+Indra:
+Thomas?
+
+Siege:
+Don't go over there!
+
+Indra:
+I...
+
+A flash of light suddenly fills everyone's eyes.
+
+A scalding wave of heat erupts forth, incinerating almost everything it touches.
+
+Though very little solid debris shoots out, the force of the impact reminds the survivors how they were only a single step from death.
+
+And this threat... came from above.
+
+Indra:
+What just happened?!
+
+Indra:
+Did we get a bomb dropped on us? A huge crater... suddenly appeared in the ground?!
+
+Indra:
+Thomas... *cough* *cough*... The smoke's too thick, I can't see anything!
+
+Dagda:
+Indra!
+
+Dagda:
+Siege told you to stop.
+
+Indra:
+Fine, I owe you another one.
+
+Dagda:
+As long as you get it. Now hurry, let's get out of here––
+
+
+

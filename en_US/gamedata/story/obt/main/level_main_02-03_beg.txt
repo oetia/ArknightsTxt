@@ -1,0 +1,275 @@
+???:
+Hurry, hide!
+
+???:
+I... I need to go.
+
+???:
+Take this... this is for you.
+
+???:
+This is a protective charm. My mother taught me how to these...
+
+???:
+And this is one that I made.
+
+???:
+When you make these dolls by hand, you can keep the ones you care about safe.
+
+Children:
+Okay, sister Misha, we'll take good care of it!
+
+Misha:
+Good, good.
+
+Misha:
+Now, go hide! And don't make a sound.
+
+Children:
+Okay!
+
+Rioter:
+Where'd they go? ! After them! Let's see how far those Infected can run!
+
+Rioter:
+Hmm? Now... what do we have here?
+
+Amiya:
+According to Exusiai's data, our mission target should have been staying somewhere around here...
+
+Amiya:
+Argh, the terrain around here is really complicated. If we were doing this alone, this assignment might have been quite troublesome...
+
+Amiya:
+Luckily, I got in touch with Penguin Logistics beforehand...
+
+Amiya:
+...Who's there?
+
+Amiya:
+Those people are...!
+
+Child:
+Baddies! You bunch of baddies! Let go of me! Let... Go...!
+
+Rioter:
+Tell me! Where'd she run off to?
+
+Rioter:
+Stop playing dumb!
+
+Child:
+Sister! Sister! Where are you...! Help...
+
+Child:
+Sister Misha! Sister Misha, save me!!
+
+Amiya:
+...
+
+Rioter:
+Who is it?
+
+Rioter:
+Get back here!
+
+Amiya:
+...
+
+Amiya:
+...You should leave right now if you know what's good for you.
+
+Rioter:
+...?!
+
+Rioter:
+Who the hell...?!
+
+Rioter:
+You don't like you're from around here!
+
+Rioter:
+You're not afraid of us...
+
+Amiya:
+Otherwise...
+
+Rioter:
+Huh?
+
+Rioter:
+Gaaah!!
+
+Rioter:
+Wh-what was that?
+
+Rioter:
+Arts! Sh-she's using Arts?!
+
+Rioter:
+Aaaargh! Stay away from me!
+
+Amiya:
+...Don't bully the defenseless ever again.
+
+Rioter:
+Aaaagh! Monster!
+
+Amiya:
+Heh... Monster, huh?
+
+Amiya:
+...
+
+Amiya:
+Everything will be okay. You can come out now.
+
+Amiya:
+It's dangerous here. You should hurry and find some place safe.
+
+Children:
+Thank you, ma'am!
+
+Amiya:
+Take care!
+
+Franka:
+Amiya, what's going on?
+
+Amiya:
+Hm, I saw an Infected just now, probably unregistered...
+
+Franka:
+From Ursus?
+
+Amiya:
+Yes. She was heading deeper into the slums.
+
+Amiya:
+Franka, gather the nearby operators.
+
+Franka:
+Okay.
+
+Amiya:
+The deeper we head into the slums, the more volatile things are going to be...
+
+Amiya:
+There are ordinary civilians, criminals, and refugees - all mixed together.
+
+Amiya:
+We'll have to make thorough preparations.
+
+Liskarm:
+Amiya, we have incoming comms.
+
+Liskarm:
+Please wait a second.
+
+Liskarm:
+...
+
+Liskarm:
+That's right.
+
+Liskarm:
+Amiya, it's the L.G.D.
+
+Amiya:
+Was that Madam Ch'en?
+
+Liskarm:
+Indeed.
+
+Liskarm:
+... That's right. We've already found a number of unregistered Infected.
+
+Liskarm:
+... Yes.
+
+Liskarm:
+... What?
+
+Liskarm:
+... We're after an Ursus girl, short white hair, height of about 145 cm, called Misha?
+
+Amiya:
+That's...?
+
+Liskarm:
+...Understood.
+
+Liskarm:
+Amiya, Madam Ch'en wants us to immediately search for the Infected just described.
+
+Liskarm:
+Once we find her, we are to turn her in to the L.G.D. immediately.
+
+Amiya:
+Can I speak to her please?
+
+Amiya:
+Hello, hello...
+
+Amiya:
+Madam Ch'en, can you hear me?
+
+Ch'en:
+I hear you.
+
+Amiya:
+Can I confirm the validity of that order?
+
+Ch'en:
+100% valid, effective immediately.
+
+Amiya:
+I see.
+
+Amiya:
+...
+
+Amiya:
+She suddenly hung up...
+
+Franka:
+That Ch'en, she's got a bit of a temper.
+
+Amiya:
+So this is going to be our mission for now...
+
+Liskarm:
+Amiya, I've just received another message from several defenders.
+
+Liskarm:
+They met some individuals who were openly hostile to Rhodes Island's operators.
+
+Liskarm:
+Furthermore, those attackers weren't ordinary people, they were... Infected.
+
+Amiya:
+... Have the defenders fall back towards us.
+
+Amiya:
+Scout team! Our target is an Ursusian girl with short white hair, height of 145 cm. Remember to stay hidden, and stay safe!
+
+Amiya:
+Other operators, follow your leaders and spread out.
+
+Franka:
+Hey... Not bad.
+
+Franka:
+Liskarm, this kid's pretty smart.
+
+Liskarm:
+... Dr. {@nickname} is our tactical commander. You should take this more seriously.
+
+Amiya:
+Let's begin.
+
+Amiya:
+So... Rhodes Island has to fight against the Infected again...
+
+
+

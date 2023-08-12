@@ -1,0 +1,468 @@
+Bizarre Cultist:
+Ah, you've returned.
+
+Calm Townsperson:
+......
+
+Bizarre Cultist:
+Thank you for your contribution. I know how painful it must be for someone like you to go against your faith.
+
+Bizarre Cultist:
+But providence lies just ahead. This is by no means a false promise, but true redemption.
+
+Bizarre Cultist:
+I thank you.
+
+Calm Townsperson:
+Lord Carmen is far beyond our comprehension. There's no point trying to deceive him. He will discover the truth before long.
+
+Calm Townsperson:
+You should also thank Thiago. Our lie has condemned him to death at the hands of the Inquisition.
+
+Bizarre Cultist:
+...I have never seen the Herald of the Sea, but rumor has it, the Herald will not refuse the requests of its kin.
+
+Bizarre Cultist:
+Because the choices of kin must surely benefit the entire kind, the thoughts of kin must also be shared by the entire kind. We ought to learn from this, as this is also a part of the Cycle.
+
+Calm Townsperson:
+Then we'll let Thiago worry about himself.
+
+Calm Townsperson:
+But...
+
+Bizarre Cultist:
+Ah, you still have doubts. They are unnecessary.
+
+Calm Townsperson:
+Our prophet, Miss Amaia. Will she really be able to come back?
+
+Bizarre Cultist:
+She has simply chosen to return to the sea one step ahead of us. She is to locate our path, our Herald, and the trails of the sleeping city.
+
+Bizarre Cultist:
+If she returns, it is to help her kin. If she does not, it is because she is making preparations.
+
+Bizarre Cultist:
+We needn't worry too much about her. Just know that she wishes to avoid the scrutiny of the Inquisition, regardless of where she might be.
+
+Calm Townsperson:
+...Then this person, this Iberian. Why did we abduct him?
+
+Elysium:
+......
+
+Bizarre Cultist:
+His patroness seems to have made some kind of agreement with Carmen. He is an enemy.
+
+Elysium:
+Haha... I really wish you'd choose another way of describing my relationship with the doctor.
+
+Bizarre Cultist:
+You've been investigating us, have you not?
+
+Bizarre Cultist:
+I've devoted quite a lot of time explaining our ideals to you, and we would prefer not to hurt you. Have you thought things through?
+
+Elysium:
+I think I've heard everything I need to know about your hypocrisy.
+
+Bizarre Cultist:
+...Hypocrisy? Ah, you still speak of morality, the morality of the human realm.
+
+Elysium:
+I couldn't care less what these Sea Terrors or Seaborn really are. All I see are a bunch of outlaws inventing a reason to vent their frustrations with Iberia and the Inquisition.
+
+Elysium:
+While I haven't lived here for a particularly long time, I AM an Iberian.
+
+Elysium:
+And I've been to a lot of places and seen a lot of different things. People like you who think they're special are actually a dime a dozen.
+
+Elysium:
+If the gods you talk about are real, and, uh, all that nonsense about being the pinnacle of evolution or the bleeding edge of life—
+
+Elysium:
+—Then surely those gods must look down on people like you, right?
+
+Calm Townsperson:
+How dare you!
+
+Bizarre Cultist:
+...No, he's right. That is why the Herald no longer speaks to us. That is why only Amaia can hear the voice of the ocean, and only she can guide us.
+
+Elysium:
+(So there really was something off about Amaia. Tch, I should've caught on sooner.)
+
+Elysium:
+(That said...)
+
+Thiago:
+......
+
+Bizarre Cultist:
+How's it looking?
+
+Thiago:
+Whatever those things of yours are, that nethersea brand, they aren't able to get into the center of town at all.
+
+Thiago:
+That black monster can do more than fly, it can even belch out terrifying jets of flame. The nethersea brand can't spread faster than it's being burned.
+
+Thiago:
+If this gets dragged out, then Gran Faro will fall into the Inquisition's hands as soon as the Sea Terrors holding back the Penal Battalion are exterminated.
+
+Thiago:
+Then we all die.
+
+Bizarre Cultist:
+No, Thiago, no.
+
+Bizarre Cultist:
+All these things you speak of... You do not grieve for the kin who willingly give themselves up to hold back our enemies.
+
+Bizarre Cultist:
+In other words, you are not yet resolved to sacrifice yourself for our entire kind at a moment's notice.
+
+Thiago:
+Don't talk to me like that. Our interests happen to line up this time. I'm just an old fogey with no interest in becoming an ocean-hugger.
+
+Bizarre Cultist:
+...What a lowborn, stubborn creature.
+
+Thiago:
+Same to you, friend.
+
+Thiago:
+And you, lad, didn't I warn you not to meddle in other peoples' affairs?
+
+Elysium:
+Thiago, you—
+
+Bizarre Cultist:
+You know each other?
+
+Thiago:
+......
+
+Elysium:
+Ugh...
+
+Thiago:
+No. He's just an outsider who kept hanging around the chapel. As the mayor, I need to have at least some idea of every person in town.
+
+Thiago:
+You should've stayed out of it.
+
+Elysium:
+......
+
+Thiago:
+Right then.
+
+Thiago:
+We should act soon, right? Or are we going to wait for the Inquisitor and his monster-wielding accomplice to burn my town to the ground?
+
+Bizarre Cultist:
+We will not. You seem awfully attached to this city. Why?
+
+Thiago:
+Gran Faro is the embodiment of our generation-spanning vision to rebuild our country, heretic. Ask any of the Iberians who've joined you, and you'll understand.
+
+Thiago:
+The Inquisition has taken enough from us, and I intend to pay them back double.
+
+Skadi:
+I am Skadi, not Ishar'mla.
+
+Captain Alfonso:
+You pronounce it differently, but what does it mean?
+
+Skadi:
+I...
+
+Skadi knows, but dares not answer.
+
+Gladiia told her that she is alright, and she is willing to believe her.
+
+But that is only an escape. She knows what the name means.
+
+It means a thunderous roar within the abyss. Flesh and bone rubbing against the rock walls until only the Will remains, surging beyond the ocean.
+
+It means that after that harrowing battle, something was left in her body. 'Something.'
+
+Seaborn:
+My blood and your blood are identical.
+
+Seaborn:
+You smell my scent, exactly as we smell your scent.
+
+Seaborn:
+You find us, kill us...
+
+Seaborn:
+When we do not understand, we kill you too.
+
+Seaborn:
+We feed the ocean. Our bodies have provided for the ocean.
+
+Seaborn:
+Ishar-mla, we possess the same home.
+
+Captain Alfonso:
+Inquisitor! How dare you join forces with them!
+
+Inquisitor Irene:
+W-What?
+
+Captain Alfonso:
+Get off my ship this instant! Otherwise you'll join them in my hunt, as the quarry!
+
+Specter:
+Easy there, Mister Captain.
+
+Specter:
+Now tell me, how did you... come to learn of this name?
+
+Captain Alfonso:
+I'll tell you exactly how. We ate the flesh of these things and our bodies began to change. I personally executed three of the survivors, until only we remained.
+
+Captain Alfonso:
+Now it's my turn to ask you—their blood also flows in your veins. I can smell it. And you must be more special than the others.
+
+Skadi:
+What are you—
+
+Captain Alfonso:
+Look at my hand.
+
+Skadi looks down.
+
+One of the captain's arms has taken on the form of a Seaborn, its newly-formed webbing clearly visible, and its tentacle-like extensions ever squirming.
+
+He seems to be making an effort to restrain it. By the looks of it, whatever is inside that arm is also interfering with his body.
+
+Captain Alfonso:
+It thirsts for my mind. It tells me to liberate you, to talk to you, to listen to your thoughts.
+
+Captain Alfonso:
+Get off my ship before I kill the lot of you. Only by killing you can I maintain my sanity as a human—begone!
+
+Inquisitor Irene:
+—We've paid an immense price just to get here. If you truly still are that Iberian hero, then you should join us!
+
+Captain Alfonso:
+...Think carefully, little Inquisitor.
+
+Captain Alfonso:
+I've been in a bitter struggle for my life on this ship for longer than my homeland has been at war. What could you possibly understand?
+
+Captain Alfonso:
+A single year of confinement can break a person's will. Do you have any idea how many years we've spent here, flirting with the waves?
+
+Inquisitor Irene:
+Um...
+
+Captain Alfonso:
+Seven or eight years ago, I personally executed the last crew member and threw him into the sea. He died as a human. He was the last to.
+
+Captain Alfonso:
+We were Iberia's best sailors, warriors, and scientists, stalwart in our faith. The most common way to die aboard this ship... was suicide.
+
+Captain Alfonso:
+You can't imagine what I've been through. The left side of my body snatched away even my dreams. I no longer needed sleep. That itself was a form of torture.
+
+Captain Alfonso:
+And during this prolonged torture, I've had naught to do but hunt those monsters, large and small, and while away the remaining hours polishing my ship.
+
+Captain Alfonso:
+Leave me and my chief mate be, and return to where you came from.
+
+Captain Alfonso:
+I don't belong to you, or to the sea. I belong only to my Iberia. To the Stultifera Navis.
+
+Gladiia stops walking.
+
+While she contemplates why this place is so clean, she notices a change in the scent.
+
+Seaborn. Of course there are Seaborn here.
+
+But, what is the cause of this impure odor? And where did this vague premonition she is starting to feel come from?
+
+She can only continue walking, following the path etched in the back of her mind, and attempt to reach the depths of the ship.
+
+Suddenly, she comes to a stop.
+
+Gladiia:
+...Don't you think you're being a bit too obtuse, appearing on this primitive transport vessel that hasn't docked in over sixty years?
+
+Gladiia:
+Bishop of the Deep.
+
+Amaia:
+You saw through me immediately. Do you suppose that means I chose the wrong place to appear?
+
+Gladiia:
+You followed us here.
+
+Amaia:
+Hardly. Strictly speaking, I was the one who arrived first.
+
+Amaia:
+The ocean communicates with me. It accepts me. It aids me. From the very beginning, coming to this ship was a trivial task.
+
+Gladiia:
+......
+
+Amaia:
+That you've been able to suppress your urge to rush forward and slay me is already quite impressive.
+
+Amaia:
+Is it because you feel this ship is vital to your grand plans?
+
+Gladiia:
+What are you after?
+
+Amaia:
+...You killed Quintus.
+
+Gladiia:
+I should've known better. So even you test-tube watching bottomfeeders—pardon my language—will pursue vengeance?
+
+Amaia:
+No, you misunderstand.
+
+Amaia:
+Quintus was a bit too eager to attain results, and that temperament of his not only led to his demise, but also demonstrated conclusively that he was born human.
+
+Amaia:
+Not that that's something to be ashamed of. Under our doctrine, we will never become what we seek to be by thought alone.
+
+Amaia:
+'Only changes to nerve and sinew can be considered real.' Wouldn't you agree, Abyssal Hunter?
+
+Gladiia:
+......
+
+Amaia:
+We don't need to be enemies. I have no plans to do anything to you.
+
+Amaia:
+One's end is decided at the moment of one's birth. Nothing can change this immutable fact.
+
+Gladiia:
+You went through all the effort to follow us out to sea, just to spew this nonsense?
+
+Amaia:
+Ah, about that...
+
+Amaia:
+That's not something you need to know.
+
+Gladiia:
+Those lowly creatures won't be able to hold me back.
+
+Amaia smiles sweetly but does not answer. A blue light emerges from under her feet, and it soon envelops the entire corridor.
+
+The 'nethersea brand.'
+
+Gladiia:
+...The nethersea brand at Gran Faro. So those traps were your handiwork.
+
+Amaia:
+Hardly. You're all so quick to blame your every misfortune on the Church of the Deep, but never stop to consider the truth behind these phenomena.
+
+Amaia:
+These children have always existed in Gran Faro. I simply... found them.
+
+Gladiia:
+Hmph, cut the crap.
+
+Amaia:
+We're out in the middle of the ocean. Our touch, invisible to the naked eye, is everywhere. This ship may not be of much use in your quest to return to Ægir.
+
+Amaia:
+But, must you really insist on returning? Have you never had the slightest inclination to... listen to what the Heralds have to say?
+
+Gladiia:
+Seems you aren't too different from that stupid bishop after all. You've never even been in a real fight. Otherwise, you'd never say such an idiotic thing to a Hunter.
+
+Amaia:
+No. But not all Hunters take such pride in their arrogance.
+
+Gladiia:
+......
+
+Amaia:
+We will meet again, Gladiia. You've disappointed me, but that's fine. Perhaps it's for the better that you have something to break out of.
+
+Gladiia:
+Meaning?
+
+Amaia:
+But whether you come or go, or whether Ægir comes and goes, is not for me to decide.
+
+Gladiia:
+You won't be leaving this conversation alive though?
+
+Amaia:
+Oh really?
+
+Seaborn:
+(Earsplitting screech) —!!
+
+Gladiia:
+......
+
+Amaia:
+Quintus should've had a Herald by his side. You've fought with that Herald. You've spoken with that Herald.
+
+Amaia:
+While you stagnate in place, the ocean is ever in motion.
+
+Amaia:
+Ægir is far from smart enough to curb evolution itself.
+
+Gladiia:
+Hold it!
+
+Seaborn:
+Gla-dia...
+
+Gladiia:
+Such weak, pitiful prey that cannot even speak. More like a beast.
+
+Gladiia:
+Hurry up and die. I still have a score to settle with that bishop. I need answers from her.
+
+Captain Alfonso:
+—Did you hear that, Chief Mate? Our quarry brays. It calls out to us.
+
+The monster known as the chief mate nods slightly, and uses its claws to straighten the crown that's started to slip from its head.
+
+Captain Alfonso:
+It brays, it calls out to us— You brought yet more rabble with you?!
+
+Specter:
+It must be Swordfish...
+
+Specter:
+She must've discovered something. There's something unusual about the smell here, the sea breeze is confusing us.
+
+Captain Alfonso:
+Good thing these filthy Ægir haven't scared it away. We've already been romping around for months, and I'd hate to see my ship even more beat up.
+
+Inquisitor Irene:
+By hunt... Do you mean you're hunting the Seaborn?
+
+Captain Alfonso:
+Seaborn? ... (Laughs huskily) Sure am.
+
+Captain Alfonso:
+Hunting to live off the bounty of the land—hasn't humanity done so since the dawn of time?
+
+Captain Alfonso:
+But if you still haven't left by the clock's next chime, you WILL die.
+
+
+

@@ -1,0 +1,551 @@
+Male Inhabitant C:
+......
+
+Male Inhabitant D:
+Fins.
+
+Male Inhabitant C:
+Shells...
+
+Male Inhabitant D:
+Edible.
+
+Male Inhabitant C:
+Yes, it's edible.
+
+Male Inhabitant D:
+More... more... more...
+
+Male Inhabitant C:
+I spilled some.
+
+Male Inhabitant D:
+Pick it up. Swallow it. More...
+
+Male Inhabitant C:
+Take them. Take them back.
+
+Male Inhabitant D:
+Take them back. More and more.
+
+Male Inhabitant C:
+Priest...
+
+Male Inhabitant D:
+Priest.
+
+Bishop:
+My brothers and sisters, enjoy your breakfast.
+
+Bishop:
+This is a reward for our good deeds. Because we prevailed against our hunger and illnesses, we become more faithful, more united, and more harmonious with one another.
+
+Gladiia:
+......
+
+Gladiia:
+I'm surprised you don't ever get tired of putting on that show when you do it at practically every city you visit.
+
+Bishop:
+Show? Hardly. It is a joy to share His greatness and benevolence with the unenlightened across the lands.
+
+Gladiia:
+They don't understand a word you just said.
+
+Bishop:
+All of us are one and the same to the vast ocean.
+
+Bishop:
+Come, dear brother. Share these fins with your suffering brethren. You must understand. This small piece will grant him satisfaction, which will in turn enrich your soul.
+
+Male Inhabitant C:
+......
+
+Bishop:
+As for you, you must thank your brother. Thank him for giving you what could have been his.
+
+Bishop:
+When the two of you stand together, hand in hand, shoulder to shoulder, you share your life with each other, and that makes you ever more powerful.
+
+Male Inhabitant D:
+Thank you... Father... sir.
+
+Bishop:
+Very good, dear child.
+
+Gladiia:
+The promise isn't between you and it. It's between them and it with you as their intermediator.
+
+Bishop:
+Promise? No, a promise is mutual. These suffering souls are far from able to satisfy the needs of the sea.
+
+Bishop:
+The sea grants them their desires, and I help them so that their voices are heard.
+
+Bishop:
+As you already count yourself a part of us, you must know the rules.
+
+Gladiia:
+Please forgive my negligence. There are certainly more suitable turns of phrase. You are using their flesh and blood to lay down the path to what it is you want within the chapel.
+
+Gladiia:
+Whichever the case, you don't need to show up here personally every time.
+
+Bishop:
+How do you know what I want?
+
+Gladiia:
+It's hard not to become addicted to the pleasure of superiority.
+
+Bishop:
+Nonsense.
+
+Bishop:
+As the sea's most faithful creation, there is nary an ounce of falsehood to my position.
+
+Bishop:
+I stand here because I wish to save them from the bottom of my heart. Without me, they would long have become a pile of rotten meat strewn across these lands.
+
+Bishop:
+Disease and starvation. As long as we can fight against these tangible enemies, they are not our most difficult hardships. Our most difficult hardships come from the deepest parts of our souls.
+
+Bishop:
+When we find ourselves unable to fight these disasters, with destruction unavoidable, that is when we are faced with true hardship.
+
+Bishop:
+How many towns like this are still standing in Iberia?
+
+Bishop:
+This country's vast territory has long been unable to fulfill its people's needs. Nonetheless, they remain in their cramped flesh, either isolating themselves from one another or brawling.
+
+Gladiia:
+Well, it's admirable that you care so much about Iberia.
+
+Bishop:
+You are wrong again. It is the suffering of the people that I care about, not the borders arbitrarily drawn on these lands.
+
+Bishop:
+Isn't this in the nature of us all?
+
+Bishop:
+Bound by the limitations of our flesh and blood, it's difficult for us to break away from our obsession with ourselves by our own means, and so we choose to fight, not to understand.
+
+Bishop:
+If this goes on, even the strongest of individuals cannot escape defeat. Hardships engulf every corner. You have seen it yourself and wavered at the sight of that misery.
+
+Gladiia:
+Is this necessary?
+
+Bishop:
+Perhaps I'm not telling you enough.
+
+Bishop:
+The truth is always worth telling, whether the listener is as foolish as you or not.
+
+Gladiia:
+......
+
+Bishop:
+Perhaps we should treat this conversation as nothing more than a way to pass the time, seeing as we are working together.
+
+Gladiia:
+Well, your way with words is on another level. It's no wonder so many have found themselves enthralled by your words.
+
+Bishop:
+You do not yet understand. I am most sincere. I ask nothing from them. I do not believe in the power of threats either. I simply wish to point them toward a new possibility.
+
+Bishop:
+Their bodies' weakness will forever limit their cognition. You think I am ensnaring their souls with words, but the truth is far from it.
+
+Bishop:
+I am helping their hearts to hear the most basic needs of their bodies. The teachings of sages can bring nothing but brief, blind faith. The strength of the body is what grants them the right to see more.
+
+Bishop:
+There are creatures in the sea. They have no eyes, their bodies are miniscule, and they have no means of mobility. They can only drift with the tides.
+
+Bishop:
+Is the ocean that they see so different than what we see? How do creatures with no eyes grasp the holiness and profoundness of the sea?
+
+Bishop:
+You and your colleagues never understood how and where your vile yet sturdy bodies came to be, nor can you see how the weak struggle.
+
+Bishop:
+Who, then, is the truly arrogant?
+
+Bishop:
+Is it me, despite the fact I am helping them, or is it those believers of false gods, who, as the perils grow ever greater, use their words to turn true despair into false hope, to deceive and to control the pitiable weak?
+
+Bishop:
+Or perhaps—It's you and your foolish cohorts, who remain ever unwilling to face the vast sea bottoms?
+
+Bishop:
+I am sharing with them what my eyes can see so that they may broaden their horizons and know they still have true hope. They may choose for themselves whether they will rot with the land or be reborn as one with the sea.
+
+Bishop:
+Not only can this possibility save them from starvation and disease, it is also the sea's generosity for the land that insists on consuming.
+
+Bishop:
+This is not a conquest. It's understanding. It's acceptance.
+
+Bishop:
+I am pointing them in a new direction and giving them a better life. In the end, they will walk toward the truth, just as I once did.
+
+Bishop:
+This is my life's work. Your false flesh has confined your soul and left you short-sighted. You cannot see true greatness. You shall be forgiven.
+
+Gladiia:
+Hmph. Sounds like they are not the only ones obsessed.
+
+Anita:
+Phew, Singer, we almost missed out on this.
+
+Anita:
+There's so much food... Everyone's hungry, and we finally have something to eat.
+
+Anita:
+1, 2, 3... I'll bring these back and grind them up. I can make soup for Grandma Petra with them. We'll have this for dinner tonight. Sound good, Bench?
+
+Young Inhabitant:
+Wgh... aogh...
+
+Anita:
+No, don't eat them like that!
+
+Anita:
+The shells are too hard. They'll break your teeth! We have to boil them until they're soft before we can eat them.
+
+Anita:
+Singer, why don't you take some too?
+
+Skadi:
+......
+
+Anita:
+S-Singer? What are you standing there for?
+
+Bishop:
+Slow down, brother. This is all yours. Look around you. All this will be yours in the end.
+
+Bishop:
+Now, open your heart, accept yourself, embrace others, learn to be trusting, and learn to sacrifice.
+
+Bishop:
+The fighting has long come to an end, and the hardships will cease. Let us stand together. Our souls, flesh, and belief will grow strong, just like this eternal ocean under our feet.
+
+Gladiia:
+Please allow me to keep my distance.
+
+Bishop:
+Oh?
+
+Gladiia:
+I've been having certain... digestion issues. I'm afraid I might not be able to hold it. I'll throw up on your face.
+
+Bishop:
+—Brother, you dropped your seashell. Let your brother hold onto it...
+
+Bishop:
+Interesting. You must be in a good mood today, given your choice of words.
+
+Gladiia:
+Whatever you say.
+
+Bishop:
+The message from the sea has you excited. You can wait for our celebration no longer.
+
+Bishop:
+Then go. Find her. Find your old friend, and share this joy with her.
+
+Skadi:
+Found you...
+
+Skadi:
+What are you doing?
+
+Gladiia:
+Shh.
+
+Gladiia:
+Come. Look at him.
+
+Gladiia:
+Do you smell it?
+
+Skadi:
+......
+
+Gladiia:
+Your stance isn't elegant enough. Let me show you.
+
+Gladiia:
+How many times have we danced together, Skadi? Twice, maybe thrice?
+
+Gladiia:
+You are a good dance partner.
+
+Skadi:
+Where is she?
+
+Gladiia:
+You care about her.
+
+Skadi:
+Should I not?
+
+Gladiia:
+She is rather safe for the moment.
+
+Skadi:
+Proof?
+
+Gladiia:
+I didn't know you were in the market for something so pointless.
+
+Gladiia:
+This is making me think your time on land has ruined your nose, Hunter.
+
+Skadi:
+Your whole body reeks.
+
+Gladiia:
+Trust me. I want to vomit far more than you do right now.
+
+Skadi:
+......
+
+Skadi:
+She's with you alright.
+
+Gladiia:
+Looks like your nose hasn't gone completely bad.
+
+Gladiia:
+Fortunately, it seems you haven't quite fallen to the level of those land-born cubs just yet. At the very least, you haven't come crying to me, asking me why I would take her away and what I am doing here.
+
+Skadi:
+......
+
+Gladiia:
+Asking questions has never been a way of solving things. Not for us.
+
+Skadi:
+'Us?'
+
+Skadi:
+I don't even know if you are still one of us.
+
+Gladiia:
+Looks like you have a lot of questions on your mind.
+
+Skadi:
+(Strokes case)
+
+Gladiia:
+If you aren't sure, you might want to think twice about picking a fight.
+
+Gladiia:
+Otherwise, you'd just be giving your enemy an opportunity.
+
+Skadi:
+You are not my target.
+
+Gladiia:
+Then what did you come all this way for?
+
+Skadi:
+Don't you already know?
+
+Gladiia:
+You've been looking for her, but will your doubts really go away when you finally find her?
+
+Skadi:
+......
+
+Skadi:
+Her memory's shot. She can't tell me much.
+
+Gladiia:
+Take a look at yourself. You are barely better than being locked in a cage.
+
+Gladiia:
+You may not be working for me anymore, but let me teach you one more thing.
+
+Gladiia:
+Remember this. A hunter chases her prey because she must hunt it down. Chasing blindly will bring you only emotional comfort.
+
+Gladiia:
+Are you so weak now that you are chasing after these phantom illusions, Skadi?
+
+Skadi:
+......
+
+Gladiia:
+How long has it been since you danced? You've walked too much. Your skin is very dry. Have you forgotten the proper rhythm for your breathing?
+
+Gladiia:
+Let me ask you again. What are you here for?
+
+Gladiia:
+Not going to make your move?
+
+Skadi:
+I thought you two were together?
+
+Gladiia:
+I don't really care.
+
+Gladiia:
+Doesn't seem like I can say that about you, though. You are the one who needs that weight off your shoulders, not me.
+
+Skadi:
+Stop with the mysteries! Who is he?!
+
+Gladiia:
+I could tell you, but would you believe me?
+
+Inhabitant:
+Uh... Ughh...
+
+Bishop:
+Slowly. Careful not to trip.
+
+Bishop:
+Did you hear that? The sound of the waves. Thump, thump, thump, just like our heartbeats.
+
+Bishop:
+The food you eat and the water you drink are all gifts from the sea. My brothers and sisters, do you feel the energy in you surging throughout your body and on to your heart?
+
+Bishop:
+Embrace the vastness before you! This is your hope for rebirth!
+
+Anita:
+Huh? Where's the singer?
+
+Anita:
+I took my eyes off her for just a moment, and she disappeared again.
+
+Anita:
+*Sigh*.
+
+Anita:
+Oh well, she knows the way back. She's probably looking for her friend again.
+
+Anita:
+Let's go, Bench. Let's bring the food back.
+
+Young Inhabitant:
+Uhh...
+
+Anita:
+Bench, I want to sing. Let's sing together.
+
+Anita:
+Do you remember the song that the singer sang? It's okay if you don't. I mean, you don't know how to talk. How about I sing it for you?
+
+Anita:
+With homeland left a mile behind♪
+
+Young Inhabitant:
+Yea...
+
+Anita:
+His path lies ahead♪
+
+Young Inhabitant:
+Ahh...
+
+Anita:
+Why are you stopping me? *Sigh*. You think it's terrible, don't you? I think so, too.
+
+Anita:
+Of course I can't sing as well as the singer!
+
+Anita:
+But if I keep at it, I will get better, right?
+
+Anita:
+Hehe... His path lies ahead...
+
+Gladiia:
+I need to go now. If I don't get going, he will be suspicious.
+
+Skadi:
+Captain! What are you planning?
+
+Skadi:
+Is it a teammate you're looking for? Why didn't you say so?
+
+Skadi:
+Or is it an enemy you want? If you were my enemy, you would've killed me when I tried to kill you with the seashell just now.
+
+Gladiia:
+......
+
+Gladiia:
+You need to understand what it is that you want first. A hesitant hunter can't spot traps and will only find herself the prey of others. Is that what you want?
+
+Anita:
+Singer, your eyes seem a little different.
+
+Skadi:
+Hm?
+
+Anita:
+When you looked at us before, it felt no different from when you looked at the monsters from the sea.
+
+Skadi:
+......
+
+Anita:
+But now you are willing to teach me how to make seaweed alcohol, and you sing for us.
+
+Skadi:
+Of course you are different from the monsters.
+
+Skadi:
+Monsters wouldn't keep pestering me to sing for them. Monsters can't even speak. Most of the time, they are dirty and dumb, and they know nothing other than to eat.
+
+Anita:
+S-So... will those monsters from the sea eat us?
+
+Skadi:
+If they are hungry, they will.
+
+Anita:
+So they come ashore for the same reason we go out to the sea. They are looking for things to eat.
+
+Skadi:
+Are you sympathizing with them?
+
+Anita:
+Going hungry is tough.
+
+Skadi:
+I don't think that's how the ones who get eaten see it.
+
+Anita:
+Right... I don't want to be eaten by the monsters like this either.
+
+Anita:
+I've never thought about it before, but now... Uh, I want to listen to your songs just a little longer. I want to teach Bench how to sing too, just like how Grandma taught me so many things.
+
+Skadi:
+In that case, you need to live as long as your grandmother.
+
+Anita:
+Yep! At the very least, I'm not worried about anything right now.
+
+Anita:
+And that's because... Singer, you are still here. You will help us, and fight off these monsters, like, bam bam bam!
+
+Skadi:
+My heartbeat... is getting faster.
+
+Skadi:
+I see... Right.
+
+Skadi:
+I am still a hunter...
+
+
+

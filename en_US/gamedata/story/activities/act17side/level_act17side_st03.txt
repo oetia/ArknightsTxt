@@ -1,0 +1,509 @@
+High Inquisitor:
+Irene.
+
+Inquisitor Irene:
+Yes, maestro... I mean, sir!
+
+High Inquisitor:
+You seem distracted.
+
+Inquisitor Irene:
+I... I'm fine.
+
+High Inquisitor:
+Gran Faro is a tiny town, so small that most maps don't even bother to list it.
+
+High Inquisitor:
+But this is a request from Lord Carmen himself, and it involves Dr. Kal'tsit and those Ægir.
+
+Inquisitor Irene:
+I know, sir. I—
+
+High Inquisitor:
+If you still haven't found your answer, I will not give you permission to join the mission.
+
+Inquisitor Irene:
+I'd already made up my mind when I first decided to follow in your footsteps and become an Inquisitor.
+
+High Inquisitor:
+Yes, before you even knew the question. An answer is worthless if it cannot explain what you see and hear.
+
+High Inquisitor:
+Don't die a worthless death, Irene. You know what we're fighting against. And you must find your own answer.
+
+Inquisitor Irene:
+I—
+
+Inquisitor Irene:
+...Yes, sir.
+
+Gladiia:
+Lady Kal'tsit.
+
+Gladiia's tone does not change, but her footsteps reflect her mood.
+
+A blink of the eye, and she is by Kal'tsit's side.
+
+Kal'tsit:
+Good work, Gladiia.
+
+Gladiia:
+The Inquisition didn't do anything to you, did they?
+
+Kal'tsit:
+The fact that Iberia has not yet sunk into the sea is proof that they still retain a shred of humility and vigilance.
+
+Gladiia:
+You found a way, as promised.
+
+Kal'tsit:
+Yes. However...
+
+Kal'tsit:
+Even if Iberia is willing to let go of their fears, what about Ægir?
+
+Kal'tsit:
+What about you?
+
+Gladiia:
+If this temporary cooperation is necessary to help us return to the ocean... so be it.
+
+Alty:
+Finally, an Ægir with some sense, right? Like the waves themselves, like the rays and texture of the sea.
+
+Alty:
+Hello there, special Ægir. I believe you've already met our other members?
+
+Gladiia:
+Yes. You're also a member of AUS?
+
+Alty:
+Alty, bassist. Nice to meet you.
+
+Alty:
+How are things outside?
+
+Gladiia:
+The cultists are out in force, but individually they're rather weak.
+
+Gladiia:
+My Hunters can take care of everything.
+
+Kal'tsit:
+The Inquisition will only work with us once we've taken care of the problems in Gran Faro.
+
+Gladiia:
+Then there's no time to waste.
+
+Gladiia raises her lance.
+
+At the same time, she senses that something is not right.
+
+Gladiia:
+......!
+
+Gladiia:
+There, among the Sea Terrors... but how could it be...?
+
+Kal'tsit:
+Kal'tsit here.
+
+Elysium:
+Dr. Kal'tsit! Their goal is—
+
+Kal'tsit:
+...Elysium?
+
+Gladiia:
+What's the matter?
+
+Kal'tsit:
+One of our operators is in trouble.
+
+Gladiia:
+Something lurks here.
+
+Kal'tsit:
+As we discussed, Alty, the members of AUS can stay ashore.
+
+Kal'tsit:
+We'll handle this as quickly as possible.
+
+Alty:
+Sure, we can wait.
+
+Alty:
+And we'll be happy to provide some BGM for your campaign.
+
+Skadi:
+...Too weak.
+
+Skadi:
+They keep coming. Buying time?
+
+Skadi:
+Or spreading... something.
+
+Skadi:
+I must find the leader.
+
+Sea Terror:
+—Gkh—!
+
+Specter:
+......
+
+Skadi:
+Specter.
+
+Specter:
+...Hm?
+
+Specter:
+Ah... Skadi. Long time no see.
+
+Specter:
+Something the matter?
+
+Skadi:
+...Are you alright?
+
+Specter:
+I'm fine, just a little tired.
+
+Specter:
+Yes... We're fighting, right? The scent of the ocean... reminds me of home.
+
+Specter:
+But, home? My home... huh...
+
+Sea Terror:
+Gkh—!
+
+Specter:
+The sea.
+
+Specter:
+The scent of the sea grows stronger. Are we home, Skadi? Is this the way home?
+
+Skadi:
+...It will be, Specter. Laurentina. I promise.
+
+Specter:
+Tell me then... what's that before my eyes?
+
+Skadi:
+What?
+
+A figure strides down the street, humming a tune.
+
+The streets are a mess in the aftermath of the panicking townsfolk, but it hardly bothers Frost as she plucks at the air and imagines music.
+
+Skadi:
+Hmph!
+
+Sea Terror:
+(Slithering sounds)
+
+Skadi:
+The Sea Terrors keep away from her. No, they ignore her. Is she... playing an instrument?
+
+Specter:
+Does it sound nice?
+
+Skadi:
+I don't know.
+
+Specter:
+Then ask.
+
+Skadi:
+Wait!
+
+Elysium:
+*pant*... *pant*...
+
+Elysium:
+(Did I shake him?)
+
+Elysium:
+Dammit?!
+
+Elysium:
+Was it when we first met? No, he didn't even touch me.
+
+Ulpianus:
+Those documents must be destroyed, Iberian.
+
+Ulpianus:
+Obey, and you may keep your limbs. Attached, if you prefer.
+
+Elysium:
+(Shit, he's fast...)
+
+Elysium:
+Weren't your friends only burning them because there wasn't time to save them all?
+
+Elysium:
+With your skills, you could just as easily have taken them yourself. So why the need to burn them?
+
+Ulpianus:
+'Friends?'
+
+The man growls from the bottom of his throat, a sound born of humiliation.
+
+Ulpianus:
+We are not 'friends.'
+
+Elysium:
+Then what?
+
+Ulpianus:
+It doesn't concern you. Surrender the documents, and leave this place.
+
+Ulpianus:
+Whether you're with the Inquisition, or with another country...
+
+Ulpianus:
+......!
+
+Elysium:
+(He stopped.)
+
+Ulpianus:
+Yes... you've always been sharp.
+
+The mysterious Ægir gazes into the distance.
+
+'Friends.'
+
+Ulpianus:
+(Ægirian) We may be bound by blood, but you must stay away from Ægir for now.
+
+Elysium:
+—!
+
+Elysium evades the attack, but it's immediately clear why he managed to.
+
+The sword's aura rips the charred papers to shreds, sending the splintered truth drifting into the wind.
+
+Elysium:
+Crap—
+
+Ulpianus:
+(Ægirian) They cannot return to Ægir just yet. Allowing everyone to act on their own will only accelerate the destruction.
+
+Ulpianus:
+(Ægirian) Even though Ægir has already chosen the path of self-annihilation.
+
+Saint Carmen:
+No more Sea Terrors approach.
+
+Saint Carmen:
+Unsurprising numbers, for the coast. Now, where are you hiding?
+
+Wounded Cultist:
+You... *cough* No! Not the lantern!
+
+Saint Carmen:
+Answer me. What do you intend for Gran Faro?
+
+Wounded Cultist:
+That lantern! Get it off me—
+
+Saint Carmen:
+Answer me.
+
+Wounded Cultist:
+Ugh...
+
+Wounded Cultist:
+It... It's...
+
+Saint Carmen:
+What are you pointing at?
+
+Carmen looks back in the direction that the cultist is indicating.
+
+A statue stands in the middle of the square.
+
+Saint Carmen:
+Ah.
+
+Saint Carmen:
+Gran Faro. The Great Lighthouse. Of course. You're seeking the lighthouse of Gran Faro.
+
+Wounded Cultist:
+Stop... stop it... ugh...
+
+Saint Carmen:
+The nobles once called those great monuments the Eye of Iberia. Dozens of them once stood on Iberia's coastline.
+
+Saint Carmen:
+Even had the Witch King's Tower in Leithanien not been toppled, it would still have been dwarfed by these guardians of the sea.
+
+Saint Carmen:
+They are the single greatest mark that human civilization has ever left on this land.
+
+Wounded Cultist:
+The sea... *cough* the Eye of Iberia...
+
+Wounded Cultist:
+The miracle... destroyed the sacrilege... argh... take that lantern away!
+
+Saint Carmen:
+The Profound Silence destroyed most of the lighthouses, and disabled the rest.
+
+Saint Carmen:
+What are you plotting?
+
+Wounded Cultist:
+......
+
+Saint Carmen:
+I see. So you knew...
+
+Saint Carmen:
+You knew that one remained operational. That the goal of the Gran Faro project was to protect what was left of the Eye of Iberia.
+
+Saint Carmen:
+That's why you've been lurking here, awaiting your chance.
+
+Wounded Cultist:
+You...
+
+Saint Carmen:
+I never expected there to be traitors in the very heart of the Inquisition. Where are they?
+
+Wounded Cultist:
+Ha... hehehe...
+
+Wounded Cultist:
+While you're here... babbling away...
+
+Wounded Cultist:
+Look under your feet... and come face to face... with your pathetic... narrow-mindedness...
+
+Saint Carmen:
+What?
+
+Dying Sea Terror:
+......
+
+Dying Sea Terror:
+(Unsettling slithering sounds)
+
+Saint Carmen:
+Hm.
+
+Saint Carmen:
+The Sea Terrors are... glowing?
+
+Saint Carmen:
+What is this luminescence?
+
+Kal'tsit:
+Get away from it!
+
+Saint Carmen:
+Ah—
+
+Kal'tsit:
+Mon3tr!
+
+Mon3tr:
+(Impatient growling)
+
+Kal'tsit:
+Meltdown.
+
+Mon3tr:
+(Agitated roars)
+
+Specter:
+Hello.
+
+Frost:
+(Peaceful riff)
+
+Specter:
+There is a familiar scent on you... Do you know what it is?
+
+Frost:
+(Spirited riff)
+
+Specter:
+A pleasant melody, but not the one that I know.
+
+Frost:
+Then, how does the one you know go?
+
+Specter:
+......
+
+When she prayed, the stars ceased to shimmer♪
+
+When she wept, the night let out a smile♪
+
+When she laments, the anguish sprawled upon her madness♪
+
+Frost:
+...A song of Ægir. A sad song.
+
+Frost:
+But I don't like it. It belongs in the past. It lacks passion, and wallows in futile sentimentality—the same as Ægir itself.
+
+Specter:
+A shame.
+
+Frost:
+You've come home, Ægir.
+
+Specter:
+Home? Me?
+
+Frost:
+Sing.
+
+Frost:
+In song, you will rediscover yourself.
+
+Specter:
+Song?
+
+Specter:
+What memories will singing recall?
+
+Frost:
+Just sing. You will encounter your past. You must eventually find and face your destiny, or it will find you.
+
+Frost:
+That's how it has ever been, since I left the ocean.
+
+Specter:
+What a strange woman. But I don't mind singing.
+
+Specter:
+Then sing.
+
+Specter:
+La la la, la la la♪
+
+Specter:
+When she prays, the stars ceased to shimmer♪
+
+......
+
+...
+
+Amaia:
+As always, there's such sorrow in your song.
+
+Specter:
+Who are... you?
+
+Amaia:
+I never imagined we'd meet again in such circumstances, Laurentina.
+
+
+

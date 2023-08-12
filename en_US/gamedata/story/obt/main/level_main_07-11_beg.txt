@@ -1,0 +1,709 @@
+Chernobog Central District 1:20 P.M.
+
+Kal'tsit:
+Raidian, this is Kal'tsit. We're on the edge of the central district, four hundred and ten meters out from the warehouse, seventeen, sixty-seven, southwest.
+
+Kal'tsit:
+Are you in position? Is the operation going according to plan?
+
+Kal'tsit:
+'Unimpeded?'
+
+Kal'tsit:
+The situation on the ground seems to be in line with our expectations.
+
+Kal'tsit:
+Reunion has deployed the guerrilla fighters at hubs throughout the core city, and stationed Reunion regulars or Sarkaz mercenaries elsewhere.
+
+Kal'tsit:
+It would be unwise to spread their defenses thinly across the entire map. They will gather their elites in a few key locations. That's what I would do if I were leading Reunion.
+
+Amiya:
+Dr. Kal'tsit!
+
+Kal'tsit:
+I know you want to speak to Raidian, Amiya. Patience.
+
+Rosmontis:
+I... I do too...
+
+Kal'tsit:
+...We're on a mission. Next time, okay?
+
+Rosmontis:
+Oh, um... okay.
+
+Kal'tsit:
+Raidian, I have Amiya here for you.
+
+Amiya:
+Right!
+
+Amiya:
+Raidian, this is Amiya.
+
+Kal'tsit:
+(Well... You saw how Amiya and Rosmontis reacted.)
+
+Kal'tsit:
+(Our younger personnel love Raidian. But she may be a little too warm and friendly for adults.)
+
+Kal'tsit:
+(The adolescents have the most trouble with her.)
+
+Kal'tsit:
+(Their need to self-actualize tends to conflict with Raidian's persistent motherliness.)
+
+Kal'tsit:
+(I generally avoid putting them in the same team. You should check the manual for such details when planning.)
+
+Amiya:
+Right... I saw, Raidian, yes.
+
+Amiya:
+That's correct. No, that's not a standard tactic for guerrilla fighters. It's more like... hm...
+
+Amiya:
+Yes! Like the Doctor said, Raidian, Reunion has mixed things up a bit, but you can still see the shadow of the Ursus military here.
+
+Amiya:
+They've undergone strict military training... Yes, that's likely.
+
+Amiya:
+The core network of Reunion personnel could be Infected who have received Ursus military training.
+
+Amiya:
+They're the only ones who could gather up such a large group of Infected.
+
+Amiya:
+It's clear that this battle won't be an easy win for us.
+
+Amiya:
+Hm? No, I'm fine. Rosmontis and I, all the Rhodes Island operators... we all wanted to be here.
+
+Amiya:
+Uh huh, it's okay, Raidian, I have Dr. {@nickname} and Dr. Kal'tsit with me.
+
+Kal'tsit:
+All right, Amiya, it's time to begin.
+
+Amiya:
+Right. Okay, Raidian, it's up to you and Dr. Kal'tsit.
+
+Kal'tsit:
+First thing's first, we have to make good use of our comms.
+
+Kal'tsit:
+Team R-4, activate your equipment.
+
+Kal'tsit:
+Raidian, it will take Rosmontis ten minutes to cast her Arts. During that time, we cannot lose comms for even a split second, unless we determine that we have to disconnect.
+
+Kal'tsit:
+Continued use of Originium Arts will cause you discomfort, and if the nausea becomes unbearable, you are to immediately take the supplement I formulated for you.
+
+Kal'tsit:
+Moderate dizziness is a side effect. It won't harm your nervous system, but it will massively drain your strength.
+
+Kal'tsit:
+Be careful not to overdose. After the first ten minutes, you can take intermittent breaks. Do not overexert yourself.
+
+Kal'tsit:
+We're asking a lot of you, Raidian.
+
+Kal'tsit:
+Rosmontis, all of the enemy's messages will be sent to your portable terminal via Raidian. Feel them, and log them.
+
+Kal'tsit:
+Should their location change, you cannot lose them. Seize their feelings and log them again.
+
+Kal'tsit:
+Reach out with your body, Rosmontis, and picture yourself roaming the city.
+
+Rosmontis:
+I understand, Dr. Kal'tsit.
+
+Kal'tsit:
+Amiya...
+
+Amiya:
+I know.
+
+Kal'tsit:
+You have your work cut out for you. If anything anomalous happens, I will stop your casting. The instant you feel any pain, let me know.
+
+Amiya:
+Rosmontis... I'm going closer to you.
+
+Rosmontis:
+Yes, I'm ready too. I'm not scared. Amiya, don't be scared of me.
+
+Amiya:
+I won't. I'm not scared of Rosmontis. We won't be scared.
+
+Kal'tsit:
+Amiya is stabilizing Rosmontis's emotions.
+
+Kal'tsit:
+You may not want to look directly at them, Dr. {@nickname}. It is unwise for any but the most tragically afflicted warriors to look directly at the expansion of the essence of Rosmontis's Arts.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+I figured you'd realize it sooner.
+
+Kal'tsit:
+Or that you already knew but hadn't indicated as much to me.
+
+Kal'tsit:
+But yes, Dr. {@nickname}.
+
+Kal'tsit:
+...Amiya's battles, both physical and mental, have been far beyond what any human being should have to endure.
+
+Kal'tsit:
+Two, or maybe three would be okay. The more people to share the burden, the better.
+
+Kal'tsit:
+Dr. {@nickname}, I'm not talking specifically about a memory or a battlefield experience. This refers to demands on both responsibility and physical ability.
+
+Kal'tsit:
+If you'd like, you could hold Amiya's hand to share that burden.
+
+Kal'tsit:
+No, not today, anyway. You and I have another urgent task.
+
+Kal'tsit:
+We need to buy them precious time.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+A pharmaceutical company investigates the root cause of a problem, adapts to the environment, allocates functions appropriately, and looks for a breakthrough.
+
+Kal'tsit:
+Our target is smaller and more precise than in a conventional battle. A small tactical assault team's work is closer to a surgery than it is to a firefight.
+
+Kal'tsit:
+What the warmongers can't do falls within our area of expertise.
+
+Kal'tsit:
+Rhodes Island is going to take out the enemy command in the core city. All our objectives center on rooting out the cause of this disease.
+
+Kal'tsit:
+But even if we excise the cancer, if the cause of the problem remains unknown to us, it will not be fundamentally solved.
+
+Kal'tsit:
+Dr. {@nickname}, I do hope you will give this due consideration.
+
+Kal'tsit:
+—Who are our patients?
+
+Kal'tsit:
+The normal Infected? The Ursus who were Infected? Reunion? Or this city?
+
+Kal'tsit:
+And where is the cause of this disease?
+
+Kal'tsit:
+We've discussed how Reunion is not maintaining the city's communication networks.
+
+Kal'tsit:
+It has become clear that Talulah deliberately kept Originium clusters from the Catastrophe in the city to maintain a state of chaos.
+
+Kal'tsit:
+That will massively disrupt our communications.
+
+Kal'tsit:
+Even our most advanced equipment will not function under these conditions.
+
+Kal'tsit:
+But now, thanks to elite operator Raidian, we can make use of the otherwise chaotic airwaves.
+
+Kal'tsit:
+That leaves us with a direct, reliable method of communication, and a tactical advantage.
+
+Kal'tsit:
+True.
+
+Kal'tsit:
+You saw the runners carrying megaphones. The guerrillas use these antiquated methods to carry intelligence and orders in encrypted messages.
+
+Kal'tsit:
+We have yet to properly map the movements of these runners, but Rosmontis is working on it.
+
+Kal'tsit:
+Their transmissions may not be instantaneous, and are limited in range, but it is the most stable and disciplined method in a hostile environment.
+
+Kal'tsit:
+Can you guess what's wrong with this method?
+
+Kal'tsit:
+Correct.
+
+Kal'tsit:
+The real commander's location is hidden.
+
+Kal'tsit:
+What would you do in that position, Doctor?
+
+Kal'tsit:
+Correct.
+
+Kal'tsit:
+Now we've focused our thinking. This is another tactical advantage.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+Doctor, the Arts Rosmontis is releasing will show us the location of every runner and their patrol routes.
+
+Kal'tsit:
+She will expand her consciousness and capture every physical structure within range. At the same time, her mental state will grow increasingly chaotic.
+
+Kal'tsit:
+Amiya is working to flatten those emotions.
+
+Kal'tsit:
+Raidian is the core of our communications. With her Arts, we can communicate unimpeded for a short period of time.
+
+Kal'tsit:
+We just need to wait for Rosmontis to finish her part, then we go.
+
+Kal'tsit:
+For now, the guerrillas know nothing about us.
+
+Kal'tsit:
+They are completely unaware that we are targeting their communications, or that we are able to work against the ancient Sarkaz witchcraft..
+
+Kal'tsit:
+We do have our methods, limited as they may be.
+
+Kal'tsit:
+After striking the runners, the guerrillas will respond. Within a half hour, they will have new runners working, and they will be hardened against further attacks.
+
+Kal'tsit:
+They will be on high alert, and may not have weaknesses to exploit.
+
+Kal'tsit:
+What's more, we will have exposed our positioning and tactics, putting us in a difficult situation.
+
+Kal'tsit:
+However, we only need to execute a single surgical strike. With that one blow, we will force out their command unit.
+
+Kal'tsit:
+The guerrillas won't be expecting another Infected spec ops team.
+
+Kal'tsit:
+This is a tactical advantage.
+
+Kal'tsit:
+—I'm not going to exaggerate.
+
+Kal'tsit:
+Dr. {@nickname}, even with our three tactical advantages, we are more likely to fail than succeed.
+
+Kal'tsit:
+Because anything else would be even less likely to succeed.
+
+Kal'tsit:
+...Rosmontis should have started her search. Hold your breath, and don't look.
+
+Rosmontis:
+—First—
+
+Rosmontis:
+I... found three.
+
+Amiya:
+Rosmontis... you're okay. Come here, a little closer.
+
+Rosmontis:
+...Four.
+
+Amiya:
+Your ear. I'm running my finger over your ear like this... you can hear it. These are just fragments of your imagination, and you've seen it all before.
+
+Rosmontis:
+Mm...
+
+Rosmontis:
+Five.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+Doctor, are you afraid of getting hurt?
+
+Kal'tsit:
+These three teams will split up for the fight. Each will be responsible for enemy teams and crippling the runners in a different sector. We cannot give them a chance to get the word out.
+
+Kal'tsit:
+Each of our squads will also redistribute their power projection, which I have already planned for. Don't worry.
+
+Kal'tsit:
+As for you, you're with me.
+
+Kal'tsit:
+Bring your security specialist. You can't refuse. I think.
+
+Kal'tsit:
+The guerrillas' equipment is of excellent quality, similar to that of the Ursus military, and they keep to discipline and tactics even more harshly and effectively.
+
+Kal'tsit:
+Sarkaz, Ursus, Liberi and other races all united under a single banner.
+
+Kal'tsit:
+You are safe only under my protection. I don't want Rosmontis to kill you by accident, and I don't want Amiya to distract herself trying to protect you. And Raidian, you haven't even met.
+
+Kal'tsit:
+You can't cause trouble with me.
+
+Kal'tsit:
+...Wait.
+
+Kal'tsit:
+—Rosmontis?
+
+Rosmontis:
+Ah... Nng...
+
+Kal'tsit:
+Raidian, sever Rosmontis's connection. Now!
+
+Kal'tsit:
+Amiya, her mental state?
+
+Amiya:
+But... Rosmontis... The scene I reached out to was stable, nothing strange was happening... It shouldn't have...
+
+Amiya:
+It's... falling? She's... looking at the sky?
+
+Amiya:
+...Lost. She's lost. She's falling.
+
+Kal'tsit:
+Body temperature dropping, shortness of breath... Sharp decrease in endorphin levels.
+
+Kal'tsit:
+(Shakes her head)
+
+Kal'tsit:
+This isn't like Raidian using supplements to replenish her energy. Rosmontis's Arts throw off a balance inside her body, but not an entirely biological one.
+
+Kal'tsit:
+Injecting steroids to increase hormone production can seriously disrupt her endocrine system that could result in a failure of her inhibitor functions.
+
+Rosmontis:
+I... I...
+
+Rosmontis:
+You left me? Why... I have to...
+
+Rosmontis:
+—Why did you leave me...?
+
+Kal'tsit:
+Bad is not an excuse to indulge my incompetence.
+
+Kal'tsit:
+Dr. {@nickname}, I will not resort to emergency measures that cause permanent bodily harm... no matter how effective they may be.
+
+Kal'tsit:
+Rosmontis's problem is not biological. She is the only one who can solve it.
+
+Kal'tsit:
+Rosmontis.
+
+Kal'tsit:
+Rosmontis, look at my hand.
+
+Rosmontis:
+Doc... tor... Kal... tsit..
+
+Kal'tsit:
+Look at Dr. Kal'tsit's hand.
+
+Kal'tsit:
+My hand is stroking your face now. Look, Dr. Kal'tsit is here. Look at me.
+
+Rosmontis:
+...Hnng.
+
+Kal'tsit:
+Rosmontis, Kal'tsit doesn't have much time to stay with you. Neither does Amiya...
+
+Kal'tsit:
+Outcast, Misery, Blaze, or anyone else.
+
+Kal'tsit:
+But for now, Amiya and I are here.
+
+Rosmontis:
+Uh... huh.
+
+Kal'tsit:
+Keep pushing, Rosmontis. Walk forward.
+
+Amiya:
+Yes, Rosmontis... over here. Walk this way. On the deck.
+
+Amiya:
+It's very hard, I know... But, Rosmontis, this is the deck, you can step on it. You won't fall through.
+
+Amiya:
+This is Rhodes Island.
+
+Kal'tsit:
+We're here with you.
+
+Amiya:
+I'm here with you.
+
+Rosmontis:
+—I know.
+
+Rosmontis:
+...Doctor... Kal'tsit... give me...
+
+Rosmontis:
+The... data.
+
+Kal'tsit:
+—Okay.
+
+Kal'tsit:
+Raidian, connect Rosmontis's terminal. She's okay.
+
+Kal'tsit:
+I'm sure. Do it.
+
+Rosmontis:
+—Second.
+
+Rosmontis:
+Seven.
+
+Amiya:
+I see..
+
+Amiya:
+Her... Rosmontis is standing now. Her consciousness is peaceful and harmonious. Aw... it's like a fluffy basket holding her dreams.
+
+Amiya:
+We're fine, Dr. Kal'tsit.
+
+Amiya:
+(Oh...?)
+
+Rosmontis:
+Pfft.
+
+Rosmontis:
+Amiya's turning red, Dr. {@nickname}.
+
+Amiya:
+...I didn't want you to see that!
+
+Rosmontis:
+It's okay. Mmhm. Okay.
+
+Rosmontis:
+Again... again. Amiya, let's go forward a bit. I can feel it.
+
+Rosmontis:
+Third.
+
+Rosmontis:
+...Dr. Kal'tsit, I found them. All of them.
+
+Kal'tsit:
+We're ready.
+
+Rosmontis:
+Yes, thank you. And thank you, Amiya.
+
+Amiya:
+Don't thank me for doing my job, Rosmontis... no need. You know I love saying that, don't you?
+
+Rosmontis:
+Uh huh. But you took me to the bridge, and to the mountain... and the clouds were so pretty.
+
+Rosmontis:
+It's a long road.
+
+Rosmontis:
+Let's go, Amiya. We can go down.
+
+Kal'tsit:
+Raidian, split the connections. You can take five.
+
+Kal'tsit:
+Amiya, Rosmontis, keep the channel clear.
+
+Amiya:
+Okay, now, Raiden, Dr. Kal'tsit, Rosmontis...
+
+Amiya:
+Time to fight.
+
+Kal'tsit:
+It looks like you have something on your mind.
+
+Kal'tsit:
+That's not what you're thinking. But if you'd like, I can be harsher with you.
+
+Kal'tsit:
+You were very lucky back there.
+
+Kal'tsit:
+Taking a step back, it may be that Rosmontis likes you. She controlled her outburst.
+
+Kal'tsit:
+Otherwise you would have bitten off your own tongue watching Amiya and I guide her, and seeing the manifestation of her Arts.
+
+Kal'tsit:
+...Rosmontis was born in a lab.
+
+Kal'tsit:
+She did not suffer the same tragedy as most experimental Infected. She did not die from the increasingly cruel experiments.
+
+Kal'tsit:
+As the project moved forward, she gradually crushed the entire facility.
+
+Kal'tsit:
+The lab did not destroy her, she destroyed it. Her Arts are tied to her mental state.
+
+Kal'tsit:
+The group that found her and smuggled her to Rhodes Island has made it clear that 'Rosmontis does not exist.'
+
+Kal'tsit:
+I know what you're thinking. And no, through force or coercion, I would never allow an individual who has been through that to become an operator.
+
+Kal'tsit:
+But Rosmontis herself chose responsibility, training, and companionship.
+
+Kal'tsit:
+With her subconscious Arts usage causing constant damage, the caster operators decided to train her. She had to mature faster than the others, which she fortunately wanted to do.
+
+Kal'tsit:
+We didn't want to abandon her to the wilderness. We did not want to inject her with suppressants. And we certainly didn't want Rhodes Island to be reduced to a heap of pulverized shrapnel.
+
+Kal'tsit:
+This solution was our last resort. We have to train her to use her Arts, rather than indulge or imprison her.
+
+Kal'tsit:
+She's like Amiya in some ways, and unlike her in others.
+
+Kal'tsit:
+Then let me finish, please.
+
+Kal'tsit:
+They are alike in that they will both fight to the end for other people.
+
+Kal'tsit:
+As for how they're different—
+
+Kal'tsit:
+You know Amiya has never wanted to make enemies. Even when forced to do so, she fights back her tears, reluctantly destroying her enemies.
+
+Kal'tsit:
+But Rosmontis, I could say, Doctor, that Rosmontis...
+
+Kal'tsit:
+She's never given up on a mission. Faced with any situation, she handles it appropriate, and wins.
+
+Kal'tsit:
+That is our simultaneously reasonable and incomprehensible Annihilation Specialist, Rosmontis.
+
+Kal'tsit:
+She is an elite operator for no other reason than she met the standards across the entire battery of tests.
+
+Kal'tsit:
+The operators who feared her came to know what she was really like and ultimately put their lives in her hands...
+
+Kal'tsit:
+Because she protects them, with all her power.
+
+Kal'tsit:
+If Blaze won the respect of our people through leadership of her team, Rosmontis fought for their respect.
+
+Kal'tsit:
+She heard their expectations, and exceeded them.
+
+Kal'tsit:
+There are other operators with detection Arts similar to Rosmontis's, with different casting conditions.
+
+Kal'tsit:
+Rosmontis can do more than just locate, you've seen the way she fights.
+
+Kal'tsit:
+Dr. {@nickname}, we allowed Rosmontis to join this op because she is the best operator for the job, and because she believes as much herself.
+
+Kal'tsit:
+Her Arts are also enough to help Amiya and I face the leader of the guerrillas...
+
+Kal'tsit:
+'Patriot, of Reunion.'
+
+Rosmontis:
+Dr. Kal'tsit! The abandoned trolley station, behind the fallen restaurant sign, the gate of #4 Secondary School, third floor of the town hall clocktower!
+
+Kal'tsit:
+Acknowledged.
+
+Amiya:
+Copy! I'll go to the town hall, Dr. Kal'tsit!
+
+Kal'tsit:
+Then we'll go to #4 Secondary School, Doctor. Move.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+Precisely.
+
+Kal'tsit:
+Rosmontis, Amiya, and I will deal with the runners. And you...
+
+Kal'tsit:
+Dr. {@nickname}, you will command our free units and slow the guerrilla fighters.
+
+Kal'tsit:
+Remember, we target only the enemies we can target.
+
+Kal'tsit:
+Once the guerrillas regroup, we fall back. We are here to complete our objective, not to entertain some fantastical idea of a direct fight.
+
+Kal'tsit:
+This will be a protracted battle. We could suffer casualties, or even total defeat.
+
+Kal'tsit:
+If that happens, we could be facing a new dark age for the Infected.
+
+Kal'tsit:
+The best possible outcome for us could be that the command squad does not appear.
+
+Kal'tsit:
+We head straight for the command tower and the generator area, leaving the Reunion Infected to handle their own problems with the Infected.
+
+Kal'tsit:
+But he won't, not this guerrilla commander.
+
+Kal'tsit:
+He won't lose control of the battle and watch his team fall apart. It is not faith alone that keeps his people together, he has the strength to live up to his name.
+
+Kal'tsit:
+After this battle, if all goes well... we will commit everything to a conflict with their command squad.
+
+Kal'tsit:
+We will face down Buldrokkas'tee.
+
+
+

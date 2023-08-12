@@ -1,0 +1,287 @@
+Ash:
+You can do it! Lord!
+
+Tachanka:
+Hnng... Grrrgh! Gah...!
+
+Ash:
+Almost! Just a little more!
+
+Tachanka:
+And... Hah!
+
+Tachanka:
+It's up!
+
+Ash:
+Well done!
+
+Rangers:
+Yes... It's very impressive you can pull back this crossbow with your bare hands.
+
+Tachanka:
+Phew...
+
+Tachanka:
+What a design. You couldn't tell by looking at it that this crossbow has such tensile strength.
+
+Rangers:
+It's a pretty ordinary crossbow. Most Sarkaz can lock it barehanded.
+
+Tachanka:
+A heavy crossbow with this kind of power... at least than one hundred meters, it won't be that different from a gun. It's just too much work.
+
+Tachanka:
+...And I already learned the hard way that bit about our physical differences.
+
+Tachanka:
+That zappy girl over there might be no weaker than me.
+
+Rangers:
+Are you talking about Liskarm? She's a Vouivre. They're a strong race, for sure.
+
+Tachanka:
+Right......
+
+Ash:
+Why the sudden interest in these weapons?
+
+Tachanka:
+We're expecting a lot of fights soon, so it's time to think about what to do when we run out of ammo.
+
+Tachanka:
+Without bullets, my gun might as well be a paperweight.
+
+Tachanka:
+I don't think we can take them hand-to-hand when it comes to that. And our training and experience won't be enough either.
+
+Ash:
+How much do we have left?
+
+Tachanka:
+Not much over here. Not even four hundred rounds.
+
+Ash:
+Let me show you something.
+
+Tachanka:
+Is this a... bullet?
+
+Ash:
+It's a bullet that Rhodes Islander named Liskarm uses. They call it an 'etched bullet,' and it's apparently an extremely expensive commodity.
+
+Tachanka:
+Did you take it apart yet?
+
+Tachanka:
+What's it made of? What's the propellant?
+
+Ash:
+This chunk of crystal.
+
+Tachanka:
+Looks like an energy source. Is that a propellant or a warhead?
+
+Rangers:
+A Laterano gunsmith once told me that every single etched bullet contains a miniature casting unit that matches up with the structure of a Laterano gun.
+
+Rangers:
+That means it's not only the gun, but every etched bullet, is basically a caster's staff. That's why they're so expensive, and why they need such complicated Arts that only Sankta can make much use of them.
+
+Rangers:
+Other peoples go with easier ranged weapons.
+
+Tachanka:
+So Laterano is the name of the country, Sankta is the name of the race. Laterano people are not necessarily Sankta... Got it.
+
+Tachanka:
+But that's real bad news about the bullets.
+
+Tachanka:
+Do we have any gun here that doesn't require those 'Originium Arts' to work?
+
+Rangers:
+I've never heard about those firearms that don't need Originium Arts.
+
+Tachanka:
+(Sigh)...
+
+Ash:
+One step at a time. At least everybody can use explosives.
+
+Tachanka:
+Where did Kötz go with them?
+
+Ash:
+They're in the basement. Still trying to fix the thing that looks like a radio transmitter.
+
+Liskarm:
+We can't power the comm casting unit.
+
+Franka:
+It's a power problem?
+
+Liskarm:
+Maybe... I'll have to see.
+
+Franka:
+Okay, you all take a step back. The valedictorian is about to do her stuff.
+
+Liskarm:
+...Charging...
+
+Blitz:
+Oh! Ooh! Oooh!
+
+Blitz:
+Was that Arts? It was pretty cool.
+
+Ash:
+It definitely... leaves an impression.
+
+Franka:
+Is it working?
+
+Liskarm:
+It's on!
+
+Franka:
+Great work. That's my walking power supply.
+
+Liskarm:
+Don't you have anything better to do than annoy me?
+
+Liskarm:
+......Hmm......
+
+Liskarm:
+No good. It's still not connecting.
+
+Liskarm:
+The crystal electronics unit may be too damaged. Or there may be some damage somewhere else in the circuit we can't see with the naked eye.
+
+Liskarm:
+We don't have any equipment for repairing Originium circuits here, so we can't troubleshoot.
+
+Franka:
+*Sigh*, sounds pretty hopeless.
+
+Tachanka:
+Can ordinary people do these Originium Arts too?
+
+Franka:
+Theoretically... almost anyone can learn to do Arts at some level, with enough training.
+
+Franka:
+It's just that studying Arts takes time and effort, and that gets tied up pretty close with talent.
+
+Franka:
+Lots of people master only the most basic Arts, even after pushing themselves a lot harder than others.
+
+Rangers:
+I'm a dumb old man, and I've never learned any Originium Arts.
+
+Ash:
+What are you thinking?
+
+Tachanka:
+Nothing... Just brainstorming about our situation here... some wild, impractical ideas.
+
+Liskarm:
+Oh, right, Mr. Kötz.
+
+Liskarm:
+Take a look at this shield here.
+
+Blitz:
+What's... what's that on the shield?
+
+Liskarm:
+I installed a high-powered spotlight and a universal Originium circuit based on the original design and function of your shield. It should work just like you're used to.
+
+Blitz:
+Thanks a bundle!
+
+Blitz:
+...Oh... But I can't use 'Originium Arts'.
+
+Franka:
+Strictly speaking, a universal Originium circuit is a piece of modern technology that lets people who don't know how to use Arts use it anyway. It is loaded with a few simple Originium Arts.
+
+Liskarm:
+Of course, the power supply and equipment maintenance still need to be carried out by a trained caster.
+
+Blitz:
+All right, let's see. It's still pretty heavy.
+
+Blitz:
+...Turn it on... Hit the switch...
+
+Blitz:
+All good. I'll give it a try.
+
+Blitz:
+Wow! It really works!
+
+Blitz:
+But it'll take some getting used to.
+
+Blitz:
+I haven't done a shield charge in six months. I've almost forgotten how to use the thing.
+
+Ash:
+How are things looking outside?
+
+Frost:
+The last attack was also the last enemy movement. We haven't seen any probing strikes since. I don't think that's a good sign.
+
+Frost:
+Especially considering what a well-organized bunch of punks they are, I've got a bad feeling about this.
+
+Rangers:
+The calm before the storm.
+
+Frost:
+Sure enough.
+
+Ash:
+Where's the doctor?
+
+Frost:
+Resting. He hasn't slept in days.
+
+Rangers:
+Give the kid a break.
+
+Rangers:
+He shouldn't have to deal with all this at his age.
+
+Rangers:
+And we've got another problem on our hands. We're running out of food.
+
+Ash:
+Right. Mr. Occphen told us.
+
+Frost:
+What are you thinking?
+
+Ash:
+I'm thinking whether or not we should take a trip back to the Infected quarter.
+
+Frost:
+I get you.
+
+Rangers:
+Oh? You have a plan?
+
+Frost:
+We left in a hurry. A lot of the sick people didn't have time to bring their food from home.
+
+Rangers:
+True. We have enough hands here. We could send some people out to get supplies.
+
+Ash:
+Then let's save our talk here. We should be able to get there before the night falls.
+
+
+

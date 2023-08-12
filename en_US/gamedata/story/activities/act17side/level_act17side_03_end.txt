@@ -1,0 +1,690 @@
+Saint Carmen:
+Exactly as the reports say. Such a curious creature.
+
+Mon3tr:
+(Growls in warning)
+
+Saint Carmen:
+Easy now, no need to get excited. Seems you understand human speech.
+
+Gladiia:
+There are parasites living on these Sea Terrors, but I've never seen them on land before.
+
+Saint Carmen:
+The Iberians call it the 'Nethersea Brand.'
+
+Saint Carmen:
+An eerie glow has been occasionally seen off the coast of Iberia since the Profound Silence, the earliest known instance dating back to 17 years ago.
+
+Saint Carmen:
+Our scientists believe it to be some sort of algal bloom.
+
+Saint Carmen:
+So, have the Ægir also encountered these... unsettling things?
+
+Gladiia:
+Seldom, but the Academy's garden has no shortage of luminescent ornamental plants.
+
+Saint Carmen:
+So the Ægir do know what the word 'ornamental' means.
+
+Gladiia:
+Nethersea brand. An apt name. It is the sea leaving its mark on the land.
+
+Gladiia:
+At its heart, its spread is no different from the Sea Terrors we saw at Sal Viento.
+
+Saint Carmen:
+Do you mean to say this phenomenon is but another form of their evolution?
+
+Gladiia:
+I see the biologists of Iberia are lacking in many ways.
+
+Saint Carmen:
+We've encountered some complications, but this is far from the worst-case scenario.
+
+Saint Carmen:
+The Inquisition has noted an alarming increase in the variety of Sea Terrors.
+
+Saint Carmen:
+Most notably at Coastline 3, where after a mere four or five days our enemies were unrecognizable.
+
+Kal'tsit:
+As I said, the ocean encroaches upon the land in its own way.
+
+Kal'tsit:
+Now, there's an operator from Rhodes Island I must rescue.
+
+Gladiia:
+I'll accompany you.
+
+Kal'tsit:
+No, it'll be more expedient for you to work with the Hunters to eliminate the threat as quickly as possible.
+
+Gladiia:
+I'd assumed Iberia would treat her with more caution.
+
+Saint Carmen:
+Indeed she should be, but for now we have a clearer enemy to deal with.
+
+Saint Carmen:
+What will you do, consul of Ægir? Continue to bicker over your country's pride?
+
+Gladiia:
+Ten minutes. I'll take care of everything and meet up with my Hunters.
+
+Gladiia:
+Then, we can talk about how to reach that lighthouse.
+
+Saint Carmen:
+I'll remain here then. Law has been absent from this chapel for far too long, but thankfully someone has been polishing it.
+
+Saint Carmen:
+It will be the only light in this war. The Iberian Inquisition is here, even if it is I alone.
+
+Thiago:
+Hey, what's going on?
+
+Indiscreet Townsfolk:
+Thiago! Where were you?
+
+Indiscreet Townsfolk:
+The Church of the Deep's cultists appeared out of nowhere! And the town's covered in monsters!
+
+Indiscreet Townsfolk:
+Oh... and...
+
+Thiago:
+And what? Why did they attack the town?
+
+Thiago:
+Where's Amaia? Did the monsters harm you?
+
+Indiscreet Townsfolk:
+They... they...
+
+Indiscreet Townsfolk:
+They didn't harm anyone... they're just fighting... an Inquisitor.
+
+Thiago:
+—
+
+Indiscreet Townsfolk:
+No one told the Inquisition! I swear!
+
+Indiscreet Townsfolk:
+They showed up not long after we found the carcass in the square. It might've been their work in the first place, now that I think of it.
+
+Jordi:
+What's going on, Uncle? Oh, good afternoon there.
+
+Jordi:
+You look...
+
+Thiago:
+Jordi, come with me.
+
+Jordi:
+Uncle?
+
+Thiago:
+Quiet.
+
+Indiscreet Townsfolk:
+Th-Thiago, it wasn't us... we couldn't have contacted the Inquisition in such a short time, no matter how fast we were.
+
+Thiago:
+I know. We need to protect Jordi and explain things.
+
+Thiago:
+Maybe someone went to them earlier. A week ago, a month ago, who knows? Rumors of cultists have been spreading for a while now.
+
+Indiscreet Townsfolk:
+I-It wasn't me! Or my husband!
+
+Jordi:
+Could it be Juan? Maybe the Inquisition found him?
+
+Indiscreet Townsfolk:
+You...
+
+Indiscreet Townsfolk:
+You knew Juan was a member of the Church of the Deep? When did you find out?
+
+Thiago:
+Jordi! Go!
+
+Jordi:
+Uh... alright.
+
+Indiscreet Townsfolk:
+Thiago!
+
+Indiscreet Townsfolk:
+Oh... he's gone.
+
+Alert Townsfolk:
+Never mind him. What about the town?
+
+Indiscreet Townsfolk:
+I-I don't know. The Inquisitor and the outsiders are fighting the monsters. There's nothing we can do about it.
+
+Alert Townsfolk:
+Tsk... the Inquisitor will be coming for us once he's done.
+
+Indiscreet Townsfolk:
+Surely not... wait, what are you thinking?
+
+Alert Townsfolk:
+The best-case scenario would be both sides taking each other out...
+
+Indiscreet Townsfolk:
+What?! You can't possibly be serious!
+
+Alert Townsfolk:
+Think about it. Have we really lost that many people to Sea Terrors? Compared to how much damage the Inquisition has done over the years.
+
+Indiscreet Townsfolk:
+B-But...
+
+Alert Townsfolk:
+When they come for you, can you prove that you're not a cultist?
+
+Indiscreet Townsfolk:
+What are we supposed to do then?
+
+Alert Townsfolk:
+If the Inquisitor can really kill that many Sea Terrors, the only way to avoid suspicion would be to hand over someone even more suspicious.
+
+Alert Townsfolk:
+For example, an Ægir linked to the Church of the Deep.
+
+Sea Terror:
+Gkh...
+
+Rear Guard Cultist:
+The others have pulled out. But Amaia is nowhere to be seen.
+
+Rear Guard Cultist:
+Both an Inquisitor, and the Abyssal Hunters. I've only heard them mentioned in passing by Amaia.
+
+Rear Guard Cultist:
+Here on land, though, they're not as troublesome as the Inquisitor.
+
+Rear Guard Cultist:
+Find Amaia. Take her, and delay the Abyssal Hunters.
+
+Rear Guard Cultist:
+Go. Our siblings have fallen. We are the last ones standing. The Inquisition must not be allowed to take any more of our comrades.
+
+Sea Terror:
+(Shifts head in agreement)
+
+Thiago:
+Jordi, hurry!
+
+Jordi:
+O-Okay...
+
+Jordi:
+(What's happened to the town... are those Sea Terrors too?)
+
+Thiago:
+It's the Inquisition.
+
+Jordi:
+......!
+
+Thiago:
+Maybe a High Inquisitor, seeing how he's come to uproot a Church hideout all by himself.
+
+Thiago:
+Sea Terrors and cultists have appeared in Gran Faro. There's no explaining this away.
+
+Thiago:
+Take this, lad, and the lamp your father left you. Keep them safe.
+
+Jordi:
+I—
+
+Thiago:
+You're not a child anymore, Jordi Fontanarossa. I've told you everything. This is your last chance to embrace a new life.
+
+Thiago:
+I... I always wanted to tell you the truth, convince you to leave, but I...
+
+Jordi:
+I know, Uncle. You're like a father to me. Gran Faro is our home. If I leave here... I won't have anything left.
+
+Thiago:
+It was going to happen, sooner or later. All the young folks want to leave; you're the exception.
+
+Thiago:
+I'll go with you. Sea Terrors are dangerous, but I know how to deal with them. This is our last chance to slip past the Inquisitors, though.
+
+Thiago:
+What's that sound?
+
+Jordi:
+...The door?
+
+Thiago:
+Uhh.... Huh?
+
+Thiago:
+You! Not even Sea Terrors eat people, but you people have no such qualms!
+
+Thiago:
+Say something! Pyotr! Manuel! I know it's you out there! Cowards!
+
+Jordi:
+What's going on?
+
+Thiago:
+They've blocked the door.
+
+Jordi:
+What? But why?
+
+Thiago:
+Because you're an Ægir.
+
+Thiago:
+They must've surrounded the place. We'll go up to the attic and leave through the roof.
+
+Specter:
+Do I... know you?
+
+Amaia:
+Look at you, Laurentina... What happened to your nun's habit? You looked so good in it.
+
+Amaia:
+Ah, you found where you belonged, right? The Abyssal Hunters found you, and they want to bring you home?
+
+Specter:
+Laurentina... my name is Laurentina.
+
+Amaia:
+The name of the vast creation's master.
+
+Specter:
+What is this 'vast creation's master?'
+
+Amaia:
+The ocean, or its avatar.
+
+Amaia:
+Something's not right with your state of mind... You shouldn't be so— Oh, were you awake? When you killed Quintus, for instance?
+
+Specter:
+Quin...tus?
+
+Amaia:
+You touched the sea, but did not immediately proceed to Ægir? I thought you people longed for home.
+
+Amaia:
+Or do you have somebody on land, gently guiding you?
+
+Amaia:
+Why did we have to reunite under such circumstances, Laurentina?
+
+Specter:
+Your hands, are so cold.
+
+Amaia:
+There was a time when there were no secrets between us.
+
+Amaia:
+Now, though...
+
+Skadi:
+Specter!
+
+Amaia:
+When you remember my name, come and find me. If you still remember this conversation, that is.
+
+Amaia:
+If your mind is your own then, I will tell you the whole truth.
+
+Amaia:
+Farewell, Laurentina.
+
+Specter:
+Ah...
+
+Specter:
+......
+
+Skadi:
+Who was that?
+
+Specter:
+I don't know... but she seems to know me?
+
+Skadi:
+She has no scent. She's not Seaborn, at least not like Quintus.
+
+Skadi:
+We don't have time for her.
+
+Skadi:
+Clean up the Sea Terrors, and we'll regroup with the Captain.
+
+Blockading Townsfolk:
+Hey, there aren't any Sea Terrors around here, are there?
+
+Helping Townsfolk:
+Only dead ones. It's so quiet here... Did the Inquisition take care of them all?
+
+Blockading Townsfolk:
+All the better. Come, help me shut them inside. Somebody go fetch the Inquisitor!
+
+Helping Townsfolk:
+A-Alright, it's blocked. But why are we doing this to Mayor Thiago when everything's such a mess right now?
+
+Blockading Townsfolk:
+Because we're all off to the gallows when things STOP being a mess, unless we do something about it. Go check out the chapel and get someone from the Inquisition.
+
+Helping Townsfolk:
+Me? But what if there are still monsters...?
+
+Helping Townsfolk:
+Huh? Is there someone on the roof?
+
+Blockading Townsfolk:
+Wha—?
+
+Blockading Townsfolk:
+It's Jordi and Thiago! Get them! Don't let them get away!
+
+Thiago:
+Run!
+
+Jordi:
+I, I know!
+
+Thiago:
+Get out of town, and don't let the Inquisitors or those bastards catch you!
+
+Jordi:
+Alright!
+
+Thiago:
+*pant* Keep running north... *pant*... There's a messenger station there that might still be in operation...
+
+Jordi:
+Alright!
+
+Thiago:
+I put some money in your bag... *pant*... get out of town, get out of the country!
+
+Jordi:
+A-Alright!
+
+Thiago:
+Jordi!
+
+Jordi:
+I'm listening!
+
+Thiago's footsteps slow down.
+
+He looks on as the young Ægir runs desperately down the street.
+
+Thiago:
+Run! Don't look back! Keep running!
+
+Thiago:
+That's right... get out of here... never look back.
+
+Pursuer's Voice:
+Don't let them out of town!
+
+Thiago:
+You were right, lad.
+
+Thiago:
+This is our home, and no amount of waiting or complaining will change that.
+
+Thiago:
+(Ægirian) Farewell, my child!
+
+Pursuing Townsfolk:
+Thiago! Where's the Ægir!
+
+Thiago:
+Coward!
+
+Pursuing Townsfolk:
+W-What the hell are you doing? You'll doom us all! We'll all be branded heretics by the Inquisition, just like the old days!
+
+Thiago:
+Are you more afraid of the Inquisition than the Sea Terrors? More afraid of your own people than monsters?
+
+Pursuing Townsfolk:
+We already lost everything to the Inquisition once. Do you want that to happen again?
+
+Thiago:
+Pah... your fist is like rubber...
+
+Pursuing Townsfolk:
+You—wait, what's that... they're still here?!
+
+Sea Terror:
+(Ominous slithering sounds)
+
+Pursuing Townsfolk:
+I, I've got to get back to the chapel. The Inquisitors will protect me—
+
+Thiago:
+Take that, you coward!
+
+Pursuing Townsfolk:
+Are, are you mad?! Don't you see the Sea Terrors?
+
+Thiago:
+What about the Sea Terrors?!
+
+Thiago:
+Did Sea Terrors eat Gran Faro? No, it was you people... you're worse than the Profound Silence.
+
+Thiago:
+You've slaughtered compassion with selfishness, whitewashed your own cowardice, and blamed the disaster on the Ægir!
+
+Pursuing Townsfolk:
+No, the monsters, they're getting closer—screw it, nutjob, I don't have time for this!
+
+Thiago:
+Of course, you coward. When they took Marin, when they took the Ægir, you were right there under the banner of the Penal Battalion!
+
+Thiago:
+Murderer!
+
+Pursuing Townsfolk:
+—
+
+Pursuing Townsfolk:
+Don't think the rest of us are gonna humor you just because you fell in love with an Ægir way back when!
+
+Thiago:
+Come at me, coward! You'll get it from me!
+
+Sea Terror:
+(Sharp sound of breathing)
+
+Jordi:
+*pant*... *pant*...
+
+Jordi:
+Thiago...? Uncle Thiago?
+
+Jordi:
+*pant*... *pant*...
+
+Jordi:
+Uncle—?
+
+Jordi:
+*pant* Why...?
+
+Jordi:
+I... I have to go back...
+
+???:
+(Ægirian) Stop right there, Ægir.
+
+Jordi:
+Uh, y-yes!
+
+Ulpianus:
+The last Ægir of Gran Faro. The last descendant of Breogan.
+
+Jordi:
+Breo... what?
+
+Ulpianus:
+The Sea Terrors would kill you, and the Inquisition would imprison you. Come with me. I need you.
+
+Jordi:
+A-Are you one of them? The ones commanding the monsters?
+
+Ulpianus:
+No! I seek a lost legend, one that caught the attention of even the Academy.
+
+Ulpianus:
+Yet his most important legacy is neither a lighthouse nor a ship, but his descendant.
+
+Ulpianus:
+You might be the final clue I'm seeking.
+
+Jordi:
+I... don't know what you're talking about.
+
+Ulpianus:
+That man, Thiago, is not your father. Who were your parents? Your grandparents?
+
+Jordi:
+My parents...
+
+Jordi:
+They... they went missing... in search of the Eye of Iberia.
+
+Ulpianus:
+As cruel as it is, your misfortune is what gives you the chance to become the salvation of Ægir.
+
+Ulpianus:
+Come with me. I'd prefer not to use force against kin.
+
+Jordi:
+I... This is all coming out of nowhere.
+
+Ulpianus:
+Come with me.
+
+Jordi:
+I...
+
+Ulpianus:
+Hmph.
+
+Jordi:
+What?! What's going on?
+
+Elysium:
+Quiet, bro. I'm saving your life.
+
+Elysium:
+Let's go.
+
+Ulpianus:
+A smoke bomb... I shouldn't have let you get away.
+
+Ulpianus:
+What's the point of running away with him? You know nothing, Liberi.
+
+???:
+You're right, Ægir. There are many mysteries here.
+
+Ulpianus:
+......
+
+High Inquisitor:
+Transgressor, you will answer my questions, or you will never leave this place.
+
+High Inquisitor:
+I hope you're smart enough to recognize this fact.
+
+Elysium:
+Good, looks like we've shaken him off. It was the right choice to grab you when the Inquisitor drew near. They aren't fighting right now, are they?
+
+Jordi:
+......
+
+Elysium:
+Hello?
+
+Jordi:
+Oh, er, sorry... I need to go back to town.
+
+Elysium:
+Wouldn't recommend it. Most of the Sea Terrors are gone, but something doesn't feel right. And I can't get in touch with Dr. Kal'tsit.
+
+Elysium:
+Plus... you were planning to leave, weren't you?
+
+Jordi:
+I... no...
+
+Jordi:
+I heard that the Inquisitors came to town, and Uncle Thiago was worried I'd be taken away...
+
+Elysium:
+The Inquisition, huh...
+
+Elysium:
+What did that guy want with you, anyway?
+
+Jordi:
+......
+
+Elysium:
+Sorry, you don't have to talk if you don't want to.
+
+Elysium:
+I'll need a bit of time to decide whether to go back to town and find Dr. Kal'tsit, or get you out of here first.
+
+Jordi:
+I'll go with you.
+
+Elysium:
+You sure? Your uncle was so desperate to get you out.
+
+Jordi:
+If the Inquisition is coming, I doubt I'll be able to escape.
+
+Elysium:
+Is that duty worth giving up your life for?
+
+Jordi:
+Huh? What do you—?
+
+Elysium:
+So you're going back to Gran Faro just out of some vague sense of duty, without even a clear goal?
+
+Elysium:
+You've gotta be kidding me. If I were you, I'd leave this place, along with any townsfolk who don't want to get involved. And soon.
+
+Elysium:
+This isn't like running into a swarm of Originium Slugs while camping out in the woods. I hate to say it, but ordinary people can't do a thing here.
+
+Jordi:
+I just feel like there has to be something left for me to do.
+
+Jordi:
+I grew up here, listening to those legends, gazing at the coastline, reading my parents' notes... I don't want my farewell to be like this.
+
+Jordi:
+This place is my home.
+
+
+

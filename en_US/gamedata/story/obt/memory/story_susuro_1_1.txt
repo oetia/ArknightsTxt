@@ -1,0 +1,721 @@
+Office Operator A:
+What time is it?
+
+Office Operator B:
+Four o'clock. That's the billionth time you've asked.
+
+Office Operator A:
+I'm in a hurry! Aren't you?
+
+Office Operator B:
+Calm down. Why hurry? They're already hustling over from the landship. If they just make it safe and sound, we can thank all we can.
+
+Office Operator A:
+Seriously, how do they make it from the landship in three days? Kinda impressive, landship.
+
+Office Operator B:
+You've never been to Rhodes Island's ship?
+
+Office Operator A:
+Nope. The fare for this wasn't cheap, and I still have a pile on my plate.
+
+Office Operator B:
+The landship has this kind of large floating vessel. Moves really fast too. Bet you've never seen it, huh.
+
+Office Operator A:
+Floating? Like, a car that floats?
+
+Office Operator B:
+It sure isn't a car... I don't actually know the exact name myself.
+
+Office Operator A:
+Ohh, it's the kind those old Casters pilot in their towers, the really advanced kind that can drift through the air, is it?
+
+Office Operator B:
+Not that either!
+
+Office Operator B:
+Okay, you stop guessing. I haven't seen it much, and I can't explain it too well. Take one look at it and you'll get it.
+
+Office Operator B:
+If you're this bored, give the car another check. We're squeezed for time getting back already. No wrong turns.
+
+Office Operator A:
+Fine, fine, fine... you're the boss, it's your call.
+
+Office Operator A:
+Come to mention it, who've we got coming from the landship?
+
+Office Operator B:
+You've never even been there. You wouldn't know any names if I told you.
+
+Office Operator B:
+We're filing an emergency application here. No matter who it is, it's gotta be one of the Medical Department's best.
+
+Office Operator A:
+We're in pretty deep here. What kind of best are we talking about?
+
+Office Operator B:
+No need to fuss about it.
+
+Office Operator B:
+Oh, here they come.
+
+Office Operator A:
+......
+
+Office Operator A:
+That's... a pretty fierce vehicle. The landship has stuff like that? Color me surprised.
+
+Office Operator B:
+Knock it off. Get ready to meet 'em.
+
+Office Operator B:
+Welcome to Leithanien. I'm Feraligus, officer in charge of the local branch office. Just call me Ferl.
+
+Sussurro:
+Good to meet you. I'm Landship Medic Operator Sussurro, and these are my assistants.
+
+Medic Operator:
+(Nods)
+
+Office Operator A:
+......
+
+Office Operator B:
+What are you staring for? Where's your hellos?
+
+Office Operator A:
+Oh! Oh! Right.
+
+Office Operator A:
+I'm the branch office's... driver... wait, uh, I'm an Operator at the local branch office, codename Piston.
+
+Feraligus:
+Situation's complicated, and we're pressed for time. Let's all get in the car for now.
+
+Feraligus:
+Regarding the details of the emergency situation, we've stamped all the information. Best look over it while we're driving.
+
+Sussurro:
+Alright, thank you very much.
+
+Sussurro:
+We've also brought some equipment, so if you could move that into the car, please.
+
+Piston:
+Al... alright.
+
+Two hours later
+
+Sussurro:
+Let me see the second file.
+
+Medic Operator:
+Alright.
+
+Sussurro:
+Look over this report for me. Confirm if there's any additional kit we need to prepare.
+
+Medic Operator:
+Right away.
+
+Piston:
+(Hey!)
+
+Feraligus:
+What? Why so secret?
+
+Piston:
+Keep it down!
+
+Piston:
+Didn't you say they sent their best? Why's this little lady leading them?
+
+Feraligus:
+Watch what you say, kid. I'll knock your bonus.
+
+Feraligus:
+When'd you learn to judge people by appearances like an idiot? Did you get nothing from the employee handbook?
+
+Feraligus:
+Rein your mouth in if you don't get it. She's one of the elite from Medical Department.
+
+Piston:
+Okay, okay, okay... my bad, my bad.
+
+Sussurro:
+Ferl, sir.
+
+Feraligus:
+Yes?
+
+Sussurro:
+I've finished reading through the files, and I have a few questions.
+
+Sussurro:
+According to the descriptions, most of those requiring medical aid here are not infected with Oripathy?
+
+Feraligus:
+That's right. The account from the Leithanian government is that a Catastrophe wrecked a city and caused casualties, but the actual situation's more messy than that.
+
+Sussurro:
+Was it a lapse on a Catastrophe Messenger's part?
+
+Feraligus:
+Currently... doesn't look like it.
+
+Feraligus:
+There were no problems with the Catastrophe evac op. At least, nothing cropped up during the whole course of things.
+
+Feraligus:
+The one issue is... nobody knew about the needlefly nests under the path of the Catastrophe. At least ten counted, huge ones.
+
+Feraligus:
+That village there started shifting nomadic beforehand, but there were over a hundred needleflies escaping the Catastrophe that ran straight into the migration team...
+
+Medic Operator:
+Needleflies? The meter-plus carnivorous insects?
+
+Medic Operator:
+Over a hundred??
+
+Sussurro:
+...I see...
+
+Sussurro:
+Do we have a casualty count yet?
+
+Feraligus:
+Leithanian government sources haven't given clear figures.
+
+Feraligus:
+It's been two days, and they still haven't produced any conclusions...
+
+Sussurro:
+Which indicates they're temporarily unable to enumerate casualties.
+
+Feraligus:
+I see.
+
+Feraligus:
+Estate guards brought a hell of a lot of wounded to a nearby town, but we weren't in time to check one by one.
+
+Sussurro:
+Does the branch office still have adequate medical supplies? How much antidote for needlefly poison do we have in reserve? How well have surgery facilities been maintained?
+
+Sussurro:
+How about the mobilization of other local first-aid teams to the area? I need this information, and it's not included in the files.
+
+Piston:
+Uh...
+
+Feraligus:
+Medical supplies-wise, still plenty for the time being.
+
+Feraligus:
+Local powers began first-aid work straight away, and after getting the commission, the R.I. branch office received ample emergency rescue supplies too.
+
+Feraligus:
+Medical facilities are in alright shape, but it's not automatic, and we're desperately short of people.
+
+Feraligus:
+The town doctors are pretty well-trained, but lack emergency response experience, and most have never seen a disaster of this scale in their lives.
+
+Feraligus:
+The branch office's town isn't highly populous, so there's only three small clinics in all, and even fewer doctors who can perform surgery.
+
+Feraligus:
+Plenty of injured can't hold through to the operating table.
+
+Feraligus:
+We're accommodating a lot of refugees at the office right now. The outlook's not happy at all.
+
+Feraligus:
+Moreover, given the whole mess, we've been unable to sort patients.
+
+Feraligus:
+Some of them we've been sent are Infected... and after Infected pass away... you get what I mean.
+
+Sussurro:
+...I understand.
+
+Feraligus:
+There's still some way to go. Take a rest for now.
+
+Piston:
+We're here.
+
+Medic Operator:
+There's quite a few here already.
+
+Feraligus:
+By now, the injured should all be transferred near the branch office. The other office staff ought to be in the middle of handling them.
+
+Feraligus:
+Piston, you wait here. There'll be supply cars from other stations in a bit. You catch them.
+
+Piston:
+I just sit here and wait? Is that gonna work?
+
+Feraligus:
+This is your first time on this sort of mission. The on-site situation is more brutal than you think. Just sit tight here, and receive and allocate the medical supplies.
+
+Piston:
+You're kidding me. If that bunch of girls can go, what's a big man like me afraid of.
+
+Feraligus:
+...Brat.
+
+Feraligus:
+Fine. Don't say I didn't warn you.
+
+Unrecognizable Injured:
+Water... I need water...
+
+Child:
+Papa! Papa!
+
+Mutilated Injured:
+*cough*... *cough*...
+
+Local Doctor:
+Someone get over here! This Infected's almost done for!
+
+Regular Injured:
+Infected! D-Don't come near me.
+
+Local Doctor:
+What are you doing here? Get back to the treatment area, quick.
+
+Local Doctor:
+Guards! Guards! Anyone!
+
+Piston:
+...oh, my god... this...
+
+Feraligus:
+It's even worse than I thought.
+
+Feraligus:
+When I came yesterday, the courtyard over there was still a cargo station from the local council. Now it's been appropriated as a normal patient treatment area.
+
+Feraligus:
+They don't have enough doctors. Only the most seriously injured get prioritized for the treatment rooms.
+
+Sussurro:
+What's the situation... with those lying on the ground?
+
+Feraligus:
+These are all Infected by my reckoning. This town's pretty small, and has no Infected quarter, and they can't keep them in the same place as the regular people...
+
+Sussurro:
+But they can't just be strewn across the plaza. Operator Ferl, how much space can you make in the office warehouse?
+
+Feraligus:
+I'm arranging to get everything moved out. Shouldn't be much of a problem.
+
+Sussurro:
+We still need a space to hold the injured Infected. Ideally, somewhere that can be isolated...
+
+Feraligus:
+Then we can empty out the operator dorms. That'll need a bit of time.
+
+Sussurro:
+I'll leave it to you.
+
+Sussurro:
+Team one to the warehouse, and inspect the condition of Infected.
+
+Sussurro:
+Teams two and three with me, and move all equipment into the operating room!
+
+Sussurro:
+I'll have to leave classifying the injured to you, along with the corresponding zones they go to.
+
+Local Doctor:
+Al—Alright.
+
+Piston:
+I—I'll pitch in too.
+
+Local Doctor:
+Good. You come help me out. Carry these few indoors with me.
+
+Sussurro:
+Before we use Originium Arts to expedite wound healing, we must confirm they're all cleared and cleaned.
+
+Sussurro:
+If the wounds aren't severe, then hold off using Arts as much as possible. A doctor's strength is our most precious resource right now; only reasonable allocation can allow us to save even more lives.
+
+Medic Operator:
+Understood.
+
+Local Doctor:
+Deal with this bed first! This patient is critical!
+
+Sussurro:
+What's the situation?
+
+Piston:
+(Gasps)
+
+Local Doctor:
+Needleflies bit his arm off as he was protecting his family. He was unconscious by the time he got to us.
+
+Local Doctor:
+He's Infected, but his illness is stable.
+
+Sussurro:
+And his arm...? Do we still have his shorn limb?
+
+Local Doctor:
+(Shakes head)
+
+Sussurro:
+Wound is already bacterially infected. Left hand also has visible broad lesions. It will likely still require partial amputation.
+
+Local Doctor:
+At this rate... both his arms are going to be...
+
+Sussurro:
+Go and assist team two. Leave this end to me.
+
+Local Doctor:
+Bless you!
+
+Sussurro:
+Don't lose focus. Prepare for Infected emergency treatment.
+
+Sussurro:
+Patient's surface crystallization is located in the throat. Inspecting blood.
+
+Sussurro:
+Watch his wrist scales, and ready Savra-specialized scalpels.
+
+Sussurro:
+This room's still too dark. Piston, sir, check the condition of the generator.
+
+Piston:
+On it!
+
+Three hours later
+
+Within the office infirmary, operation on the acutely injured still hasn't stopped.
+
+Wounded:
+Doctor... am I hopeless... Doctor, you have to tell me...
+
+Sussurro:
+Internal bleeding relatively severe. Change the bottle on the blood suction machine.
+
+Wounded:
+I'm begging you... I'm begging you, Doctor, take this ring... take it to my wife, I'm begging you...
+
+Sussurro:
+You're going to live. Stay with me.
+
+Sussurro:
+Gauze out! Need more!
+
+Wounded:
+Don't... Don't lie to me, I know...
+
+Sussurro:
+Don't speak! You're going to live, I guarantee it!
+
+Sussurro:
+Hold down here for me, and I'll suture.
+
+Medic Operator:
+Hydrogen peroxide's out! Someone go to the warehouse and bring a box!
+
+Sussurro:
+Piston, sir!
+
+Piston:
+On it! I-I'll go right away.
+
+Sussurro:
+Bleeding stopped. The rest is yours. I'm checking on the other beds.
+
+Local Doctor:
+Roger.
+
+Medic Operator:
+Over here! Doctor! One just came in, they're on the brink!
+
+Sussurro:
+I'm coming.
+
+Sussurro:
+......
+
+Moribund Injured:
+*cough*... ngh...
+
+Sussurro:
+Thoracoabdominal injury. Open wound to abdomen.
+
+Sussurro:
+Push him in, prioritize him for treatment, and incise his esophagus and windpipe!
+
+Piston:
+...oh, god... oh, god...
+
+Piston:
+...this...
+
+Piston:
+......
+
+Sussurro:
+Don't stop! There are still other patients!
+
+Sussurro:
+Look for any internal organ damage! Find any points of bleeding in his peritoneum! Quickly!
+
+Piston:
+...I... I'm a little—
+
+Piston:
+Sorry... I... I.
+
+Sussurro:
+That's alright, you did well. Head outside and rest for now.
+
+Piston:
+Thank you... thank you...
+
+Piston:
+...this is too much...
+
+Piston:
+Ulghh...
+
+Piston:
+...Do the landship guys... see this stuff all the time?
+
+Piston:
+...urgh... not again... urlgh...
+
+Feraligus:
+You okay?
+
+Piston:
+I'm alright... I'm alright, I'm just not that used to all this...
+
+Feraligus:
+Here, a towel. Wipe your face.
+
+Piston:
+Ah...
+
+Piston:
+...urghh... kinda embarrassing. Didn't think I'd be the first on the scene who couldn't keep going.
+
+Feraligus:
+It's alright. You haven't been doing bad.
+
+Piston:
+You're telling me that didn't suck?
+
+Feraligus:
+You went and volunteered to help, held out for half the day, and you're no Medic Operator. I figured you'd give in after half an hour.
+
+Piston:
+That girl... no, that Medic Operator. She's something major alright.
+
+Feraligus:
+Hah. What did I tell you before, huh? They're from the landship, from HQ. They're the best.
+
+Feraligus:
+That Medic Op, Sussurro, was there for the Palermo incident a few years back. Don't underestimate her.
+
+Piston:
+The Palermo incident? Oh... that big one that stirred up Siracusa?
+
+Piston:
+It was an Originium mine explosion, right? I remember a whole lot of civs got infected bad. Couldn't prepare enough treatment. Led to a huge number of acute Infected dead... I think half the city was on the edge of collapsing.
+
+Feraligus:
+That's what hell on earth truly is. Imagine it, a huge breakout of acute Infected, people's remains everywhere, already starting to disintegrate, whole air full of active dust. It's a terrifying scene.
+
+Piston:
+......
+
+Feraligus:
+Almost everyone who went through Palermo got left with heavy psychological trauma.
+
+Feraligus:
+And to our Medic Op here, the scene today is barely anything.
+
+Piston:
+Forget it. I'll go back in to help.
+
+Feraligus:
+Calm down first.
+
+Feraligus:
+You don't want to throw up in there, that'll just give them all trouble.
+
+Piston:
+Fair.
+
+Feraligus:
+If you want to help out so bad, go to the reception area and see if there's any communication work. Check to see if any other supply cars arrived while you're there.
+
+Piston:
+Okay... I'm going now!
+
+Feraligus:
+...Hah, brat.
+
+Local Doctor:
+Phew... Heavens...
+
+Piston:
+Ah, Doctor. How's it gone?
+
+Local Doctor:
+We owe you for this. Most of the injured are stable, and now it's just up to the lord's end for follow-up arrangements.
+
+Local Doctor:
+I used to doubt you were a medical company at all. I really am... truly am... sorry I thought that.
+
+Local Doctor:
+Thank you, thank you so much, I... I can't find any better words right now. If you hadn't saved us, the casualties and the accompanying disaster would've been unimaginable.
+
+Piston:
+No, I... I'm just an errand boy... um...
+
+Piston:
+How are the Medic Operators? Are they on break?
+
+Local Doctor:
+I'm not too sure where they've gone either—I thought you Rhodes Islanders would've had a better idea than me. I see your dormitory's been used to rest the injured?
+
+Piston:
+Then I know. You go rest up for now.
+
+Piston:
+Cap, HQ's sent med...
+
+Feraligus:
+Shh, keep it quiet!
+
+Feraligus:
+If something's up, we'll talk outside.
+
+Piston:
+......
+
+Piston:
+They... nah, let them rest.
+
+Feraligus:
+How's the reception area?
+
+Piston:
+No problems. Lord's people are all here, and they've shifted off the first batch of the lightly injured.
+
+Feraligus:
+As long as it's all going well.
+
+Piston:
+......
+
+Piston:
+......
+
+Feraligus:
+If there's something you wanna say, say it. Quit stopping and starting.
+
+Piston:
+Not much... just, I feel like...
+
+Feraligus:
+You want to resign?
+
+Piston:
+No, I just feel like I've gotten to know this part of Rhodes Island's work a bit deeper... pretty much. Just a bit.
+
+Feraligus:
+Hahaha...
+
+Feraligus:
+It's good to have enthusiasm. Since you still do, go check on how our medical supply consumption's doing.
+
+Feraligus:
+Make two reports, one for the office records, and one to hand to the local government tomorrow morning.
+
+Piston:
+Okay... I'm going now.
+
+Four days later
+
+Feraligus:
+Everything packed up?
+
+Sussurro:
+Yes, no problem.
+
+Piston:
+I'm back, I'm back! Almost didn't make it!
+
+Feraligus:
+What did you go off to do?!
+
+Piston:
+Ah! This is the stuff you asked me to buy for you, right, Dr. Sussurro? Got it all here.
+
+Medic Operator:
+This much?
+
+Sussurro:
+*clears throat*... These are books for Dr. Kal'tsit, and this is a souvenir for Dr. Gavial.
+
+Medic Operator:
+What's this, snacks?
+
+Sussurro:
+Those are a... little present for the Doctor.
+
+Piston:
+Doctor? You mean... that Doctor?
+
+Feraligus:
+To keep things brief, say hello to Dr. Kal'tsit and the Doctor for me.
+
+Sussurro:
+Alright, no problem.
+
+Feraligus:
+And finally, I hope you have a good journey, and make it back safe.
+
+Sussurro:
+Thank you very much. We'll see you next time.
+
+Piston:
+......
+
+Piston:
+They're off.
+
+Feraligus:
+Alright. Time to head back and do some work. We've still got a mountain of reports to write.
+
+Piston:
+...Hm...
+
+Feraligus:
+What is it?
+
+Piston:
+Maybe I oughta look for a work opportunity, head to the Rhodes Island landship and see for myself... Feels like it's all amazing people over there.
+
+Feraligus:
+Sure. But finish the work you've got first, and then you can mull it over.
+
+
+

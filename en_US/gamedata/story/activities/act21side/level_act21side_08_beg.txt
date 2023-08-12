@@ -1,0 +1,973 @@
+Waiter:
+Here's the pizza you ordered.
+
+Lavinia:
+Grazie.
+
+Lavinia:
+......
+
+Leontuzzo:
+Is someone sitting here?
+
+Lavinia:
+Yes.
+
+Leontuzzo:
+Great, glad to join you.
+
+Lavinia:
+I said the seat's taken.
+
+Lavinia:
+You should go and continue your famiglia's work. Don't bother a commoner like me.
+
+Leontuzzo:
+Lavinia...
+
+Lavinia:
+......
+
+Lavinia:
+I'm not blaming you, Leon.
+
+Lavinia:
+I don't blame Bernardo either.
+
+Lavinia:
+If there's anyone to blame, it would have to be me.
+
+Lavinia:
+It's my fault I was born into this country and still cling to these fantasies in my heart. I have no reason to blame either of you.
+
+Leontuzzo:
+I'm not trying to reason with you at a time like this.
+
+Leontuzzo:
+I know full well that comforting words mean nothing right now.
+
+Leontuzzo:
+Even though I'm a victim just like you, it's only natural that you see me as a perpetrator.
+
+Leontuzzo:
+All I can tell you is... I still haven't given up.
+
+Leontuzzo:
+That's all.
+
+Leontuzzo:
+There are too many things going on in the city these days. Do keep an eye out, and stay safe. If you run into any problems, give me a call.
+
+Lavinia:
+......
+
+Lavinia:
+Segretario Rubio.
+
+Rubio:
+Are you free right now, Your Honor?
+
+Croissant:
+Folks on the street seem mighty jumpy.
+
+Sora:
+What happened yesterday was a pretty big deal.
+
+Croissant:
+You really gonna go talk to that director?
+
+Sora:
+Yes. There are some things I need to set straight with him, no matter what.
+
+Croissant:
+But—
+
+Sora:
+It'll be fine. Keep doing what you need to do, Croissant.
+
+Texas:
+I'll be there. Don't worry.
+
+Croissant:
+......
+
+Exusiai:
+In that case, I'll be Croissant's bodyguard for the day!
+
+Sora:
+Thanks. I appreciate it.
+
+Croissant:
+If things go south, you give us a holler.
+
+Sora:
+Will do.
+
+Croissant:
+......
+
+Exusiai:
+Croissant, you're thinking about the whole business with Texas again, aren't you?
+
+Croissant:
+Readin' me like a book, huh?
+
+Exusiai:
+You can say that again.
+
+Exusiai:
+I'm the same, after all.
+
+Exusiai:
+I know what Sora is thinking. If Texas really wants to stay, she's going to respect her opinion.
+
+Exusiai:
+And I agree with that.
+
+Exusiai:
+But—
+
+Exusiai:
+I still want my sister to meet my friends.
+
+Exusiai:
+At least, if there's any way to get Texas out of Siracusa safely, you'd want to find it too, wouldn't you?
+
+Croissant:
+Yeah... Reckon I can't hide anything from you.
+
+Exusiai:
+Probably couldn't hide it from those two either.
+
+Exusiai:
+Just like we can understand what Sora is thinking, they understand what we're thinking.
+
+Croissant:
+But this is still Siracusa... and Texas is tanglin' with some of the biggest shots in the country. I got no clue what I'm even s'posta do.
+
+Exusiai:
+Oh? I thought you would've already figured it out.
+
+Croissant:
+Huh?
+
+Exusiai:
+Uhh... Speaking of big shots in the country, didn't we meet one of them yesterday?
+
+Bernardo:
+Come in.
+
+Bernardo:
+Welcome, Signorina Sora. Signorina Cellinia.
+
+Texas:
+......
+
+Texas:
+Why are you dragging Sora and the others into this?
+
+Bernardo:
+Sora's resume coming across my desk was honestly a coincidence.
+
+Bernardo:
+Of course, it could also be something of an inevitability.
+
+Bernardo:
+After all, Compagnia dell'alba is a pretty well-known troupe in Siracusa.
+
+Bernardo:
+But what most fans don't know is that the troupe's director is actually the don of Famiglia Bellone. That, of course, is a secret.
+
+Bernardo:
+After all, I have handed the famiglia's business in this city to my son, and I'm no backseat driver.
+
+Bernardo:
+Signorina Cellinia, Signorina Sora, I've been directing this troupe for six years.
+
+Bernardo:
+I hope the two of you can at least believe that my pursuit and love of the arts has nothing to do with my business.
+
+Bernardo:
+I too would like to see Signorina Sora shine dazzling-bright onstage, if I could, then let the two of you finish your heartwarming reunion.
+
+Texas:
+But, you don't particularly care if she <i>does</i> get dragged in, do you?
+
+Bernardo:
+Haha.
+
+Texas:
+Drop the pretense, Bernardo.
+
+Texas:
+No matter how you try to sugarcoat it, even if meeting Sora <i>was</i> just a coincidence, how could I expect you to care about her safety?
+
+Texas:
+Enough jokes.
+
+Bernardo:
+Lovely, Cellinia. This is the first time I've seen you angry since you got back to Siracusa.
+
+Sora:
+Director, there's something I need to know.
+
+Bernardo:
+By all means.
+
+Sora:
+Is the agreement between the two of us still valid?
+
+Bernardo:
+You're talking about—
+
+Sora:
+That even if I found Texas, I'd stay with the troupe and continue performing.
+
+Bernardo:
+Oh?
+
+Bernardo:
+And here I thought you came to terminate our contract.
+
+Sora:
+What I can do is totally insignificant in the face of the conflict between families.
+
+Sora:
+It'll be too hard for Texas to protect us in all that chaos.
+
+Sora:
+And I trust that you are a man of your word, at least.
+
+Sora:
+So, to cut to the chase, I'm willing to stay here and be your hostage.
+
+Bernardo:
+Your bravery never ceases to impress me, signorina.
+
+Bernardo:
+But there's no need to be nervous.
+
+Bernardo:
+I didn't call you here to castigate you. In fact, what happened at the theater was meant to be a healthy exchange of pleasantries with the Rossatis.
+
+Bernardo:
+What you've accomplished has already surpassed my wildest dreams.
+
+Bernardo:
+And so, I'd like to inform you—
+
+Bernardo:
+That the contract between us is terminated.
+
+Bernardo:
+You're free to go.
+
+Bernardo:
+From now on, Cellinia is no longer under Famiglia Bellone's protection.
+
+Bernardo:
+Is this bargaining chip enough to satisfy you, my friend?
+
+Wallach:
+Satisfy me?
+
+Wallach:
+You think I'd forget who brought her back in the first place?
+
+Wallach:
+All I want to know is, what was the point of this? From the very beginning?
+
+Bernardo:
+You should thank my son.
+
+Bernardo:
+He was the one who convinced me you were someone to cooperate with.
+
+Wallach:
+Leon? Hah, I see.
+
+Bernardo:
+I've always been optimistic about Famiglia Rossati's development.
+
+Bernardo:
+Cellinia was just the one who built the foundation for our cooperation today.
+
+Wallach:
+In other words, even if Leontuzzo didn't come to me, you would have.
+
+Wallach:
+Like father, like son. Touching.
+
+Bernardo:
+Heh. I just hope my son can learn a thing or two from your drive.
+
+Wallach:
+Listen, Bernardo, other people might fall for your tricks.
+
+Wallach:
+But I won't.
+
+Bernardo:
+Of course, Wallach. I did these things only to show you who really stands in your way.
+
+Wallach:
+Oh? Is my biggest obstacle not sitting right in front of me?
+
+Wallach:
+If you think you can get me to betray my donna, keep dreaming.
+
+Bernardo:
+Perish the thought. No. This is a reminder.
+
+Bernardo:
+Deep down, you know the truth.
+
+Bernardo:
+Cellinia's visit has greatly affected Giovanna.
+
+Bernardo:
+Everyone in Siracusa respects Salvadore, but respect isn't blind obedience.
+
+Bernardo:
+Salvadore's era ended seven years ago. In this day and age, are you still willing to serve Giovanna to protect his legacy?
+
+Bernardo:
+You could've soared higher and farther.
+
+Wallach:
+The Donna works for the greater good.
+
+Bernardo:
+Is the greater good she wants the same one you want?
+
+Bernardo:
+Famiglia Rossati used to dominate Columbia, standing on equal footing with the Texases.
+
+Bernardo:
+Coming back here to Siracusa, they're pushed around by the other eleven famiglie.
+
+Bernardo:
+Shouldn't your Rossatis rise above the other famiglie, and drag Signora Sicilia down from Grey Hall?
+
+Wallach:
+Stop talking like you know me, old man.
+
+Bernardo:
+I don't know you, but I know people like you, and I know the look in your eye.
+
+Bernardo:
+Not a single man alive could ever get comfortable with the stagnant cesspool that Siracusa has become.
+
+Bernardo:
+You understood that when you saw Cellinia walk out of that room alive, didn't you?
+
+Wallach:
+Even if that's true, even if what you say is right.
+
+Wallach:
+That's something for our famiglia to figure out.
+
+Wallach:
+Aren't old-fashioned famiglie like yours the most reluctant to get their hands dirty?
+
+Wallach:
+Are you telling me this is what Siracusan dignity means?
+
+Bernardo:
+Wrong again, Wallach.
+
+Bernardo:
+I invited you here to share an opportunity with you.
+
+Bernardo:
+An opportunity to overthrow the existing order in Siracusa, and establish a new one.
+
+Wallach:
+......
+
+Wallach:
+Why the Rossatis?
+
+Bernardo:
+Sixty years ago, Signora Sicilia brought back two things from Laterano: 'Guns, and order.'
+
+Bernardo:
+Today, people think a unified decision of the Dodici Famiglie created Grey Hall.
+
+Bernardo:
+But they forget how Signora Sicilia got the Dodici to sit down together.
+
+Bernardo:
+Absolute power.
+
+Bernardo:
+Alberto is too prudent, too analytical. He's been cautious his whole life.
+
+Bernardo:
+And prudence isn't what I need to take on Signora Sicilia. What I want...
+
+Bernardo:
+Is a friend who's also looking to overthrow the existing order.
+
+Bernardo:
+Think about it carefully, Wallach.
+
+Bernardo:
+This is the best opportunity you're going to get.
+
+Wallach:
+......
+
+Wallach:
+Is the Donna here?
+
+Rossati Mafioso:
+Over in that room.
+
+Wallach:
+......
+
+Wallach:
+Go and tell her that I'm going to deal with Cellinia by abducting her friends.
+
+Rossati Mafioso:
+Are we seriously going to do that?
+
+Wallach:
+What you should be asking instead is—
+
+Wallach:
+Is this really what you want the Rossatis to be?
+
+Croissant:
+You sure the guy we met yesterday was all that wonderful?
+
+Exusiai:
+Yeah, I've got a hunch!
+
+Croissant:
+Why would such a heavy hitter be hangin' around this town though?
+
+Exusiai:
+I think it makes sense. If I were in his position, I'd do the same thing!
+
+Croissant:
+Hearin' it from you does make it more convincing, somehow.
+
+Croissant:
+But how d'ya know he's at the courthouse?
+
+Exusiai:
+Hmm... Oh, there you are.
+
+Exusiai:
+Well, do you remember the last thing he said? It gave me the impression he'd normally be in court, not at church.
+
+Exusiai:
+Right, sir?
+
+Agenir:
+......
+
+Exusiai:
+Sir?
+
+Agenir:
+Zzz...... Zzz......
+
+Croissant:
+I'm thinkin'... we should leave him be...
+
+Agenir:
+Hrmm... Huh?
+
+Agenir:
+Oh, it's you kids.
+
+Exusiai:
+Hello there!
+
+Exusiai:
+We came to ask you a few questions.
+
+Agenir:
+Hahaha! Good, good. Take a seat. It's never a bad day to talk to the youths.
+
+Croissant:
+We got a friend who's all mixed up in a contract with of them families. They got her doin' all kinds of things for 'em.
+
+Croissant:
+We've been noodlin' on whether or not there might be a way out for her?
+
+Agenir:
+Your friend's surname is Texas, isn't it?
+
+Croissant:
+...Yes.
+
+Agenir:
+I've heard that Bernardo is a man of his word.
+
+Agenir:
+As a don, he must never break his promises.
+
+Croissant:
+But even us foreigners can tell all this hubbub is the Bellone family tryin' to rile up Signora Sicilia.
+
+Croissant:
+We... ain't about to go stickin' our heads in all this complicated business. And to be honest, it don't got much to do with us, neither.
+
+Croissant:
+But we don't want Texas gettin' any payback from Signora Sicilia.
+
+Agenir:
+......
+
+Agenir:
+Back then, Sicilia's fury towards Giuseppe for what he had done was just as great as her admiration of Salvadore.
+
+Agenir:
+Because it was the most direct challenge to the order she had established.
+
+Agenir:
+Sicilia accepts all comers within this order, but she will not allow anyone to upend the entire order.
+
+Croissant:
+So what you're sayin' is... There ain't no loopholes in this order, izzat it?
+
+Agenir:
+I used to think that, my child.
+
+Agenir:
+But there are no absolutes, when it comes to orders established by man.
+
+Agenir:
+Just as why me meeting you has nothing to do with Cellinia.
+
+Agenir:
+It was just because I happened to meet a fellow Sankta here.
+
+Exusiai:
+Heehee~
+
+Agenir:
+Before Sicilia, the land of Siracusa was not without order.
+
+Agenir:
+The only difference is the order that the families believed in came from themselves, and as no two famiglie could ever share the same order, they could only fight.
+
+Agenir:
+Sicilia's actions did not completely break this order.
+
+Agenir:
+Instead, it unified the orders among different families into a single, universal standard.
+
+Agenir:
+All the families were united into one.
+
+Agenir:
+And thus, Siracusa became Siracusa.
+
+Agenir:
+Now tell me, do you know what this means?
+
+Croissant:
+Yer sayin'... Siracusa, before n' after Signora Sicilia... never actually changed?
+
+Agenir:
+Clever girl.
+
+Agenir:
+The problems that existed in Siracusa in the past still exist today. I, no, we, are all aware of this fact.
+
+Agenir:
+But all these problems can be resolved by seeing Sicilia's fold.
+
+Croissant:
+Meetin' Signora Sicilia... that's a tall order.
+
+Agenir:
+That is one thing I will not help you with.
+
+Agenir:
+But, for her, there might be a way.
+
+Agenir:
+However—
+
+Croissant:
+However?
+
+Agenir:
+The price may be too high to pay.
+
+Giovanna:
+......
+
+Rossati Mafioso:
+Donna?
+
+Giovanna:
+Hmm?
+
+Rossati Mafioso:
+You've been staring at that necklace in your hand since last night.
+
+Giovanna:
+This is a symbol of trust given to me by Signora Sicilia.
+
+Giovanna:
+For picking up the pieces of Famiglia Texas, and leading the Columbian famiglie back to Siracusa.
+
+Rossati Mafioso:
+Oh, it must be pretty valuable.
+
+Rossati Mafioso:
+Are you gonna use it to help, somehow?
+
+Giovanna:
+I'm still on the fence.
+
+Giovanna:
+You said Wallach plans to attack Cellinia's friends?
+
+Rossati Mafioso:
+Yes. They stepped out a while ago, but when they get back, we'll have an ambush in place.
+
+Giovanna:
+......
+
+Rossati Mafioso:
+Where are you going?
+
+Giovanna:
+To buy some chocolate.
+
+Capone:
+Tsk, tsk. Turns out, your guess was right on the money.
+
+Capone:
+Rossati associates have already started to infiltrate the block.
+
+Capone:
+When those ladies from Penguin Logistics get back, I'm afraid they're gonna die a gruesome death.
+
+Capone:
+But, lemme ask you a question, Lappland.
+
+Lappland:
+Lay it on me.
+
+Capone:
+I figured the Rossatis would try to rub out Texas.
+
+Capone:
+But you're still a Saluzzo. You really need to send Gambino after that Sankta while you stay here and house-sit for 'em?
+
+Capone:
+I never knew you were to give so much for the sake of friendship.
+
+Lappland:
+Am I that type?
+
+Capone:
+Definitely not.
+
+Capone:
+Which is why I want to know, what the hell are you waitin' for?
+
+Capone:
+You plowed that truck right into the courtroom, turned yourself in, and cleared her name in the process. Then you went on and forced the Saluzzos and Bellones together.
+
+Capone:
+I got no clue why the two famiglie actually started working together. But there's gotta be another reason for it, right? You know that by helping the Bellones, you're also helpin' her.
+
+Capone:
+And that's before we talk about how you gave her a hand in yesterday's assassination.
+
+Capone:
+You say you wanna prove to her that Siracusa's a swamp you can't escape.
+
+Capone:
+But it looks to me like you're tryin' to help her escape.
+
+Lappland:
+If I need to kill a few of her loved ones, or do something to piss her off, just to prove my point...
+
+Lappland:
+All that would show is how paranoid I am. Wouldn't get anywhere with that.
+
+Lappland:
+If it's real, if it's a fact, then it'll happen, even if I just stood by and watched.
+
+Lappland:
+But actually, even that isn't good enough.
+
+Lappland:
+I can't just get out of her way, I have to give her enough help so that in the end, she has to finally admit—
+
+Lappland:
+That all her struggling was for nothing.
+
+Capone:
+And doing it like that will bring you some satisfaction?
+
+Lappland:
+Dunno. All I <i>do</i> know is there's no other way.
+
+Capone:
+So basically, you don't know what to do either.
+
+Lappland:
+Yep. And I never said I did.
+
+Lappland:
+And you, Capone, you should be more like Gambino and realize that you'll never get the answer you want from me about the two of you.
+
+Capone:
+You already knew, huh.
+
+Lappland:
+He wants to stage his comeback by joining up with the Bellones, but what about you?
+
+Lappland:
+You're still standing here. Do you seriously think you're my vassal?
+
+Lappland:
+Or, are you hoping there's enough room for you on my path?
+
+Capone:
+......
+
+Lappland:
+Give up that hope, or I'll kill you.
+
+Lappland:
+There's only room for one.
+
+Capone:
+What about Texas?
+
+Lappland:
+Texas... might just be the path itself.
+
+Capone:
+Hah.
+
+Capone stays silent for a minute before turning and leaving.
+
+Lappland:
+Ahh, what a pleasant surprise.
+
+Giovanna:
+I haven't been here before... but it looks like I'm in the right place.
+
+Giovanna:
+So this is Penguin Logistics's little stronghold.
+
+Giovanna:
+......
+
+Sora:
+Miss Caterina.
+
+Giovanna:
+Sora... Oh, right, I gave you my number before.
+
+Sora:
+Would it be better if I called you Miss Giovanna?
+
+Giovanna:
+Caterina will do just fine.
+
+Giovanna:
+I like the name.
+
+Sora:
+Do all Siracusan mobsters like to work in the performing arts?
+
+Giovanna:
+Why not? We can't be fighting and killing each other all the time.
+
+Giovanna:
+Are you all together right now?
+
+Giovanna:
+......
+
+Sora:
+Miss Caterina?
+
+Giovanna:
+Never mind.
+
+Giovanna:
+Sora, would you mind telling me more about your Penguin Logistics?
+
+Sora:
+Huh?
+
+Giovanna:
+For example, how it came to be, and how Cellinia joined.
+
+Sora:
+I'm not too clear on the details myself. After all, Penguin Logistics was already a thing by the time Texas saved me.
+
+Sora:
+The boss mentioned a few times how he set up Penguin Logistics after he met Texas.
+
+Sora:
+But when it comes to stuff that happened after I joined, I could talk for days about that.
+
+Sora:
+We've been living together for years.
+
+Giovanna:
+*sigh*... I'd really love to chat with you more, if we get the chance.
+
+Giovanna:
+There's a lot I'd like to tell you about Cellinia.
+
+Giovanna:
+I also want to hear more from you about her life in Lungmen.
+
+Sora:
+If you ever get a chance to drop by Lungmen, we'd be glad to show you around.
+
+Giovanna:
+Really?
+
+Giovanna:
+You're not worried about my business?
+
+Sora:
+What matters is you were once Texas's best friend.
+
+Giovanna:
+Cellinia truly is blessed to have met a woman as kind as you in Lungmen.
+
+Sora:
+If you ask me, she's blessed to have a friend like you in Siracusa who's always thinking of her.
+
+Giovanna:
+Oh right, Sora.
+
+Sora:
+Yes?
+
+Giovanna:
+I had a flash of inspiration just now.
+
+Sora:
+Huh?
+
+Giovanna:
+I'm always thinking about how I want the grand finale to play out.
+
+Giovanna:
+In my story, I thought she should meet her end just like a Siracusan would.
+
+Giovanna:
+Surrounded, in a narrow alley, incinerated by a car bomb, so on, so forth.
+
+Giovanna:
+These little excerpts from reality are so overused that they've turned into their own tropes.
+
+Giovanna:
+I want to escape the tropes, and in this story, have her become the least Siracusan Siracusan.
+
+Giovanna:
+I've been trying to find a 'Siracusan' archetype, but haven't been able to define it.
+
+Giovanna:
+That's the source of my writer's block.
+
+Giovanna:
+But right now, it's starting to come to me.
+
+Giovanna:
+There are no Siracusans.
+
+Giovanna:
+Cellinia Texas finally disappeared in the conflagration, and nobody knew what became of her.
+
+Sora:
+Miss Caterina, are you...?
+
+Giovanna:
+I'll be back later. I have some presents for you girls.
+
+Giovanna:
+Wallach, if memory serves me right, you're trying to kidnap Cellinia's friends?
+
+Giovanna:
+They're not even back yet, and you've gathered a whole mob?
+
+Wallach:
+I would have, if you didn't show up.
+
+Wallach:
+I'm extremely disappointed, Donna. No, Giovanna.
+
+Giovanna:
+Were you that impatient with me?
+
+Wallach:
+It's not a question of patience. It's just, why should we wait?
+
+Wallach:
+Why should we have to sit here and wait for the blessing of some antique?
+
+Wallach:
+We followed you to this country, waiting to become masters of this land.
+
+Wallach:
+And now, we have an opportunity.
+
+Giovanna:
+Are you so sure? You're certain victory is within your grasp?
+
+Wallach:
+Nope. I'm not even certain I can deal with that antique...
+
+Wallach:
+But I know Bellone really wants to bring us into a new age.
+
+Wallach:
+And I've got a hankering to make a big bet.
+
+Giovanna:
+How many are willing to follow you?
+
+Wallach:
+Seventy percent.
+
+Giovanna:
+What about the rest?
+
+Wallach:
+I'll convince them.
+
+Wallach:
+Or, you could do it for me.
+
+Wallach:
+If you decide to change your mind, Giovanna, you're still our boss.
+
+Giovanna:
+Looks like I brought up some good soldiers after all.
+
+Giovanna:
+Sorry, Wallach.
+
+Wallach:
+Is Texas more important to you than Famiglia Rossati?
+
+Giovanna:
+I just... don't think this is how things should play out.
+
+Wallach:
+The way I see it, some things can <i>only</i> play out like this.
+
+
+

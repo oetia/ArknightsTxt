@@ -1,0 +1,393 @@
+Elysium:
+Miss Alty! Your 'Refactored Possession' was positively spectacular!
+
+Alty:
+Really? Color me surprised. I thought that silly little idea I came up with in the jungles of Sargon was a bit too avant-garde.
+
+Alty:
+But turns out that doctor had someone like you under her wing? I thought you'd all be as stuffy as her.
+
+Elysium:
+Haha... So, where are the others?
+
+Alty:
+Dan's the excitable type, so she ran straight to the beach. Aya and Frost went back to the hotel. Pretty run-down place, but kind of interesting.
+
+Elysium:
+Interesting? Really?
+
+Alty:
+So did Kal'tsit tell you anything about us?
+
+Elysium:
+I only caught a word or two. Seems like you folks have something important on your hands?
+
+Elysium:
+I was blown away when I heard that the world-famous AUS had personal ties with Dr. Kal'tsit...
+
+Alty:
+To be honest, I could say the same.
+
+Alty:
+But... Still, I'm glad to have fans even out here. Gives this trip some much-needed spice.
+
+Elysium:
+Finally getting to meet you makes that whole excruciating month all worth it, though. Ah, if it's not too much trouble, could you please sign this poster too?
+
+Alty:
+...Why'd you even bother coming back to Iberia?
+
+Elysium:
+That's... rather complicated. And something I sure didn't expect Alty from Alive Until Sunset, of all people, to be asking me.
+
+Alty:
+You like the name of our band?
+
+Elysium:
+Like? Nay, I absolutely adore it.
+
+Alty:
+Appreciate it.
+
+Alty:
+So where is she? I figured she'd be waiting here with that know-it-all look on her face, and then end up telling us nothing in a lot of words.
+
+Elysium:
+Still waiting for Dr. Kal'tsit to contact me. She shouldn't have arrived much later than you all.
+
+Alty:
+Hope she hurries up then... High tide is about to roll in.
+
+Male Townsperson:
+...Outsiders. All outsiders. What happened all of a sudden? Did the Inquisition really loosen up its grip that much?
+
+Strange Adherent:
+Yes, outsiders, all outsiders. They are very special. They carry the scent of the ocean.
+
+Male Townsperson:
+Ægirs?
+
+Strange Adherent:
+Possibly, possibly not. Our brothers and sisters are all afraid.
+
+Strange Adherent:
+We must make haste. Scarcely has the Inquisition been so negligent... It's too suspicious. Even if the laxity of these waters is a trap, we must continue our relentless pursuit.
+
+Strange Adherent:
+For the sake of our brothers and sisters, for the sake of restoring the Herald's connection to this land, we must first secure the Eye of Iberia... or destroy it!
+
+Strange Adherent:
+I do not wish to indiscriminately slaughter the innocent. You were all my family, once.
+
+Male Townsperson:
+......
+
+Strange Adherent:
+Go, and have more people join us. We now have the option of choosing a profoundly vast road, greater than what Iberia promised us. Greater than this entire land.
+
+Male Townsperson:
+Those people... Are the outsiders why our brothers have become restless?
+
+Strange Adherent:
+It's highly likely, but I can't say for sure. We are all weak and frail. Our brothers are weak and frail. We cannot act rashly, or the Inquisition will exterminate us.
+
+Strange Adherent:
+We must be... careful. Or there will be too much blood spilled on this soil, and she does not like blood. Neither us nor our brothers and sisters need die in vain.
+
+Strange Adherent:
+...! Who's there?!
+
+Alty:
+I knew it. Cultists, of the Church of the Deep... I step out of Iberia for just a few years, and now their scent is everywhere.
+
+Alty:
+Hmm... But I'm actually starting to look forward to seeing her for once. Is she still not here?
+
+Elysium:
+Yeah. Dr. Kal'tsit mentioned that the Inquisition will probably keep a close eye on her, so...
+
+Alty:
+That's weird. I'm sure she was there for the start of Iberia's Golden Age. She should at least be able to get an audience with their leaders. Why take such a lame approach?
+
+Elysium:
+Haha, very funny. Iberia's ascent was centuries ago. Even she can't be more than—
+
+Alty:
+Seems her long years of experience have taught her how best to navigate this world... Alas, I'm too young and beautiful to get that stuff.
+
+Elysium:
+Haha, surely you jest, Miss Alty...
+
+Elysium:
+So... if something really were to happen to her, would you help her?
+
+Alty:
+Um... If you're willing to plead on her behalf, maybe.
+
+Alty:
+Is she really that important to your, uh... Rhodes Island, was it?
+
+Elysium:
+...To be perfectly honest, I really don't understand why she would put herself at risk like this, just to come to Iberia.
+
+Elysium:
+But, I fully believe that she willingly took on this responsibility. And if even Dr. Kal'tsit is prepared to risk herself for Iberia, then as an Iberian, I have even less of an excuse.
+
+Alty:
+I see...
+
+Alty:
+Then you'd better go take a look. Or keep waiting here. Who knows, someone might just barge in here hollering and screaming?
+
+Elysium:
+Hey, what's that supposed to—
+
+Panicking Townsperson:
+Out on the plaza! I just saw one—a monster! There's a monster out there! Huh? Is anyone here?!
+
+Elysium:
+Wait right here, Miss Alty! I'm going to see what's going on!
+
+Alty:
+...What a terrible odor.
+
+Alty:
+But, Dan was right. The petals in the sea of consciousness fall into a waterfall flowing in reverse. The melody of the scales, the ballad of the rootstalks... are all ready to come forth.
+
+Alty:
+Maybe I'll find a few nuggets of inspiration on this trip after all.
+
+Crowd of Onlookers:
+What... is that...?
+
+Crowd of Onlookers:
+Old Pedri was right! My grandfather wrote about these in his diary! It's a Sea Monster!
+
+Crowd of Onlookers:
+I-Is it... Is it dead? It won't start moving, right?
+
+Elysium:
+Sorry, excuse me, coming through—
+
+Elysium:
+—
+
+What little light remains filters through the clouds, partially cloven by the monolithic statue. The light's blood splashes across the ground, forming shadows.
+
+A dying Sea Terror rests quietly in the monolith's shadow, like an old man leaning against a tree to find his final respite.
+
+Dying Sea Terror:
+......
+
+Dying Sea Terror:
+.........
+
+Elysium:
+Is it... already dead?
+
+Panicking Townsperson:
+Old Pedri wasn't lying! It really is a monster! A monster from the sea appeared in Gran Faro!
+
+Panicking Townsperson:
+I know what it's called! We've seen them before!
+
+Elysium:
+(So this is a Sea Terror?)
+
+Elysium:
+(But the coastline is so calm... And how could the Inquisition miss something this blatant?)
+
+Its vacant, lifeless eyes seem to still be spinning, the land a vast, waterless ocean before them.
+
+But just as Elysium mistakes it for clinging to life, its gaze once again seems to fixate on a deep, profound death, and its motions halt completely.
+
+Elysium:
+(It's... staring at me? Or, at something else?)
+
+Crowd of Onlookers:
+Who's going to deal with the corpse?
+
+Crowd of Onlookers:
+Just look it! How disgusting! Would it eat people if it were still alive?
+
+Dying Sea Terror:
+......
+
+The Sea Terror cannot speak, but its deformed husk shines brightly.
+
+A large group of people gather around it. Afraid. Suspicious. But nevertheless drawn to it, as if it were lit fireworks.
+
+Fireworks, indeed. Its death is just like fireworks. No gashes, no signs of wounds from a handcannon.
+
+Death did not choose it. Rather, it chose death.
+
+Elysium:
+...No, now I'm just rambling to myself.
+
+Elysium:
+If this is one of those Sea Terrors from the report, then the Church of the Deep must already be closer than we thought.
+
+Crowd of Onlookers:
+Miss Amaia! Hurry, come take a look at this thing—
+
+Amaia:
+Now now, calm down...
+
+Panicking Townsperson:
+Could this really be... from the sea?
+
+Amaia:
+I can't hide the truth from you all. Indeed... this is a monster from the sea.
+
+Panicking Townsperson:
+Th-Then, this has to be reported to the Inquisition right away! We need to call the Penal Battalion over to deal with these monsters— No, have the Inquisitors themselves come!
+
+Panicking Townsperson:
+Otherwise, we're all doomed!
+
+Jordi:
+It seems everyone is running towards the chapel?
+
+Thiago:
+What's going on? Hey, someone tell me what happened!
+
+Panicking Townsperson:
+Someone found the corpse of a monster out in the plaza!
+
+Thiago:
+A monster...? The things Old Pedri was talking about?
+
+Panicking Townsperson:
+That's right, everyone's clamoring to pick a Messenger to go fetch the Inquisition.
+
+Panicking Townsperson:
+Do you know what it looks like? I heard it had fangs a meter long, and eight pairs of eyes— Hey, where are you going, Thiago?!
+
+Thiago:
+Head back and wait for me, Jordi. Don't set foot outside, no matter what!
+
+Jordi:
+But—
+
+Jordi:
+Okay, got it...
+
+Cautious Townsperson:
+We'd better not get mixed up in all this chaos. Who knows what kind of vile diseases these monsters might be carrying.
+
+Jordi:
+A monster...
+
+Jordi:
+What in the world is going on?
+
+Jordi:
+Who's there?!
+
+Strange Adherent:
+......!
+
+Jordi:
+Wait!
+
+Strange Adherent:
+Damn you, Ægir! Accursed Ægir! He actually went and slaughtered one of our kin!
+
+Strange Adherent:
+Ugh, my wound...
+
+Jordi:
+You're...
+
+Strange Adherent:
+Jordi?
+
+Jordi:
+You know me? Who are you?
+
+Strange Adherent:
+I... You don't need to know, nor do you know me. But I know you, if only because you are an Ægir.
+
+Jordi:
+Y-You're hurt!
+
+Strange Adherent:
+Yes, and will you bandage me up? Aren't you the chapel's caregiver?
+
+Jordi:
+I...
+
+Jordi:
+I can help you, but you have to tell me how this happened.
+
+Strange Adherent:
+...Very well.
+
+Jordi:
+Take a seat.
+
+Jordi:
+Just bear with it.
+
+Strange Adherent:
+Nngh...
+
+Jordi:
+Stop moving! Luckily, you don't have any broken bones or ruptured organs... Is this a laceration wound? There's even sawdust stuck beneath the skin. How did this happen?
+
+Strange Adherent:
+An Ægir killed my kin. I was involved, but managed to escape.
+
+Jordi:
+M-Murder?! In a small town like this? You'll have to bring this up with Uncle Thiago right away—
+
+Strange Adherent:
+Hah... Haha. Mayor Thiago can't control the Ægir. How ironic. Only the Inquisition can punish him now.
+
+Jordi:
+B-But, he killed someone in your family.
+
+Strange Adherent:
+We are always being hunted. Out of ignorance, fear, anger... the latter lingering from that disaster. Thank you, I already feel much better.
+
+Jordi:
+Wait, are you... Mr. Juan?
+
+Strange Adherent:
+So you still remember my face, Jordi. Have you ever wanted... to gaze into the sea?
+
+Jordi:
+Gaze... into the sea? Uncle Thiago has taken me to the coast before, but...
+
+Strange Adherent:
+The land has already forgotten the ocean's true form, but sooner or later we shall all return to the sea.
+
+Strange Adherent:
+(Broken Ægirian) Thank you, Jordi. Thank you for your kindness. May infinite altruism fill the void of existence one day.
+
+Strange Adherent:
+(Broken Ægirian) If you are still Ægir, Jordi, then leave us be. Turn back and return to your life. It is better that way.
+
+Strange Adherent:
+(Broken Ægirian) Perhaps you too, like your parents before you, will go in search of that lighthouse.
+
+Jordi:
+Wh-What did you say? I didn't catch that!
+
+Strange Adherent:
+(Broken Ægirian) My kindred refugees have come for me. But do not worry. Gran Faro has always been a stepping stone. Our destination is the deep sea.
+
+Jordi:
+—!
+
+Creeping Sea Terror:
+(Soft slithering sound)
+
+Strange Adherent:
+Jordi, Jordi. Ægir.
+
+Strange Adherent:
+We shall meet again.
+
+
+

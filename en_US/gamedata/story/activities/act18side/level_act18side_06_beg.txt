@@ -1,0 +1,462 @@
+Two men strike forward in the wide, dark sewers.
+
+The sound of water is loud and grating, even more sinister than unbroken silence.
+
+Biegler:
+Hold on a minute. Make a right here.
+
+Ebenholz:
+You sure know this place well.
+
+Biegler:
+Of course I do.
+
+Ebenholz:
+Something every spy should know?
+
+Biegler:
+The first thing every spy should know.
+
+Ebenholz:
+Then I'm sure you've already been working in the Afterglow for years.
+
+Biegler:
+Trying to get on my good side?
+
+Ebenholz:
+Just curious.
+
+Biegler:
+You're not privy to that information.
+
+Ebenholz:
+Disappointing.
+
+Ebenholz:
+......
+
+Biegler:
+Why'd you stop moving?
+
+Ebenholz:
+There's something over there.
+
+Biegler:
+That's the oldest trick in the book. Don't even bother.
+
+Ebenholz:
+No, I'm serious – Look over there, something's moving.
+
+Biegler presses the weapon in his hand against Graf Urtica's heart from behind, his eyes then following the direction of the Graf's fingers.
+
+Biegler:
+It's just an Originium slug. You've never seen one of those before?
+
+Ebenholz:
+Is it really... just an Originium slug?
+
+Biegler:
+The high-and-mighty Graf Urtica was so scared by an Originium slug that he couldn't even walk. Now I've seen everything.
+
+Ebenholz:
+I still think there's something not quite right...
+
+Biegler:
+Stop being stupid and get a move on!
+
+Ebenholz:
+Fine.
+
+Biegler:
+Wait, just a second.
+
+Biegler:
+Isn't that an awful lot of slugs?
+
+Biegler:
+That's way too many! This is going to be a major problem!
+
+Biegler:
+Run! Now!
+
+Ebenholz:
+Why are you––
+
+Biegler:
+It's about to be too late already! Hurry up!
+
+Biegler grasps Ebenholz's wrist tightly, and the two of them sprint through the sewers.
+
+Ebenholz:
+Huff, huff...
+
+Ebenholz:
+Do you have a map of the sewers inside your head?
+
+Biegler:
+If you have the time to quip at me, you'd be better off spending it to catch your breath.
+
+Ebenholz:
+I'm not trying to be sarcastic, every branch we take seriously looks the same to me...
+
+Biegler:
+Rested up?
+
+Ebenholz:
+We just––
+
+Biegler:
+Then keep running! Hurry!
+
+Ebenholz:
+(Gasps)
+
+Ebenholz:
+I... can't keep going...
+
+Biegler:
+That's fine. We just happened to find who we were looking for.
+
+Biegler:
+Good evening, Herr Lachmann.
+
+Lachmann:
+Good evening, shopkeep.
+
+Ebenholz:
+Shopkeep?
+
+Lachmann:
+Ugh. You don't know a damned thing, but you still have to stick your nose where it doesn't belong. What a pain you are.
+
+Lachmann:
+Wouldn't you agree, Biegler?
+
+Biegler:
+Agreed.
+
+Biegler:
+But you're the one who's in real trouble.
+
+Biegler:
+You've provoked all the Originium slugs in this area, and they're swarming towards the surface.
+
+Biegler:
+As we both know, the Originium slugs in the sewers emit a noxious gas, and what you're doing is tantamount to a chemical attack on the Infected of the Afterglow.
+
+Ebenholz:
+A chemical attack? But aren't we fine right now?
+
+Biegler:
+The gas has a much stronger effect on the Infected than it does on you, Graf Urtica.
+
+Ebenholz:
+Then, Czerny and Hibiscus...
+
+Ebenholz:
+And Kreide too...?!
+
+Biegler:
+Good. You already understand the situation.
+
+Biegler:
+Lachmann, quell these Originium slugs and return them to their original state immediately, or I will exercise my right to put you down on the spot.
+
+Lachmann:
+It's no longer possible.
+
+Lachmann:
+A lone man can start a fire easy enough, but even if you point a knife at his neck, he won't be able to put it out alone.
+
+Biegler:
+What do you people get out of this?
+
+Lachmann:
+What do we get? How do you not even know that much?
+
+Biegler:
+Not interested in hearing your riddles.
+
+Lachmann:
+'Pestilence from Shadow wanton spouts, spews Ruin in Prelude.'
+
+Lachmann:
+Do you really need me to explain it word by word?
+
+Biegler:
+Let me rephrase. What do you get out of making the prophecy come true?
+
+Lachmann:
+You don't need to worry about that.
+
+Biegler:
+What are you trying to do? Silence him?
+
+Ebenholz:
+Just knock him out already, my dear, mean-spirited spy!
+
+Ebenholz:
+Do you have any way of controlling these slugs?
+
+Biegler:
+If I did, I wouldn't be wasting my breath on him.
+
+Ebenholz:
+Then let's get going before it's too late!
+
+Biegler:
+(Glares sharply)
+
+Biegler:
+You're more than meets the eye, Graf Urtica.
+
+Biegler:
+Fine, I'll carry him out, and you follow me––
+
+Biegler:
+Wait, hold up, that's––
+
+Ebenholz sees the same thing Biegler sees.
+
+Where Lachmann has fallen, something silvery is glistening on the sewer wall.
+
+Biegler:
+It's the keyhole.
+
+Ebenholz:
+There might be some kind of device inside controlling the Originium slugs! I'll blow the door open––
+
+Biegler:
+Let me see if I can pick the lock first.
+
+Biegler:
+It'd be bad news if you blew up something important.
+
+Ebenholz:
+Can you open it?
+
+Biegler:
+The lock's a pretty tough nut to crack, but it won't get the better of me.
+
+Ebenholz:
+While you're working on that, mind telling me what this prophecy is all about?
+
+Biegler:
+You've never heard of it?
+
+Biegler:
+Well, whatever, it's spreading around anyway.
+
+Biegler:
+O'er lofty Hills, the Fiend steps into Twilight's Midst agaze.
+
+Biegler:
+The Blood hides Plague within, slow beckons Death to creep all Ways.
+
+Biegler:
+Pestilence from Shadow wanton spouts, spews Ruin in Prelude.
+
+Biegler:
+Fades Finale's Ensemble; Woe departs with Sun's last Rays.
+
+Ebenholz:
+Ensemble? Woe?
+
+Biegler:
+Right.
+
+Biegler:
+To be honest, I'm still curious what the last verse means.
+
+Biegler:
+Everything else is already fairly clear.
+
+Biegler:
+The first verse refers to Hibiscus's arrival in the Afterglow, and the second refers to the phenomenon of false recovery...
+
+Ebenholz:
+You even know about that?
+
+Biegler:
+What do you think a spy's job is?
+
+Ebenholz:
+......
+
+Biegler:
+Now, the third verse is also clear. All that remains is the last one.
+
+Biegler:
+It's open.
+
+Biegler:
+Now, that's something...
+
+Ebenholz:
+A laboratory?!
+
+Czerny:
+Ah, it's you. Thank you for organizing––
+
+Mannered Infected:
+Herr Czerny, the situation outside has gone to hell in a handbasket!
+
+Mannered Infected:
+Swarms of noxious Originium slugs started coming up from the sewers, and a lot of people have already been poisoned. It's total chaos out in the streets now!
+
+Mannered Infected:
+They're saying this is part of the prophecy, and panic is spreading through the Afterglow!
+
+Czerny:
+How did this all happen?
+
+Czerny:
+We can't do much about people panicking right now, but how about those who were poisoned?
+
+Mannered Infected:
+They're not looking too good... Especially those whose Oripathy started getting better recently. They're having even more violent reactions.
+
+Mannered Infected:
+We've already contacted the hospital, but the medical staff on the line didn't seem very motivated when they heard that we're in the Afterglow...
+
+Czerny:
+Not motivated?!
+
+Czerny:
+I'll go negotiate with the hospital then.
+
+Mannered Infected:
+It's too dangerous outside, you'd better just call!
+
+Czerny:
+If they didn't care when you made the call, it won't make a difference if I'm the one on the line. This is something I'll have to take care of in person.
+
+Mannered Infected:
+But tomorrow's the day of the concert, and if you get poisoned...
+
+Czerny:
+If these inexplicable events result in deaths, do you think people will be in any mood to enjoy the music, even if the concert continues as planned?
+
+Czerny:
+I don't want things to reach that point, nor do I want to pretend as if nothing is happening. I'd rather not play a single note than lie to myself!
+
+Worn-out Infected:
+Why are there so many slugs?!
+
+Neurotic Infected:
+It reeks! What is this stench...?
+
+Worn-out Infected:
+I'll help you, let's get out of here!
+
+Neurotic Infected:
+Looks like... the prophecy is coming true...
+
+Worn-out Infected:
+Damn pests, stay away!
+
+Worn-out Infected:
+Krause, Krause! Get up–– *cough*, *cough*...
+
+Worn-out Infected:
+Help us! Someone, anyone!
+
+Worn-out Infected:
+Is someone playing the cello...? All the slugs are going in the direction of the music?
+
+Worn-out Infected:
+Thank you!
+
+Worn-out Infected:
+Krause, stand up. Here, hold on to my shoulder...
+
+Neurotic Infected:
+......
+
+Worn-out Infected:
+Hold on tight. Let's go, now!
+
+Kreide:
+(Whispers) You're welcome.
+
+With Kreide at the epicenter, the tones of the cello spread out across the narrow streets and alleys of the Afterglow.
+
+Wherever the cello's notes travel, the Originium slugs turn around one after another.
+
+Those who had been surrounded think the crisis is over, that the poison-exhaling insects will soon retreat to the dark sewers under the guidance of the cello's tune.
+
+But they are wrong.
+
+Both where they can and cannot see, Originium slugs make their way towards Kreide.
+
+Ebenholz:
+Huff, *pant*, *pant*...
+
+Ebenholz:
+Finally... made it...
+
+Ebenholz:
+Now what... Do I just blow all these slugs up with Arts?
+
+Biegler:
+––Something's not right here.
+
+Ebenholz:
+Now what is it, my good spy?
+
+Biegler:
+The Originium slugs are all congregating in one place––
+
+Ebenholz:
+A cello...?!
+
+Ebenholz:
+Kreide, what are you doing? Stop that right now–– *cough*, *cough* *cough*!
+
+Biegler:
+No yelling. It won't do any good and will only mess up your lungs.
+
+Ebenholz:
+Help me get through!
+
+Biegler:
+I told you, stop shouting.
+
+Biegler:
+He won't stop playing just because you're shouting, and I won't stand aside just because you aren't.
+
+Ebenholz:
+Then, let's combine forces and clear a path to Kreide!
+
+Biegler:
+I don't think so. I'll head in the opposite direction.
+
+Ebenholz:
+Are you going back to your coffee shop?
+
+Biegler:
+Yes. We worked together to create an opening. Now, we will part ways.
+
+Ebenholz:
+I'm sure you can't wait to head back to your shop and study those torn documents you retrieved from the lab, right?
+
+Ebenholz:
+I'm so glad the research notes about the Voice of Mundane are so much more interesting than the lives of the Infected.
+
+Biegler:
+Kreide's situation is your own damned fault, so you can solve it yourself.
+
+Biegler:
+Also, if I find out that even a single word in those notes and plans was written by you, just you wait.
+
+Ebenholz:
+I'll be waiting, sure enough.
+
+Biegler:
+That's the end of our chat.
+
+Biegler:
+We're going, on the count of three!
+
+
+

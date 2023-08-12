@@ -1,0 +1,110 @@
+Amiya:
+This place... is filled with fallen Reunion.
+
+Amiya:
+...The blood from his wounds had been frozen, but his other body parts remained intact.
+
+Amiya:
+This is Frostleaf's technique.
+
+Amiya:
+...Those ruins over there look like they were caused by explosives.
+
+Amiya:
+It's probably Meteorite's work.
+
+Amiya:
+(Frostleaf... Jessica... Meteorite... I'm sure they're still alive...)
+
+Kal'tsit:
+Amiya, all the rescue squads have reached Rhodes Island.
+
+Kal'tsit:
+We've extracted all the recon squads except for Meteorite's.
+
+Kal'tsit:
+No Operators were lost on this mission, but...
+
+Kal'tsit:
+Everyone suffered frostbite with varying degrees of severity.
+
+Kal'tsit:
+You must take note of this.
+
+Amiya:
+...Frostbite?
+
+Kal'tsit:
+All our recon squads observed a special group of Reunion troops wandering around the city.
+
+Kal'tsit:
+Unlike the reckless Reunion soldiers we're used to fighting, these members had a special way of fighting.
+
+Kal'tsit:
+Be cautious.
+
+Amiya:
+I.... I understand.
+
+Kal'tsit:
+Dr. {@nickname}, am I clear?
+
+Kal'tsit:
+Very well then.
+
+Kal'tsit:
+I also have some things to do.
+
+Kal'tsit:
+Amiya, even if Dr. {@nickname} is very helpful, you can't rely too much on a single person.
+
+Amiya:
+...
+
+Kal'tsit:
+Also, mind the rings.
+
+Amiya:
+I know.
+
+Amiya:
+Dr. Kal'tsit actually worries about you a lot.
+
+Amiya:
+Before we realized it...
+
+Amiya:
+Dangerous beasts have bared their fangs.
+
+Amiya:
+Mm... They will do everything they can to keep us from getting away.
+
+Amiya:
+But, we didn't come here to run away.
+
+Amiya:
+Rhodes Island will break through their ranks.
+
+Amiya:
+We're going to rescue Meteorite's squad!
+
+Kal'tsit:
+Projekt Red, do you copy?
+
+Kal'tsit:
+Ahh, yes.
+
+Kal'tsit:
+That's right. I'll meet you at the slums' east entrance.
+
+Kal'tsit:
+Mhm. It'll just be the two of us.
+
+Kal'tsit:
+We'll be fine.
+
+Kal'tsit:
+Just the two of us are more than enough to fight against Reunion.
+
+
+

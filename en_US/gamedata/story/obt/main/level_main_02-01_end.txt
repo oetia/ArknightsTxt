@@ -1,0 +1,198 @@
+10:14 P.M. \ Clear \ Visibility: 19 km
+
+Lungmen, District 5- Inspection and Quarantine Zone
+
+???:
+Madam.
+
+???:
+They're here.
+
+???:
+......
+
+Broadcast:
+Attention, please...
+
+Broadcast:
+Due to the Catastrophe's interference, all air traffic in Lungmen has been stopped. All entrances to District 5 will be closed in two hours.
+
+Broadcast:
+We thank you for your cooperation during Oripathy inspections.
+
+Broadcast:
+If you discover any unregistered Infected, please inform a nearby peace officer immediately.
+
+Broadcast:
+The L.G.D. will detain them in accordance with the 'Emergency Handling Act.'
+
+Broadcast:
+Attention, please...
+
+Amiya:
+It's just like the rumors said...
+
+Amiya:
+Let's go, Doctor.
+
+Amiya:
+We're here.
+
+???:
+Rhodes Island was scheduled to meet with the L.G.D. at 10 o'clock.
+
+???:
+It's 10:14 now.
+
+???:
+You were late 14 minutes; therefore, you've wasted 14 minutes of my time.
+
+Amiya:
+...I'm sorry, Madam Ch'en, we just found out that Reunion is here...
+
+Ch'en:
+It's fine, I already know. But that's not important right now.
+
+Ch'en:
+...Who might this be?
+
+Amiya:
+Dr. {@nickname} is Rhodes Island's consultant. Dr. Kal'tsit should already have informed you.
+
+Ch'en:
+Hmm...
+
+Ch'en:
+Well, since everyone is here, I'll now need you to follow me to...
+
+L.G.D. Agent:
+Madam Ch'en! It's an emergency! Those Infected... they're not...
+
+Ch'en:
+Don't panic!
+
+Ch'en:
+First Squad, standby! Snipers, get into position!
+
+Civilian:
+Wh-what's happening?!
+
+Infected:
+Let go of me! !
+
+Ch'en:
+Tch... What's going on? Report the situation.
+
+Infected:
+Let me go! ! Why are you arresting me? !
+
+Infected:
+We didn't do anything wrong! ! !
+
+L.G.D. Agent:
+Some Infected... are refusing to be taken in... We're...
+
+Ch'en:
+I can see that...
+
+Ch'en:
+Forget it.
+
+Ch'en:
+Detain them all.
+
+Ch'en:
+Disperse the crowd immediately. Open the gates in 30 minutes after you finish the review process.
+
+Ch'en:
+Also, push the quarantine inspection line forward 40 meters.
+
+Ch'en:
+Other than you and Dr. {@nickname}, the rest of Rhodes Island will stay here and assist with border security. The two of you, come with me.
+
+Ch'en:
+If your group can't handle such a trivial task, I will not be able to assign you any missions.
+
+Ch'en:
+PC94172, arrange some work for these people. I don't want to see any more trouble tonight.
+
+L.G.D. Agent:
+Understood, Madam!
+
+L.G.D. Agent:
+Everyone, I'd like you to...
+
+Amiya:
+...
+
+Amiya:
+(Madam Ch'en is really tough... she's stricter than I imagined...)
+
+Ch'en:
+You two.
+
+Ch'en:
+Follow me.
+
+Ch'en:
+We're here.
+
+Amiya:
+Wh-what a tall building!
+
+Ch'en:
+...
+
+Amiya:
+Ugh...
+
+Amiya:
+S-sorry...
+
+Ch'en:
+... Rhodes Island is undoubtedly capable.
+
+Amiya:
+Oh...
+
+Amiya:
+Thank you for your praise, Madam.
+
+Ch'en:
+However...
+
+Ch'en:
+After the Chernobog incident, there's been a massive surge of refugees into Lungmen.
+
+Ch'en:
+The Infected should already know what the consequences of entering Lungmen are.
+
+???:
+I'll remind you once more.
+
+???:
+Lungmen is the next Chernobog.
+
+Amiya:
+Dr. Kal'tsit...!
+
+Ch'en:
+Rhodes Island's representative has already met with Chief Wei.
+
+Ch'en:
+Please wait here.
+
+Ch'en:
+I'll notify you shortly.
+
+Amiya:
+Phew... she's really hard to talk to.
+
+Amiya:
+Dr. {@nickname}, from here on, Dr. Kal'tsit will be handling the negotiations.
+
+Amiya:
+Please have confidence in her.
+
+
+

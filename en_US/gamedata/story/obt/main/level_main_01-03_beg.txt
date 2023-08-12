@@ -1,0 +1,116 @@
+Time - Unknown \ Weather - Unknown \ Visibility - Poor
+
+Chernobog - Operation Squad E0's Location
+
+Dr. {@nickname} Rescue Operation, Phase 3
+
+Dobermann:
+We have less than an hour left. We can't afford to make a detour...
+
+Dobermann:
+The more time we waste, the more like we are to get caught in the Catastrophe.
+
+Dobermann:
+We must directly cut across this area.
+
+Dobermann:
+However, we won't be able to conceal our movements anymore given the size of our forces.
+
+Dobermann:
+The possibility of getting ambushed when we're navigating through narrow streets is very high...
+
+Nearl:
+What's the plan?
+
+Dobermann:
+We don't have many options...
+
+Dobermann:
+Dr. {@nickname}, what's your assessment?
+
+Dobermann:
+Reunion's forces are no match for us individually.
+
+Dobermann:
+But most of the time, they try to overwhelm us with sheer numbers.
+
+Nearl:
+If we can utilize our speed to constantly press forward while avoiding large-scale fights...
+
+Dobermann:
+They don't seem to have built any fortifications.
+
+Nearl:
+If we're able to charge through their blockade...
+
+Dobermann:
+Even though it looks like they have a numbers advantage, their loose formation won't be able to stop our advance.
+
+Dobermann:
+From what I've observed through our past battles, Reunion's communication methods are absolutely primitive.
+
+Nearl:
+If we do this quickly, by the time they're able to regroup and mount an effort to stop us...
+
+Dobermann:
+We'll already be long gone by the time they get into formation.
+
+Nearl:
+Sounds good.
+
+Nearl:
+We'll storm them, disrupt their formation, destroy their firebase, and then fall back quickly.
+
+Nearl:
+Dobermann, are you testing me, or...
+
+Dobermann:
+It's far easier to deal with threats we can see than to be stuck between a rock and a hard place.
+
+Dobermann:
+I take it that these are Dr. {@nickname}'s orders, Amiya?
+
+Amiya:
+The situation is clear. I trust Doctor's decisions...
+
+Dobermann:
+...Trust isn't built so easily from just a single battle.
+
+Dobermann:
+I do think highly of Dr. {@nickname}, Amiya...
+
+Dobermann:
+But don't let your guard down. Of course, there is nothing wrong with learning from the Doctor's wisdom, but remember, you can't fully rely on anyone else in this world.
+
+Amiya:
+...I know.
+
+Dobermann:
+Don't get me wrong, Doctor, I'm not trying to make things difficult for you.
+
+Dobermann:
+But I hope you understand... Amiya still needs to learn and grow.
+
+Dobermann:
+If you were in my position, you also wouldn't allow her to rely on someone else.
+
+Dobermann:
+However, know that I've already acknowledged your abilities as a commander.
+
+Dobermann:
+Also, there's no reason to be so formal. We're comrades-in-arms now.
+
+Dobermann:
+At least on the battlefield, I've already entrusted my life to you.
+
+Dobermann:
+Enough with the chit-chatting though, let's hurry it up.
+
+Nearl:
+That's right.
+
+Nearl:
+There's an old saying in Kazimierz: 'Death catches up to you when you stop to take a break.'
+
+
+

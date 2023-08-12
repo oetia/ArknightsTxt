@@ -1,0 +1,770 @@
+Kristen:
+They agreed to throw money our way, Saria.
+
+Saria:
+Your speech was excellent. All those investors were moved by the future that you painted.
+
+Kristen:
+The future... of course.
+
+Kristen:
+I described some byproducts they would be interested in with the kind of language that they speak.
+
+Kristen:
+It was only one short night, but it was far more exhausting than spending a dozen days in the labs.
+
+Saria:
+It's something we need to power through, for the time being.
+
+Saria:
+Once our funding is settled, you can move into the laboratories whenever you want.
+
+Kristen:
+You know me well. That's the only reason that I'm bearing with all this.
+
+Saria:
+Right, that academic named Ferdinand Clooney is very interested in your proposal too.
+
+Saria:
+He'll 'build the most fantastic laboratory in all of Terra at Rhine Lab'—That's what he said.
+
+Kristen:
+I welcome him, then.
+
+Saria:
+I looked into his background.
+
+Saria:
+He feels more like a businessman than an academic to me. He might not understand you.
+
+Kristen:
+No, Saria.
+
+Kristen:
+I never needed anyone to understand me... Actually, I'd say I've already got more than I could ask for, having met you, someone so like-minded.
+
+Kristen:
+Right now, Rhine needs to amass more capable personnel and projects. We have to, if we're going to reach our ultimate goal.
+
+Saria:
+You're Control. It's your call.
+
+Saria:
+Some of Ferdinand's methods aren't exactly above board. A decent amount of his projects even have some under-the-table dealings with other big corporations or the government.
+
+Saria:
+I'll have a nice chat with him about the rules of the our cooperation going forward.
+
+Kristen:
+You'll help me take care of this, right?
+
+Saria:
+I'm the Director of Defense. That's my job.
+
+Saria:
+But it will be very risky for you... and Rhine Lab.
+
+Kristen:
+Wait—
+
+Kristen:
+I just came up with a few new ideas that might even solve some flaws in that theory of mine—Right, what were you going to say just now?
+
+Saria:
+Never mind.
+
+Kristen:
+Thanks for that, Saria.
+
+Kristen:
+It's because you're always here for me that I can focus on my job without worry.
+
+Saria:
+You never needed anyone to come save you.
+
+Kristen:
+But you came nonetheless.
+
+Saria:
+......
+
+Kristen:
+That face again... You're angry.
+
+Kristen:
+All those years out there have made you a more emotional person.
+
+Kristen:
+I thought you'd better understand my decision after you took a good look at the reality of the lands outside.
+
+Saria:
+Answer me.
+
+Saria:
+Did you authorize the experiment at Site 359?
+
+Kristen:
+No.
+
+Kristen:
+I'll never lie to you.
+
+Kristen:
+I'm sure you know that better than anyone.
+
+Saria:
+But you also don't care what's going on over there...
+
+Saria:
+You turned a blind eye to what Ferdinand is doing.
+
+Saria:
+Just like you turned a blind eye to Parvis all those years ago.
+
+Kristen:
+Hm? Which experiment are you talking about?
+
+Saria:
+You don't remember...
+
+Saria:
+You never remember any little thing that isn't related to your own research.
+
+Kristen:
+There is only so much that the human brain can process. I have more worthwhile work for mine to focus on.
+
+Kristen:
+Ferdinand's little tricks bought me some time to relax, and it's thanks to him that I can concentrate even better. And think.
+
+Kristen:
+My experiments have seen some major breakthroughs in the last few days. Why don't I tell you about them?
+
+Saria:
+Why you...
+
+Kristen:
+It's not like you're not interested.
+
+Kristen:
+You're just... worried about all those insignificant people and things.
+
+Saria:
+They were never insignificant.
+
+Saria:
+You'll never escape the weight of those people and things, Kristen.
+
+Saria:
+After all, both you and I... and Rhine Lab too, we're all grounded in this land, we've put down roots.
+
+Muelsyse:
+I'm sorry, Dr. {@nickname}.
+
+Muelsyse:
+Don't worry... We're still on the same side.
+
+Muelsyse:
+I won't do anything to you, at least not right now.
+
+Muelsyse:
+It's just... It's hard to say.
+
+Muelsyse:
+Kristen might not necessarily be on Saria's side.
+
+Muelsyse:
+You don't know what Rhine Lab was like back when it started...
+
+Muelsyse:
+Kristen's radiance brought all kinds of people in, at first, but it was Saria who quietly propped it all up.
+
+Muelsyse:
+A falling out, huh? They had a huge fight in the Control office, and blew a huge hole in the roof of the Rhine building. Does that count?
+
+Muelsyse:
+Even then, Saria walked out of the office herself, and Control was completely unscathed too.
+
+Muelsyse:
+If the two of them... actually played serious, things wouldn't have ended so anti-climatically.
+
+Muelsyse:
+It's just Kristen doesn't care what kinds of experiments Ferdinand runs.
+
+Muelsyse:
+I was eager to make sure she's okay. That's why I lured you guys here... but I never knew Kristen would interfere with what's going on at the site.
+
+Muelsyse:
+You... you're not going to stop at telling Kristen the situation over there?
+
+Muelsyse:
+The important thing is that you... that Rhodes Island has caught wind of this.
+
+Muelsyse:
+You've been planning to force her hand since before you got here...
+
+Muelsyse:
+Dr. {@nickname}, she might just remember you for this.
+
+Muelsyse:
+You're confident... No, you have real faith in your operators at the site.
+
+Muelsyse:
+That's wonderful.
+
+Muelsyse:
+Dr. {@nickname}... At the end of the day, I'm the Director of Rhine Lab's Ecological Section. Not a lot of people ask me questions like that to my face.
+
+Muelsyse:
+Hm... How should I answer this...?
+
+Muelsyse:
+Wouldn't you agree that if I didn't keep a secret or two, my charm would take a hit?
+
+Mechanist:
+Doctor?
+
+Mechanist:
+I still haven't received Ptilopsis's synchronized message.
+
+Mechanist:
+Sorry, I don't have the time to fill you in on the details...
+
+Mechanist:
+I still have ten... No, maybe eleven hollows to take care of.
+
+Mechanist:
+Right, one more thing.
+
+Mechanist:
+Ho'olheyak got away.
+
+Mechanist:
+She might head to the site... she seemed like she had her own objective.
+
+Mechanist:
+Right, I agree with you.
+
+Mechanist:
+She's more dangerous than we expected.
+
+Mechanist:
+*cough*... How am I doing?
+
+Mechanist:
+My robotic arm is overheating a little. That's all.
+
+Mechanist:
+I won't let myself get hurt before things really get hairy.
+
+Ferdinand:
+Elena, you're staying here with me.
+
+Ferdinand:
+You've contributed a lot to the experiment, and I am proud of your results. You've earned the right to stand by my side and witness the glory it brings us.
+
+Elena:
+You turned the whole site... into a petri dish. You put all those Pioneers in danger just to create that giant monster.
+
+Elena:
+What could it bring, if not disaster?!
+
+Ferdinand:
+The way I see it...?
+
+Several miles out, the silver geometric body remains steadily suspended above the site.
+
+The body seems as if it has started a storm. However, aside from the chaotic gales, there are also countless scraps blowing around it.
+
+Some of the scraps were originally trees, while others were once parts of buildings and machines, but all of them have taken similar shapes, hovering around the body in the center.
+
+The geometric body could appear at any moment on the outskirts of other Columbian cities. It could also suddenly descend upon Londinium or central Kawalerielki.
+
+It has redefined what people imagine when they think of Originium Arts, it has redefined the known rules of physics, and it will soon redefine the already changing tides.
+
+Ferdinand:
+A new era.
+
+Ferdinand:
+What I see is a new era. Its arrival carries with it all sorts of possibilities, chances at things we may never have thought possible. It also implies a change in the standings of factions old and new.
+
+Ferdinand:
+I'm taking these risks not for myself.
+
+Ferdinand:
+It doesn't necessarily have to be Columbia that enters this new era. It doesn't have to be Rhine, either.
+
+Ferdinand:
+But when the time comes, our money and connections will both leave us behind.
+
+Ferdinand:
+The city of steel we have forged will be torn apart at the hands of other nations, just as Lingones became fodder to a new hegemon.
+
+Ferdinand:
+The laboratories of which we're so proud will be dismantled and sold for scrap on the second-hand market, while Rhine's signs will be forgotten and slowly rust away in an underground warehouse.
+
+Ferdinand:
+When that time comes, we will lose any chance we ever had to drive change. Our ideals will shatter, and we will be left to live out the rest of our meaningless days staring at the backs of those who have gone ahead.
+
+Ferdinand:
+When the epoch decides who to leave in the dust, it doesn't think back on past glory, much less hold out for future potential.
+
+Ferdinand:
+All we can ever seize is the present.
+
+Ptilopsis:
+Searching for signal...
+
+Ptilopsis:
+Connection failed.
+
+Silence:
+Still no comms...
+
+Greyy:
+Doctor, we've been surrounded.
+
+Greyy:
+The living quarters probably won't last long. Soon, this building we end up leveled like the others at the site.
+
+Silence:
+The silver construct is controlled by the subconsciousness of the Hub's test subjects.
+
+Silence:
+If we forcibly remove the treatment bands the pioneers are wearing...
+
+Ptilopsis:
+Negative.
+
+Ptilopsis:
+Removal of the treatment bands carries as much risk as the removal of Device #9.
+
+Silence:
+What if we interfere with their neural activities externally?
+
+Silence:
+No, that's too risky too. It's likely to cause brain damage.
+
+Silence:
+Even without the silver constructs... I have no idea how to go about waking them up. Those who are connected to the system might never wake up again.
+
+Dorothy:
+It's my fault... Ferdinand and I were the ones put them in this danger.
+
+Dorothy:
+I need to save them. I must...
+
+Greyy:
+In thirty seconds, we'll face... the tenth wave of attacks!
+
+Greyy:
+No, the frequency is getting faster.
+
+Dorothy:
+Hmm...
+
+Silence:
+This can't continue.
+
+Dorothy:
+No.
+
+Dorothy:
+Only I... can stop it.
+
+Tiny grains of sand cloud the air, like an entire house shrouded within a fortress formed of loose sand.
+
+There are countless silver substances laying outside of it. They seem curious about this fortress, not understanding why they cannot dissolve this seemingly fragile barrier.
+
+Silence:
+You didn't stop it...
+
+Silence:
+You're just using your Originium Arts to offset its corrosion.
+
+Silence:
+And your Arts Unit will fail soon.
+
+Dorothy:
+Not yet... Not so fast.
+
+Silence:
+What have you done to yourself...?
+
+Dorothy:
+Just... a small experiment.
+
+Silence:
+You... You implanted one in yourself...
+
+Dorothy:
+Arts Unit...
+
+Dorothy:
+Before I let anyone else into the lab... I need to ensure of the safety of the requisite steps.
+
+Silence:
+They're switching up their attack patterns.
+
+Dorothy:
+It's part of us. It's curious, and it's a good learner.
+
+A barrage of impact noises can be heard from the outside, as though a storm of silver rain is raging.
+
+The rain keeps opening up holes in the sand wall, which are in turn patched by more sand.
+
+Silence:
+We need to find some other way to buy time.
+
+Greyy:
+Doctor, let me try.
+
+Greyy:
+I'll go outside and use my Arts to lure some—
+
+Silence:
+Greyy, that's too risky!
+
+Greyy:
+Doctor, I told Mr. Sonny something when we were chatting earlier—these words have stayed with me for all these years.
+
+Greyy:
+If I don't take a step forward, how will I ever know if my path lies out there?
+
+Greyy:
+Phew...
+
+Greyy:
+Truth be told... I don't know if I'll be able to do it.
+
+Greyy:
+I might even mess up the moment I step outside... I... I can't help but doubt myself...
+
+Greyy:
+But what if it works?
+
+Greyy:
+All my mentors have taught me that whenever I start doubting myself, I should just remember... I've succeeded before!
+
+He takes a deep breath, lifts his head up, and looks at the darkness in front of him.
+
+The silver geometric body has what appears to be eyes, but he knows what it is that he's looking at.
+
+It's not a new kind of intelligent being, nor is it some kind of mysterious monster.
+
+That is the fruit of human technology. It can be used, analyzed—
+
+And, no doubt, defeated.
+
+Greyy:
+You... aren't anything to be afraid of.
+
+Greyy:
+Fear always stems from the unknown.
+
+Greyy:
+And you... You were created with Arts. You're a byproduct born in the Pioneers' minds.
+
+Greyy:
+Humanity triumphed over the darkness of night... How could we lose to our own creations?
+
+A ray of light emits from his hand and bolts toward the dark shadow floating above their heads.
+
+As expected, a not insignificant amount of silver liquid exits out of the Pioneers' quarters and entangles itself with the dark night as it tears madly toward the light he released.
+
+That moment, the light is shredded into pieces, leaving only a few strands progressing deeper into the darkness.
+
+But more and more lights then rise one after another.
+
+Dorothy:
+Greyy's a brave man.
+
+Dorothy:
+He's just like Sonny... and the pioneers. He has the courage to face his challenges head on.
+
+Silence:
+Its attacks have gotten stronger again...
+
+Silence:
+All my light can do is distract it; it still sees us as its target.
+
+Dorothy:
+*cough*... *cough* *cough*...
+
+Silence:
+Your nose is bleeding...
+
+Silence:
+Even if you have no infected organs, your body's blood vessels won't be able to withstand releasing this much energy... It won't take long for you to hemorrhage to death.
+
+Dorothy:
+I... I must protect them, and I'm willing to...
+
+Silence:
+You're willing to give your life.
+
+Silence:
+That's not an excuse you're using to win over the Pioneers.
+
+Silence:
+You're... really going to do it.
+
+Dorothy:
+Dr. Silence, wouldn't you make the same choice to protect your family?
+
+Silence:
+......
+
+Dorothy:
+I made the wrong decision once.
+
+Dorothy:
+And I won't... make the same mistake again.
+
+Silence:
+You mean, your mother...?
+
+Dorothy:
+All these years, I've wondered over and over...
+
+Dorothy:
+How did they feel before they were swallowed whole by the sandstorm?
+
+Dorothy:
+Did they wait, despairing in a cramped space until the moment of death arrived, like these Pioneers?
+
+What if I didn't accept that invitation? Would I have stayed with my mother until the very end?
+
+If she had the qualifications to enter the city with me, would that have spared her from the storm?
+
+My research has solved many difficult problems that were unsolvable, but I still haven't found an answer to this one—
+
+Why was I the only one spared?
+
+Dorothy:
+Dr. Silence...
+
+Dorothy:
+If... If that is really the assemblage of the test subjects' consciousnesses...
+
+Dorothy:
+I love it, just as I loved my family.
+
+Dorothy:
+But why... why can't I hear it speak to me?
+
+A deep fissure appears in the sand wall.
+
+Dorothy stumbles forward, but a pair of hands catches her.
+
+Silence:
+Dorothy... No matter how much work you put in, you can't change your mother's fate.
+
+Silence:
+That storm is in the past... it ended long ago.
+
+Dorothy:
+Is... that so?
+
+A drone fills the opening in the sand wall with its own body.
+
+Seemingly injected with life once again, the grains of sand quickly rearrange in an orderly way.
+
+Silence:
+Dorothy, you want to hear your family's voices, right?
+
+Silence:
+You should ask those test subjects.
+
+Silence:
+Once the storm is over, they will tell you their answer.
+
+Greyy:
+Agh...
+
+His hand is getting warmer and warmer. He knows that the machinery has been pushed past its limits for so long it is doomed to break.
+
+But he cannot give up.
+
+If he falls here, the island behind him will forever be swallowed whole by the darkness.
+
+He has to hold on, just like that one night all those years ago. He ran so far away, even though his hands had gone numb from the cold and his legs hurt from the long journey—
+
+He needs to make it to that day when he passes the torch he holds to another pair of hands.
+
+Suddenly, a warm power shrouds his hand and helps him stabilize his energy output.
+
+It is someone else's Arts.
+
+Greyy:
+O-Operator Ptilopsis...?
+
+Ptilopsis:
+You require assistance, Operator Greyy.
+
+Greyy:
+Hmm...
+
+Ptilopsis:
+You needn't alert me to the danger here.
+
+Ptilopsis:
+I had already calculated the probability of our mission's success before I submitted my leave request to Dr. Silence.
+
+Greyy:
+What's the number...?
+
+Ptilopsis:
+With my support as a newly added variable, the probability of our success is...
+
+Greyy:
+No, you don't have to tell me.
+
+Greyy:
+I'm just used to planning everything out before the actual execution. I know it was hasty of me to run out here, but I couldn't control myself.
+
+Ptilopsis:
+Calculating the results will not reveal anything in advance.
+
+Ptilopsis:
+Operator Greyy, what determines the result in the end will always be...
+
+Ptilopsis:
+The 'impulse' that drives you forward.
+
+Ptilopsis:
+I cannot confirm whether the fluctuations of my brainwaves right now were caused by this 'impulse,' but it was none other than your actions that drove me here.
+
+Greyy:
+Operator Ptilopsis...
+
+Greyy:
+Thanks.
+
+Even more light begins to emanate above him.
+
+This is beyond the theoretical maximum output numbers that he and Mechanist, the designers of the weapon, had yet to measure.
+
+But these are his Arts.
+
+There has never been a theory capable of fully explaining Originium Arts... And furthermore, this luminance comes not only from his Arts Unit... It comes from his heart.
+
+This luminance in the end pierces through the out-of-control test subject, through the darkness, the clouds, and all the unknowns above.
+
+This thought, hidden within the sparks of electricity, pulses once only.
+
+Nonetheless, Greyy grasps hold of it—He can feel the possibility within.
+
+Ptilopsis:
+A weak signal has been detected...
+
+Ptilopsis:
+Connecting.
+
+Greyy:
+Phew...
+
+Following an intense quake, the enormous test subject positions itself in front of the assembled onlookers.
+
+There was no foreshadowing, and it left no trails of its movement. It simply appeared in that very position.
+
+Greyy:
+Agh...
+
+Silence:
+Stand back, Greyy!
+
+Greyy:
+I...
+
+Silence:
+That's an order—
+
+Silence grabs Greyy's other hand.
+
+A drone takes to the sky and, gathering the golden rays that began to disperse as Greyy's strength starts to give, charges straight toward the silver colossus that shrouds the sky.
+
+The explosion is as loud as a thunderclap. The drone, having risen to the highest point in the sky, disintegrates into countless specks of light that flutter down.
+
+Silence:
+I picked this up from Elena.
+
+Silence:
+Though a trick like this will only work once.
+
+Silence:
+This light... will extinguish eventually.
+
+Ptilopsis:
+Message sent.
+
+Greyy:
+Our most crucial objective has been completed, right?
+
+Silence:
+Yes...
+
+Silence:
+We did it.
+
+She reaches her other hand out to hold Ptilopsis.
+
+The light above them slowly dissipates, revealing the enormous scale of the silver construct.
+
+......
+
+Yet it does not advance.
+
+A layer of fine dust still stubbornly stands between them.
+
+Silence:
+Dorothy...?
+
+Silence:
+You're holding... a treatment band and the reagent.
+
+Silence:
+You're thinking of plugging yourself in...
+
+Dorothy:
+I want to hear their voices.
+
+Silence:
+No!
+
+Silence:
+I told you. I don't know how to wake them up, and I won't know how to wake you up!
+
+Silence:
+You might find yourself swallowed by their consciousness, and your nervous system might see irreversible damage if we destroy this construct, and perhaps...
+
+Dorothy:
+I'm a researcher. I'm willing to accept all the uncertainties.
+
+Silence:
+But I'm your doctor!
+
+Silence:
+I can't just watch you risk your own life—
+
+Dorothy:
+It'll be fine, Olivia.
+
+Dorothy:
+This way, I will get to be with my family.
+
+The test subjects behind her are unable to speak.
+
+The silver construct before her remains silent as ever.
+
+Dorothy closes her eyes and feels the silver reagent flow into her body.
+
+The slightly cold sensation feels as if the fingertips of her family members are caressing her up and down.
+
+Dorothy:
+Olivia...
+
+Dorothy:
+I need the answer.
+
+
+

@@ -1,0 +1,1179 @@
+Vanguard Operator:
+This unripe texture, this slightly-too-salty flavor, oh, I'm finally home again!
+
+Logistics Operator:
+It was just a long mission. You don't have to kiss the deck.
+
+Vanguard Operator:
+Hey, you don't know how I take to Ursus food. It really doesn't agree with me.
+
+Vanguard Operator:
+Our canteen's way better. I like everything here.
+
+Logistics Operator:
+The way you just put it, it doesn't exactly sound like you like it.
+
+Vanguard Operator:
+Something doesn't have to taste good for me to like it.
+
+Vanguard Operator:
+I helped some survivors find their relatives and they thanked me with a banquet. A big, classy, noble shindig.
+
+Vanguard Operator:
+But let's just say my palate isn't so refined.
+
+Logistics Operator:
+Yeah, sure. You're totally dependent on the Rhodes Island Cafeteria.
+
+Logistics Operator:
+So what was the mission?
+
+Vanguard Operator:
+I'm pretty sure you know the deal. Resettling the refugees from Chernobog in other Ursus cities. Easy stuff, but time-consuming.
+
+Logistics Operator:
+Forget I asked. I know how much refugee ops mean to you.
+
+Vanguard Operator:
+Yeah. There's only so much we can do when there's so many of them and so few of us. But a life saved is a life saved.
+
+Vanguard Operator:
+I heard Dobermann talking about how we're not in the best position with Ursus right now, so it's great that Amiya and the Doctor are still willing to do these rescue operations.
+
+Logistics Operator:
+Sure. We lucked out with those two.
+
+Logistics Operator:
+Well, there's another one we owe a lot of thanks too.
+
+Vanguard Operator:
+Oh yeah, I heard about her out on the road. Some girl named Natalya?
+
+Logistics Operator:
+Right. She's a big celebrity here now.
+
+???:
+Oooh, my ears are burning.
+
+Logistics Operator:
+Hey, Natalya, how you doing?
+
+Natalya:
+Good afternoon, Mr. Saren. And you are...?
+
+Vanguard Operator:
+Codename Compass. Nice to meet you.
+
+Natalya:
+Compass.. a fine codename. Good afternoon. Would you mind if I joined you?
+
+Operator Saren:
+By all means!
+
+Compass:
+Hey, didn't I hear she was just a student?
+
+Compass:
+This is no little girl! She's *gulp* pretty big!
+
+Operator Saren:
+What do you think 'student' means?
+
+Compass:
+I don't know how to talk to a lady like this!
+
+Operator Saren:
+Relax. Natalya's real easy-going.
+
+Natalya:
+Did I happen to overhear that the good Compass has just returned from resettling refugees?
+
+Compass:
+That's right. We were just talking about it.
+
+Operator Saren:
+I was telling him all that you did to help.
+
+Natalya:
+Oh my role was completely trivial.
+
+Operator Saren:
+You're too modest. If it wasn't for Natalya pushing the survivors along, we would've had a much tougher time.
+
+Compass:
+The refugees were talking about her too. They said there was a kind young lady who told them Rhodes Island is good people.
+
+Compass:
+And after hearing it right from Saren, I really gotta thank you, Miss Natalya.
+
+Compass:
+The refugees having a good image of us makes all the difference in the world. Without you, I know things would've gone bad out there.
+
+Compass:
+I mean, I was a refugee too. I know how they think. But it still sucks when you're trying to do good and people don't trust you.
+
+Natalya:
+I did the absolute bare minimum. It was you out there doing the real work, Compass.
+
+Natalya:
+And it's not that they don't trust Rhodes Island. It's that they've suffered a Catastrophe and they don't trust anyone.
+
+Natalya:
+I sensed that Rhodes Island had everyone's best interests at heart. And having been Student Council President, I was used to this business. It's what I'm good at.
+
+Compass:
+You hear that, Saren? This is how you talk to people. Listen up.
+
+Operator Saren:
+Didn't I just say Natalya is easy-going?
+
+Operator Saren:
+When word got around that the new kid was some aristocratic heiress, we were all worried about getting along.
+
+Operator Saren:
+But it turns out she's good at her job, easy to talk to, super easy to get along with. We all love Natalya.
+
+Natalya:
+Oh my no. Everyone's only willing to put up with me because I'm so young.
+
+Compass:
+Speaking of, did you decide to stay with Rhodes Island?
+
+Natalya:
+I did. I passed the Logistics Department's examination last week. I am now formally employed by Rhodes Island Pharmaceuticals.
+
+Compass:
+Wow, that's great news. You're gonna love it here, trust me.
+
+Natalya:
+I'm already very pleased.
+
+Natalya:
+As long as we're on the subject, Mr. Saren, I've finished compiling the second refugee manifest, pairing names with destinations. If you wouldn't mind sending it along after lunch.
+
+Operator Saren:
+What? Already?
+
+Operator Saren:
+That means the refugees we saved all have somewhere to go?
+
+Natalya:
+Yes. Aside from those who are still undergoing treatment.
+
+Operator Saren:
+Incredible. It's a good thing the section chief put you on the task.
+
+Natalya:
+I'm only doing my duty.
+
+Compass:
+I guess I'd better go put in for the second resettlement op then.
+
+Operator Saren:
+You want to head out there again? Didn't you just get done telling me you can't stand Ursus food?
+
+Compass:
+Yeah, but seeing the survivors return to their homes and their relatives, seeing them so happy makes up for it.
+
+Compass:
+Right, I'm about done with lunch. Help me with the tray, will you? I gotta go apply.
+
+Operator Saren:
+Hey, bus your own tray!
+
+Operator Saren:
+Sorry about him, Natalya. That's just how he is.
+
+Natalya:
+Our good Compass has quite the attachment to the refugees...?
+
+Operator Saren:
+He does. You heard him say he was a refugee too, right? One of our teams saved him, so he's pretty gung ho about any ops that have to do with refugees.
+
+Natalya:
+And you seem to get along well?
+
+Operator Saren:
+Oh, yeah. I guess we do. He was in Logistics for a bit, before transferring to the front lines. We had some time together, our personalities clicked, and so we're friends.
+
+Operator Saren:
+You're with that Ursus Student Self-Governing Group, right?
+
+Natalya:
+Yes. But Son... Zima and the girls are front line operators like Compass, and I'm in Logistics.
+
+Operator Saren:
+I heard you were all found together. You're very close too?
+
+Natalya:
+...Yes, yes we are. We were together all that time. We're very close.
+
+Operator Saren:
+You went through it as a group. That's good. Err, not to say that kind of hardship is good.
+
+Natalya:
+I know what you mean.
+
+Zima:
+......
+
+Natalya:
+Oh? Zima...
+
+Operator Saren:
+Speak of the devil, huh?
+
+Operator Saren:
+Is she staring at you?
+
+Natalya:
+Yes.
+
+Natalya:
+......
+
+Natalya:
+Forgive me, Saren. I must be going.
+
+Operator Saren:
+Yeah, sure.
+
+Natalya:
+Are you looking for me, Zima?
+
+Zima:
+......
+
+Natalya:
+Are you okay? You look pale.
+
+Zima:
+I...
+
+Zima:
+I'm fine. I shouldn't have come looking for you. Forget I was here.
+
+Natalya:
+Hey, wait.
+
+Zima:
+Don't touch me!
+
+Natalya:
+Talk to me, Sonya. We haven't had a good talk since we came here.
+
+Zima:
+......
+
+Natalya:
+Come to my room.
+
+Natalya:
+Have a seat. Care for a drink? Coffee? Tea? I have both.
+
+Zima:
+...That's the aristocrat in you.
+
+Natalya:
+You still have the strength to tease me. Looks like you're in better shape than I thought. Your face back there was a ghastly sight.
+
+Natalya:
+Let's call it coffee then. Rhodes Island has some fine beans, but I can't say the same for their tea.
+
+Natalya:
+I've heard it has to do with the Chief Engineer. She's quite particular about her coffee. What do you think?
+
+Zima:
+How should I know?
+
+Natalya:
+Heh heh. I've been hearing nothing but praise lately. I'd missed your venomous tongue.
+
+Zima:
+And I'm sick of you already.
+
+Natalya:
+Do you take it with sugar?
+
+Zima:
+No.
+
+Natalya:
+Really? It's black.
+
+Zima:
+No.
+
+Natalya:
+Alright.
+
+Natalya:
+Enjoy.
+
+Zima:
+......
+
+Zima:
+Bleh.
+
+Natalya:
+It's too bitter, isn't it?
+
+Zima:
+......
+
+Natalya:
+Come now. Take a spoonful of sugar.
+
+Zima:
+Did you drag me here to screw with me?
+
+Natalya:
+You're the one who wouldn't take the sugar, Sonya.
+
+Zima:
+Hmph.
+
+Natalya:
+And let's not forget, it was you who came looking for me.
+
+Zima:
+I already told you, that was a mistake. We're not friends. I don't like you.
+
+Natalya:
+True. We're not friends. Nor is Anna my friend. We simply survived together.
+
+Zima:
+Simply...
+
+Natalya:
+Sonya, there are some things that are harder to say to those closest to you.
+
+Natalya:
+If you were my friend, I would not have brought you here.
+
+Natalya:
+Some things can only be said to someone unimportant, someone who understands your situation.
+
+Natalya:
+For me, the best person is Anna. But you'll do.
+
+Natalya:
+Mmm... Rosalind is too direct and open. While Lada is too honest and kindhearted. They won't do.
+
+Natalya:
+Surely you feel the same. Which means you have only me, I'm afraid. I'm honestly not surprised you came to me.
+
+Zima:
+Does that mean you want to talk to me?
+
+Natalya:
+Yes.
+
+Zima:
+Why?
+
+Natalya:
+...Sonya, these last two months, how do you feel, fighting as an operator?
+
+Zima:
+What do you mean 'feel?' It's just fighting. I guess it does suck to have to listen to that Doctor.
+
+Natalya:
+Your talking back to the Doctor even made it up to Logistics. You're quite something.
+
+Zima:
+...I'm not like you. I don't talk fancy.
+
+Natalya:
+What I really want to ask is, after all we've been through, do you not struggle to pick up a weapon?
+
+Zima:
+...I like fighting.
+
+Natalya:
+I see... Still, I think it would be in your best interest to learn some 'fancy talk.' It could save your life.
+
+Zima:
+You don't have to worry.
+
+Natalya:
+We may not be friends, but we've been through so much together. I think it's normal to care about you, as a colleague.
+
+Natalya:
+And to tell the truth, I do quite like you. I would like to be your friend.
+
+Zima:
+...Huh?
+
+Natalya:
+To be more precise, I'd say I envy you. Because you do so easily what I could never do.
+
+Natalya:
+Now then, Sonya, won't you tell me what made you seek me out?
+
+Zima:
+...I've been having nightmares lately.
+
+Natalya:
+Can you describe them to me?
+
+Zima:
+...No.
+
+Natalya:
+Alright. Let me guess. They must be something you can't talk to Anna about. Otherwise you wouldn't have come to me, right?
+
+Zima:
+...Right.
+
+Natalya:
+I figured it out while we were still in Chernobog.
+
+Natalya:
+You two have an understanding. You each know what the other needs, but you avoid talking about it.
+
+Zima:
+None of your business.
+
+Natalya:
+Relax, I'm not trying to tell you what to do. I'm in no position to be giving advice to others right now.
+
+Natalya:
+Let's talk about something else, Sonya. Do you plan to live your life as Zima now?
+
+Zima:
+What do you mean?
+
+Natalya:
+I mean are you going to stay at Rhodes Island?
+
+Natalya:
+We don't have to. The people here are very understanding. If we wanted to leave, they would send us off somewhere peaceful.
+
+Natalya:
+There are many survivors like us, rescued at the same time, already on their way back to Ursus.
+
+Natalya:
+If we wanted to, we could go to another city in the Empire and start new lives.
+
+Zima:
+So why haven't you left?
+
+Natalya:
+I don't know.
+
+Zima:
+......?
+
+Natalya:
+Nice weather today. Isn't it, Sonya?
+
+Natalya:
+Perfect for a picnics.
+
+Zima:
+Hey.
+
+Natalya:
+Back when we were combing through the ruins, desperate for food, stretching a single bottle of water to last an entire day, I often thought to myself:
+
+Natalya:
+'If I survive this, I'm going to find a lovely garden on a sunny afternoon and have a sumptuous picnic.'
+
+Zima:
+Hey!
+
+Natalya:
+But far more often I thought——
+
+Natalya:
+'I wish you killed me that day.'
+
+Natalya:
+Don't hesitate. Don't pity me. Don't think to save me. Look down at this wretched aristocrat girl, and swing your axe.
+
+Natalya:
+It may have been the very best thing for me, had you just ended my life right there.
+
+Zima:
+There's still time.
+
+Natalya:
+You really could?
+
+Zima:
+......
+
+Natalya:
+We left that place, Sonya. We've returned to the civilized world.
+
+Natalya:
+We must think as civilized people. We must use civilized methods to solve our problems. Those things that happened back there cannot happen again.
+
+Zima:
+Who cares.
+
+Natalya:
+You care. You're a good person, Sonya. 'General Zima,' Protector of the Weak, Bane of the Bullies.
+
+Zima:
+Don't make me puke.
+
+Natalya:
+That's the Sonya I heard rumors about.
+
+Zima:
+I just can't stand those punks who get a little bit of strength and think it's a license to bully.
+
+Natalya:
+You must hate the aristocracy then?
+
+Zima:
+Duh. A bunch of a fake-ass self-important shitheads.
+
+Natalya:
+Yes. They, or rather, we are 'fake-ass self-important shitheads.'
+
+Natalya:
+Since you brought me back, I don't think I've ever told you what happened to me before you showed up, did I?
+
+Zima:
+Nope. I just know you were in charge of that gang of nobles.
+
+Natalya:
+I'll tell you the story sometime.
+
+Zima:
+Whatever.
+
+Natalya:
+Most of the nobility and wealthy people fled the city when Reunion came, or even before.
+
+Zima:
+They know they were coming?
+
+Natalya:
+Yes. They did.
+
+Zima:
+...sons of bitches.
+
+Natalya:
+Indeed. But you know, nobles are selfish.
+
+Zima:
+You too?
+
+Natalya:
+Yes.
+
+Zima:
+So why did you stay?
+
+Natalya:
+My family was just too slow. We were trapped with some other noble families. Some houses didn't take the threat seriously, of course.
+
+Zima:
+Oh.
+
+Natalya:
+Come now, don't give me that face. This background is important to frame the story. We'll get to the good part.
+
+Natalya:
+In short, the students who were sent to your school fell into into either the 'slow' or 'stupid' categories.
+
+Natalya:
+We were at first meant to stay with our parents, for Reunion to use as hostages to bargain with the Empire. But in the end, we were separated and sent to the school.
+
+Zima:
+That's kinda weird.
+
+Natalya:
+It was. Nobles make good hostages in a time of war. Not to be wasted.
+
+Natalya:
+The aristocracy is elegant, noble, and should command respect. Even as a captive, one must never forget her house.
+
+Zima:
+You're all screwed in the head.
+
+Natalya:
+The old me would have locked you in a two hour debate for saying that, Sonya. Because that's how I was raised.
+
+Natalya:
+But now, I agree.
+
+Natalya:
+There is no real difference between nobles and commoners. It's all window dressing. Scrape off the veneer and the aristocracy is truly ugly.
+
+Natalya:
+We talked about how if it weren't for the first fire, if we didn't lose that food store, things wouldn't have gotten so bad.
+
+Zima:
+But Anna said even without the fire, something else would have happened.
+
+Natalya:
+If I had been through that, I would have thought the same.
+
+Natalya:
+But in any case, it's post-hoc—— 'What needed to happen to cause all that came after.'
+
+Natalya:
+The funny thing is, nobles don't need anything to happen. Put them together and they fight.
+
+Zima:
+Why?
+
+Natalya:
+Should I get into the differences between new and old nobility? The mayor's political leanings? How many factions there are in the Chernobog aristocracy?
+
+Zima:
+Could you, like, not do that?
+
+Natalya:
+But then you won't understand why they fight.
+
+Zima:
+I guess I'll just never understand.
+
+Natalya:
+I'm not really interested in these things either. But as a daughter of the House of Rostov, I had to learn.
+
+Natalya:
+All you need to know is that from the very first day we were locked up in the school, the noble students were backstabbing each other.
+
+Natalya:
+I had no choice but to step forward as the Student Council President of #4 Secondary School and use my status to bring order.
+
+Zima:
+You mean you organized them to put an end to the infighting?
+
+Natalya:
+Sounds reasonable, doesn't it? In order to stop my classmates from fighting, I stood up and took charge.
+
+Viktor:
+Uh, ah...
+
+Nikola:
+Don't think you rule the roost just because your father owns a mine, Pavel!
+
+Pavel:
+A mere baron dares to take such a tone with me. He's lucky he doesn't find my blade in his chest.
+
+Pavel:
+As for you, second son of the House of Ivanov, when did it become your turn to speak? Maybe you'd like a new hole in your torso as well?
+
+Nikola:
+How dare you...?! My father is a councilor!
+
+Pavel:
+A councilor? Do you know how many councilors come to my mother's soirees every Sunday?
+
+Pavel:
+Oh, you don't? Because your father doesn't make the cut.
+
+Nikola:
+You!
+
+Natalya:
+Hold your tongue, Pavel!
+
+Pavel:
+Please, Natalya, call me Pasha. You need not be so formal.
+
+Natalya:
+I'm serious, Pavel Nikolaevich! You are not to start another senseless quarrel!
+
+Pavel:
+As you wish, my esteemed President of the Student Council.
+
+Natalya:
+Tatyana, please bandage Viktor's wound.
+
+Tatyana:
+O- of course!
+
+Natalya:
+Ladies and gentlemen, we have been sealed inside this school. We know not what will happen. But I suspect that Reunion Movement won't let us go lightly.
+
+Natalya:
+Look at what you've become. It hasn't been twelve hours and you're arguing, fighting, even threatening to kill your fellow nobles.
+
+Natalya:
+Is this how the aristocracy behaves?!
+
+Anton:
+Who the hell are you? Why should I listen to you?!
+
+Tatyana:
+Because she is the president of the student council at #4 Secondary School, Natalya Andreyevna Rostova!
+
+Anton:
+Y- you're the eldest daughter of Count Rostov?!
+
+Andrey:
+She is the 'Pearl of #4,' the one whom Count Rostov has declared his heir.
+
+Natalya:
+We have gathered here the nobility from each district secondary school. I do not wish to focus on my rank. I simply must impress upon you all the gravity of our situation.
+
+Natalya:
+We find ourselves surrounded by many common students, and I do not want them to see such disgraceful conduct from us.
+
+Natalya:
+Furthermore, while we have been trapped here by the Reunion Movement, they will not seek to harm us, if they wish to secure concessions from the Empire.
+
+Natalya:
+Are we going to waste our precious lives on such infighting?!
+
+Natalya:
+We need unity, now more than ever!
+
+Natalya:
+Of course, we now know Reunion didn't give a damn about us aristocrats.
+
+Zima:
+......
+
+Natalya:
+Anyway, I was able to put a stop to their fighting. But in a situation like that, pretty words and a fancy title will only get you so far.
+
+Natalya:
+Sonya, do you know why the Empire of Ursus is as strong as it is?
+
+Natalya:
+In fact, there were quite a few noble students who were unwilling to submit to my authority, or share the same room with someone else, and left the group.
+
+Natalya:
+In the end, I had some three dozen under me.
+
+Natalya:
+At the time, I thought I had done very well.
+
+Zima:
+So that's why there were still so many noble shitstains lurking around.
+
+Natalya:
+Yes, I'm sure they made their own groups as well.
+
+Zima:
+How was I supposed to know?
+
+Natalya:
+It's a shame. I'm enjoying this conversation with you, but I do wish Anna was here for it.
+
+Zima:
+Don't change the subject.
+
+Natalya:
+Oh, I'm sorry. I do have more to say, but it's hard to get the words out.
+
+Natalya:
+Ursus is what it is today because of war. The previous monarch waged endless war, pillaging resources, and investing them in the next campaign.
+
+Natalya:
+As long as there was war, the Empire could function, the people united in their common struggle.
+
+Nikola:
+I... I agree with President Rostova.
+
+Pavel:
+I will submit to the President's leadership.
+
+Natalya:
+If you are all willing to put your trust in me, I am willing to serve the group.
+
+Natalya:
+(I was able to stop the fight, barely, but what do I do next...?)
+
+Pavel:
+That being the case, I have a proposal.
+
+Natalya:
+Oh?
+
+Pavel:
+You were correct when you said we have a responsibility to preserve the dignity of the aristocracy.
+
+Pavel:
+Therefore, it's time the commoners offered us a contribution, to ensure we can live in such dignity.
+
+Zima:
+You mean...?
+
+Natalya:
+Yes, I agreed to let them prey on the commoners.
+
+Natalya:
+Sonya, I used to think myself a good person.
+
+Natalya:
+At least, at the time, that's how I thought.
+
+Natalya:
+I would find the social machinations of the aristocracy boring and hypocritical, I would bemoan the tragedies of the world, I would even serve meals to refugees.
+
+Natalya:
+But I will not lie to you, or to myself.
+
+Natalya:
+At that time, to unite the nobles, I allowed them to pillage.
+
+'Wham!' The white-haired girl is thrown to the floor. She takes a few solid hits to the face. And as the slight trickle of crimson blood slips from her mouth, it curls into a smile.
+
+A tragic smile.
+
+Natalya:
+*Cough,* *cough...*
+
+Zima:
+You piece of...
+
+Natalya:
+I am a monster.
+
+Natalya:
+But you know, Sonya, I wouldn't realize it if I never spent that time with you, if I never came to Rhodes Island.
+
+Natalya:
+Without these experiences, I would not think as I do now.
+
+Natalya:
+You taught me that I am not noble, in the true sense of the word. And that is the most painful knowledge I must endure.
+
+Natalya:
+That is why I say it would have been better had you killed me like you did my companions.
+
+Natalya:
+I could have died peacefully, indulging in the fantasy that I was a good girl, that I was forced by circumstance to do what I did.
+
+Natalya:
+...Do you know, Sonya, what this is?
+
+Zima:
+A letter opener.
+
+Natalya:
+These past few months, I have twenty-six times thought to slit my wrists. Fifteen times I thought to slash open my throat.
+
+Zima:
+...You can count 'em, huh?
+
+Natalya:
+Because each time I fail, I laugh at myself for being such a stupid coward. That stays with me.
+
+Natalya:
+Of course, I've considered more aristocratic methods as well: poisoned tea, a saber. I've even thought carefully about what calligraphic style to use in my suicide note.
+
+Natalya:
+Unfortunately, all of those methods would be discovered before I could pull off the deed. And I don't want to make trouble.
+
+Zima:
+What's your point?
+
+Natalya:
+I...
+
+Natalya:
+I told Rhodes Island: I want to stay here and do what I can for the people of Ursus.
+
+Natalya:
+I told myself: Natalya, this is your atonement.
+
+Natalya:
+But is that true?
+
+Natalya:
+Whenever I think of Nikola's smile, of any of their faces as they came to me, triumphant after robbing the commoners; of my cowardice as I smiled back at them, rather than reprimanding their evil.
+
+Natalya:
+Whenever I think of all that I let them do, of the plans I would make for them, of the joy I took in our comfortable hoard of supplies.
+
+Natalya:
+Whenever I think of all the screaming and crying I ignored, of how I thought myself innocent by way of circumstance, of how I began to grow accustomed to living that way.
+
+Natalya:
+Sonya, can you believe it? That in that entire battle royale, I did not kill a single person?
+
+Natalya:
+And yet, I bear the most guilt.
+
+Natalya:
+Did you think I brought you here to tell you what you should do?
+
+Natalya:
+No, Sonya. I don't know. I have no idea. About anything.
+
+Natalya:
+I don't even know how to tell people I don't know! All I can do is put on that stupid facade that I have everything perfectly under control as I drag you in here!
+
+Zima:
+......
+
+Natalya:
+......
+
+Zima:
+Do you...?
+
+Natalya:
+Phew, I'm sorry. I lost my composure.
+
+Zima:
+...Do you want something to drink?
+
+Natalya:
+Black tea, please. Thank you.
+
+Zima:
+Okay.
+
+Zima:
+So uh, where do you keep the black tea?
+
+Zima:
+You've got a shitload of different tea boxes over here. I can't tell what's what.
+
+Zima:
+Oof.
+
+Natalya:
+Hup.
+
+Natalya:
+I'll get it, Sonya.
+
+Zima:
+Uh, sorry.
+
+Natalya:
+It just occurred to me you probably don't know how to make tea. Forgive the momentary lapse in judgment that pushed you to do something you're not good at.
+
+Zima:
+Why you...
+
+Natalya:
+Say, Sonya, what exactly were you thinking back then?
+
+Zima:
+Huh?
+
+Natalya:
+After the fire, I ran as fast as I could only to be caught by some other students. Why did you save me?
+
+Natalya:
+You knew of course that I was the leader of the nobles wreaking havoc just days before.
+
+Zima:
+I forget.
+
+Zima:
+You probably just looked too pathetic.
+
+Natalya:
+Then why would you let me join the Self-Governing Group?
+
+Zima:
+Because Anna said it was okay.
+
+Zima:
+Do you want me to hate you, Natalya?
+
+Natalya:
+I don't know. Can you hate me?
+
+Zima:
+I've never seen a shithead admit she's a shithead before.
+
+Natalya:
+So a shithead who admits she's a shithead isn't a shithead anymore?
+
+Zima:
+...Do you want me to crush you?
+
+Natalya:
+I'm no masochist. It's just, how should I say? I'd like to be honest with you, um, after all that you just heard, to avoid any misunderstandings.
+
+Zima:
+Maso... what?
+
+Natalya:
+Oh, that's just a kind of 'hobby' popular in aristocratic circles. I've only heard rumors, actually. Don't worry about it.
+
+Zima:
+As long as I don't have to kick your ass again.
+
+Natalya:
+You don't want to?
+
+Natalya:
+Do you prefer Columbian or Victorian? Tea, that is.
+
+Zima:
+...You're right back to your old self.
+
+Zima:
+Whatever, I can't drink it anyway.
+
+Natalya:
+It's how I was raised. I must show my most refined side at all times.
+
+Natalya:
+Sugar?
+
+Zima:
+...Yeah.
+
+Natalya:
+Sorry, you can't sweeten this kind of tea. Drink it straight, please.
+
+Zima:
+You suck.
+
+Zima:
+Hmph.
+
+Zima:
+Look, Natalya, I don't know how I'm supposed to cheer you up. And anyway I really don't wanna.
+
+Natalya:
+Oh? Not only do you not hate me, you want to comfort me?
+
+Zima:
+Shut your tea hole.
+
+Natalya:
+Alright, alright.
+
+Zima:
+I hate trying to comfort people. Every time I try, I screw everything up.
+
+Zima:
+All I can do is tell you what I'm thinking.
+
+Zima:
+You asked me a minute ago if I was gonna keep on living as Zima.
+
+Zima:
+The answer is yes.
+
+Zima:
+My mom and dad died in Chernobog. There's nothing for me to go back to. I don't wanna go back to Ursus. So that's that.
+
+Zima:
+I think I should be able to understand your pain or whatever, but I really don't.
+
+Zima:
+At first, I thought you wanted to justify yourself. Punks talk like that when they want to sucker-punch me while I'm distracted. But you seem legit sad. Why?
+
+Zima:
+Those noble shitstains wouldn't have been any better off without you. And you're not the one who turned them into dickheads anyway. You didn't make all that happen.
+
+Zima:
+It was actually me...
+
+Natalya:
+You?
+
+Zima:
+Nothing, forget it. But if I was one of those nobles, I might've liked having a leader like you. Same way Istina chose me.
+
+Zima:
+You did what you could.
+
+Zima:
+I only hate you because you were my enemy before you weren't. Also I hate nobles. That's all.
+
+Zima:
+Oh, and I have nightmares, and the nightmares make me puke, and then I can't sleep because I'm sad.
+
+Zima:
+But doing what you can to survive isn't bad.
+
+Zima:
+And I don't think it was bad to let you live.
+
+Zima:
+You think you're a shithead. But I know, without you, just relying on Anna, we never would've survived those next couple weeks.
+
+Zima:
+Just go for a run. Eat when you're hungry. Sleep when you're tired. Better than sitting around moping.
+
+Natalya:
+Hup.
+
+Zima:
+What?
+
+Natalya:
+Ahahahahaha.
+
+Zima:
+What's making you laugh like that? Jeez, you're tearing up.
+
+Natalya:
+Nothing. It's just, this is why it's nice to chat with you.
+
+Natalya:
+If it were Anna and me, we'd be bawling our eyes out over each other by now.
+
+Zima:
+She doesn't like you either, don't forget.
+
+Natalya:
+I know. Pfft. Hahaha! I know.
+
+Natalya:
+Listen, Sonya.
+
+Zima:
+What are you doing?
+
+Natalya:
+I want you to know, you completely failed to address my problem.
+
+Zima:
+I'm way too lazy to care.
+
+Natalya:
+And I think there's nothing I could do to help with yours.
+
+Natalya:
+But you were right on one point: we survived.
+
+Natalya:
+Do you think we'll get over it, in the end?
+
+Zima:
+Huh?
+
+Natalya:
+The circle beneath our feet, the night, the maze, our minds, our thoughts, the abyss.
+
+Zima:
+Could you use like, real words?
+
+Natalya:
+Right, right. Anyway, operators all have codenames, right? If I were to become an operator, what should my codename be?
+
+Zima:
+How should I know? Anna picked mine.
+
+Natalya:
+Okay. What do you think of Rosa?
+
+Zima:
+Ursine for 'dew?'
+
+Natalya:
+Yes, like morning dew. Can you call me 'Rosa?'
+
+Zima:
+O...kay?
+
+Rosa:
+It's settled. If I'm to become an operator, they'll call me Rosa.
+
+
+

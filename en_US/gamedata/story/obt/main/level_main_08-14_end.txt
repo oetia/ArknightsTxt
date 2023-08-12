@@ -1,0 +1,1250 @@
+I need to go forward.
+
+......
+
+Operators, prepare the mist! Eliminate all the dust in the area!
+
+......
+
+I need to go forward.
+
+......
+
+Fall back! The mutation has reached its limits! Avoid putting any more pressure on the target!
+
+......
+
+Someone's talking. Someone's singing.
+
+......
+
+All dreams sink to the bottom of the lake♪
+
+......
+
+Life is important. Really important.
+
+My friends lost their lives. They all left me.
+
+They stopped. They won't go on anymore.
+
+......
+
+......
+
+Mon3tr! Prepare to fire!
+
+......
+
+Where should I go?
+
+I know. I get it now.
+
+But no matter where I go, people are going to beat me up.
+
+It hurts. If I hit them back, then they will hurt.
+
+I don't want it to hurt anymore, but... it really hurts right now.
+
+......
+
+Is this going to do it?! Are all Infected going to end up like this?!
+
+......
+
+I can't. I need to keep moving forward. They are worried. I can't keep them worried about me.
+
+......
+
+...'tis a reality that even time cannot shake♪
+
+......
+
+I know. They don't like me. But they don't like me because I did something bad.
+
+I don't want to do anything bad anymore.
+
+......
+
+Dr. {@nickname}! I told you this before. Whether it's the symptoms or the causes that we eliminate, it makes no difference to me whatsoever!
+
+......
+
+It's dark here. Where will I end up?
+
+......
+
+Then hurry up and make a decision!
+
+......
+
+Do as I told you!
+
+......
+
+......
+
+This has to be a dream, right?
+
+A dream where everyone is just hanging around quietly, smiling.
+
+I need to wake up soon. You always wake up from dreams. If you don't wake up, it's just the same thing as not moving on.
+
+I need to go forward.
+
+......
+
+Seal the hatch! Dispose of all Infection sources! Quick!
+
+......
+
+Let's go. Let's go.
+
+I won't look back.
+
+I think... I figured it out.
+
+I need to tell them this.
+
+Right, I need to tell them.
+
+Being alive is a good thing. Being alive is precious. Being alive is painful. But some of my friends... have walked a long, long road.
+
+Now I remember.
+
+I need to tell them.
+
+It's a good thing to be alive.
+
+Let's go.
+
+Goodbye, my home. Goodbye, the person who sang for me. Goodbye, Talulah. Goodbye, Sasha.
+
+Goodbye, my friend.
+
+Kal'tsit swipes her finger across the control panel, and the sarcophagus's low, thunderous roar immediately dissipates.
+
+Kal'tsit:
+We put an end to the sudden disaster.
+
+Kal'tsit:
+...We've fulfilled our obligations and completed our mission. Chernobog's core city has lost its power source.
+
+Kal'tsit:
+I can guarantee that this facility won't be reactivated within the next few years.
+
+Kal'tsit:
+For the next few hours, the core city will only be able to use the energy it has stored to power its engines. Once that is used up, the entire city is nothing more than a hunk of scrap metal.
+
+Kal'tsit:
+We've done all we can here. However, if we want to bring it to a halt before it crashes into Lungmen, we'll have to use the emergency brakes.
+
+Kal'tsit:
+That's Amiya's mission, and only Amiya has what it takes to fulfill that mission.
+
+Kal'tsit:
+If the Ursus Empire still wants it, then let them have it.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+There were two things that happened here that had to do with me.
+
+Kal'tsit:
+The first of those happened some twenty years ago.
+
+Kal'tsit:
+About twenty years ago, a small mining company controlled by the Boris Group of Ursus unearthed a strange set of equipment in the southern mountains.
+
+Kal'tsit:
+News about this quickly traveled to the conglomerate's leader—Count Boris.
+
+Kal'tsit:
+At the time, the Count made a bold decision. He tried to build an industrial city with all the necessary facilities and equipment with the expectation that his conglomerate could shake its reliance on the military-controlled mining industry and the arms trade.
+
+Kal'tsit:
+Now, the equipment could have been some inheritance passed down by the gods or a device of Sarkaz witchcraft. That doesn't matter. As long as it worked, it would give the Boris Group the breakthrough they needed.
+
+Kal'tsit:
+Of course, it could also have been nothing but worthless scrap, and any amount of research would not have produced any meaningful results. It could also have been something perilous. Something that could level multiple settlements in the blink of an eye.
+
+Kal'tsit:
+They put together a team of talented scientists. All of them were young, sick of working with elementary theories, embittered by society, in need of money, and had been marginalized by academia for years.
+
+Kal'tsit:
+That's right.
+
+Kal'tsit:
+Soon after I left Columbia, I found out about this through my own networks. I joined the group—in order to keep them from blowing the entire city up.
+
+Kal'tsit:
+I am something like an expert on the topic, so, one way or the other, I ended up becoming the scientists' mentors.
+
+Kal'tsit:
+Now, Chernobog wasn't just your average emerging city. It used to be old and run down.
+
+Kal'tsit:
+Before the scientists realized what the device's true purpose was, I allowed them to siphon a certain amount of its energy to provide Chernobog a resource other than Originium. Not much, but certainly not negligible.
+
+Kal'tsit:
+Count Boris was beyond elated. He paid all that money, and he certainly got his money back.
+
+Kal'tsit:
+He was someone who really knew how to do business.
+
+Kal'tsit:
+Chernobog quickly developed, and droves after droves of people were drawn to the city, seeking opportunity.
+
+Kal'tsit:
+Many smaller cities joined the Boris Group as well, either out of respect for Boris himself or because they were awed by how generous the man was with his money.
+
+Kal'tsit:
+With Chernobog propelled to the fore, the scientists' research also reached an important breakthrough.
+
+Kal'tsit:
+I... probably should've stopped them.
+
+Kal'tsit:
+Let me continue.
+
+Kal'tsit:
+Brilliant as they were, a few of my students uncovered the device's secrets on their own. First, they realized that the energy they were siphoning was generated only as a side effect of the device's operations. A kind of hibernation mode...
+
+Kal'tsit:
+Its original purpose was for the device to keep functioning normally.
+
+Kal'tsit:
+There was also one other thing that they realized. The energy that they had been siphoning for Chernobog was but a small fraction of the energy the device could actually provide. Just a tiny, tiny fraction.
+
+Kal'tsit:
+At first, they were ecstatic.
+
+Kal'tsit:
+This had to potential to greatly reduce Chernobog's reliance on the Originium mining industry.
+
+Kal'tsit:
+If they could put together something similar to the device, then Ursus would never have to worry about energy again, and the mining and refining process of Originium would also become much simpler.
+
+Kal'tsit:
+Then, fear began to sink in. If all that energy was used to forge weapons or begin a conquest, Ursus would undoubtedly be engulfed in a sea of flames yet again.
+
+Kal'tsit:
+Now, fortunately, the scientists were all good, upstanding people. They wanted to prevent disaster.
+
+Kal'tsit:
+And unfortunately... that didn't change a thing.
+
+Kal'tsit:
+When the Fourth Army got involved, the scientists had already realized just how serious the whole situation was.
+
+Kal'tsit:
+And by the time my students were ready to have the device sealed, the secret police had already figured out all of their weaknesses.
+
+Kal'tsit:
+Ilia was a leader amongst the scientists. He was both righteous and stubborn, qualities that went hand in hand.
+
+Kal'tsit:
+The secret police knew that kidnapping his family would only unleash the hatred in him, so they picked someone else.
+
+Kal'tsit:
+Sergei, my oldest student.
+
+Kal'tsit:
+He was Skullshatterer and Misha's father, a very indecisive chap.
+
+Kal'tsit:
+The secret police hardly even threatened him, and that was enough to destroy what little determination he had.
+
+Kal'tsit:
+The fear of losing his family and his respect for his colleague and their work tormented him, and in the end he chose what must have felt like a compromise to him.
+
+Kal'tsit:
+He turned over the experiments' objectives and data to Count Boris.
+
+Kal'tsit:
+The reality is he shouldn't have trusted anyone. A drowning man will clutch at a straw, yet that straw could also be the very thing that ends up killing him.
+
+Kal'tsit:
+The Count didn't protect the scientists. He protected just Sergei and allowed the military to carry out an attack, which then turned into a massacre.
+
+Kal'tsit:
+The Count didn't have the power to protect the scientists. He could barely even hold his head up in the presence of the military's top brass.
+
+Kal'tsit:
+Even though the military and the nobility had lost much of their influence after the Great Rebellion, that didn't change the fact Count Boris's family was new money. They bought their noble status from another family.
+
+Kal'tsit:
+Sergei managed to save his children, and the price he had to pay was to watch the murder of all of his colleagues in the Core City's sarcophagus.
+
+Kal'tsit:
+After all the bodies were removed and the blood cleaned up, a new lab was set up for Sergei, built on top of his crumbling mentality.
+
+Kal'tsit:
+Needless to say, Sergei never again produced anything meaningful with his research, and with the loss of all of their distinguished, albeit overly honest, scientists, Ursus's research on the device ended up in quite the mire.
+
+Kal'tsit:
+After that, everyone simply forgot about the place. No one cared. Nothing could be changed.
+
+Kal'tsit:
+After the secret police and the garrison packed their bags, the Count and Sergei had the placed sealed... The whole process was uneventful, too.
+
+Kal'tsit:
+The equipment was kept running, and the energy just kept flowing from the sarcophagus to Chernobog's core city. Perhaps powering the entire city, even.
+
+Kal'tsit:
+For Sergei's service and sacrifice, the Count nominated him to the position of the City Council secretary.
+
+Kal'tsit:
+Oh, and this happened after Sergei's son, Alex, was found to be Infected and exiled.
+
+Kal'tsit:
+The Count finally had the power to stand up against the military, and factories big and small began to spring up around his core city.
+
+Kal'tsit:
+The Fourth Army no longer had him under their thumb. All they could do was watch Chernobog leave its circle of influence.
+
+Kal'tsit:
+In the years since Chernobog began its operations, Count Boris also managed to make an enemy of Grand Duke Baikal, one of the advisors of the Third Army and the biggest beneficiary of the Farscope Refinery, thanks to their disputes over the prices of the raw materials used in manufacturing.
+
+Kal'tsit:
+The Grand Duke ordered several clandestine attacks on the city, but none of the attempts were able to shake the city. It had already become one of Ursus's most important cities.
+
+Kal'tsit:
+The Count then arranged matters so that the military was not allowed to garrison in Chernobog, so the armies could only do as the emperor told them, and stationed in the city's surroundings to defend it. To keep a watchful eye on the place, so to speak.
+
+Kal'tsit:
+What's more, Chernobog is not bound by the military and the old nobility's rules. One after another, copycat cities began to emerge all around Ursus. The desire for minerals and products drove the masses to seek out better ways.
+
+Kal'tsit:
+Instead of being mere slaves that reek of filth and blood, they wanted to become slaves of a higher purpose.
+
+Kal'tsit:
+Not completely.
+
+Kal'tsit:
+I personally think that the moment the scientists... my students died at the hands of Ursus's greed, Chernobog was doomed to fall.
+
+Kal'tsit:
+But be that as it may, I never used that as an excuse to forgive myself.
+
+Kal'tsit:
+Now, thanks to everyone's kindness and fortitude, here's something I considered: Suppose it was used for the benefit of others, and suppose it was able to provide us a different path...
+
+Kal'tsit:
+Ursus's scientists would've used it for the greater good—Though I can see how that would've turned out.
+
+Kal'tsit:
+The person I used to be would never have arrived at that conclusion. It would just lead to the deaths of even more people. No matter how magnificent everything may seem in the beginning, in this evil world, our benevolence will always be twisted into something else.
+
+Kal'tsit:
+In other words, Dr. {@nickname}.
+
+Kal'tsit:
+I was the one who sent them to the slaughterhouse.
+
+Kal'tsit:
+I did nothing except stand there and watch them die.
+
+Kal'tsit:
+And it all happened because the place I presumed the path would take us was a place I dreamt up out of immaturity. It's a dream that will never come true in the world we live in.
+
+Kal'tsit:
+All because they were all too kind.
+
+Kal'tsit:
+...Are you sure you want to know?
+
+Kal'tsit:
+It's not something one would normally consider a part of a doctor's responsibilities. I am sure you are well aware, Dr. {@nickname}. I am more than just a doctor.
+
+Kal'tsit:
+I can see you don't truly want to know. You are merely curious. Once you know the answer, you will only come to regret it.
+
+Kal'tsit:
+I don't want you to regret this, Dr. {@nickname}. At least not yet. All I will say is that you were much better at handling these things than I.
+
+Kal'tsit:
+Perhaps you've already found your own answer, and thanks to your pity, or maybe benevolence, you are stopping me before I embarrass myself with a mistake.
+
+Kal'tsit:
+You've saved my image and elevated yours. An awkward win-win situation, it seems. Thank you, Doctor.
+
+Kal'tsit:
+I have lots of questions that I don't want to answer.
+
+Kal'tsit:
+It's true. I'll admit it wasn't ever my intention to fulfill Ilia's final wishes like this.
+
+Kal'tsit:
+So much blood was spilled, so many lives were lost, and it turns out the very last thing I do to remedy all this is what I should've done in the very beginning.
+
+Kal'tsit:
+Because I didn't know them. Because I anticipated a different ending.
+
+Kal'tsit:
+Dr. {@nickname}, there are people who inflict violence and send others to the gallows merely because they don't know the other person.
+
+Kal'tsit:
+A person can kill another without remorse solely because they don't know a thing about them.
+
+Kal'tsit:
+If we knew everything about those other people, would we improve in any way?
+
+Kal'tsit:
+Or would we disregard their actions and judge them as stringently as we can merely because they have more of an identity now? Would we determine guilt and innocence solely based on their identity?
+
+Kal'tsit:
+Because they are rich or poor? Normal or Infected? From Ursus or from Lungmen? Or from the city or the countryside?
+
+Kal'tsit:
+Have you ever wondered why all the Infected that Rhodes Island takes in are from the cities, are from well-off families, and had a decent education?
+
+Kal'tsit:
+You have to admit. There are Infected out there who live in the wilderness, away from civilization; others live in far off places with no way to communicate with the cities; then there are those who live on the streets and in the back alleys, just trying to survive from one day to the next.
+
+Kal'tsit:
+None of them have ever even heard of Rhodes Island.
+
+Kal'tsit:
+To say nothing of those other Infected-oriented pharmaceutical and medical companies.
+
+Kal'tsit:
+This is the reality we are in.
+
+Kal'tsit:
+They didn't want to resort to violence. They just never had the chance to learn what else they could do.
+
+Kal'tsit:
+In the past, many people worshipped the power of violence because of the violence others had inflicted on them. Violence worked on them, so they used it on those around them, and that worked on those other people as well.
+
+Kal'tsit:
+Therefore, violence became their tool. They don't understand life without violence, and their lives will always be ruled by pain and hatred.
+
+Kal'tsit:
+Violence isn't a plough. The road traveled by violence will always remain a barren land.
+
+Kal'tsit:
+The Infected who was held in the sarcophagus and got warped into that monstrosity—
+
+Kal'tsit:
+Do you think he's evil?
+
+Kal'tsit:
+Were we all born evil?
+
+Kal'tsit:
+Was it power and violence that created the evil in humans, or was it the evil humans who created these tools to do harm to their fellow men?
+
+Kal'tsit:
+We don't have the right to judge others. No one has that right.
+
+Kal'tsit:
+To recognize goodness and then do something good, to recognize evil and then to refute evil, and to combat evil with evil and then to win. All that makes us no different from our enemies, and we'd have to take our own lives by that logic.
+
+Kal'tsit:
+But, Dr. {@nickname}, if you know me, then you'd know that there are always certain things that need to be done by someone.
+
+Kal'tsit:
+But these are definitely not reasonable and fair behaviors, and certainly not something you can just carry out and claim to have the moral high ground.
+
+Kal'tsit:
+No matter the motive, we have to remember that what we are doing is doing harm.
+
+Kal'tsit:
+That's why I am not looking forward to getting your approval on anything I do.
+
+Kal'tsit:
+Convincing you of anything is Amiya's job, not mine, and that's because I've done a lot of things that should be left unknown, should never again be attempted by anyone, and should never be forgiven.
+
+Kal'tsit:
+Yet in the foreseeable future, there are a lot of decisions lying ahead of you. Yes, you. Not me. A lot of people still have high hopes for you. Me, not so much.
+
+Kal'tsit:
+My excuses will always just be my excuses. Your actions will always be your actions.
+
+Kal'tsit:
+I hope to see you offer the world a chance to change, just like many kindhearted people before you did.
+
+Kal'tsit:
+If they are truly able to reactivate it, I am now willing to believe that it will only be reactivated by someone who's kind in nature.
+
+Kal'tsit:
+I am willing to believe that the future is in the hands of those who seek to truly change this world.
+
+Kal'tsit:
+Well.
+
+Kal'tsit:
+Ironically, with how bad of a place this world is... We definitely aren't on the good side.
+
+Kal'tsit:
+If that's how things actually turn out, then it doesn't matter how much work we put in and how many Catastrophes we stop. That kind of future is inevitable.
+
+Kal'tsit:
+It isn't realistic to expect that immorality and evil can be defeated easily.
+
+Kal'tsit:
+If what you want is to instead destroy civilization in an instant and to live a life tormented by pain, that's definitely doable, and you should think about it.
+
+Kal'tsit:
+At any rate... Right now, there is still something we can do.
+
+Kal'tsit:
+The disinfection is almost complete. After that, once we have our tracks here taken care of, Ursus won't have anything on us.
+
+Kal'tsit:
+Let's go back Amiya up right now.
+
+Kal'tsit:
+Though I suppose if things aren't looking too bad over there, the whole Chernobog Incident will already be over by the time we make it to the command tower. We're basically just heading there to regroup with our employees.
+
+Kal'tsit:
+...As for what happened here... everything that happened here...
+
+Kal'tsit:
+I will try my best to end this journey of suffering. Just like what you wanted me to do earlier.
+
+Kal'tsit:
+That's right, Doctor. There are certain things that only you can decide.
+
+With the dust of the battle settled, you wander around the sarcophagus. A strange sense of familiarity and sadness wells up in your heart.
+
+You look at the operators, and it strikes you with a sense of unfamiliarity. After all, you don't know most of them.
+
+The operators wrap up their work in the area and begin to leave. Kal'tsit notices that you haven't followed and approaches you.
+
+Kal'tsit:
+Is there something still on your mind?
+
+Kal'tsit:
+Right.
+
+Kal'tsit:
+I'd rather you be the one to broach the subject.
+
+Kal'tsit:
+——
+
+Kal'tsit:
+Actually, this is the reason why I escorted you here.
+
+Kal'tsit:
+There are a few things that Amiya doesn't want me to tell you, but this may be our last chance. Before we have the sarcophagus buried, I need to pluck those fragments of truth out of your brain.
+
+Kal'tsit:
+Dr. {@nickname}. Three years ago, with a heavily injured you in tow, I came back to this long-forgotten place, and placed you inside this device.
+
+Kal'tsit:
+This device can heal your pain, and only your pain.
+
+Kal'tsit:
+That was as detailed as I could possibly explain it.
+
+Kal'tsit:
+The white Infected Creature we encountered earlier looked bizarre, didn't it? That wasn't how he used to look.
+
+Kal'tsit:
+From this, I can conclude that before he became an Infected Creature, the Infected entered the sarcophagus, and that was how the sarcophagus was activated.
+
+Kal'tsit:
+...Perhaps he saw the footage of Amiya taking you out of the sarcophagus.
+
+Kal'tsit:
+That prompted him to mess with the sarcophagus, and, one way or another, he got inside.
+
+Kal'tsit:
+It shouldn't have happened.
+
+Kal'tsit:
+The sarcophagus was originally designed to heal its operator, but this Infected got inside, and that's how disaster struck.
+
+Kal'tsit:
+You saw the end result yourself. The Infected Creature wasn't a product of nature. The sarcophagus wasn't designed to handle it. Its transformation was entirely a man-made process. The sarcophagus transformed it.
+
+Kal'tsit:
+Yet you received treatment in the sarcophagus. The device reacted to you two in completely different ways.
+
+Kal'tsit:
+Of course, Dr. {@nickname}. The two of you couldn't be any more different.
+
+Kal'tsit:
+Is there anyone out there like us?
+
+Kal'tsit:
+...Is anyone out there like you?
+
+Kal'tsit:
+Perhaps this machine can only cure people like you, and not the Infected.
+
+Kal'tsit:
+Perhaps this machine forces its patients to take on their oldest aspects. Perhaps I'm the only one who's allowed to operate it, even—
+
+Kal'tsit:
+In any case, you survived. As for him, the Infected it used to be. He became the source of the Herd.
+
+Kal'tsit:
+That's right. The world is a big place, and no one is exactly like anyone else. You and I, Amiya, him, and everyone else. All of us are different, and from my point of view, all of you are nothing like me.
+
+Kal'tsit:
+Who can understand me, and who can understand you? How many lives around us have been lost, and how many tragedies that we are powerless to stop have occurred?
+
+Kal'tsit:
+Were my students not studying this because they were trying to create a better place?
+
+Kal'tsit:
+Why must greed bring about so many meaningless deaths? Isn't this just a stupid, stubborn tragedy?
+
+Kal'tsit:
+Is that the whole reason this was created? And what was the reason all of us were placed in this world?
+
+Kal'tsit:
+Is fate manipulating all of us? Are we all merely actors in this absurd comedy, all for our Creator's enjoyment?
+
+Kal'tsit:
+I see.
+
+Kal'tsit:
+...Is it too late for me to convince you to turn back?
+
+Kal'tsit:
+I don't know, though. Should I really do that? You might just be acting, but I should be happy about what you said...
+
+Kal'tsit:
+Nonetheless, I need to remind you, Doctor.
+
+Kal'tsit:
+This decision isn't going to be that easy.
+
+Kal'tsit:
+Dr. {@nickname}... In this vast world, there has to be a place where you belong.
+
+Kal'tsit:
+Of course, you can do that. You can choose to leave us.
+
+Kal'tsit:
+Rhodes Island will remove your neural link to the PRTS. You will be cut off from the terminal's simulated hub, and lose the eyes and authority the PRTS bestows on you right there and then.
+
+Kal'tsit:
+You will be released from Rhodes Island's Intelligence Processing System and its vast sea of information. From there on, you won't need to log in to Rhodes Island's data banks ever again.
+
+Kal'tsit:
+Once you shut down your information terminal, all of it will be lost to you forever. It's a simple choice. Just one button, and your link will be severed. Then, you will get to stay in the world you chose for yourself.
+
+Kal'tsit:
+——
+
+Kal'tsit:
+I am ready.
+
+Kal'tsit:
+You need only to press the button.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+......
+
+Kal'tsit:
+If that was the path you chose for yourself, you wouldn't be able to hear me right now.
+
+Kal'tsit:
+You chose to stay with us.
+
+Kal'tsit:
+Then I ask you this, Dr. {@nickname}... Who could have prepared for this?
+
+Kal'tsit:
+We are bound to this world by all sorts of things, Dr. {@nickname}.
+
+Kal'tsit:
+Our day-to-day lives are full of agony, and our very lives may not even have any meaning.
+
+Kal'tsit:
+Yet, once we start walking forward, the traces of our journey will always be there beneath our feet whenever we look back.
+
+Kal'tsit:
+A bright, smooth road is easy to walk. A dark, bumpy road is difficult to tread.
+
+Kal'tsit:
+Even so, be it the scientists or the elite operators of Rhodes Island, the honorable men of Lungmen or the Infected men of Chernobog who dream of a new life...
+
+Kal'tsit:
+All of them are doing their best to limp forward, step by step.
+
+Kal'tsit:
+They are being chased by their pain, tormented by their nightmares, held back by hatred, and, in the end, death will catch up to them.
+
+Kal'tsit:
+But they've already escaped from much of their burdens. They've got away from all the suppression and weaknesses the world has placed on their shoulders.
+
+Kal'tsit:
+Most of us are fragile and weak. But what I am trying to say is that all these things that prey on our minds are precisely the things that prove our existence, and that helps us fall asleep at night.
+
+Kal'tsit:
+Our misery is far from over. Our world's misery has no limits.
+
+Kal'tsit:
+Even so, we can yet make our own decisions, just like those who live in the harsh cold but choose to keep the fires of hope alive.
+
+Kal'tsit:
+Doctor.
+
+Kal'tsit:
+I'm telling you all this mostly out of responsibility, because of a promise I made...
+
+Kal'tsit:
+And also because I have high hopes for the future.
+
+Kal'tsit:
+I have high hopes for you.
+
+Kal'tsit:
+And, Dr. {@nickname}, I know I tend to act rather hostile against you, but I hope you won't let it get to you. I will try my best to hold back.
+
+Kal'tsit:
+My attitude stems from what I remember about you. Your memories may have been erased, but there is nothing wrong with mine.
+
+Kal'tsit:
+This here is a life functions restoration device for home use. It shouldn't have a function like that. Perhaps the machine malfunctioned, or maybe your acting is really that impeccable. Regardless, you are innocent on the surface only because you've lost your memories.
+
+Kal'tsit:
+—Doctor. Don't feel uncomfortable because of what I am about to tell you.
+
+Kal'tsit:
+Just this once, I will let my emotions flow free. I simply wanted to remind you this, even though Amiya doesn't want me to.
+
+Kal'tsit:
+If I could, I would settle my score with you. I would take my revenge.
+
+Kal'tsit:
+When you regain your memories, you will have the opportunity to scrutinize the choices you made.
+
+Kal'tsit:
+Yet even if you repent your sins or your memories are actually lost forever, you cannot change the way I see you.
+
+Kal'tsit:
+I won't allow the seeds of hatred deep inside me to grow, but I have the right to keep them there.
+
+Kal'tsit:
+I have the right to forever remain furious.
+
+Kal'tsit:
+...Still, I don't even know who I should be directing my anger anymore.
+
+Kal'tsit:
+I don't think of you as the same person you were. If I did, I wouldn't even be talking to you. I'd rather you—
+
+Kal'tsit:
+Rather you...
+
+Kal'tsit:
+......
+
+Kal'tsit:
+I still have no idea why Theresa had so much faith in you.
+
+Kal'tsit:
+Theresa was my friend. She was my partner.
+
+Kal'tsit:
+Theresa died three years ago. I lost her forever.
+
+Kal'tsit:
+Do you want to know the truth, Doctor?
+
+Kal'tsit:
+Regardless of what you think, I brought you here to tell you the truth.
+
+Kal'tsit:
+Neither of us can escape from our past.
+
+Kal'tsit:
+Doctor. Dr. {@nickname}. There used to be someone else who had your body, and there was blood on those hands. Theresa's blood.
+
+Kal'tsit:
+'You' killed Theresa.
+
+Kal'tsit:
+And she was your friend as well.
+
+Kal'tsit:
+What irks me the most is that you lost all your memories when you were put in the sarcophagus. Yet that doesn't change the truth, the truth that has nothing to do with 'you' one bit.
+
+Kal'tsit:
+That's unfortunate for both of us.
+
+Kal'tsit:
+—Even though I can't hurt you in any way, I want you to remember this.
+
+Kal'tsit:
+...Theresa trusted you, and Amiya still does, but I don't.
+
+Kal'tsit:
+I won't tell you. This question isn't for me to answer. Otherwise, I'm afraid I might just end up placing a curse on you.
+
+Kal'tsit:
+You are Dr. {@nickname}. The one everyone calls Doctor. Just a soul in this vast world.
+
+Kal'tsit:
+If I give you an answer, will you accept that right away? You reject my 'contempt' for you from the bottom of your heart, so I will spare you my colorful 'answers' and 'truths.'
+
+Kal'tsit:
+I won't ask you to trust me. I also won't tell you any more about the truth.
+
+Kal'tsit:
+My bitterness will twist my narrative. The words filled with rage disrupt your thought process.
+
+Kal'tsit:
+Therefore, aside from the keys you need to unlock the whole picture, aside from the most basic truths, I won't tell you anything.
+
+Kal'tsit:
+You can see it for yourself, judge it for yourself, and search for it yourself.
+
+Kal'tsit:
+As long as someone believes in you, you will find your true self once more.
+
+Kal'tsit:
+...I'm trying to protect you.
+
+Kal'tsit:
+Just like what I promised to do.
+
+Kal'tsit:
+I promised to protect both you and Amiya.
+
+Kal'tsit:
+Until the moment you breathe your last breath, Doctor. That's my responsibility.
+
+Kal'tsit:
+But I will never stop hating you. I am in no position to educate or criticize Rosmontis. After all, I might not be able to hold myself back from taking revenge.
+
+There was a similar scenery and a similar conversation. There were different emotions during different eras. All of which are working together to bridge that large gap in your memories.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+What... did you just remember?
+
+This isn't the first time this has happened.
+
+Something has crept into your turbulent mind.
+
+......
+
+The sirens are blaring so thunderously loud that you can't help but think it might cause your eardrums to burst.
+
+......
+
+You find you and your peers running as fast as you can through the corridor.
+
+......
+
+You burrow inside the stone cold machine, and you are hit by a sudden drowsiness that immediately interrupts your consciousness.
+
+......
+
+This is none too familiar to you, yet no matter how much you try to pull away the veil that has your memories covered, your efforts to recall the past are futile.
+
+......
+
+Until the moment you hear that voice.
+
+???:
+......Dr.{@nickname}......
+
+???:
+...I never thought I would be the one who didn't want to let go.
+
+???:
+But I have to do this. This is the only way you'll get to live.
+
+???:
+...Oh, {@nickname}... With this, we won't ever get to meet again.
+
+???:
+I can't. I can't accept this. I won't give up.
+
+???:
+Dr. {@nickname}, the connection between us will transcend even time and space. I am sure of it.
+
+???:
+Even if the ocean completely boils away and the atmosphere vanishes, even if all the moons in the sky are pulled into the vortex of our planet's gravity, and even if the sun continues to mercilessly expand, eventually swallowing up all its children until none can be heard...
+
+???:
+I am sure we will meet again. At the far end of our civilization, once adorned by darkness and the brilliance of the stars up above, we will meet once again.
+
+???:
+I will wait until that day comes. I promise you I will. Wait for me. You must wait for me too.
+
+???:
+...Dr. {@nickname}. Don't ever forget about me.
+
+Kal'tsit:
+...Doctor...?
+
+The fragments begin to gradually reassemble before a name finally emerges in your mind.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+...Dr. {@nickname}?
+
+Rhodes Island Operator:
+The enemy's putting up way too much of a fight! Hey, you! For Christ's sake, keep your head down!
+
+Rhodes Island Operator:
+How the hell did they even manage to squeeze all these people in here?! We're almost there to the last floor!
+
+Amiya:
+The burning smell... I can smell it from here.
+
+Amiya:
+Everyone, I'll be fine by myself from here on out.
+
+Rhodes Island Operator:
+...Guess you don't think we're being much of a help, eh?
+
+Amiya:
+You've all been very helpful, but it's too risky to have you help me with this.
+
+Rhodes Island Operator:
+You can spare us the sympathy. We're all grown-ups here.
+
+Amiya:
+No, I'm not sympathizing. Operators, there is something that I have to make clear...
+
+Amiya:
+Without your help, I wouldn't have made it this far.
+
+Rhodes Island Operator:
+......
+
+Rhodes Island Operator:
+You go get 'em, Amiya.
+
+Rhodes Island Operator:
+I sure as hell would still like to sneak a few drinks in at one of those more laidback cities one of these days. Hell, maybe I'll share one with you.
+
+Amiya:
+Definitely.
+
+Amiya:
+Oh, this is... Madam Ch'en's scabbard. It's full of scratches...
+
+Amiya:
+...Did Talulah let Madam Ch'en through on purpose? Oh n—
+
+Amiya:
+—Actually, maybe not.
+
+Amiya:
+With how far she's come... Madam Ch'en isn't that easy to kill...
+
+Amiya:
+She's probably figured out what it is she's looking for already.
+
+Amiya:
+I'm sure other people would be at a complete loss when faced with this string of events, but Madam Ch'en's anger is about so much more than just this.
+
+Amiya:
+The object of her resentment... All of us resent it as well.
+
+Amiya starts climbing the stairs.
+
+She thinks back to the time when she last saw Ch'en.
+
+It was in the officers' office in Lungmen, and Amiya can still vividly remember the view of Ch'en that met her eyes.
+
+The moment her hand touches the scabbard, the scenery seemingly opens up before Amiya's eyes again.
+
+And it's getting clearer and clearer.
+
+Nine:
+Well, nothing good ever comes out of going on a mission with you.
+
+Ch'en:
+Ngh... guh.
+
+Ch'en:
+Nine...! You're okay...!
+
+Nine:
+I'm managing. I didn't expect to see you... almost knocking on death's door, though.
+
+Nine:
+That bomb blew up right in front of me, you know. You were like yards away.
+
+Ch'en:
+It took a bite out of my abdomen. Sorry, but this really hurts... so bear with me. You've always been much better at putting up with pain than me...
+
+Ch'en:
+...Nine. Turn around and let me take a look.
+
+Nine:
+I didn't know you had it in you to make demands of your superior officer.
+
+Ch'en:
+...No... No way. You...
+
+Nine:
+I'm sorry that I couldn't protect you, Ch'en.
+
+Nine:
+My crystals blocked most of it, but some shrapnel got through.
+
+Nine:
+I'm guessing some of the shrapnel hit you... am I right? Let's take care of it now. You might still make it out of this.
+
+Ch'en:
+Nine... You... don't tell me...
+
+Ch'en:
+What about you?
+
+Nine:
+......
+
+Nine:
+I can figure out what's going on with my body much better and much faster than anyone, especially with my Arts. I'm not getting these shrapnel out.
+
+Nine:
+—I'm a L.G.D. member. Let me go out with some pride. Just remember how I look from behind, and give everyone at the department my regards.
+
+Nine:
+And Wei too. Send him my regards.
+
+Ch'en:
+Where will you go?
+
+Nine:
+I'm definitely going to be Infected with these wounds. Wherever the Infected usually go, that's where I am going.
+
+Ch'en:
+...Nine, even if you're Infected, that doesn't mean you have to leave! You've done so much for Lungmen and the L.G.D.! All of us know it in our hearts!
+
+Nine:
+They all know it in their hearts how terrifying the Infected are. Even this Originium bomb... Let me guess... Forget it, I have no idea who made it.
+
+Nine:
+It's about time you stop dreaming, Ch'en. Let me get one thing in. The boundary between the Infected and normal folks isn't for you to decide. Not me, either. That is for them to decide.
+
+Nine:
+I warned you about meddling with the affairs of the slums' Infected, and, well, look where that got us.
+
+Ch'en:
+...But we are ready to make headways in the slums. There's also that housing plan for the Infected, ready to be launched. Wouldn't you say we're in a better shape than before?
+
+Ch'en:
+We are more than ready to treat all the Infected fairly and equally. We will give everyone in Lungmen a fair treatment regardless of whether they are Infected or not, because they are all people of Lungmen!
+
+Nine:
+Sure, we may be ready, but is Lungmen ready? Are the masses ready? Will the General Chamber of Commerce vote for it? What do you think will happen if I tell the L.G.D. that I'm Infected?
+
+Ch'en:
+You can report your status after we accomplish all that—
+
+Nine:
+You're asking me to use my authority to conceal my status. How's that not corruption? I would rather be exiled than to do that.
+
+Nine:
+Wei Yenwu single-handedly built the L.G.D., and we've kept it running and maintained its integrity for so long... The department represents law and order, and I won't allow its name to be tainted!
+
+Nine:
+Besides, Ch'en, do you really think that those who live a better life can better keep their Oripathy in check, and those who live in the slums and mines face certain death?
+
+Nine:
+No, once you become Infected, there's only one way the world is going to deal with you.
+
+Nine:
+All Infected die, and as long as they all die the same way and we burn their bodies the same, there isn't anything that sets one apart from another.
+
+Nine:
+I won't ask for anyone's forgiveness; my Infected head count is well over a hundred. It's not karma that turned me into an Infected myself. It's just how the world works.
+
+Nine:
+And the list of ways it handles people like us goes on and on. It's almost like it gets a bonus each time it comes up with a new way to mess with us.
+
+Ch'en:
+Why? Nine... I thought you were confident about Lungmen's future.
+
+Nine:
+Confident? Heh, so you guys take how rude I am for confidence.
+
+Nine:
+I love this city. When I had nowhere else to go, it took me in, but, deep down in my heart, I know there isn't anywhere in the world that truly accepts the Infected.
+
+Nine:
+I may love it here, but that doesn't mean I'm confident about it at all. I just know it a bit too well. I know what's worthwhile and what's a waste of time here.
+
+Nine:
+I don't just chill in my office and act all high and mighty. I pound the beat with you guys. I do that not because I try to look friendly to the citizens or want to show off.
+
+Nine:
+The only reason I am here is because Lungmen needs me.
+
+Nine:
+Wei is willing to take the Infected in for one reason and one reason only. He thinks the problems that the Infected bring with them are nothing compared to the problems that Lungmen has faced or will face.
+
+Nine:
+But whose heads do you think will roll first once those problems are all taken care of?
+
+Nine:
+Even if Wei doesn't, what about the city? What about the merchants and the masses, the workmen and the cops?
+
+Ch'en:
+Lungmen can take in the Infected! Lungmen isn't just theirs... It's ours as well! So what does it matter if they're Infected? Does that somehow mean they can't do their part for the city? Does that mean the city can't protect them?
+
+Nine:
+It can't.
+
+Ch'en:
+No, we're all the same. If we're all Infected, we'll be seen as equals. Remember. You said it yourself.
+
+Nine:
+Well, let me fix that for you, then. Wei Yenwu treats you like a jewel, and your life here in Lungmen is on a whole other level compared to the regular folks.
+
+Ch'en:
+You...!
+
+Nine:
+I don't deny your efforts and sacrifice, Ch'en. You are one of the finest members I've ever seen in the department. But I have to warn you. You are not like them.
+
+Ch'en:
+...No, I'm not working in Lungmen for the prestige. I am part of the L.G.D. I am part of Lungmen.
+
+Ch'en:
+We poured our blood, sweat, and tears into this city, and its people are harsh, but it will come to accept everyone in the end.
+
+Ch'en:
+It will. It's been improving.
+
+Ch'en:
+Nine, even if we're Infected, we are still part of Lungmen!
+
+Ch'en:
+Lungmen is a city for all people. That's how it should be. If it isn't right now, then we will make it so.
+
+Ch'en:
+Have we not seen enough? There are lots of good, honest Infected here, don't you agree?
+
+Nine:
+Then prove it to me.
+
+Nine:
+You want to prove to me that we belong here. Then do it.
+
+Ch'en:
+I will. I definitely will...
+
+Nine:
+...Be quick about it. I may not have that much time left in me.
+
+Ch'en:
+—I will.
+
+Nine:
+If you run into situations like this, just let Wei know. He'll take care of it. Keep in touch. Feel free to call if something comes up.
+
+Nine:
+Oh yeah, tell Hoshiguma I said to keep an eye on you... lest you do something stupid.
+
+Nine:
+Feel free to forget what I just said, and I am sure you will, but make sure to tell her that before you do.
+
+Stupid?
+
+What's stupid?
+
+Teach by example. What has that turned me into?
+
+Sympathize with others. What has that ever helped me understand?
+
+Never give up. What have I lost because of that?
+
+Now that we finally get to meet again, what can I actually do anyway?
+
+What I can do...
+
+Wasn't that all decided years ago?
+
+Amiya:
+Madam Ch'en, wait for me. You've been very brave... being able to do all this.
+
+Amiya:
+But... it's still too soon to jump to conclusions. Let me take a look too, Madam Ch'en. I want to know what she's done. All of us need the truth.
+
+Amiya:
+You want to know what kind of a person Talulah has become...
+
+Amiya:
+...What I want to know... is who exactly is the person Reunion has been following.
+
+It's as though she can already hear Ch'en's roar and Talulah's laughter.
+
+She has finally come to understand the way Ch'en thinks.
+
+'You know it's a trap, so why are you here?'
+
+'I'm here because I have to figure out whether this is really a trap. That's the only way I can prove that you are beyond redemption!'
+
+'And if I tell you it is?'
+
+'In that case, it's not going to weigh us down the tiniest bit when we finally set you free from all this, whether I'm the one who does the honors or someone else. If you've got any regrets, save them for your own funeral!'
+
+The pattern of one of the ten rings begins to emit a bright, vivid red glow.
+
+'In that case, when do I need to do this?'
+
+'When you think it's the right time.'
+
+We need new weapons to take on new enemies.
+
+We need firm principles to take on great evil.
+
+In the past, Amiya would have found herself in a fluster, trying to remove herself from the ring's restraint... but not now.
+
+Amiya:
+...Cloud-splitting, they faced each other.
+
+'As sword of stratus rent, once stood stand fast.'
+
+The idea of running away probably hasn't ever crossed Ch'en's mind, has it?
+
+Both Ch'en herself and Amiya would probably answer no when asked this question.
+
+Ch'en has tried to run far away many times.
+
+But she stopped herself.
+
+Ch'en's memories and emotions, and each and every time she changed... All of it came from her determination.
+
+To wield the Chi Xiao is to have a firm conviction. Ch'en has seen ups and downs through her journey and there were moments that she struggled with her own belief. Ch'en did not allow herself to stay depressed.
+
+This can also be seen in her technique with the Chi Xiao.
+
+Ch'en has made up her mind.
+
+Amiya quietly tries to take this all to heart. Just as the memories she saw of Ch'en are slowly flowing into her heart, the warmth left on the scabbard is slowly fading away.
+
+Amiya is being far calmer than she has ever been. She has made her decision.
+
+She will take off the ring. She wants to see the truth.
+
+A sea of flames begins to burn fiercely before her eyes.
+
+This time, she isn't going to close her eyes—
+
+She will bear witness to everything that has happened to these sisters.
+
+And now, Ch'en is standing before Talulah.
+
+The Chi Xiao holds steady in the air. The Draco's flames are extinguished the moment they graze the blade, as though it swallowed the blazing waves whole.
+
+The two sisters, blood-related, are ready to settle their scores.
+
+
+

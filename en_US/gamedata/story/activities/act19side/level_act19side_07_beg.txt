@@ -1,0 +1,651 @@
+Muelsyse:
+How long has it been since you were last here, Director Saria?
+
+Saria:
+Hm?
+
+Muelsyse:
+Going a little spacey?
+
+Muelsyse:
+That's not like you... Thinking about the test site?
+
+Saria:
+Do you remember Haydn 1 laboratory?
+
+Muelsyse:
+Of course I do. That's where Ifrit's from, right? We even investigated that place together.
+
+Saria:
+I've been to several hundred similar ruins since.
+
+Saria:
+It's very risky to work with the military. Rhine Lab hides behind layers of contracts and conducts these dangerous experiments with other laboratories doing the dirty work.
+
+Saria:
+But this time, Ferdinand chose to charge into the fray himself.
+
+Saria:
+That tells us Rhine is one careless move away from turning into one of those ruins.
+
+Muelsyse:
+If he fails... Ferdinand will end up buried under the ruins too, right? His real cause of death won't even hit the papers.
+
+Saria:
+Ferdinand has no way out of this anymore. He has no choice but to make sure this experiment succeeds.
+
+Muelsyse:
+Nngh...
+
+Muelsyse:
+Are you worried about Silence and the gang?
+
+Saria:
+......
+
+Saria:
+I'm only analyzing the risks.
+
+Muelsyse:
+Huh, I thought you were more honest than that.
+
+Muelsyse:
+Okay, okay. She'll be fine. She's a lot stronger now than she used to be, just to look out for Iffy.
+
+Saria:
+Are you consoling me, Director Muelsyse?
+
+Saria:
+That's unnecessary.
+
+Saria:
+I've never doubted Silence's and Ptilopsis's abilities. They will assume their own responsibilities, and so will we.
+
+Muelsyse:
+Did I ever mention that I've always really admired the way Rhodes Island works?
+
+Muelsyse:
+My, you really have a way with words. Makes me want to jump ship and hop over.
+
+Muelsyse:
+Right, right? You feel the same.
+
+Muelsyse:
+I knew I wasn't mistaken.
+
+Mechanist:
+Multiple power armor signals approaching.
+
+Mechanist:
+Doctor, the Liberi merc is catching up to us.
+
+Saria:
+Perhaps she's been waiting nearby.
+
+Muelsyse:
+Dr. {@nickname}, are you sure Kristen is here?
+
+Muelsyse:
+Saria's right. Ferdinand can't take this failure, but we don't have time for trial and error, do we?
+
+Mechanist:
+Rhine Lab headquarters.
+
+Muelsyse:
+So that's the place that checks the most boxes, huh?
+
+Muelsyse:
+After I lost contact with Kristen, I went to her home, the test sites, and all her favorite spots...
+
+Muelsyse:
+Everyone who works at Rhine knows Control doesn't like to hang around the office.
+
+Muelsyse:
+Every day, a bunch of staff members ask where she is, but who knew that she could be right there under our noses?
+
+Mechanist:
+Scan complete.
+
+Mechanist:
+Doctor, it's just as you thought. There is a large group of armed militants guarding all exits on all floors.
+
+Saria:
+Rhine HQ must already be under Ferdinand's control.
+
+Saria:
+We need to make our moves carefully, and I'm including both Muelsyse and myself.
+
+Rhine Defense Member:
+Seize them.
+
+Sonny:
+Dammit...
+
+Elena:
+What are you blanking for?
+
+Rhine Defense Member:
+All units, we've got a situation at the labs' entrance. It's a Pioneer and a Rhine researcher... Mrgh!
+
+Sonny:
+In the end, we still gotta hurt people.
+
+Elena:
+That's self defense. I'll testify for you.
+
+Elena:
+There's an emergency exit to the left. Run that way! We'll talk after we make it out—
+
+Sonny:
+Someone's coming!
+
+Elena:
+Get ready!
+
+Elena:
+Wait, you again?!
+
+Greyy:
+M-Miss Elena...
+
+Elena:
+I didn't hurt you, did I?
+
+Greyy:
+I'm fine. I figured you'd strike, so I braced myself.
+
+Mary:
+All of you, stay right where you are.
+
+Elena:
+You're...
+
+Mary:
+Mary Banner of the Trimounts City Police Department.
+
+Mary:
+We're taking a kidnapping and assault suspect into custody. I'd appreciate your cooperation.
+
+Elena:
+Suspect?
+
+Sonny:
+Mary...
+
+Mary:
+You're a hard one to catch. Isn't that right, 'Team Leader?'
+
+Mary:
+Drop your weapons and put your hands up.
+
+Rhine Defense Member:
+Right hand too.
+
+Pioneer Team Member:
+......
+
+Rhine Defense Member:
+Put your right hand up, please.
+
+Silence:
+A syringe?
+
+Silence:
+Hold on, what are you trying to do?
+
+Rhine Defense Member:
+This is a physical examination.
+
+Rhine Defense Member:
+There might be a hazardous material leakage in these laboratories. Regulations demand we execute prevention procedures on all personnel.
+
+Silence:
+May I take a look at the medicine you're administering?
+
+Rhine Defense Member:
+The situation is critical. Please don't get in the way.
+
+Ptilopsis:
+Warning: Procedure does not match existing records.
+
+Silence:
+What you are doing is completely against the rules...
+
+Rhine Defense Member:
+Rules? I don't need a researcher who was... kicked out of Rhine to teach me about rules.
+
+Silence:
+Hmm...
+
+Dorothy:
+What about me, then?
+
+Dorothy:
+Do I have the right to ask you to turn this syringe over?
+
+Rhine Defense Member:
+Director Franks...
+
+Dorothy:
+I am the overseer of Site 359. State your objectives immediately.
+
+Rhine Defense Member:
+Sorry, Director Franks, but Director Clooney has taken over responsibility for all your site's functions.
+
+Rhine Defense Member:
+Without his orders, you can't ask us about our operation.
+
+Dorothy:
+If I recall correctly, only Control can change an experiment's overseer.
+
+Dorothy:
+What gives Ferdinand the right to overstep his bounds?
+
+Rhine Defense Member:
+I can't answer that.
+
+Rhine Defense Member:
+This should be enough...
+
+Rhine Defense Member:
+Mission complete. All units, pull out.
+
+Silence:
+They're gone...?
+
+Ptilopsis:
+Affirmative. The Defense Section personnel are quickly evacuating the site.
+
+Silence:
+I thought they were here to take the Pioneers away... Am I mistaken about Ferdinand?
+
+Dorothy:
+Ferdinand!
+
+Pioneer Team Member:
+Ugh...!
+
+Ptilopsis:
+Dr. Silence, all Pioneers who received injections have lost consciousness.
+
+Silence:
+Tend to them immediately!
+
+Silence:
+Director Franks, do you know how to administer emergency treatment... Director Franks?
+
+Dorothy:
+......
+
+Greyy:
+Ma'am, I thought we were here to save Mr. Sonny...
+
+Mary:
+Don't think you can change my mind with a couple of sentimental words!
+
+Sonny:
+You got my letter...
+
+Mary:
+Trying to win my sympathy only works once, Romano.
+
+Mary:
+I'm just glad I didn't let you get away. Otherwise, who knows what kind of surprises I'd have waiting for me?
+
+Sonny:
+You don't trust me...
+
+Mary:
+Why should I?!
+
+Mary:
+Four years ago, you didn't want to go to the quarantine zone. I trusted you, and helped you lay low—
+
+Mary:
+Then how did you turn around and thank me?
+
+Sonny:
+I was outta my mind! My Oripathy plus my insurance premiums drove me nuts. I had no other...
+
+Mary:
+You broke into my place and forced me to give you everything worth half a dime—Just for your goddamned insurance premium! You thought they'd let you back into your law firm if you paid it!
+
+Sonny:
+......
+
+Mary:
+You know how much that scared Nana? Did you know she's been bedridden ever since? Remember how she doted on you, even more than she did for her own granddaughter?!
+
+Mary:
+And how about this? After you got spooked and ran off, I was so worried the cops would find you, do you know what I went through to cover it all up for you?
+
+Mary:
+You don't know anything.
+
+Mary:
+You're a cold-blooded, selfish criminal. I should never have been so soft on you...
+
+Elena:
+Officer!
+
+Elena:
+It doesn't matter what kind of bad blood you two have with each other. We need to get out of here, otherwise—
+
+Mary:
+He kidnapped you, and you're making his case for him?
+
+Elena:
+Listen to me. The real problem is with Rhine Lab...
+
+Greyy:
+This shaking...
+
+Sonny:
+Uh... Is that coming from inside?
+
+Elena:
+Dorothy's lab...
+
+Elena:
+Run!!!
+
+Dorothy:
+It... actually happened...
+
+Silence:
+Such intense tremors... occurring across a large area... Is it a Catastrophe?
+
+Silence:
+No, not a Catastrophe. It's the lab...
+
+In the center of the laboratory cluster, a fissure appears on what should have been an exceedingly sturdy building.
+
+It wasn't caused by the tremors.
+
+The building is being torn apart from its deepest parts.
+
+Something is breaking out of its shell, bit by bit, and unbelievably quickly.
+
+In just an instant, half its floors are engulfed.
+
+Above the rubble, the silver object starts bringing the entire site into its embrace.
+
+The newly-born, colossal object gracefully twists its geometric figure and coldly stares down at the people on the ground.
+
+Dorothy:
+......
+
+None of this is beyond her comprehension.
+
+She understands the principles behind all this, and she's calculated all the possibilities.
+
+Yet she still forgets to breathe and blink, and she forgets all about the trembling earth beneath her feet and the roaring gusts all around.
+
+Her dream has evolved from a blueprint and a word of promise to a reality.
+
+Dorothy:
+How beautiful...
+
+But also terrifying.
+
+Silence:
+Get down—
+
+Dorothy:
+......
+
+Silence:
+You were in tremendous danger... If you were just one inch closer, you would've been crushed by the bricks!
+
+Dorothy:
+It's too late...
+
+Silence:
+What is?
+
+Dorothy:
+Doctor, you failed to stop me. My experiment... succeeded.
+
+Rhine Defense Member:
+Director Clooney! What's happening at the laboratories—
+
+Ferdinand:
+You are frightened.
+
+Rhine Defense Member:
+Frightened...? Haha, of course not. I'm just overwhelmed with emotion at these results! I... I'm truly happy for you and Director Franks.
+
+Ferdinand:
+Your teeth are chattering.
+
+Rhine Defense Member:
+Ha... haha...
+
+Ferdinand:
+Perfect.
+
+Ferdinand:
+Fearing such great unknowns is an instinct of the weak.
+
+Rhine Defense Member:
+You're right. Before your results, our enemies... the Columbia's enemies will tremble in fear!
+
+Ferdinand:
+You're talking about terrorizing our enemies?
+
+Ferdinand:
+That's what the army men worry about all day and night. They give me the funding, and I give them the weapons—We scratch each other's backs, and that's where it ends.
+
+Ferdinand:
+But you did remind me...
+
+Ferdinand:
+It's time to move to the next phase.
+
+Rhine Defense Member:
+Wouldn't that provoke it...? What about the people at the site?
+
+Ferdinand:
+They're making the greatest sacrifice of all.
+
+Ferdinand:
+Remember their names.
+
+Ferdinand:
+As pioneers in the truest sense, their names will go down in history.
+
+Ferdinand:
+Their fearlessness gave birth to this ferocious beast, and we will take control of it and make it ours. It will be our hands and eyes.
+
+Ferdinand:
+Just as our ancestors, the brave settlers, brought burdenbeasts under their control, enabling civilization to conquer the wilderness.
+
+Ferdinand:
+We, too, will conquer this beast created by technology and expand mankind's reach into even greater unknowns.
+
+Ferdinand:
+—We will be the trailblazers who expand the frontiers of civilization.
+
+Sonny:
+Are... are these the silver monsters? How did they grow so big...?
+
+Mary:
+—
+
+Elena:
+We'll need something special to do any damage!
+
+Mary:
+You goddamned—monster!
+
+Greyy:
+Did you see those arrows?
+
+The three arrows, all shot at different times, approach the silver geometric figure in a tidy row. The farther they fly, the slower they get, all the way down to an immeasurable crawl.
+
+Yet they remain suspended in the air.
+
+Enveloped by the silver light, they disappear from sight at the very same moment.
+
+Mary:
+So the monster's got some magic tricks?
+
+Elena:
+It disintegrated them.
+
+Elena:
+But it seems awfully quiet to me...
+
+Sonny:
+Watch out! Move!
+
+Mary:
+Urgh... Was that an energy beam, or some crossbow bolts? Where did it come from...? It was so quick, I couldn't catch it.
+
+Elena:
+Logic can't explain its movements and attack patterns.
+
+Elena:
+Perhaps... to that thing, moving and attacking are one and the same...
+
+Elena:
+Supposing this really is the... final product of Dorothy's experiment, then the whole site is within its range of perception.
+
+Elena:
+If the idea crosses its mind, it could modify the physical properties of all objects within that range, instantaneously.
+
+Mary:
+Or, in plain Victorian, we're like modeling clay for a kid to play with, is that right?
+
+Elena:
+More or less.
+
+Elena:
+We need to stop attacking it, Officer. Otherwise, it'll level the whole site within minutes!
+
+Elena:
+Wait, you wouldn't happen to...
+
+Mary:
+I wouldn't happen to have a bunch of explosive-equipped drones, would I?
+
+Mary:
+Keep dreaming!
+
+Greyy:
+So what about those people from Rhine Lab...? Are they here to help us deal with the experiment?
+
+Elena:
+Of course not.
+
+Elena:
+Do you remember what I just said?
+
+Sonny:
+You about it leveling the whole site?
+
+Elena:
+It's already begun...
+
+Sonny:
+Am I seeing things? Did that crane... turn into a perfect sphere?
+
+Sonny:
+It won't be long before it hits the quarters, too!
+
+Mary:
+Dammit! If this site goes down... Trimounts... not to mention the other cities are still in the dark.
+
+Mary:
+They don't even know a monster made by some stupid frickin' eggheads is about to roll them up into a ball!
+
+Elena:
+......
+
+Mary:
+We need to get out of here right now.
+
+Elena:
+Get the word out...
+
+Elena:
+We need to get the word about this out. He's known for a long time it would come to this.
+
+Sonny:
+Who? Who's behind all this? Who'd take it this far? Dorothy Franks?
+
+Elena:
+No, it's not her.
+
+Elena:
+—It's a man who's made a fool for a long time now. Someone who's really taken me for a ride.
+
+Elena:
+He wants to erase the Pioneers... and everything that's happened here at the site.
+
+Elena:
+And all of Rhine Lab might be on his side.
+
+Mary:
+The police were probably bought off, too.
+
+Sonny:
+I'd bet good money there's no media outlet ready to report on this.
+
+Greyy:
+Miss Elena, you know who we should get word out to.
+
+Elena:
+Rhodes Island...
+
+Greyy:
+I'll find Dr. Silence. This is the most crucial objective of our operation.
+
+Elena:
+But you'll be trapped here... Your lives might even be in danger!
+
+Greyy:
+I trust Dr. {@nickname}, and you too.
+
+Greyy:
+I know we can do this.
+
+Elena:
+You trust me...?
+
+Elena:
+What can I do...?
+
+Elena:
+The observation station... I have to get to observation.
+
+Mary:
+Need a ride?
+
+Elena:
+The transport over there...
+
+Mary:
+I borrowed it from Rhine.
+
+Mary:
+It so happens I need to go back and nab the real bad guy behind all this. You're going the same way, aren't you?
+
+Sonny:
+Mind if I tag along?
+
+Sonny:
+No matter which way we slice this... Officer, I'm a suspect in your custody...
+
+Mary doesn't answer, but she extends her hand to Sonny nonetheless.
+
+Beside her, Elena does the same.
+
+Sonny takes their hands and climbs onto the transport, its engine already running.
+
+The three of them—a police officer, a Pioneer, and a researcher—speed toward the edge of the site together.
+
+The sandstorm behind them gives chase in vain, unable to stop their escape.
+
+
+

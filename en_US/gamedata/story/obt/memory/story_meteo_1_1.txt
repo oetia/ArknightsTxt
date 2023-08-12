@@ -1,0 +1,775 @@
+Sarkaz Child:
+Birch, linden, fir, pine...
+
+Sarkaz Child:
+Rose, daisy, orchid, tulip...
+
+Sarkaz Child:
+Sunset, dusk, twilight, night...
+
+Meteorite:
+Got all that down? Now let's try reading an entire passage.
+
+Sarkaz Child:
+Okay.
+
+Sarkaz Child:
+'The roses in the garden have bloomed, filling the garden with a sweet scent.'
+
+Sarkaz Child:
+'I look up at the sky, at the sunset in the distance.'
+
+Sarkaz Child:
+'It is a... a...'
+
+Meteorite:
+What's the matter? Is something wrong?
+
+Sarkaz Child:
+I don't know this word, Miss Meteorite.
+
+Meteorite:
+Okay, repeat after me:
+
+Meteorite:
+(Speaks in Sarkaz)
+
+Sarkaz Child:
+(Repeats after Meteorite)
+
+Meteorite:
+Very good.
+
+Sarkaz Child:
+What does it mean?
+
+Meteorite:
+It's a word that describes a very specific scene, one that is...
+
+Blunt Wedge:
+Keep moving! Why are you standing in the middle of the road?!
+
+Sarkaz Mercenary A:
+Shit, another damned beggar.
+
+Blunt Wedge:
+A beggar? Here?
+
+Sarkaz Mercenary A:
+Don't poke your head out. It might get his attention.
+
+Sarkaz Mercenary A:
+Dammit, he's coming this way.
+
+Blunt Wedge:
+So what? Just ignore him.
+
+Sarkaz Passerby:
+Sir? Ma'am? Anybody need someone to write a letter for them? I'm only asking for a few coins, or some food.
+
+Sarkaz Mercenary A:
+Hey, Salley, you need this beggar to write a letter for you?
+
+Sarkaz Mercenary B:
+Gimme a break, what's the point if I can't even read?!
+
+Sarkaz Mercenary A:
+Haha, even better! He can read for you, too. Two jobs for one beggar.
+
+Sarkaz Mercenary B:
+Get lost.
+
+Sarkaz Mercenary A:
+You hear that, bum? Scram. We've got no money and no need for any letters. Everyone I know who ain't dead is right here in this group.
+
+Sarkaz Passerby:
+Sir! Wait, sir!
+
+Sarkaz Passerby:
+Sir, please, even just a cup of water!
+
+Blunt Wedge:
+*Sigh*... Over here!
+
+Sarkaz Passerby:
+Do you need a letter written, young lady?
+
+Blunt Wedge:
+Not interested. But you can have this bread. This is a battlefield, and we don't need what you're selling.
+
+Sarkaz Passerby:
+(Stomach growls)
+
+Sarkaz Passerby:
+I'm not a beggar. I can't just take something for free.
+
+Sarkaz Passerby:
+Do you want to learn to read and write yourself? Those soldiers don't understand the value of words, and they're too old and stuck in their ways. But you're young. It'll be useful to you.
+
+Blunt Wedge:
+I don't have time for that. We have to keep moving.
+
+Sarkaz Passerby:
+I can come with your group, then. If you decide to study with me, I promise I won't leave until you've gotten the hang of it.
+
+Blunt Wedge:
+......
+
+Sarkaz Passerby:
+I see... Here, you can have your bread back.
+
+Blunt Wedge:
+Just keep it and eat up, quick. We still have a long way to go. You can teach me on the way.
+
+Sarkaz Passerby:
+Ah, alright.
+
+Sarkaz Passerby:
+Do you know how to write your name? I can teach you that first.
+
+Blunt Wedge:
+We don't have names, only codenames.
+
+Sarkaz Passerby:
+What's your codename then?
+
+Blunt Wedge:
+Blunt Wedge. One of the previous captains named me.
+
+Sarkaz Passerby:
+It's a nice name.
+
+Blunt Wedge:
+Yeah right. The captain told me it means 'useless arrow'.
+
+Sarkaz Passerby:
+Haha. There's a Sarkaz proverb: 'Beware rusty arrows.' Infection is no joke.
+
+Blunt Wedge:
+Heh... So what were you doing before the war started?
+
+Sarkaz Passerby:
+I was a teacher.
+
+Two months later...
+
+Sarkaz Teacher:
+I wonder how long this war will go on.
+
+Blunt Wedge:
+(Wraps wounds)
+
+Sarkaz Teacher:
+How's your injury?
+
+Blunt Wedge:
+It's fine. I disinfected it and wrapped it with bandages. It should heal up soon.
+
+Sarkaz Teacher:
+That's good. What a beautiful day... The sunlight's so warm.
+
+Blunt Wedge:
+I've almost finished that book that you lent me. Got any others?
+
+Sarkaz Teacher:
+Only poems and essays.
+
+Blunt Wedge:
+Never mind then.
+
+Sarkaz Mercenary:
+Hey, Blunt Wedge, you got that wound wrapped up?
+
+Blunt Wedge:
+Yeah, it's fine, I applied the dressings.
+
+Sarkaz Mercenary:
+The what now? Whatever, come get your share.
+
+Sarkaz Mercenary:
+2, 4, 6, 8, 10... 14 heads total. Not bad! Could've made more if we didn't let a few get away.
+
+Blunt Wedge:
+(Frowns)
+
+Sarkaz Mercenary:
+Your share of the bounty, plus rations. Okay, later.
+
+Blunt Wedge:
+Wait, that's not enough.
+
+Sarkaz Mercenary:
+What're you talking about?
+
+Blunt Wedge:
+I killed two snipers and an armored grenadier.
+
+Blunt Wedge:
+Those are 30 and 50 percent more than standard, per our agreement. So that's 12 gold coins short.
+
+Sarkaz Mercenary:
+Since when did you learn crunch numbers like that?
+
+Blunt Wedge:
+(Hold out hand) 12 gold coins, or we could sort this out with the captain. And I might mention your little cache while we're at it.
+
+Sarkaz Mercenary:
+What are getting at?
+
+Blunt Wedge:
+No need to play dumb. Your side gig is none of my business, as long as you don't try to screw me over.
+
+Sarkaz Mercenary:
+...Take your money and keep your mouth shut.
+
+Blunt Wedge:
+(Shrugs)
+
+Sarkaz Teacher:
+Haha, you're a quick learner. Not quite what I had in mind for applied math, but it does the job.
+
+Blunt Wedge:
+It's just that everything you teach is way too easy.
+
+Sarkaz Teacher:
+Well, looks like you've learned everything from me you need to. It's time for me to go.
+
+Blunt Wedge:
+Here.
+
+Sarkaz Teacher:
+Half a sack of gold coins? For me?
+
+Blunt Wedge:
+Lesson fees for two months.
+
+Sarkaz Teacher:
+Well, I'm not going to say no.
+
+Blunt Wedge:
+Where are you going to go after this?
+
+Sarkaz Teacher:
+I heard things are calmer in the east. Maybe there are still a few schools remaining there.
+
+Blunt Wedge:
+You know how to use a weapon. You could've made a living as a mercenary. Why insist on making it hard on yourself?
+
+Sarkaz Teacher:
+Kazdel won't miss a single sellsword.
+
+Blunt Wedge:
+Tch... you intellectual types.
+
+Sarkaz Teacher:
+So when will you finish the book? Remember to return it before I leave.
+
+Blunt Wedge:
+Tomorrow. I'm almost at the end.
+
+Blunt Wedge:
+'Mathilda found the moonlight shining through the windows too bright. She rubbed her eyes and closed the curtains, before falling into slumber in the... er...'
+
+Blunt Wedge:
+What does this word mean? I've never seen it before... let's keep going.
+
+Blunt Wedge:
+'Sitting by the campfire with her friends, Mathilda poked at the chestnuts in the fire. The sweet scent in the... er... was a gift.'
+
+Blunt Wedge:
+That word again? Gah.
+
+Blunt Wedge:
+'Mathilda closed the door, picked up her suitcase, and prepared to get in the car. She thought back to the countless... er... that she spent here...'
+
+Blunt Wedge:
+Countless what?
+
+Blunt Wedge:
+'Farewell, those... er...'
+
+Blunt Wedge:
+Who are you saying goodbye to, Mathilda?!
+
+Blunt Wedge:
+'Perhaps in the days to come, she will see more... er..., but there will be no... er... as unforgettable as the... er... here.'
+
+Blunt Wedge:
+How many freaking times does it need to appear in one sentence?!
+
+Blunt Wedge:
+What the heck does it even mean?!
+
+Sarkaz Teacher:
+That took longer than expected. How was it? You could keep it as little farewell gift, if you like.
+
+Blunt Wedge:
+Nah, I prefer adventure novels to reading about some girl sitting on a farm. Honestly, it was pretty frustrating to read.
+
+Sarkaz Teacher:
+Was there a problem?
+
+Blunt Wedge:
+Yeah, there was a word in there I'd never seen. I tried to skip it, but it kept showing up, way too often.
+
+Sarkaz Teacher:
+Let me see... ah.
+
+Sarkaz Teacher:
+It means a pleasant and serene night.
+
+Blunt Wedge:
+...A what?
+
+Sarkaz Teacher:
+Well, a night that's happy.
+
+Blunt Wedge:
+That doesn't make any sense. Nights aren't happy <i>or</i> serene.
+
+Sarkaz Teacher:
+Why not?
+
+Blunt Wedge:
+Because they're long, dark, and cold. They're dangerous and you have to always stay on guard... I hate the night.
+
+Blunt Wedge:
+I've spent so many nights thinking I would die right there and become food for nocturnal scavengers, never to see the sunrise again.
+
+Sarkaz Teacher:
+You could understand 'nocturnal scavengers', but not 'a pleasant and serene night'?
+
+Blunt Wedge:
+I mean, I've seen plenty of animals tearing at dead bodies. I could picture it as soon as you explained it.
+
+Sarkaz Teacher:
+Well, in that case, let's try picturing it together. Close your eyes.
+
+Blunt Wedge:
+Gotcha.
+
+Sarkaz Teacher:
+Think back to when you were a little girl, sitting by your mother's side one night...
+
+Blunt Wedge:
+Stop right there. I've never met my mother.
+
+Sarkaz Teacher:
+Well... did you have any other parental figure as you grew up?
+
+Blunt Wedge:
+The previous captain found me on the battlefield and raised me.
+
+Sarkaz Teacher:
+Well, picture sitting by her side then. How do you feel?
+
+Blunt Wedge:
+I'm sitting next to her, and she...
+
+Blunt Wedge:
+She pushes me away, tells me the warband has no use for a weak child, and makes me run ten laps around the camp holding a bucket of water in each hand, without spilling a drop.
+
+Blunt Wedge:
+My shoulders are starting to get sore.
+
+Sarkaz Teacher:
+A-Alright, let's try something else. You and your friends are sitting by a campfire in the forest. There's a delicious-smelling pot of soup on the fire.
+
+Sarkaz Teacher:
+What do you feel?
+
+Blunt Wedge:
+I stick my nose out to get a whiff of it...
+
+Sarkaz Teacher:
+Exactly!
+
+Blunt Wedge:
+Then I turn around and see a hand reaching for my pack, trying to steal my money pouch. Why the heck did the captain even let that known thief in?
+
+Blunt Wedge:
+So I feel really pissed and kinda wish he was right here so I could punch him.
+
+Sarkaz Teacher:
+...Never mind, let's start over.
+
+Sarkaz Teacher:
+Alright... it's nighttime. Gentle moonlight sweeps across the land. You wrap your blanket around you and feel your eyelids dropping, dragging you into slumber.
+
+Sarkaz Teacher:
+What do you feel?
+
+Blunt Wedge:
+Fear.
+
+Blunt Wedge:
+Artillery fire might rain down on the camp at any moment... I hide under the bed, covering my ears with my friends.
+
+Sarkaz Teacher:
+......
+
+Sarkaz Teacher:
+*Sigh*... Look at what war has done to you children.
+
+Blunt Wedge:
+Sorry for not getting it.
+
+Sarkaz Teacher:
+It's okay. Let me think of another way.
+
+Blunt Wedge:
+It's just a word. You don't need to go that far to teach me.
+
+Sarkaz Teacher:
+Every year, many new things appear in our lives, and new words are created to describe them.
+
+Sarkaz Teacher:
+Most of these words are forgotten as the things they describe disappear, never to be uttered again.
+
+Sarkaz Teacher:
+But some words are special. They're passed down from one person to another, living on in our collective memory.
+
+Sarkaz Teacher:
+That's because they describe something eternal and unchanging. They represent the most precious, foundational spirit of their people.
+
+Sarkaz Teacher:
+They're worth understanding and remembering.
+
+Blunt Wedge:
+So... what if I just can't understand it?
+
+Sarkaz Teacher:
+Patience, young lady. Give it time to take root.
+
+Sarkaz Teacher:
+Look out for the dried branches under your feet. They're overgrown with moss and very slippery after a rain.
+
+Blunt Wedge:
+Alright. You're talking too much.
+
+Blunt Wedge:
+Now can you tell me why you woke me up in the middle of the goddamn night?
+
+Sarkaz Teacher:
+You really are grumpy in the morning.
+
+Blunt Wedge:
+Pardon me, sir, would you care to enlighten me as to why you've brought me to this place?
+
+Sarkaz Teacher:
+(Puts a piece of cloth on the ground)
+
+Sarkaz Teacher:
+Sit.
+
+Blunt Wedge:
+(Sits down on the cloth, confused)
+
+Sarkaz Teacher:
+Here you go.
+
+Blunt Wedge:
+...Canned peaches?!
+
+Sarkaz Teacher:
+I knew you'd like them. I saw the way you were staring when your captain had a can a few days ago.
+
+Blunt Wedge:
+Hmph, they're not <i>that</i> special. ...So how'd you get your hands on 'em?
+
+Sarkaz Teacher:
+I traded a book for two cans, with your captain.
+
+Blunt Wedge:
+Whoa, that's one valuable book. What was it?
+
+Sarkaz Teacher:
+Just an old manuscript. It wasn't doing anyone any good.
+
+Blunt Wedge:
+Give me a break, I know how the captain has been collecting old books and selling them to the Columbians.
+
+Sarkaz Teacher:
+I'm just stating the facts.
+
+Blunt Wedge:
+...There's still half a can left. Want it?
+
+Sarkaz Teacher:
+All yours.
+
+Blunt Wedge:
+Thanks...
+
+Sarkaz Teacher:
+What do you feel when you look around you?
+
+*Slap*
+
+Blunt Wedge:
+(Looks at her palm in disgust)
+
+Blunt Wedge:
+Too many bugs.
+
+Sarkaz Teacher:
+There's no need to kill them, they don't bite... but never mind that.
+
+Sarkaz Teacher:
+I spent a few nights looking for them. I brought you here because they're special.
+
+Blunt Wedge:
+I can see their backsides glowing.
+
+Blunt Wedge:
+Huh... I've seen these by the water before, but I didn't know they were bugs. I thought...
+
+Sarkaz Teacher:
+Thought what?
+
+Blunt Wedge:
+I thought they were the ghosts of people killed in battle.
+
+Sarkaz Teacher:
+People do associate them with will-o-wisps found near graves, but they glow in different ways.
+
+Sarkaz Teacher:
+Will-o-wisps are caused by gases released by decomposing bodies, which have a very low flash point and ignite when they come into contact with air.
+
+Blunt Wedge:
+What about these bugs, then?
+
+Sarkaz Teacher:
+They secrete chemicals that glow, using their respiration to control the biochemical reaction in order to adjust the brightness.
+
+Sarkaz Teacher:
+Their abdomens contain a large amount of light-emitting chemicals and cells.
+
+A bug lands on the man's palm, its backside glowing with a blue light.
+
+Soon, more of the insects draw near, until his entire hand is surrounded in light.
+
+The man seems able to speak endlessly about them, using many complicated words that Blunt Wedge does not understand.
+
+She does not feel troubled, however. In fact, what she's feeling is unfamiliar to her.
+
+It's like a little bug is flapping its wings in her heart, slowly ascending, with a light on its butt that is weak and dim, but filled with vitality.
+
+Blunt Wedge:
+I think I feel something.
+
+Sarkaz Teacher:
+They like to lay their eggs by the water... Wait, what do you feel? Tell me!
+
+Blunt Wedge:
+I feel...
+
+The sound of an explosion interrupts her.
+
+The bugs scatter at the noise, their lights disappearing into the dark woods.
+
+A plume of smoke can be seen in the distance, covering the few stars visible in the night sky.
+
+Blunt Wedge:
+Oh shit! It's coming from the camp!
+
+Sarkaz Teacher:
+Wait, Blunt Wedge! You haven't told me how you felt yet.
+
+Blunt Wedge:
+There's no time for that. We need to get back.
+
+Sarkaz Teacher:
+It's important to me. Please, I must know.
+
+Blunt Wedge:
+I...
+
+Sarkaz Teacher:
+Say something, please.
+
+Blunt Wedge:
+Nothing.
+
+Blunt Wedge:
+I felt nothing.
+
+Blunt Wedge:
+I'm sorry, they flew away too fast. I couldn't catch them.
+
+Sarkaz Teacher:
+No, you felt something! I could see it on your face!
+
+Blunt Wedge:
+(Shakes head frantically)
+
+Sarkaz Teacher:
+Why were you crying if you didn't feel anything?
+
+Blunt Wedge:
+(Wipes away the tears roughly)
+
+Blunt Wedge:
+Maybe there was nowhere in my heart for it to take root.
+
+Sarkaz Mercenary:
+Where were you, Blunt Wedge? The captain was asking about you.
+
+Blunt Wedge:
+I went into the forest.
+
+Sarkaz Mercenary:
+In the middle of the night? Why?
+
+Blunt Wedge:
+I...
+
+Sarkaz Teacher:
+She went on patrol because she was concerned about the enemies that got away a few days ago.
+
+Blunt Wedge:
+Y-Yeah, I thought they might retaliate.
+
+Sarkaz Mercenary:
+Well, you were right. They attacked the camp. The night watch was asleep on duty and got his throat slit.
+
+Blunt Wedge:
+Wasn't Salley on duty?
+
+Sarkaz Mercenary:
+Yup, he's dead.
+
+Sarkaz Mercenary:
+We lost a bunch of supplies in the fire, too. Can't believe we're going hungry after months of hard work... dammit.
+
+Blunt Wedge:
+Anyone injured?
+
+Sarkaz Mercenary:
+A few guys got burned. But we lost a lot of medical supplies too, so here's hoping they make it.
+
+Sarkaz Mercenary:
+Alright, I gotta go. You should find the captain before he gets mad.
+
+Blunt Wedge:
+Okay...
+
+Sarkaz Teacher:
+You really should go, Blunt Wedge.
+
+Blunt Wedge:
+Are you... okay?
+
+Sarkaz Teacher:
+You're the one who just had something bad happen to you. Why are you asking me?
+
+Blunt Wedge:
+You look so sad...
+
+Sarkaz Teacher:
+Don't worry, it's not because of you.
+
+Blunt Wedge:
+Why, then?
+
+Sarkaz Teacher:
+Because of the scorched earth, where nothing will grow again.
+
+Sarkaz Teacher:
+It's getting late. I should go.
+
+Sarkaz Teacher:
+There's no need to see me off. I'll be fine on my own.
+
+Blunt Wedge:
+Just a little further. We might not see each other again.
+
+Blunt Wedge:
+I wanted to thank you... You taught me so many useful things. As for that word...
+
+Blunt Wedge:
+I couldn't understand it, but maybe someone else would.
+
+Sarkaz Teacher:
+It's okay. No need to bring it up.
+
+Blunt Wedge:
+...Sorry.
+
+Sarkaz Teacher:
+Don't apologize. It's not your fault. Never was.
+
+Sarkaz Teacher:
+I've seen many children like you, who've lost their homes, are used to seeing blood and killing, and drift from one battlefield to the next.
+
+Sarkaz Teacher:
+You were the only one who stopped to peruse the knowledge I was peddling.
+
+Sarkaz Teacher:
+For so many years, I believed that knowledge and culture could bring about change, overcome war and violence.
+
+Sarkaz Teacher:
+But in the end, it looks like war has won. It's made a mockery of everything I knew.
+
+Blunt Wedge:
+Are you giving up? If you won't teach people the true meaning of those words, who else can?
+
+Blunt Wedge:
+Won't they disappear from our lives with no one to understand and preserve them?
+
+Sarkaz Teacher:
+All it means is that the beauty those words represented was fleeting. Only pain and suffering remains.
+
+Sarkaz Teacher:
+I'm powerless to fight it.
+
+Blunt Wedge:
+But...
+
+Sarkaz Teacher:
+It's all good. Don't cry.
+
+Sarkaz Teacher:
+Take this book. I've travelled across Kazdel compiling the vocabulary of the land, trying to complete it.
+
+Blunt Wedge:
+A dictionary of the Sarkaz language?
+
+Sarkaz Teacher:
+I haven't written that word down yet. Do it for me, if you ever find help understanding it in the future.
+
+Blunt Wedge:
+Alright...
+
+Sarkaz Teacher:
+Wipe away your tears. This is goodbye.
+
+Sarkaz Child:
+...teorite? Miss Meteorite?
+
+Meteorite:
+Oh!
+
+Meteorite:
+Ah, yes, it means a night that is pleasant and serene.
+
+Sarkaz Child:
+Oh, I get it now! Thank you!
+
+Meteorite:
+(Pats the child on the head)
+
+Sarkaz Child:
+But...
+
+Meteorite:
+What is it?
+
+Sarkaz Child:
+Why are you crying?
+
+Meteorite:
+Because you're a very smart kid.
+
+
+

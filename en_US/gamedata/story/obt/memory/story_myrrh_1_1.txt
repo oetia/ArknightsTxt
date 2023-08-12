@@ -1,0 +1,573 @@
+Rhodes Island Ursus Outpost
+
+Gavial:
+*Yawn*... Morning meeting after hitting the hay at four last night? Gimme a break...
+
+Gavial:
+Why don't you look tired at all, Sussurro?
+
+Sussurro:
+We were taught at school to put on a proper appearance at work, so—
+
+Hibiscus:
+So you had three cups of espresso first thing in the morning. Not exactly a healthy lifestyle, Operator Sussurro.
+
+Sussurro:
+Ahem. Now that Hibiscus is here, let's start the meeting.
+
+Hibiscus:
+Wait, before that we need to introduce our newest colleague. Come on in, Operator Myrrh.
+
+Myrrh:
+G-Good morning. I'm Myrrh, and I've just been made an operator. You can also call me by my real name, Adelaide.
+
+Hibiscus:
+She's been assigned to us after completing her internship. Operator Myrrh, meet Operator Gavial.
+
+Myrrh:
+Good morning, Miss Gavial.
+
+Gavial:
+Just call me Gavial.
+
+Gavial:
+Glad to have you onboard. We can always use more medics. Can't even remember the last time I got a good night's sleep.
+
+Hibiscus:
+We're doing what we can to recruit more. Just try not to scare away the rookies before they even get settled in.
+
+Myrrh:
+I-I'm ready for it. Dr. Kal'tsit told me that the job of a medic is really tough.
+
+Hibiscus:
+Good to hear you've gotten advance warning. Things are really hectic around here.
+
+Hibiscus:
+That's Operator Sussurro next to Gavial. She'll be your supervisor.
+
+Myrrh:
+G-Good morning, Miss Sussurro. I look forward to working with you.
+
+Sussurro:
+Right. Just so you know, us operators don't really call each other 'Miss'. And don't worry, we'll ease you in gradually.
+
+Myrrh:
+I-I'll do my best. Please let me know whenever I'm doing something wrong.
+
+Gavial:
+Seriously, we're just thankful to have you here to take on some of the workload.
+
+Sussurro:
+Ahem. Then shall we get to today's schedule?
+
+Gavial:
+The refugees' conditions are all under control on my end. If all goes well, we should be able to release some of them by next month.
+
+Sussurro:
+What about you, Hibiscus?
+
+Hibiscus:
+Most of the patients are fine, except for one.
+
+Sussurro:
+Who's that?
+
+Hibiscus:
+Mrs. Luba.
+
+Gavial:
+Ah...
+
+Sussurro:
+Ah...
+
+Myrrh:
+Is she doing badly?
+
+Sussurro:
+Her condition isn't all that bad, but she's been refusing treatment.
+
+Myrrh:
+Wait. She's sick, but doesn't want to get treated?
+
+Gavial:
+She's a superstitious one. When she first came, she told me not to waste my time because her village shaman told her she wouldn't live past seventy.
+
+Myrrh:
+Seems a little dodgy...
+
+Hibiscus:
+She believes every word of it, though, even seeing everyday events as signs that the end is near.
+
+Sussurro:
+She practically fled when she saw Biggie outside last Friday.
+
+Sussurro:
+Apparently, seeing a black Originium slug is an omen that death approaches.
+
+Gavial:
+So that's why she was crying all day. Wouldn't even take her meals.
+
+Myrrh:
+(Whisper) Maybe...
+
+Hibiscus:
+*Sigh*...
+
+Sussurro:
+It's just a tough situation all around.
+
+Myrrh:
+Excuse me, Sussurro? May I try talking to her?
+
+Sussurro:
+Are you sure? It takes more than medical expertise to work with a patient like her. You need communication skills too.
+
+Myrrh:
+There are many superstitious people where I'm from, and I've picked up a few tricks to deal with them.
+
+Hibiscus:
+Are you sure about this?
+
+Gavial:
+Why not let her have a go? Not like we've got any better ideas.
+
+Sussurro:
+Hm...
+
+Myrrh:
+P-Please. I want to do this.
+
+Sussurro:
+Very well then, give it a shot. Gavial, could you bring up Mrs. Luba's patient history for her?
+
+Myrrh:
+Thank you, Gavial.
+
+Hibiscus:
+Are we sure about this, Sussurro? I still think we should think it through.
+
+Sussurro:
+Gavial's right though, we don't have any other ideas.
+
+Sussurro:
+Be sure to report back if you encounter any trouble with her. We'll do what we can to support you.
+
+Myrrh:
+Thank you. I'll do my best.
+
+Gavial:
+Welp, then follow me, Myrrh.
+
+Sussurro:
+Was there anything else you wanted to say, Hibiscus?
+
+Hibiscus:
+Er, well, I'm still a little worried. Dr. Kal'tsit told me about some of her... quirks.
+
+Sussurro:
+Such as?
+
+Hibiscus:
+Let's just say that she has some superstitions of her own.
+
+Rhodes Island Field Hospital
+
+Myrrh:
+Mrs. Luba should be here...
+
+???:
+Enough! Take it away! I don't need it.
+
+Myrrh:
+Excuse me, what's going on in there? She sounded angry.
+
+Medic Operator:
+Ah, you must be the new doctor.
+
+Medic Operator:
+I spilled a jar of salt. Apparently that's a taboo in Ursus, like it's really unlucky for them, so she's fuming mad.
+
+Medic Operator:
+Maybe you should come back later, let her get it out of her system.
+
+Myrrh:
+Don't worry, I'm just here to say hi.
+
+Old Woman:
+I said I don't need it! What are y— Oh.
+
+Myrrh:
+Good morning, Mrs. Luba.
+
+Old Woman:
+And who are you?
+
+Myrrh:
+My name is Myrrh, and I'm your new doctor. I'll be working with you to treat your symptoms—
+
+Old Woman:
+Get out, girl, and take your medicine with you! Stop wasting your time on me and let me go in peace!
+
+Myrrh:
+Well, Mrs. Luba, I, er, didn't bring any medicine today.
+
+Old Woman:
+Then what are you here for? Trying to talk me out of my 'superstitions' again?
+
+Myrrh:
+No, not at all. I've never been very good at talking.
+
+Old Woman:
+Then, what? You here to gawk?
+
+Myrrh:
+Well, I, er, brought something for you. It's a lucky charm from home that I've been carrying for years. My clan chief told me that it brings good luck to whoever wears it.
+
+Myrrh:
+(Takes the charm from her neck and gives it to the old woman)
+
+Myrrh:
+Sorry if it's a little worn.
+
+Old Woman:
+A little thing like this... Well, thank you anyway.
+
+Myrrh:
+It's gotten me out of trouble so many times over the years.
+
+Old Woman:
+I didn't think you young folk believed in these things anymore. Everyone's always on about 'science' and 'evidence' and that only backwards, uneducated folk like me still believe this stuff.
+
+Myrrh:
+People always tell me that I'm superstitious too. I always go into a room with my left foot first, and the first thing I do when I move to a new place is set up some fowlbeast feathers.
+
+Myrrh:
+I'm a little afraid to even talk about these things with my peers. Many of them graduated from med school, and they just sneer at this stuff.
+
+Old Woman:
+They're too young to believe in fate. When you get to my age, you realize that some things that are just out of the hands of us mortals.
+
+Old Woman:
+When I was little, a fortune teller said I was fated for hardship for the rest of my life.
+
+Old Woman:
+I didn't believe it back then, but look at me now.
+
+Old Woman:
+My village got caught up in a Catastrophe, my only daughter's dead from it, and now I'm sick in my old age. I'm not long for this world.
+
+Old Woman:
+Oh, Mika... How could you leave your mother all alone like this?
+
+Myrrh:
+(Takes the old woman's hands) Mrs. Luba...
+
+Old Woman:
+What is it? Bored with my griping?
+
+Myrrh:
+No, not at all. I want to know more. Tell me about your daughter. Considering how well you've aged, your daughter must have been truly beautiful.
+
+Old Woman:
+And here you said you weren't any good at talking.
+
+Old Woman:
+Right, my Mika was the jewel of the village. Her golden hair was like silk, so smooth and shiny.
+
+Old Woman:
+Oh, my poor girl... life means nothing without her.
+
+Old Woman:
+Everything tastes so bland these days. And each day is just about making it to the next one.
+
+Myrrh:
+Would you like some sour apple pie?
+
+Old Woman:
+Where's this coming from? What is it anyway?
+
+Myrrh:
+It's a new item on the canteen menu. The tangy flavor really works up the appetite.
+
+Old Woman:
+I'm not hungry. Just stay and chat with me for a bit.
+
+Myrrh:
+Go on then, I'm listening.
+
+Old Woman:
+Mika always loved apples. Not the sweet ones, but the sour ones.
+
+Myrrh:
+I could never handle anything too sour. It makes my teeth curl.
+
+Old Woman:
+My Mika always had such great teeth...
+
+Myrrh:
+The air outside smells so fresh after last night's snow, doesn't it?
+
+Old Woman:
+Stopping by so early? Don't you have work to do?
+
+Myrrh:
+Don't worry, my schedule isn't that packed.
+
+Old Woman:
+You doctors always seem so busy. Didn't think you'd have time to listen to me babble.
+
+Myrrh:
+Hehe, would you rather I didn't come then?
+
+Old Woman:
+Girl...
+
+Old Woman:
+To be honest, it's good to see you.
+
+Myrrh:
+I feel the same way. I couldn't stop thinking about you.
+
+Old Woman:
+Why? What do you see in a washed-up old woman like me?
+
+Myrrh:
+You're about my grandma's age, and you even look a little alike. Seeing you reminds me of her.
+
+Old Woman:
+If I had a granddaughter, she'd be about your age now.
+
+Old Woman:
+You must've really loved your grandma then.
+
+Myrrh:
+Yes. She taught me everything I know about wild forest herbs, and how to use them for medicine.
+
+Myrrh:
+She also taught me how to find my way, so I'm never lost no matter where I go.
+
+Old Woman:
+Do you miss home?
+
+Myrrh:
+Very much.
+
+Old Woman:
+Me too... but I won't see it again. And I won't ever see my Mika either.
+
+Myrrh:
+Don't cry, Mrs. Luba. She'll come back to you, someday.
+
+Old Woman:
+What are you on about? How can somebody who's dead come back to me?!
+
+Myrrh:
+Please, don't get angry. It's just what we say in my clan.
+
+Myrrh:
+We believe that the spirit of the woods guides the dead to the Great Green, where they become one with nature.
+
+Myrrh:
+Whenever someone in my clan dies, we gather by the river and send down a little boat holding a candle, in order to light the way back for them.
+
+Old Woman:
+Even if what you said is true, and Mika really came back... what would she become?
+
+Myrrh:
+I don't know. Maybe the stars and the wind in the sky, or the snow and the rain on a lake.
+
+Myrrh:
+Or the grass under our feet, soft and lovely...
+
+Old Woman:
+But the land's so big. How could I find her?
+
+Myrrh:
+We... we can't find them ourselves. We can only wait for them to find us.
+
+Myrrh:
+That's why our chief leads the guiding dance at funerals, so that those who are gone can find their way back and reunite with us.
+
+Old Woman:
+Girl...
+
+Old Woman:
+Do you... know the dance? Can you dance for her? For Mika?
+
+Old Woman:
+I want to see her. No matter what she's become.
+
+Myrrh:
+......
+
+Myrrh:
+Alright.
+
+Myrrh did not know how bad her dancing was.
+
+Her steps were slow and out of sync with her arms. Even a farmer tilling the fields would look more elegant and coordinated.
+
+Her movements were clumsy and comical, like a baby fowlbeast flailing in the snow.
+
+But Luba did not laugh. As Myrrh made circles in the snow, waving her arms, a cold morning wind brushed against the hair on Luba's brow.
+
+She closed her eyes and felt the air rush past her cheek. Something warm filled her eyes.
+
+Old Woman:
+Girl...
+
+Myrrh:
+(Falls) T-The world's spinning... I'm spinning...
+
+Myrrh:
+Mrs. Luba? W-What is it?
+
+Old Woman:
+Let's go back. I'm in the mood for some sour apple pie.
+
+One month later...
+
+Old Woman:
+There you are, Adelaide. Good to see you one last time before I leave.
+
+Myrrh:
+Your symptoms are under control, and should remain stable for the foreseeable future. As long as you watch your diet and take the suppressant regularly.
+
+Old Woman:
+Thank you so much for doing all this for an old sack of bones like me.
+
+Myrrh:
+I'm just doing my job. Oh, before I forget... here, I got you a sour apple pie to eat on the way.
+
+Old Woman:
+Aw, aren't you just a sweetheart? You remember my favorite.
+
+Myrrh:
+I'll see you off then.
+
+Old Woman:
+Sure thing, love.
+
+Old Woman:
+Before I came here, I was all outta hope. I would just sit on my bed all day, wishing to kick the bucket already.
+
+Old Woman:
+Until I met you.
+
+Old Woman:
+Now I can feel Mika by my side all the time. I see her whenever I look at the mountains, the trees, the flowers, the grass, the rain, the snow...
+
+Old Woman:
+I want to see more, to keep seeing her.
+
+Old Woman:
+And to do that, I've gotta keep on living.
+
+Myrrh:
+I'm sure she'd be happy. Take care, Mrs. Luba. I'm not sure how often we can see each other again...
+
+Old Woman:
+Come now, pull yourself together.
+
+Myrrh smiles and takes the old woman's hand. The two of them walk quietly over the snow.
+
+Only when they have arrived at the village gate does the old woman hesitantly begin to speak.
+
+Old Woman:
+Adelaide... let me ask you something. Answer me honestly.
+
+Old Woman:
+All that stuff you told me... is it really true?
+
+Myrrh:
+Mrs. Luba...
+
+Old Woman:
+I mean, do you believe it? Be honest.
+
+Myrrh:
+I don't know.
+
+Myrrh:
+When I was little, the chief would brew me medicine whenever I was sick. And I always got better soon after taking it.
+
+Myrrh:
+I used to think it was so amazing.
+
+Myrrh:
+But when I came to the landship, I began to study its composition, to learn medicine in a systematic matter.
+
+Myrrh:
+That's when I found that it was just a common herbal drink, with no special effects.
+
+Myrrh:
+So I put away my research on it, and turned to studying other medicines.
+
+Myrrh:
+But I still find myself making it whenever I get sick, simply out of habit.
+
+Myrrh:
+And not just when I'm sick - I do it when an experiment didn't go well, or when I can't sleep, or when I scrape my knee after a fall.
+
+Old Woman:
+Why do you keep drinking it, even though you know it has no effect?
+
+Myrrh:
+I'm not sure why... sorry.
+
+Old Woman:
+Why... why, indeed?
+
+Myrrh:
+Is it all true, Harmonia? Does this dance really bring the dead back to our side? Does the Great Green really exist?
+
+Harmonia:
+Adelaide... I can't answer that question, because I don't know either.
+
+Myrrh:
+Why do you join the chief in the guiding dance then, if you don't know sure?
+
+Harmonia:
+Because I hope that it's true, and that someday we'll reunite with the ones who have left us.
+
+Harmonia:
+That's why I dance.
+
+Harmonia:
+This land has too many troubles and hardships. The helpless must learn to help themselves, and the lost must learn to find their own answers.
+
+Harmonia:
+That's why we place our hopes on the ethereal, on the supernatural.
+
+Harmonia:
+That's why we have superstitions.
+
+Myrrh:
+But, Harmonia...
+
+Myrrh:
+I suppose it becomes true if you believe in it.
+
+Old Woman:
+Never mind. Who cares if it's true or not, at my age?
+
+Old Woman:
+There isn't much I can give you, but take this necklace that my man left me.
+
+Myrrh:
+No, I can't accept that.
+
+Old Woman:
+Just take it. It's nothing valuable.
+
+Myrrh:
+I appreciate it, but the Medical Department has rules against accepting gifts from patients.
+
+Old Woman:
+It'll bring you good luck. Take it, girl, and take care.
+
+As she watches Mrs. Luba leave, Adelaide rubs her eyes and recalls sitting by Harmonia, gazing at the river in the distance.
+
+
+

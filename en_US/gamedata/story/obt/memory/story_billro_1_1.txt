@@ -1,0 +1,709 @@
+Carnelian:
+Kal'tsit? Are you listening?
+
+Carnelian:
+The last treatment worked very well. Count Hohenlohe has gotten much better. Thank you for your help.
+
+Carnelian:
+Oh, wait a moment.
+
+Kal'tsit:
+I don't recommend letting yourself get distracted in battle.
+
+Carnelian:
+This is hardly a battle. Don't worry. It'll be over soon.
+
+Carnelian:
+Back on topic... I will be staying a little longer than usual at Rhodes Island this time. That won't be a problem, will it?
+
+Kal'tsit:
+Rhodes Island will never turn away its operators.
+
+Carnelian:
+You can get to the point and say I'm welcome.
+
+Kal'tsit:
+If that's what you want to hear, you're welcome here.
+
+Carnelian:
+Right... makes me wonder if I should say you're straight to the point or beating around the bush.
+
+Carnelian:
+Whatever. Let us talk about the next treatment, then.
+
+Kal'tsit:
+Medical will formulate the medicine used in the next treatment based on the physical examination data you provided. This will take some time, but not too long.
+
+Kal'tsit:
+I still insist that the Count receive regular, detailed examinations. That's the only way we can plan out his treatment effectively.
+
+Carnelian:
+Best if I bring him to you for a checkup, right?
+
+Carnelian:
+Considering the Count's position, that is far too risky. Too bad. Things could have been so much simpler if certain people were less stubborn.
+
+Carnelian:
+In any case, until the medicine's formulated, I will be working alongside Ankhesena... the little squirt. I trust you'll have no problem with that?
+
+Kal'tsit:
+You are free to do as you please.
+
+Carnelian:
+Wonderful, then.
+
+Carnelian:
+Ah, right. One more thing...
+
+Carnelian:
+Looks like some pests managed to follow our tracks. The Count is a popular man, and even a lowly attendant like me gets followed.
+
+Carnelian:
+But don't worry. This won't affect Rhodes Island whatsoever. I'll take care of it.
+
+Carnelian:
+Okay, let me think. What should I do with you?
+
+Carnelian:
+Instead of Rhodes Island's gentle way of doing things, I'm much better at silencing people directly... It makes things much easier for everyone.
+
+Vulgar Bandit:
+W-What are you doing?!
+
+Carnelian:
+Why are you shaking? If you chose to be a robber, surely you must've been prepared for this to happen one day?
+
+Carnelian:
+Relax, the pain will stop in no time—
+
+Beeswax:
+Sis, I'm done with my part.
+
+Carnelian:
+......
+
+Beeswax:
+Sis?
+
+Carnelian:
+Ankhesena, what are you doing here? Have you taken off all the guys on your side?
+
+Beeswax:
+Mhm.
+
+Beeswax:
+The Medic Operators are treating the injured, and I helped by bringing them medicine.
+
+Carnelian:
+Good job.
+
+Beeswax:
+It was nothing.
+
+Beeswax:
+What are you doing?
+
+Vulgar Bandit:
+(The bitch's lying!)
+
+Shrewd Bandit:
+(Friendly chat my ass!)
+
+Vulgar Bandit:
+*cough*.
+
+Beeswax:
+Friendly... chat?
+
+Carnelian:
+Friendly chat!
+
+Beeswax:
+Mm, okay...
+
+Beeswax:
+Hello?
+
+Shrewd Bandit:
+You talking to us?
+
+Beeswax:
+Yep. After that lesson, you know how awesome we are, don't you?
+
+Beeswax:
+So please stop trying to bother the Pioneer Team. They are very hardworking people, and please find an honest job.
+
+Vulgar Bandit:
+Huh? Work? What are you talking about, you punk ass...
+
+Carnelian:
+(Hm? You want to repeat that?)
+
+Vulgar Bandit:
+Urk...
+
+Shrewd Bandit:
+(Shut up, idiot!)
+
+Vulgar Bandit:
+(Ow! What are you smacking me for...?)
+
+Shrewd Bandit:
+D-Don't worry! We definitely won't ever look for no trouble with the Pioneer Team ever again. We... We will work the hardest we can!
+
+Beeswax:
+...Really?
+
+Shrewd Bandit:
+Of course. Of course! We've learned our lesson, much thanks to you two!
+
+Carnelian:
+Your word's not worth much.
+
+Beeswax:
+Okay, that's good to hear.
+
+Carnelian:
+Ankhesena?!
+
+Carnelian:
+Are you sure about this?
+
+Beeswax:
+Hmm... Is that not good enough?
+
+Beeswax:
+Let me think...
+
+Carnelian:
+(*sigh*...)
+
+Carnelian:
+No, we'll handle this your way. I'll always support your decisions.
+
+Carnelian:
+—
+
+The short-haired Caprinae pauses for a moment and turns her gaze from her younger sister to the bandits beside her. Though her eyes sweep past them only very briefly, it's evident they are blood-colored, cold, and harsh.
+
+Beeswax:
+Sis? What's wrong?
+
+Carnelian:
+Hm? Oh.
+
+Carnelian:
+It's nothing. If this is taken care of, then let's go back.
+
+Beeswax:
+...Okay.
+
+Shrewd Bandit:
+Wow, they actually left.
+
+Vulgar Bandit:
+What do we do, Boss? Are we really gonna do honest work?
+
+Vulgar Bandit:
+W-What kind of work can we do?
+
+Shrewd Bandit:
+Work? Work your ass!
+
+Shrewd Bandit:
+Now hurry and get everyone up! We're leaving!
+
+Vulgar Bandit:
+Alright, alright! Sheesh, why smack me again...?
+
+Medic Operator:
+Okay, this should do it for now.
+
+Medic Operator:
+Your injuries aren't very serious, but you should try to avoid any intense physical labor for a while and let your body rest as much as you can.
+
+Injured Pioneer:
+But if we don't hurry up and finish the construction, those bandits will...
+
+Strong Pioneer:
+Alright! Don't worry about it. We'll figure it out somehow.
+
+Injured Pioneer:
+......
+
+Strong Pioneer:
+Don't worry, Doc. We'll keep an eye on our wounded and make sure they rest up!
+
+Carnelian:
+Are you finished treating the injured?
+
+Carnelian:
+I taught those bandits a lesson with Ankhesena... Beeswax. Is there anything else we can help you with?
+
+Medic Operator:
+Carnelian! Thank you so much for escorting me here!
+
+Medic Operator:
+I'm finished with the Pioneers' treatment. Their injuries aren't serious, and even the Infected among them aren't in particularly dire condition.
+
+Medic Operator:
+The mission itself can be called a success, but...
+
+Carnelian:
+You're worried about the bandits?
+
+Medic Operator:
+Yes...
+
+Medic Operator:
+They have been operating here for a while now. It doesn't look like they'll stop just because you teach them a lesson or two.
+
+Carnelian:
+And we're only here on a mission. Can't always help out... can we?
+
+Carnelian:
+*sigh*... Everyone can tell at a glance there is nothing we can do about those men, but that little squirt still has no idea.
+
+Carnelian:
+How worrying.
+
+Medic Operator:
+Haha... Beeswax is working very hard already, though! The first time we went on a mission together, she got so lost that she didn't make her way back to the campsite until the morning on the third day...
+
+Carnelian:
+Oh? She didn't tell me that one. Maybe I could take you out to dinner one day and hear the whole story?
+
+Medic Operator:
+I would love to, if we get the chance! I want to show you the specialties we have on offer at the Rhodes Island canteen, too!
+
+Medic Operator:
+Speaking of which, where is Beeswax?
+
+Carnelian:
+She said she's got something to do by herself.
+
+Medic Operator:
+Huh? By herself?! S-She's not going to get lost again, is she...?
+
+Medic Operator:
+I'm a little surprised, though. I thought you would be so worried that you would follow her.
+
+Carnelian:
+If I try to have a hand in everything, she'll never grow up.
+
+Carnelian:
+Ankhesena is out here to gain experience; it's not so bad to let her experience more by herself. Guardians who keep kids on a tight leash will only find themselves hated—That said, I'm worried, of course.
+
+Carnelian:
+That's why... if you don't mind, is it okay if I take charge of this bandit problem?
+
+Medic Operator:
+Do you have a good way to solve this? If there's anything I can do, I can...
+
+Carnelian:
+Thanks, but there's no need.
+
+Carnelian:
+Most Rhodes Islanders might find my methods a little... strange.
+
+Medic Operator:
+W-What do you mean by that...?
+
+Carnelian:
+Hah hah, don't worry about it. Just leave it to me.
+
+At first, joining Rhodes Island was only a stopgap measure.
+
+The young Count is afflicted with a disgraceful disease and must mix with Leithanien's upper crust while hiding his identity as an Infected.
+
+He is still a boy, but his demeanor is already like that of a seasoned veteran.
+
+But in Carnelian's eyes, instead of a dignified image, he instead reminds her of a young, seriously injured beast who had lost its parents that she once saw.
+
+Confronted by hunters, it bared its fangs and raised its hackles, feigning the last bit of dignity it could manage as a wild beast.
+
+In the beginning, that was the only reason why she chose to stick her nose into that.
+
+And the agreement she signed with Rhodes Island was but one of the many insignificant things she had no choice but to do at the time.
+
+Shrewd Bandit:
+Hey, what are you strolling out here at this hour for?
+
+Vulgar Bandit:
+My head hurts so bad I can't sleep. Ugh, what a ruthless bitch...
+
+Shrewd Bandit:
+We made this trip all for nothing, thanks to that wretched woman.
+
+Shrewd Bandit:
+As soon as those Rhodes Island busybodies leave, we're going to teach that Pioneer Team a real lesson! See if they still dare to—
+
+???:
+Dare to what?
+
+Shrewd Bandit:
+Who goes there?!
+
+Carnelian:
+Good evening, gentlemen.
+
+Carnelian:
+It sounds like you're having an interesting conversation. Mind if I join?
+
+Vulgar Bandit:
+You... You're the crazy bitch from this afternoon!
+
+Carnelian:
+My, how rude.
+
+Carnelian:
+But fine. This is actually just perfect. If you got polite all of a sudden, I might not be able to bring myself to do this.
+
+Shrewd Bandit:
+W-What are you going to do?!
+
+Shrewd Bandit:
+Y-You promised us you'd let us go this afternoon...
+
+Carnelian:
+Hmm? Did I?
+
+Carnelian:
+I did say I'd support Ankhesena's decision, but let you go?
+
+Carnelian:
+Peculiar. Did I ever say that?
+
+Vulgar Bandit:
+......
+
+Shrewd Bandit:
+You stinkin' bitch!
+
+Carnelian:
+Oh, don't get yourselves so worked up, gentlemen.
+
+Carnelian:
+Your profanities won't save you, but before I deal with you, I have a little question.
+
+Shrewd Bandit:
+What is it?
+
+Shrewd Bandit:
+We'll give you an answer, but we need your word that you won't kill us.
+
+Shrewd Bandit:
+Urgh!!
+
+Carnelian:
+Sorry, but I'm not here to discuss terms.
+
+Carnelian:
+It seems you don't quite understand the situation you are in. I shouldn't have been so lenient on you in the daylight.
+
+Shrewd Bandit:
+My hand! No, please! I'll tell you anything. Please let me go!
+
+Carnelian:
+Very well—
+
+???:
+Wait!
+
+Carnelian:
+(...Again?!)
+
+Shrewd Bandit:
+Ugh.
+
+Medic Operator:
+Carnelian! We finally caught up to you...
+
+Beeswax:
+Sis, wait. Don't hurt them.
+
+Carnelian:
+*cough*, Ankhesena, listen to me. This is just a misunderstanding. I'm having a happy little chat with these gentlemen...
+
+Beeswax:
+Sis.
+
+Carnelian:
+Hm?
+
+Beeswax:
+I'm not stupid.
+
+Carnelian:
+......
+
+Beeswax:
+I know the way you fight. You don't have to hide it from me.
+
+Beeswax:
+The elders all told me when you went hunting for the first time, you came back completely drenched in blood, and your prey was in tatters.
+
+Beeswax:
+You're way too direct and rough with how you handle things!
+
+Carnelian:
+The elders tell you everything, huh?
+
+Carnelian:
+Okay, I'll stop... but what do you plan on doing with them?
+
+Carnelian:
+You shouldn't expect them to go get jobs after you free them, and if you leave them be, who knows what they'll do in the future... We won't be staying here forever.
+
+Beeswax:
+Yes, I know that.
+
+Beeswax:
+But, Sis, this is Columbia.
+
+Carnelian:
+You mean...?
+
+Beeswax:
+Maybe we should follow Columbia's rules.
+
+Medic Operator:
+Hehe, Beeswax's really thought of everything. She went into the city by herself this afternoon just to take care of this.
+
+Columbian Police:
+Police. Sorry we got here late.
+
+Columbian Police:
+Are these the bandits that attacked the Pioneer Team on multiple occasions and have been assaulting passersby in the area that you mentioned?
+
+Shrewd Bandit:
+Shit... It had to be these cops...
+
+Columbian Police:
+Hmph, you degenerates, huh?
+
+Medic Operator:
+There's more, too! Officer, please come with me!
+
+Beeswax:
+I asked the Pioneer Team. These men have done plenty of bad things here before this. If they're caught, they probably won't get to come back for a while.
+
+Beeswax:
+Now they can't do anything bad anymore.
+
+Carnelian:
+Well... I'm surprised you thought of this.
+
+Beeswax:
+Back home, we wouldn't even begin to think about talking to the police, but the Doctor says I have to learn to follow the local customs wherever I go.
+
+Beeswax:
+And we have to borrow all the strength we can... The Doctor taught me that, too.
+
+Carnelian:
+......
+
+Carnelian:
+I see, so the Doctor taught you...
+
+Carnelian:
+Hahah.
+
+Carnelian:
+Ankhesena.
+
+Beeswax:
+Hm?
+
+Carnelian:
+Do you like Rhodes Island?
+
+Beeswax:
+Yep...
+
+Beeswax:
+I sure do.
+
+Carnelian:
+Is it okay if I ask why?
+
+Beeswax:
+There are lots of kind people at Rhodes Island. If I stay there, I can see a lot more things that I haven't seen and learn lots of new stuff.
+
+Beeswax:
+Isn't that what we came out into the world to do?
+
+Carnelian:
+You're right.
+
+Carnelian:
+It's true. Those traditions exist so we have a chance to understand the outside world, to absorb knowledge that we're interested in, and to see things that we've never seen.
+
+Carnelian:
+That's how I made it all the way here, and now it's your turn, Ankhesena.
+
+Carnelian:
+Yes... I understand that well.
+
+Beeswax:
+Sis? What's wrong? Are you... Are you sad?
+
+Carnelian:
+No. I'm actually very happy.
+
+Carnelian:
+Who would've thought that the little squirt who clung to my leg all those years ago would say something that makes so much sense? Oh, how time flies.
+
+Carnelian:
+I'm a little sad I couldn't see how you grow so dependable, though.
+
+Carnelian:
+Yep, I guess I'll have a chat with the Doctor sometime. I'm sure I'll learn lots of interesting things about you.
+
+Beeswax:
+Sis!
+
+Carnelian:
+Haha, I'll stop teasing you.
+
+Carnelian:
+You did very well. I'm glad you know how to solve the challenges you face, your own way.
+
+Carnelian:
+What I said still stands. It doesn't matter what you want to do. I'll always support your decisions. So don't be afraid, no matter what comes your way. Just do as you will.
+
+Beeswax:
+Right, I understand.
+
+Beeswax:
+You're going to leave soon, right?
+
+Carnelian:
+Sorry... I can't always be there with you.
+
+Beeswax:
+It's okay.
+
+Beeswax:
+It's fine. While you're gone, I'll keep traveling with Rhodes Island. I still have lots to learn...
+
+Beeswax:
+I want to become even more dependable, so I can help you next time.
+
+Carnelian:
+......
+
+Carnelian:
+Phew, now I can rest easy, knowing you'll be fine at Rhodes Island.
+
+Carnelian:
+Even if something unexpected happens on <i>that</i> end, you won't be in danger here.
+
+Beeswax:
+Sis...?
+
+Beeswax:
+......
+
+Beeswax:
+You never let me in on the dangerous stuff you're doing! You big dummy!
+
+Carnelian:
+Oh? Finally going to sulk?
+
+Beeswax:
+(Pouts)
+
+Carnelian:
+Okay, don't be mad. Just like you're starting to discover your own way of doing things, I'm sure you know...
+
+Carnelian:
+I have my ways, too.
+
+Rhodes Island accepts people of all kinds. Some came together because of how like-minded they are, but even more of them, like her, opted to stay a while for all kinds of reasons.
+
+From the bottom of her heart, Carnelian feels truly gratified, knowing that Ankhesena has been able to broaden her horizons, learn to think for herself, as well as understand and accept Rhodes Island's ideals.
+
+Even though she herself only follows her heart, Carnelian thinks that, perhaps while she's around all these adorable Rhodes Islanders, she should restrain herself a little and work with them.
+
+If she hangs around them long enough, perhaps she too will be influenced by them and become softer?
+
+That's something to look forward to, but before that...
+
+Vulgar Bandit:
+(No mistake. That Caprinae woman is Count Hohenlohe's attendant.)
+
+Vulgar Bandit:
+(Someone so close to a Leithanian count is secretly in close contact with an Oripathy-related pharmaceutical company...)
+
+Vulgar Bandit:
+(Rhodes Island, huh... Feels like I've heard that name before.)
+
+Vulgar Bandit:
+(Anyway, I gotta get word about this to—)
+
+???:
+Good evening again, vermin.
+
+Vulgar Bandit:
+Y-You're the attendant—
+
+Carnelian:
+Shh.
+
+Vulgar Bandit:
+Guh...!
+
+Carnelian:
+That's a great disguise. You almost fooled me.
+
+Carnelian:
+Those nobles really don't mind all the trouble, do they? They're even sending men to keep an eye on a lowly servant like me.
+
+Carnelian:
+It took me quite a bit of work to sneak over here behind Ankhesena's back. She's not so easy to fool anymore.
+
+Vulgar Bandit:
+*cough*... You... I knew it... You're...
+
+Vulgar Bandit:
+Infect—
+
+Carnelian:
+Silence is golden, sir.
+
+Vulgar Bandit:
+*cough*, ahh—!! My leg!
+
+Carnelian:
+Oh, I'm sorry. Did that hurt?
+
+Carnelian:
+Come, tell me who's behind all this, and I'll send you on your merry way. How about it?
+
+Carnelian:
+It's ironic how many vicious methods those civilized men came up with. I'm not very used to them, but if you're so stubborn, I have no choice but to give them a try.
+
+Carnelian:
+I guess you wouldn't want to try them out, though?
+
+Vulgar Bandit:
+Ugh... Ah... Ahh...!
+
+Carnelian:
+This should do for now.
+
+Carnelian:
+I need to report the situation to the Count as soon as possible. Kids these days really are tough to deal with.
+
+Carnelian:
+Right... If I don't head back soon, Ankhesena will probably get suspicious. She was a sharp girl to begin with, but she wasn't this clever. I wonder who she picked that up from.
+
+Carnelian:
+*sigh*... Kids really do grow up so fast...
+
+Carnelian:
+Well, seems I'll be going back in shame if I don't work a little harder.
+
+
+

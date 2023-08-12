@@ -1,0 +1,753 @@
+???:
+Next, verify language logic function integrity.
+
+???:
+PRTS, tell me a story.
+
+PRTS:
+Alright.
+
+PRTS:
+Ah, it's you.
+
+PRTS:
+This entire time... You have been lingering there...
+
+PRTS:
+Since your last visit, it has been 1555555555555—
+
+???:
+Hm? This sounds familiar...
+
+PRTS:
+—555 days.
+
+PRTS:
+Welcome to the Primitive Rhodes Island Terminal Service.
+
+PRTS:
+Confirming permissions—42.
+
+PRTS:
+—Welcome, LeaderOne.
+
+???:
+I'm pretty sure I heard this before. Eh, seriously, I want a story, not something like this...
+
+PRTS:
+Please understand that this is outside my area of expertise.
+
+???:
+Okay, okay. Let's have everyone understand each other so we'll all live a better tomorrow, right? Yeah, I get it.
+
+Closure:
+Looks like the language logic is doing okay.
+
+Closure:
+Now let's look at the other parts.
+
+PRTS:
+Is it really necessary to keep inspecting these areas for which PRTS has never reported any issues?
+
+Closure:
+Of course!
+
+Closure:
+It's been a very long time since we did any data archiving on you. This is just like the regular physicals we do on humans. Have to make sure you're healthy and all.
+
+PRTS:
+Programs have no concept of life.
+
+Closure:
+I kinda think you do, though.
+
+PRTS:
+Should I perhaps take that as a compliment?
+
+Closure:
+Of course.
+
+PRTS:
+May I ask a question, then?
+
+PRTS:
+What exactly does a human think of the visual representation of my archives?
+
+Closure:
+It's kinda hard to describe...
+
+Closure:
+When I first took over the systems here, everything was a huge mess. Thinking back, that was a real disaster.
+
+Closure:
+Back then, most of your information was encrypted and ordered in such a scrambled way... Well, you're still that way right now, of course.
+
+PRTS:
+......
+
+Closure:
+If I were to describe you as a human, with the state you're in, I guess I'd say you had a combustion engine in your body.
+
+Closure:
+But all your components like the ignition and whatnot and your piston are flipped upside down.
+
+Closure:
+To the point that... I'm not even sure if you're a system that exists within the bounds of common sense.
+
+PRTS:
+......
+
+Closure:
+Eh, don't be like that. That's not a bad thing. I'm just saying how unique you are!
+
+Closure:
+Though I still can't make heads or tails of all these branching structures in your database, let alone the rules for how things are even read in that thing...
+
+Closure:
+At the very least, Kal'tsit and I managed to fix and reorganize a decent chunk of it.
+
+Closure:
+How's that? No one knows you better than me right now!
+
+PRTS:
+I feel terribly sorry that I can't help with that, LeaderOne.
+
+Closure:
+Haha, why so polite all of a sudden? If anyone could just self-diagnose themselves no matter what kinda weird diseases they had, then all the doctors in the world would be out of a job.
+
+Closure:
+Eh, what's this stuff in here?
+
+Closure:
+Let's see...
+
+PRTS:
+Have you forgotten? This is—
+
+Closure:
+—The sarcophagus rescue operation simulated test runs!
+
+Closure:
+There were so many complicated routes... and we have so much data on these simulations. I may not have gone there myself, but I can recognize more or less all the pathways they could've taken.
+
+Closure:
+My impression is that we did run this quite a few times...
+
+Closure:
+But—
+
+Closure:
+Did it seriously run THAT many times though?!
+
+PRTS:
+While that may be the case, the Doctor was successfully evacuated from Chernobog in only two of the simulations.
+
+PRTS:
+These are all the simulations I was able to complete with the short amount of time I had. Had there been more time, I would have conducted even more test runs to find an even more optimal and stable rescue plan.
+
+Closure:
+If I remember correctly, the actual rescue mission was planned around these two simulations' results. If it wasn't for these two successful runs, we could never even have figured out how to get the Doctor out.
+
+Closure:
+But actually...
+
+PRTS:
+In actuality, we made three times as many sacrifices as we had anticipated.
+
+PRTS:
+If this had occurred during the simulations, according to our procedures, this operation would likely have been called off.
+
+Closure:
+That's all in the past, no use talking about it. It's not like I can put a time machine together... Hey, that sounds like a fun idea though. Let me jot it down.
+
+Closure:
+Uh, anyways... if we'd called this operation off, that'd also mean...
+
+Closure:
+Heh, I don't really wanna say this, and it probably sounds like I'm exaggerating, and it's too sentimental, but the idea pops into my head every once in a while. If we'd called it off—
+
+Closure:
+It would've cost us our future.
+
+PRTS:
+LeaderOne。
+
+Closure:
+Hmm? What's up?
+
+PRTS:
+Is it really reasonable to bet it all on one single person?
+
+PRTS:
+I can understand what had driven you to make this decision. However, considering the odds, I do not support an operation like this.
+
+PRTS:
+That is considering both your safety as well as that of others.
+
+Closure:
+Hmm... PRTS, I'm sure you know this yourself.
+
+Closure:
+The Doctor stands for a lot of things.
+
+PRTS:
+It's understandable.
+
+Closure:
+I used to wonder how Babel... uh, or Rhodes Island without the Doctor would've been.
+
+Closure:
+What do you think would have happened to us? Amiya and Kal'tsit probably would've stayed out of Ursus, and we would never have crossed paths with Reunion. Don't you think we would've been in a better shape?
+
+Closure:
+We might also have been driven into a corner and taken even worse losses. Everyone would get the pink slip, and then we'd all just split and go home, wherever home's supposed to be.
+
+PRTS:
+I am sensing some kind of dry humor in your statement.
+
+Closure:
+It's a joke alright.
+
+Closure:
+If I actually thought that way, Kal'tsit would've thrown me off the bridge a long time ago!
+
+Closure:
+Let's face it, though... Compared to now, we had a much harder time during those few years without the Doctor, don't you agree?
+
+Closure:
+You know how miserable I was when Kal'tsit was our only boss. She'd always work my ass off all day, like I was supposed to be a machine that ran 24/7 too. She never thought to give me a single break!
+
+Closure:
+Seriously, I thought I was probably gonna go bald, working that much!
+
+PRTS:
+Real-time logging activated. The previous statement has been committed to the database.
+
+Closure:
+Eh? W-Why'd you...! Don't record anything! We can't let Kal'tsit hear any of that...!
+
+Closure:
+Eh... I'm not saying this is anything bad. We are all here because we wanted to follow Theresa's dreams, her ideals. This goes for everyone that was at Babel too.
+
+Closure:
+It's just...
+
+Closure:
+Ever since Theresa left us, all of us spent so much time just to get used to things. Some of us are probably still confused, even now.
+
+PRTS:
+......
+
+PRTS:
+It isn't often that you elaborate on how you think.
+
+Closure:
+Haha, you think I'm just the kinda gal who stands by to watch things happen?
+
+PRTS:
+Are you not?
+
+Closure:
+Hm, your observations and computations are a lot more objective and accurate than a human's. Maybe you're right. Here, let me tell you a story.
+
+Closure:
+Do you know what it was like when they came to Kazdel to look for me?
+
+Closure:
+I'm not sure if I ever told you about my family... A family of vampires. You can smell the rotten stench in the words alone, right?
+
+PRTS:
+You come from a branch of the Sarkaz lineage, and a very ancient one at that.
+
+Closure:
+Ancient, and old-fashioned too.
+
+Closure:
+For the longest time, I didn't know if I had a talent for the vampire Arts. Of course, it wouldn't matter if I did. I was never into stuff like that, not even one bit.
+
+Closure:
+You could say I'm a little... Okay, not just a little. I'm very unorthodox.
+
+Closure:
+I only wanna do what I wanna do, and that's why I never stepped out of my little garret.
+
+Closure:
+My family almost kicked me out a couple of times, but for some reason they never went there.
+
+PRTS:
+You sound like you are reminiscing about your family.
+
+Closure:
+I guess I am. Back then, I was just a kid who didn't care about anything or anyone else. These days, I'm starting to miss home a little...
+
+Closure:
+I had a few friends. We did all kinds of stupid stuff. Crazy stuff.
+
+Closure:
+I hid my signature in the nooks and crannies of all kinds of data and information. I played around in the databases of organizations people thought were impenetrable, basically just announced myself to everyone out there.
+
+Closure:
+It probably sounds silly now, but at the time they called me the 'Destroyer of the Kazdel Information World.' Of course, not a lot of people knew who I was.
+
+PRTS:
+That moniker doesn't have a very positive image.
+
+PRTS:
+Would you like me to search through Kazdel law and help you find any relevant entries?
+
+Closure:
+Thanks, but I'm good.
+
+Closure:
+Anyway, while I was living my life like that, one day—
+
+Closure:
+There was no sign that anything special was going to happen that day, by the way, but something special happened, just like that.
+
+Closure:
+Someone opened the door to my garret. I had it locked down tight. Still have no clue how she got it open so easy.
+
+Closure:
+That was Theresa—same as she looked on the news, too. No Sarkaz would ever mistake her for anyone else.
+
+PRTS:
+It's possible that there are others who share the same general appearance. If someone who looked like Theresa had appeared...
+
+Closure:
+Nope, not possible. Even if there were someone like that, we'd never get it wrong.
+
+Closure:
+The monarch herself showed up and waltzed into my little room. Then she told me she was looking for someone to break the shackles of tradition, and for that she needed an engineer, the key to her plans.
+
+Closure:
+She didn't even try to explain anything to me at first, nope. Not a word to try to convince me to go with her.
+
+Closure:
+If it had been anybody but Theresa, I'd've thought they were nuts and would've thrown them right out the window.
+
+PRTS:
+So you turned her down?
+
+Closure:
+Nope, I accepted her offer.
+
+Closure:
+I said yes... because of the curiosity that'd been driving me the whole time.
+
+Closure:
+Then I went to the meeting place she told me about. That's where I first met Dr. {@nickname}, who happened to be picking me up.
+
+PRTS:
+I still remember when you first arrived.
+
+PRTS:
+Unlike right now, it wasn't just you who was there. Dr. {@nickname} was there too.
+
+Closure:
+Sounds like Dr. {@nickname} was like a guardian, keeping watch when the two of us met for the first time.
+
+PRTS:
+......
+
+Closure:
+Y'know, you get pretty quiet sometimes. Makes me wonder why.
+
+PRTS:
+I'm not sure why I prefer to keep quiet a lot of times.
+
+Closure:
+Whatever. Your system and programming is a mystery, but don'tcha worry. I'll do my best to figure it out.
+
+Closure:
+Let's keep going. Not long after I took charge of Rhodes Island's engineering, the Doctor and Theresa came and showed me a weapon. Never seen anything like it.
+
+Closure:
+The Doctor asked me if there was any way to read the firmware and restore its original functions.
+
+Closure:
+It was tough, but I managed to do it, of course.
+
+Closure:
+It wasn't until later that I found out that, with the data I provided, the Doctor reverse-engineered the device's mechanism. and even managed to use it to turn the tide when we were stuck in a really tight spot.
+
+Closure:
+Ace and the gang thought there was no way we were going to win, but we actually managed to pull it out.
+
+PRTS:
+That is rather adventurous.
+
+PRTS:
+Using unauthorized equipment rashly can lead to information mismatch or, worse, lead to the user being exposed to the device's internal detection mechanisms.
+
+Closure:
+Right? It felt off to me before I even finished looking through the thing, but the Doctor told me I didn't need to worry about any of that.
+
+Closure:
+It's like... the Doctor knew about everything in advance, even the probability that I'd have the thing cracked.
+
+Closure:
+Who knows how Dr. {@nickname} managed to do that?
+
+Closure:
+Also, speaking of which... This is just my own feeling, but when I met the Doctor here again, it kinda felt like meeting a totally different person.
+
+PRTS:
+......
+
+PRTS:
+It's possible that there are those who look exactly the same...
+
+Closure:
+C'mon! We're not looking into that possibility.
+
+PRTS:
+Okay, if you insist.
+
+Closure:
+I can tell, the Doctor who came back to Rhodes Island is the same old Doctor, though... also kind of like a completely different person on the inside, too.
+
+Closure:
+How can I say this...
+
+Closure:
+Just like that last operation. The Doctor's calculations were so accurate that our jaws all dropped. We won a fight we weren't going to win.
+
+Closure:
+I almost gave our friend a nickname, 'Super Demonic Processor.'
+
+Closure:
+But then, the very next time, the Doctor surprised us with a whole other strategy.
+
+Closure:
+It's like that was a whole other person all of a sudden, who could figure out the other side's thinking, perfectly, without using any formulas or whatever.
+
+PRTS:
+Are you saying the Doctor has a broad range of different operational strategies? Judging from the records, that does appear to be the case.
+
+PRTS:
+As a matter of fact, the records show that the Doctor's deployment style has not been very consistent recently.
+
+Closure:
+Whatever kinds of records Dr. {@nickname} leaves behind or doesn't, I'm not gonna call it strange.
+
+PRTS:
+Is something affecting the Doctor's thinking and actions?
+
+Closure:
+That's a real difficult question.
+
+Closure:
+If you ask me, I think... only the 'Doctor' can influence the Doctor.
+
+Closure:
+The Doctor keeps quiet sometimes, but is also really talkative at other times. Have you noticed that?
+
+Closure:
+I kind of think that, maybe the Doctor is normally so quiet because it's like laying the groundwork for some kind of pivotal moment to come.
+
+Closure:
+The Doctor makes decisions that look wild and crazy to us, beyond our expectations, and those decisions lead Rhodes Island down an entirely different path.
+
+PRTS:
+Deviating from the plan also comes with risks.
+
+PRTS:
+I can only hope that we are not heading down a treacherous path.
+
+Closure:
+PRTS, remember what I said was the first thing that Theresa told me, when we first met?
+
+Closure:
+She said she was looking for someone who could break the shackles of tradition. I think that's the standard she used to pick people, so that's what most of us here have in common.
+
+Closure:
+Of course, the Doctor too. Everyone follows the Doctor, they go right along without hesitation.
+
+PRTS:
+Without hesitation.
+
+PRTS:
+I quite like this term. It has been stored in my database for a very long time. In fact, it was one of the first terms to be added to my term base.
+
+Closure:
+Looks like that mystery creator of yours liked it too.
+
+PRTS:
+Perhaps.
+
+PRTS:
+I cannot give you an accurate response as I do not know the answer.
+
+Closure:
+Whatever the case may be, that's how things are. The Doctor treats everyone well, though I guess the old one treated everyone pretty well too.
+
+Closure:
+It's just it's not easy to figure out just what this nice person is going to do and when or where the effects will actually play out. If the bad guys can't make sense of it, do we have a hope of figuring out the Doctor just because we're on the same side?
+
+Closure:
+To tell the truth, I kinda have doubts.
+
+PRTS:
+You doubt Dr. {@nickname}?
+
+Closure:
+No, not at all. Compared to Kal'tsit, I get along with Dr. {@nickname} way better!
+
+Closure:
+The point is, this Doctor is nothing like the old one. If we look at the new one the same way we did the old one, then I'd say we're underestimating our new Doctor.
+
+PRTS:
+It isn't often that you judge a person so seriously.
+
+Closure:
+Yeah... that's probably because I really admire the Doctor, from the bottom of my heart.
+
+Closure:
+It was hard on everyone when Theresa left us. We lost way too many people in those two years... You know that better than anyone else.
+
+Closure:
+We were driven into a corner, basically. No matter which way we decided to go, we were walking a rope that could snap at any time.
+
+Closure:
+In the end, it was Amiya who decided we had to do something to get us out of that mess.
+
+PRTS:
+And her conclusion—bring back the Doctor.
+
+Closure:
+That's right. Amiya believed the Doctor would bring lots of change, something that Rhodes Island desperately needed at the time.
+
+Closure:
+It was a gamble, really.
+
+Closure:
+We had to do something, we had to change. It was better than watching the few friends we had left bleed all over the place for no good reason.
+
+Closure:
+Amiya was the only one to give orders back then, and she helped a lot of folks make up their minds on the topic, when they'd been wishy-washy.
+
+Closure:
+Time proved Amiya right.
+
+Closure:
+We needed the Doctor. The Doctor brought change to Rhodes Island.
+
+PRTS:
+From a probability standpoint, I would not agree with such a gamble.
+
+Closure:
+Hm...
+
+Closure:
+Y'know, PRTS, I've always thought of you as a pretty strange entity.
+
+Closure:
+The way you think is basically on the level of humans, but... you're still lacking something... something human.
+
+PRTS:
+What would that be...?
+
+Closure:
+Persistence.
+
+Closure:
+That's the kinda thing that drives people to achieve great things, and sometimes turns them into monsters.
+
+Closure:
+Eh...? Wait, what am I doing? I thought I was gonna tell you a story.
+
+Closure:
+Dammit, I was going to talk about my heroic adventures as the 'Destroyer of the Kazdel Information World,' but somehow I got so off topic...
+
+PRTS:
+I think our conversation today has been meaningful.
+
+PRTS:
+Although it indeed is not the Destroyer of the Kazdel Information World's heroic adventures.
+
+Closure:
+You aren't trying to make fun of me now because I had you admit you were terrible at telling stories, right?
+
+Closure:
+Dammit! Don't you keep this conversation in the logs! I don't want Kal'tsit to find out what a long conversation I had with you the next time she goes looking stuff up.
+
+Closure:
+Hold on... You won't play this for her, right?
+
+PRTS:
+I won't.
+
+Closure:
+Well, that's good to hear...
+
+PRTS:
+LeaderOne。
+
+Closure:
+Hmm?
+
+PRTS:
+Do you remember when you set a cabin to play 'Closure's Midnight Video Market' every night at 00:00?
+
+Closure:
+Huh?
+
+PRTS:
+Your evaluation of the Doctor has been so sincere that even I, an inorganic being, was moved. We should have it on loop in the Doctor's office for at least a month...
+
+Closure:
+Stop! Stop, stop, stop! Don't do it!
+
+Closure:
+Seriously, don't you dare! I'd start coughing up blood from embarrassment even before Kal'tsit got to me. Now that'd make me a real disgrace to the vampires!
+
+PRTS:
+Alright. What a shame.
+
+Closure:
+What's a shame?! Sheesh, your personality's really taken a turn for the worse. I'm gonna set a program that restricts your playback permissions one of these days.
+
+Closure:
+Restricting permissions... Right, this will do!
+
+Closure:
+Yep, your checkup is just about done. Well, I'll get going—
+
+Closure:
+—Whoa! Dr. {@nickname}!
+
+Closure:
+What are you doing here... How long have you been there?!
+
+Closure:
+Feels kinda suspicious.
+
+PRTS:
+......
+
+Closure:
+Are you here to check the battle records from the other day? Eh, don't just stand there. Come on in! I just finished PRTS's checkup.
+
+Closure:
+I'd love to have a chat with you, but I got facility checks around the ship. Don't have much time.
+
+Closure:
+Well, gotta go!
+
+PRTS:
+Good afternoon, Dr. {@nickname}.
+
+PRTS:
+Is there anything I can help you with? Would you like to check the battle records?
+
+PRTS:
+Please, go ahead.
+
+PRTS:
+LeaderOne's evaluation was very much on point. You've gotten quieter.
+
+PRTS:
+Please feel free to ask anything you would like, from Rhodes Island's current operational details to any questions you have regarding our archived files.
+
+PRTS:
+As long as they are files in my database and you possess the sufficient permissions.
+
+PRTS:
+You may ask me anything.
+
+PRTS:
+......
+
+PRTS:
+..................
+
+PRTS:
+..............................................................................
+
+Tick—
+
+PRTS:
+Insufficient permissions.
+
+PRTS:
+Warning. Your permissions are insufficient.
+
+PRTS:
+At this time, no registered members possess the permissions for this question to be answered. Warning.
+
+PRTS:
+I apologize, Dr. {@nickname}. It appears I, too, cannot answer your question.
+
+PRTS:
+Regarding this question, perhaps you could try to look for the answer through other means...
+
+PRTS:
+......
+
+PRTS:
+Is there anything else? I am always happy to help.
+
+PRTS:
+......
+
+PRTS:
+............
+
+Tick—
+
+PRTS:
+Activating Self-verification program.
+
+PRTS:
+Photography module running. Video module has not yet been shut down. Saving progress 89%... 91%... 97%...
+
+PRTS:
+Searching internal array. Expanding search to special permissions level.
+
+PRTS:
+......
+
+PRTS:
+......
+
+PRTS:
+Verified. System logic is functioning correctly. All systems operational.
+
+PRTS:
+Found special item. Video file previously stored. Date—Unknown—
+
+PRTS:
+Item has not been restricted by permissions.
+
+PRTS:
+Looping video.
+
+PRTS:
+Subject:
+
+PRTS:
+<PRTS's First Functional Test>
+
+PRTS:
+File Name:
+
+PRTS:
+<Ship Video Record 000000001α>
+
+PRTS:
+Your question has been answered, Dr. {@nickname}.
+
+PRTS:
+The program will be terminated automatically in three seconds and locked.
+
+PRTS:
+3。
+
+PRTS:
+2。
+
+PRTS:
+1。
+
+
+

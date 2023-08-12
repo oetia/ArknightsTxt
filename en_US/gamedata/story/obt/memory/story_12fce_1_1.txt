@@ -1,0 +1,434 @@
+You shouldn't follow me.
+
+Where I am going, the flames of war rage unchecked.
+
+You'd only be in the way. No need to get yourself killed.
+
+???:
+I...
+
+???:
+......
+
+Sarkaz Mercenary:
+Savra, what are you doing, standing there? Get down if you want to live!
+
+???:
+！
+
+Sarkaz Mercenary:
+*Sarkaz profanity*! Incoming! Take cover and keep your head down!
+
+???:
+*Cough* *cough*...
+
+Sarkaz Mercenary:
+You still alive?!
+
+???:
+I'm fine.
+
+Sarkaz Mercenary:
+They found our vantage point. We don't have much time left! Get a move on!
+
+Sarkaz Mercenary:
+Again, so soon?!
+
+Sarkaz Mercenary:
+Argghhh! Son of a...! My leg!
+
+???:
+(Uses Arts)
+
+???:
+This way!
+
+Sarkaz Mercenary:
+*Cough*. Thanks, brother.
+
+???:
+All I did was find us some cover. No need to thank me.
+
+???:
+Is your leg doing okay?
+
+Sarkaz Mercenary:
+I'm fine. I've been scratched up like this many times before. I'll be okay with a bandage.
+
+Sarkaz Mercenary:
+I'm probably not one to talk, but you don't seem like you can hold your own in a fight that well. I'm surprised you managed to survive this long.
+
+Sarkaz Mercenary:
+I saw you use Arts to move the cover. That's the technique of a seasoned veteran.
+
+Sarkaz Mercenary:
+How long have you been on the battlefield?
+
+???:
+I've been through training many times, but I'm afraid this is my first deployment.
+
+???:
+I only made it this far thanks to luck. I haven't done anything too great.
+
+Sarkaz Mercenary:
+Well, you're a humble one, I'll give you that.
+
+Sarkaz Mercenary:
+Anyway, we really can't keep this up for much longer.
+
+Sarkaz Mercenary:
+The bigwigs are probably having an easy time, but this is starting to be a bit too much to bear for the rest of us.
+
+Sarkaz Mercenary:
+Looks like we're the only ones left here. I wonder how the others are doing.
+
+???:
+I got separated from my team... Our ambush failed, and the enemy scattered us.
+
+???:
+It doesn't look like much is happening up ahead. I'm guessing anyone who charged up ahead are all...
+
+Sarkaz Mercenary:
+Well, what a coincidence. It's the same for me.
+
+Sarkaz Mercenary:
+I'm not expecting them to go back to help me at this point.
+
+???:
+The mission may be a failure, but I'm not planning on dying here.
+
+???:
+I'll scout out our surroundings. We may be trapped, but there has to be a way to break out of this.
+
+Sarkaz Mercenary:
+Scout? You?
+
+Sarkaz Mercenary:
+Listen, I'm not trying to look down on you, brother.
+
+Sarkaz Mercenary:
+But I promise, it doesn't matter how much cover your Arts can make you. The moment you poke your head out, you'll be blown to pieces.
+
+Sarkaz Mercenary:
+My suggestion: We stay here and observe.
+
+???:
+I'm afraid we can't do that.
+
+???:
+3 o'clock... We've got company.
+
+Sarkaz Mercenary:
+Those freaking Kuranta?
+
+???:
+They're light infantry. Most likely the Kuranta mercenaries. There may be others as well... They work together fairly often, after all.
+
+???:
+Once they charge in here, we won't have anywhere to run.
+
+???:
+They might even have some caster drones with them.
+
+Sarkaz Mercenary:
+How'd you know that much?
+
+???:
+Simple deduction, guesswork, and experience.
+
+???:
+I could be wrong, of course, but that should more or less be it.
+
+???:
+We may stand out if we go now, but we can't hide here for very long.
+
+Sarkaz Mercenary:
+If you know so much about them, do you have a way to take them out too?
+
+???:
+I'm afraid not with my Arts. I'll probably be killed the moment I try to attack.
+
+???:
+Honestly, running away is about all I can manage right now.
+
+Sarkaz Mercenary:
+Hahahaha, sounds like whoever hired you really got a lemon.
+
+Sarkaz Mercenary:
+They're losing this war because they're too stingy and only bought men like you. You get what you pay for.
+
+Sarkaz Mercenary:
+By the way, before I forget...
+
+Sarkaz Mercenary:
+What's your name, Savra?
+
+46A:
+I have many names. You can call me 46A for now.
+
+Sarkaz Mercenary:
+Heh, is that a name now? Sounds more like a model number for some kind of appliance.
+
+46A:
+It's just one of my codenames. You can call me that for the time being.
+
+Sarkaz Mercenary:
+Well, it sounds to me you haven't made up your mind.
+
+46A:
+My name isn't important.
+
+Sarkaz Mercenary:
+Guess it isn't. Looks like you're the same as me. Just playing it by ear, earning our keep.
+
+Sarkaz Mercenary:
+Was that an explosion?!
+
+Sarkaz Mercenary:
+Quick, 46A! Let's go!
+
+Sarkaz Mercenary:
+I've been a merc for a long time, but this is my first time seeing anyone use drones to guide artillery fire.
+
+Sarkaz Mercenary:
+Those drone casters are getting way too hard to deal with these days.
+
+Sarkaz Mercenary:
+If we'd found out sooner, so many of us would still be alive...
+
+46A:
+I tried to cover our tracks. Hopefully that will buy us some time.
+
+Sarkaz Mercenary:
+You know all kinds of Arts, don't you?
+
+Sarkaz Mercenary:
+Why don't you take care of these wounds for me while you are at it?
+
+46A:
+Sorry, I don't know healing Arts.
+
+Sarkaz Mercenary:
+It's fine. Just figured I'd ask.
+
+46A:
+Our medic was the second one to go missing.
+
+Sarkaz Mercenary:
+Don't let it get to you, brother. It happens pretty often out here.
+
+Sarkaz Mercenary:
+If it wasn't for you, the Kuranta would've blown a hole through my guts already.
+
+46A:
+So nobody else made it out?
+
+Sarkaz Mercenary:
+Looks like it.
+
+Sarkaz Mercenary:
+But that also means we're safe.
+
+Sarkaz Mercenary:
+Can you walk on your own?
+
+46A:
+I'm fine.
+
+Sarkaz Mercenary:
+Let's keep going, then. The rendezvous point shouldn't be much further. If we keep this up, we should be there in about an hour.
+
+46A:
+Good.
+
+Sarkaz Mercenary:
+I really backed the wrong horse this time. The nobles were paying top dollar, so I figured this one was a sure win.
+
+Sarkaz Mercenary:
+Who knew we'd get all those mortar shells dropped on us? The moment that happened, everyone just took off, running for dear life.
+
+Sarkaz Mercenary:
+I feel sorry for those brothers I've fought alongside over the years.
+
+Sarkaz Mercenary:
+They got their money, but at what cost?
+
+Sarkaz Mercenary:
+*Sigh*...
+
+Sarkaz Mercenary:
+How about you, 46A? You here because of how much they were willing to pay, too?
+
+46A:
+There were some supplies I needed.
+
+Sarkaz Mercenary:
+Hah, no need to sugarcoat it like that. All of us are putting our lives on the line to earn our crust.
+
+46A:
+I'm looking for someone as well.
+
+Sarkaz Mercenary:
+Looking for someone? What, on the battlefield?
+
+46A:
+That's correct.
+
+Sarkaz Mercenary:
+Who are you looking for? Family? An enemy?
+
+46A:
+Someone I owe my life.
+
+Sarkaz Mercenary:
+Hoh.
+
+Sarkaz Mercenary:
+That's interesting.
+
+Sarkaz Mercenary:
+Well, it sounds like something you'd do, but you're probably looking in the wrong place.
+
+46A:
+It's a life debt, and—
+
+Sarkaz Mercenary:
+Fine, whatever. Let me give you a bit of advice. Don't let yourself be taken advantage of!
+
+Sarkaz Mercenary:
+I wasn't going to say this, but you're a weird one. Do you really think you can find the one who saved your life in Kazdel?
+
+Sarkaz Mercenary:
+Maybe they weren't even trying to save you.
+
+Sarkaz Mercenary:
+Think about all those men you've worked for up till now, all the people you've worked with. All of them ready to turn against you at a moment's notice.
+
+Sarkaz Mercenary:
+Maybe the moment you find them, they'll—
+
+I never imagined I would make such a mistake. I didn't see the attack coming at all.
+
+Were those explosives? Arts?
+
+My ears are buzzing.
+
+46A:
+*Pant*... *pant*...
+
+But I'm not going to die here.
+
+Even if I can't see anything, even if I have to crawl my way out of here, I am going to live.
+
+???:
+You always make it through everything alive, Savra.
+
+???:
+But I never thought you'd make it this far.
+
+???:
+You are not like those good-for-nothings.
+
+46A:
+Who are you...?
+
+???:
+You've made it this far. You have my approval.
+
+???:
+I guess I must also give you a conclusion.
+
+???:
+Will you face your past?
+
+???:
+Or will you face the future?
+
+???:
+Make your decision.
+
+46A:
+......
+
+The Savra feebly holds his staff up.
+
+46A:
+Can I come with you this time, Owl?
+
+Rangers:
+Rise and shine, young'un.
+
+12F:
+Ughh......
+
+12F:
+What are you doing here, Mr. Rangers...?
+
+Rangers:
+Everyone else is busy today, so it's just us two Savra sharing drinks and conversation.
+
+Rangers:
+Do you remember now?
+
+12F:
+R-Right... It's coming back to me.
+
+Rangers:
+Here, have some cold water.
+
+12F:
+Thank you.
+
+Rangers:
+Try rubbing your eyes. Harder.
+
+12F:
+*Phew*... *huff*.
+
+Rangers:
+This is how I used to sober myself up when I was your age. It does the trick, doesn't it?
+
+12F:
+I suppose. Thank you, Mr. Rangers.
+
+Rangers:
+No need to thank me. We're both Savra.
+
+Rangers:
+This is a kind of remedy I came up with. Only works on us folk.
+
+Rangers:
+Were you dreaming, 12F? You seemed rather stiff.
+
+12F:
+Oh, I guess I did have a rather strange dream.
+
+12F:
+Something from the past came back to me, that's all.
+
+???:
+Tell me. What's your name?
+
+46A:
+I... I don't have a name... Only a codename.
+
+???:
+Well, you just follow me from here on out. Like I said, there'll be far more dangers waiting ahead of you.
+
+???:
+How far you can make it. Well, that depends on you.
+
+???:
+Who you've been up till now just died here. Today is the day you died. It's also the day you were born.
+
+???:
+Right, why don't I give you a new name as a present?
+
+???:
+Let's see. It's March 3rd today...
+
+???:
+Alright, you'll be 12F from here on out.
+
+
+

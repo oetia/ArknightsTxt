@@ -1,0 +1,991 @@
+Jordi:
+......
+
+Saint Carmen:
+This... isn't possible.
+
+Saint Carmen:
+If true, then this whole time, the Abyssal Hunters have been looking for something right under their noses.
+
+Kal'tsit:
+What that possibility signifies is too vile to put into words.
+
+Kal'tsit:
+From beginning to end, the Eye of Iberia has always born witness to the aftermath of calamity. But it is just a sinking eyeball, unable to speak.
+
+Saint Carmen:
+...What does this mean?
+
+Kal'tsit:
+It means Ægir's demise is accelerating.
+
+Kal'tsit:
+It means that... if even cities at this distance are sending out distress signals, then the Stultifera Navis has been circling above their nest since the very beginning.
+
+Kal'tsit:
+...The Hunters are all in danger.
+
+Saint Carmen:
+I know what you're thinking, but we have only one ship and the two of us.
+
+Saint Carmen:
+Saving the Stultifera was not realistic.
+
+Kal'tsit:
+You may not mind a few Abyssal Hunters dying at sea, but what we would be strangling in its cradle is opportunity. For both Ægir and Iberia.
+
+Saint Carmen:
+......
+
+Kal'tsit:
+Dario died a warrior's death. Wouldn't you want to gain some valuable knowledge from the mouth of the surviving Inquisitor?
+
+Kal'tsit:
+This is our last chance.
+
+Saint Carmen:
+No. A powerless city, almost reduced to ruins. How many Ægir have already fallen to the ocean?
+
+Saint Carmen:
+We must act cautiously, or we will be leaping into the flames.
+
+Kal'tsit:
+Even so, this is our last chance.
+
+Kal'tsit:
+If we wait until Ægir can no longer respond, until another Silence has fallen over Iberia, then indeed, the true enemy will appear.
+
+Kal'tsit:
+But at that point, would it matter?
+
+Kal'tsit:
+I understand you have your responsibilities. You don't want to take any risks until the Penal Battalion has full control over this place.
+
+Kal'tsit:
+So I'll go alone.
+
+Saint Carmen:
+...I know better than to underestimate the power of you and your pet, but it's a long trip. Are you sure you'll make it on your own?
+
+Kal'tsit:
+The Hunters bleed a special kind of blood. Sea Terrors aren't necessarily that hostile towards ordinary ships.
+
+Saint Carmen:
+I can only hope you didn't just make that up to assuage my fears.
+
+Kal'tsit:
+That's not a lie I would have come up with anyway. Regardless, I can't leave the Hunters behind.
+
+Jordi:
+......
+
+Saint Carmen:
+*sigh*...
+
+Saint Carmen:
+You'd better bring back the Hunters and Irene, Kal'tsit.
+
+Kal'tsit:
+I will.
+
+Jordi:
+Ah, um...
+
+Jordi:
+Is there anything I can do to help?
+
+Kal'tsit:
+Mon3tr, survey our surroundings. If those Sea Terrors went back into hiding underwater, don't rile them up.
+
+Kal'tsit:
+We need time, since the ship's taken some damage from the trip.
+
+Mon3tr:
+(Answers with a nod)
+
+Jordi:
+This ship...
+
+Kal'tsit:
+The one the Hunters took was left by the Inquisition's spies.
+
+Kal'tsit:
+Lord Carmen's original plan was to join up with the Penal Battalion at Gran Faro, establish a frontline headquarters, and push forward on a medium-sized naval vessel.
+
+Kal'tsit:
+So, this lone boat, abandoned on the shores of Gran Faro, is our final hope.
+
+Jordi:
+I, I can help... I'll go take a look at the boat. I've never actually repaired a ship before, but I do have some tools with me.
+
+Jordi:
+Um, can you really head out to sea on something like this?
+
+Kal'tsit:
+If you don't think so, then probably not— Wait!
+
+Kal'tsit:
+Out of the way, Jordi!
+
+Jordi:
+Woah, huh?!
+
+Jordi:
+S-Sea Terrors?!
+
+Jordi:
+Waaaaah—
+
+Kal'tsit:
+They were hiding in the shadow of the reef? Mon3tr!
+
+Mon3tr:
+(Screeches excitedly)
+
+Kal'tsit:
+Jordi! Get off the boat!
+
+Jordi:
+I, I can't, something's pushing on it! The anchor's gone!
+
+Jordi:
+I'll try to steer it back—
+
+Kal'tsit:
+Jump off! The Sea Terrors are swarming around it!
+
+Kal'tsit:
+Mon3tr, go rescue him.
+
+Jordi:
+Wait, wait— Then we'd lose the boat then! I, I'll try to steer it back! Urgh!
+
+Jordi:
+Watch out behind you!
+
+Kal'tsit:
+—
+
+Kal'tsit:
+Save Jordi first.
+
+Mon3tr:
+(Cheers in response)
+
+Kal'tsit:
+Whirlpools, changing currents, and the Sea Terrors are unusually active again... What's going on here?
+
+Mon3tr:
+(Stretches out claws)
+
+Jordi:
+You want me to grab on and fly back with you? But, then the boat will— Woah?!
+
+Mon3tr:
+(Screeches urgently)
+
+Jordi:
+I, I...
+
+Jordi knows that if doesn't take this opportunity, then he'll drift into the endless ocean along with the ship.
+
+There's no other choice. He has to return to the Eye of Iberia and hide inside the lighthouse.
+
+Just like he hid in that little town for over a decade.
+
+Just like he hid when Dario died.
+
+Just like with Thiago.
+
+He clings to the mast to avoid falling into the aberrant waves. Mon3tr is visibly dissatisfied, urging him on.
+
+Sea Terrors leap from the water's surface from time to time, darting back and forth rapidly and kicking up plumes of water. The Eye of Iberia is already becoming smaller and smaller.
+
+He sees words carved crookedly into the boat's mast:
+
+'Gran Faro'
+
+Jordi:
+...I will go in Kal'tsit's place.
+
+Jordi:
+All I have to do is... find that ship, and bring everyone back, right? That doesn't sound too hard...
+
+Jordi:
+No...
+
+Jordi:
+Compared to losing the ship and waiting helplessly under the lighthouse... it's a gamble I have to take!
+
+Jordi:
+I can do this on my own!
+
+Seaborn:
+As long as even one of our kin touches upon the ultimate answer to life, we will be able to re-weave the laws of the cosmos from beginning to end.
+
+Seaborn:
+Before we are given our next Revelation, we shall find a way.
+
+Seaborn:
+Even if Ishar'mla refuses to answer. Even if our kind will never know the divine Will.
+
+Seaborn:
+We will still survive.
+
+Gladiia:
+Shark.
+
+Specter:
+Of course.
+
+Seaborn:
+Hmm.
+
+Seaborn:
+Our kin have conveyed their will. Nutrients are sufficient. No longer must we feed on each other.
+
+Seaborn:
+I should return to the nest. You should come with me.
+
+Skadi:
+Running away so soon?
+
+Skadi:
+It barely took any damage, but the ship's in tatters.
+
+Specter:
+You're still going on about that stuff, Amaia? Why don't just stay put and let me kill you like a good girl?
+
+Seaborn:
+Our kind calls me back. They call for me to share my fruits with them.
+
+Seaborn:
+I shall heed their call. When that is done, I shall heed your call. I shall seek you out, and you shall kill me.
+
+Specter:
+Haha... Of course I can't let you leave. If I let you go, how many Seaborn just like you are going to end up all over the place?
+
+Specter:
+Amaia sure knows how to make things hard for me. If only she were as simple and straightforward as Quintus.
+
+Specter:
+What a shame I couldn't keep her around with that dance.
+
+Seaborn:
+......!
+
+Skadi:
+You talk too much, scum!
+
+Seaborn:
+Ishar-mla. I've always wanted to meet you.
+
+Seaborn:
+What happened? Why doesn't He speak anymore? Where is He?
+
+Skadi:
+Pah... It's like hacking at water. No resistance at all.
+
+Seaborn:
+Are you Him? Is He you?
+
+Skadi:
+I have no idea what you're talking about. If you mean that big guy, He's already dead.
+
+Seaborn:
+Death. Withering. He exists beyond these concepts. His voice, by no means signifies the end of life.
+
+Skadi:
+What do your kind call Him? The same as those cultists? Your 'god' has already withered and fallen into the abyss.
+
+Seaborn:
+God?
+
+Seaborn:
+No. This is what we call Him—
+
+Skadi:
+......
+
+Seaborn:
+Ishar-mla. Once more, I feel His pulse.
+
+Seaborn:
+Kin. You swam together to His abode in the abyss, where even death drowns.
+
+Seaborn:
+We have lost contact with Him, but His choices can only lead to the future.
+
+Seaborn:
+Kin, your information... Nay, the flow of your emotions.
+
+Seaborn:
+You feel it, Ishar-mla. Because you have left the arid land and returned home.
+
+Seaborn:
+Our blood flows in your veins. His blood flows in your veins. You are Him.
+
+Skadi:
+...No.
+
+Skadi:
+I am the Abyssal Hunter, Skadi.
+
+Seaborn:
+No matter. As you say, thus you are. Abyssal Hunter, Ska-di.
+
+Seaborn:
+Ishar-mla, we await His answer. Be it on the other end of time, He will answer us.
+
+Seaborn:
+Until then, until our answer finally comes—
+
+Seaborn:
+—We many shall live on.
+
+Gladiia silently appears behind the Seaborn, the lance in her hand actually puncturing the creature's body.
+
+It is followed immediately by the cacophony of a whirling chainsaw.
+
+Specter:
+Too slow. You're becoming weak, so just accept getting turned into paste.
+
+Seaborn:
+Nngh—!
+
+Skadi:
+—Too shallow, it's not good enough! Ugh!
+
+The heat of the sweltering flames sweeps down the long corridor. The Stultifera is groaning.
+
+The Seaborn does not attack the vulnerable Skadi.
+
+It simply stares at her in silence. A very strange sensation. Just like at Sal Viento.
+
+It is 'watching' her, Skadi thinks.
+
+Specter:
+Ugh, the ship is... at its limit. It'll start sinking very soon.
+
+Seaborn:
+......
+
+Gladiia:
+It's trying to get away! Argh!
+
+Skadi:
+Below you!
+
+Seaborn:
+......
+
+Inquisitor Irene:
+Don't move, monster.
+
+Inquisitor Irene:
+I won't allow you to return to the sea.
+
+Seaborn:
+You are pitifully weak, human. Even as nutrition, you are not enough to nourish our kin.
+
+Seaborn:
+Now that nutrients are plentiful, we require only time.
+
+Seaborn:
+This place is far from your territory. You have no reason to interfere with us.
+
+Inquisitor Irene:
+You and your kind cannot be judged by the law. I don't think I have any means of eradicating you for Iberia either.
+
+Seaborn:
+Law? Burdensome rules of survival, as Amaia once said.
+
+Seaborn:
+Compared to our kin, you are indeed too weak.
+
+Inquisitor Irene:
+—But I will not let you escape, ocean scum.
+
+Inquisitor Irene:
+This is the last shot.
+
+Seaborn:
+......
+
+Inquisitor Irene:
+And sure enough, I can't even... *cough*... leave a scar on you...
+
+Seaborn:
+Emotional. How strange, human. You are so weak, driven by emotions, trying to escape my hunger.
+
+Seaborn:
+Escape, yes. Escape. Fear? But why do you still stand here then? Why do you attack me? Why... do you not flee from me?
+
+Seaborn:
+Do you... also wish to make a contribution to 'we many'?
+
+Inquisitor Irene:
+...Hmph.
+
+Inquisitor Irene:
+Who gave you the right to interrogate me?
+
+Seaborn:
+......
+
+The Seaborn no longer speaks. The creature before it is not kin.
+
+Predation does not require the tool called language.
+
+But before it can strike, a shadow drops down from the darkness of the ceiling.
+
+Inquisitor Irene:
+Alfonso?!
+
+Captain Alfonso:
+Tch. Haven't seen the color of its blasted blood since it became like this.
+
+Captain Alfonso:
+This hunt— *spit*. Is almost over. You killed my chief mate, and you WILL pay.
+
+Seaborn:
+You both, paradoxical beings. You still refuse to become our kin.
+
+Seaborn:
+You have eaten many of us. Yet you refuse to become part of us.
+
+Seaborn:
+...Make your choice. Not much time remains.
+
+Seaborn:
+Hunt, acquire nutrients, return to we many.
+
+Seaborn:
+Or, cease your bodily movements, give up the gift of life, and pass it on to our other kin.
+
+Seaborn:
+Choose.
+
+Captain Alfonso:
+...Irene.
+
+Inquisitor Irene:
+Yes! Um, why are you calling my name, though?
+
+Captain Alfonso:
+Tell me, do you have a way to return to land?
+
+Inquisitor Irene:
+I...
+
+Inquisitor Irene:
+But I must go back.
+
+Inquisitor Irene:
+I can't stand against the Seaborn, but Iberia can. I'll carry this final warning with me. What happened to all of you, what Gladiia saw, I must bring all of it back.
+
+Captain Alfonso:
+You're starting to sound like a Messenger.
+
+Inquisitor Irene:
+...That's fine. I can be whatever I want.
+
+Inquisitor Irene:
+But I must go back.
+
+Inquisitor Irene:
+Ngh?!
+
+Captain Alfonso:
+My ship is about to sink.
+
+Captain Alfonso:
+Sixty years. It's been over sixty years. But because of your arrival, we must now face the end.
+
+Captain Alfonso:
+...Tell me.
+
+Captain Alfonso:
+How does Iberia remember the great Captain Alfonso?
+
+Inquisitor Irene:
+......
+
+Inquisitor Irene:
+'Alfonso Under the Pomegranate Tree'. 'The Hero, Alfonso.' 'The Sunken Alfonso.'
+
+Inquisitor Irene:
+There are many people... who held onto hope that the Stultifera never sank. But we weren't able to head out to sea.
+
+Inquisitor Irene:
+If... If you really are Lord Alfonso...
+
+Inquisitor Irene:
+You have become a paragon to countless Iberian soldiers.
+
+Captain Alfonso:
+Hmph... Pomegranate tree, huh... How pretentious.
+
+A flash of intense passion shimmers across the captain's eyes.
+
+Since the dark clouds and turbulent waves trapped them inside this cage, few things have ever stirred his heart.
+
+Captain Alfonso:
+It's gotten weaker.
+
+Captain Alfonso:
+I'll hold it back.
+
+Seaborn:
+......
+
+Inquisitor Irene:
+E-Explosions?!
+
+Captain Alfonso:
+I thought the Originium boilers got knocked out of commission a long time ago, but the impact just now seems to have ignited the engine.
+
+Captain Alfonso:
+The flames will spread upward. I've always wondered how these things taste flame-grilled.
+
+Seaborn:
+......!
+
+The heat makes the Seaborn uncomfortable.
+
+It has become weak. Its kin are encircling it. It is unable to reach the sea.
+
+It screams. But its calls are not answered.
+
+No. Kin are coming. Closer. It can hear the voices of its kin.
+
+They speak—
+
+Specter:
+Die.
+
+Gladiia does not hesitate. Skadi and Specter sever its body.
+
+It tries to regenerate. It tries to break free. But this time, Alfonso clings to its body in a death grip.
+
+He makes use of his already mutated arm.
+
+It feels its lifeforce slipping away.
+
+It sees Specter raise her weapon again.
+
+Specter:
+Goodbye, Amaia.
+
+Specter:
+Let's write off the debt this time.
+
+Amaia:
+......
+
+Sal Viento Bishop:
+What? You want to talk to her again? What can that filth possibly say that's worth hearing?
+
+Amaia:
+You don't understand, Quintus.
+
+Amaia:
+She told me about her life in Ægir.
+
+Sal Viento Bishop:
+So what? If you want knowledge, a Herald can tell you far more.
+
+Sal Viento Bishop:
+All we need to do is summon the Voice of the Deeps, and you will be able to obtain anything you want.
+
+Amaia:
+That's why I said you don't understand, Quintus.
+
+Amaia:
+What I want to deconstruct, to witness, to caress, to break... has never been those cities. On land or in water, it's all the same.
+
+Amaia:
+I want to hear about their lives. About the wonderful lives they once had, about how they built their society, about how they defended their home.
+
+Amaia:
+About how they cannibalized each other. About how they met their destruction, just like us.
+
+Sal Viento Bishop:
+Like us?
+
+Amaia:
+The people who defile Ægir are Ægirs like you. The people who defile Iberia are Iberians like me.
+
+Amaia:
+Heh... The results of the experiment are already plain as day. If we still need more comparisons, she'll go mad and hate us.
+
+Amaia:
+She'll hate us, and to be honest, I hate them too. Self-destructive soldiers. A self-righteous country. Falling into a self-inflicted trap.
+
+Amaia:
+But sometimes... You have to admit that we're more like them, more like humans, than we are like Seaborn.
+
+Amaia:
+We'll probably be fighting forever.
+
+Inquisitor Irene:
+—It worked!
+
+Inquisitor Irene:
+Hey, Captain Alfonso, are you alright?!
+
+Captain Alfonso:
+...Compared to my ship, not half bad.
+
+Specter:
+Are you really dead, Amaia? It can't be that easy, can it?
+
+Seaborn:
+(Limbs twitch)
+
+Gladiia:
+Don't waste your breath on it.
+
+Seaborn:
+(Convulsing) Lauren...
+
+Specter:
+I'm here. I'm right here.
+
+Specter:
+Seems like our positions are reversed now, Amaia.
+
+Specter:
+Too bad for you, I've never... been one for science experiments. Not in the slightest.
+
+Seaborn:
+(Quivers with torn muscles)
+
+Specter:
+Go ahead and die, you inferior, evolution-crazed creature.
+
+Specter:
+And be forgotten.
+
+Seaborn:
+—
+
+Specter:
+...That should settle things.
+
+Skadi:
+No.
+
+Skadi:
+Seaborn. Even more Seaborn are nearby. They're approaching.
+
+Specter:
+And this ship's about to go down.
+
+Specter:
+Even when my consciousness was hazy, I was still aware of how much effort it took for us to get here. Seems like we'll be running up against another wall.
+
+Specter:
+Did you get what you came for, Swordfish?
+
+Gladiia:
+Ulpianus took it.
+
+Gladiia:
+It's our fault that we failed to preserve the prototype technology on this ship, but...
+
+Gladiia:
+That doesn't mean we came here in vain.
+
+Captain Alfonso:
+......
+
+Gladiia:
+Captain.
+
+Captain Alfonso:
+Hmph.
+
+Captain Alfonso:
+It doesn't matter. Garcia already said that today's the last day of our voyage.
+
+Captain Alfonso:
+...For a long, long time, our will to survival has been slowly eaten away.
+
+Captain Alfonso:
+At first, our greatest enemies were anxiety, suspicion, uncertainty, and fear. But later...
+
+Captain Alfonso:
+Our emotions started drifting away from us. A longing for the ocean gnawed at our nerves, and one after another one, we forgot the glory of being a crewmember of the Stultifera Navis.
+
+Captain Alfonso:
+I watched them jump into the sea one by one, or I beheaded them before they could. I admit... that was a bit extreme.
+
+Captain Alfonso:
+This long nightmare of survival has finally come to an end.
+
+Gladiia:
+Seawater is pouring into the ship. This whole place is being eaten by the nethersea brand.
+
+Captain Alfonso:
+Inquisitor, this technology here, these Originium boiler techniques, will they be useful to the current Iberia?
+
+Inquisitor Irene:
+Everything on the Stultifera is a precious national treasure. Ever since the Profound Silence, Iberia has had a large amount of Islander technology that cannot be reproduced.
+
+Inquisitor Irene:
+And it's not just because we lost our fleet and our cities. Because of the judgment we passed on the Ægir, we lost so much of our talent too.
+
+Inquisitor Irene:
+It was... necessary. Even now, I don't think that a soft-hearted strategy full of kindness could have combatted the Church of the Deep.
+
+Inquisitor Irene:
+If, today, we are forced to lose Stultifera Navis—the Ship of Fools—then I think... it would be a heavy blow, but it's something that was doomed to happen from the start.
+
+Captain Alfonso:
+......
+
+Captain Alfonso:
+Hmph, hogwash. The state religion's always been like this.
+
+Captain Alfonso:
+Ægirs.
+
+Captain Alfonso:
+Take care of the Iberian. She can't swim back.
+
+Specter:
+...That I can promise you.
+
+Skadi:
+The explosions are getting worse—this side's leaning!
+
+Gladiia:
+We need to go, Skadi. Cut off a bit of the rafters above you!
+
+Specter:
+Hurry! Irene!
+
+Inquisitor Irene:
+I, I know! But what about Alfonso?!
+
+Skadi:
+How far will the currents take us? Or are we going to go around in circles? Isn't this place on top of their nest?
+
+Gladiia:
+Regardless, looks like we're going to have to swim back.
+
+Inquisitor Irene:
+W-What?!
+
+Captain Alfonso:
+...Go. Get the hell off of my ship, like I told you from the start.
+
+Captain Alfonso:
+Just go. I'll stay here. This is my Iberia, and the captain goes down with the ship.
+
+Captain Alfonso:
+......
+
+Alfonso slowly lowers himself into the throne. He closes his eyes.
+
+The warmth of the bright Iberian sun as it splashes at an angle across the deck.
+
+The aroma of a winery. The melody of his hometown.
+
+A damp and empty room. Freshly burgeoning petri dishes.
+
+The ocean's waves.
+
+The ocean he once knew. The warmth of Garcia's hand. Breogan's lonely countenance. Carmen's smile. His comrades' roars resonating through the sky.
+
+He opens his eyes, and lets out a hearty laugh as everything is consumed by the flames.
+
+His laughter crosses through time, until it reaches a small town of pomegranate flowers, where one can smell the sea upon the breeze, and mingles with the first cries of a newborn child.
+
+Alfonso. That is what the people call him.
+
+He lifts his old, rusty blade, and places it against his neck. He prays. He laughs.
+
+Captain Alfonso:
+Hah. What a joke! Remember this well, Irene! Return to land and sing the praises of Alfonso's feats!
+
+Captain Alfonso:
+The last monster that Alfonso slew... was himself!
+
+The ship breaks apart.
+
+The glow of the flame blankets a sea that had been silent for nearly a hundred years.
+
+An era comes to an end.
+
+A legend passes into history.
+
+In the distance, the sun rises.
+
+Here sinks the Stultifera, and with it, the long-cherished wishes of Iberia, nay, of all civilization.
+
+All succumbing to calamity.
+
+Saint Carmen:
+......!
+
+Kal'tsit:
+What's the matter?
+
+Saint Carmen:
+I think I heard... a voice.
+
+Saint Carmen:
+No, it must be my old age. These things happen.
+
+Kal'tsit:
+Lord Carmen...
+
+Kal'tsit:
+You're crying?
+
+Water?
+
+Right...
+
+The Stultifera... sank.
+
+I'm in the ocean? The ocean... is a dangerous place.
+
+It's dangerous, yes.
+
+I have to return to Iberia!
+
+Inquisitor Irene:
+Glub—! Gurgle—!
+
+Specter:
+Stop trying to breathe like that. Underwater breathing is beyond you. Most Ægirs can't either.
+
+I want to say something in return. But of course, I am underwater, and cannot.
+
+Despite trying to contain my instincts, I can't help but clutch at her clothes like a helpless child.
+
+But, I can see it.
+
+The light reflected in her pupils.
+
+It comes from the bottom of the sea.
+
+Specter does not say anything, but I can feel her arms trembling slightly around me.
+
+Maybe because of the battle we just fought? Maybe? Or, something to do with the light?
+
+Specter:
+I'll bring you back up. Hang on tight.
+
+Inquisitor Irene:
+—Glub!
+
+My vision blurs.
+
+So that's... what the bottom of the ocean... looks like.
+
+Then—
+
+—Is this Ægir?
+
+The Seaborn quietly watches the distant flames disappearing beneath the waters.
+
+The ship sinks into the ocean. Along with the flames. Along with everything.
+
+Its kin answer its call. They all return to the many.
+
+Surrounded by the many's embrace, it takes only a moment for the dying to be given new life.
+
+Seaborn:
+—
+
+Seaborn:
+Ishar-mla. I will bring you all, back home.
+
+Seaborn:
+?!
+
+Chief Mate:
+—Let's all, die together, with Alfonso.
+
+The chief mate grips the Seaborn in its jaws and charges all the way into the seabed's murky darkness.
+
+Its lover. Its memories. Its identity. As its charge slows, its consciousness dissolves into the ocean.
+
+But still it bites down on the Seaborn.
+
+Seaborn:
+The waters, make you nostalgic. Swim, and you will awaken.
+
+Seaborn:
+Accept it. You are one of we many. We have long awaited you.
+
+Chief Mate:
+No— No......
+
+Chief Mate:
+I am... Garcia... I am... Alfonso's...
+
+Seaborn:
+Then why did you stop swimming? Your signal is just like mine.
+
+Seaborn:
+Your wounds have all healed. You are accepting who you are.
+
+Chief Mate:
+No—!
+
+Seaborn:
+Why no?
+
+The Chief Mate's consciousness is blurring.
+
+Is it biting down on this Seaborn? Or, is it leaping into the Seaborn's embrace, seeking its succor?
+
+It... It is forced to accept.
+
+The sea makes it very comfortable. The Seaborn's thoughts flood into its mind.
+
+Is it Garcia, Chief Mate of the Stultifera?
+
+No, it is a Seaborn. It is one of we many—
+
+Seaborn:
+Glub... (sounds of bubbles being blown) Gurgle... (sounds of bubbles popping)
+
+Chief Mate:
+You...
+
+Ulpianus:
+You will die a human being, Garcia.
+
+Ulpianus:
+A step up from Amaia.
+
+Seaborn:
+Ul...pianus... Kin...
+
+Seaborn:
+......
+
+Chief Mate:
+Thank... you...
+
+Ulpianus watches the two sink to the bottom of the ocean, seemingly locked in an embrace beyond death. Like flowers growing side-by-side, they shrink, and wither. And beyond a certain depth, they are carried away by the undercurrent.
+
+He does not lift his head until they are completely out of sight.
+
+Ulpianus:
+Why?
+
+Ulpianus:
+......
+
+Ulpianus:
+Gladiia, you must heed my warnings.
+
+
+

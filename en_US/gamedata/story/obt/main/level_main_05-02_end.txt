@@ -1,0 +1,203 @@
+Rhodes Island Operator:
+Before fighting them head on, I never expected Reunion to be so weak.
+
+Rhodes Island Operator:
+Considering what they did at Chernobog and all the trouble they caused our squads, I thought they must have been incredibly powerful.
+
+Rhodes Island Operator:
+But from what I've seen, the information from the mission briefing was right. That really is all the firepower Reunion can muster. The only thing that makes this mission complicated is the fact that we don't know what they're scheming.
+
+Ch'en:
+Don't let your guard down. Reunion's greatest strength is their ability to do what you wouldn't expect.
+
+Ch'en:
+Infiltration, surprise attacks, and leveraging their members' unknown abilities... these are the tactics they're best at. We still don't know what cards they might have up their sleeves.
+
+Rhodes Island Operator:
+I'm aware, considering how they managed to take down cities as big and powerful as Chernobog and Lungmen. Their true numbers may well be beyond our imagination.
+
+Rhodes Island Operator:
+Having that said, Madam Ch'en, didn't the L.G.D. accompany Amiya on a mission to investigate that Chernobog sub-city? How come they're still not back yet?
+
+Ch'en:
+I'm sorry...
+
+Hoshiguma:
+(Ch'en...)
+
+Ch'en:
+We were separated from Amiya's squad. We weren't able to rendezvous with them, and due to the emergency, we had to turn around.
+
+Rhodes Island Operator:
+Are you saying that you and the L.G.D. abandoned Amiya and Dr. {@nickname} there?
+
+Ch'en:
+Yes...
+
+Rhodes Island Operator:
+In other words, they're missing in action?
+
+Rhodes Island Operator:
+Why... Madam Ch'en...
+
+Rhodes Island Operator:
+No... You shouldn't have done that... Even if you are the L.G.D., you shouldn't have abandoned your partners.
+
+Ch'en:
+This is my fault. My mission was to prioritize the safety of Lungmen. I made the decision to adhere to it.
+
+Rhodes Island Operator:
+What difference does it make whose fault it was...? Forget about it, Officer, there's no point talking about this any further.
+
+Rhodes Island Operator:
+I should have known better. That's right, I know very well how you view us Infected.
+
+Ch'en:
+That's not what I meant...
+
+Rhodes Island Operator:
+How many operators do you need? There may be some who are willing to help you, but I'm not one of them.
+
+Rhodes Island Operator:
+We also have our missions as well. Helping Lungmen defeat Reunion may be one of them....
+
+Rhodes Island Operator:
+But we will be handling this job by ourselves. Make sure to remember our identification codes, Madam. Try not to hit your allies on accident, even if we are Infected.
+
+Ch'en:
+...I understand.
+
+Ch'en:
+If anyone is willing to join the L.G.D. in this mission, you can let me know.
+
+Ch'en:
+...You don't have to force yourselves.
+
+Hoshiguma:
+That drama with Swire earlier... didn't you do that just to drum up support from Rhodes Island?
+
+Hoshiguma:
+Then why'd you turn around and treat their personnel like that?
+
+Ch'en:
+You're mistaken, Hoshiguma. I had no such intentions.
+
+Hoshiguma:
+Perhaps. I would've liked to see you be more forthcoming. You look a lot more relieved now.
+
+Hoshiguma:
+To be honest, if I was in his position, I would've been angry as well. Be thankful that the warriors of Rhodes Island are fairly easygoing.
+
+Hoshiguma:
+How should I say this, but... though it was an emergency, even I can't understand... Why did you decide to abandon Amiya's squad so decisively?
+
+Ch'en:
+There were too many unknown variables.
+
+Ch'en:
+The terrain made it difficult for the L.G.D. to fight, and we had no way to gauge Reunion's operational capacity. I can't allow my squads to take on these unacceptable risks.
+
+Hoshiguma:
+I'm not convinced.
+
+Ch'en:
+Hoshiguma... our plans have already been laid out.
+
+Hoshiguma:
+Orders are orders, and I will obey them. However, I should be hearing them directly from you, not waiting for Swire to tell me.
+
+Ch'en:
+Until the conditions are met, the specifics are confidential.
+
+Hoshiguma:
+So, the orders are from Mister Wei.
+
+Ch'en:
+You're free to speculate.
+
+Hoshiguma:
+Even now, I don't know what your objective is. There are few in Lungmen who have the power to make the L.G.D. go this far.
+
+Hoshiguma:
+It's the only possibility.
+
+Hoshiguma:
+I appreciate what Mister Wei has done. But I will never respect him, and what happened today is just one of those reasons.
+
+Ch'en:
+This is all necessary.
+
+Hoshiguma:
+That's just your excuse.
+
+Hoshiguma:
+*sigh*... Chen, you're either overthinking this, or you're not even able to convince yourself.
+
+Ch'en:
+Maybe.
+
+Ch'en:
+Call Swire for me.
+
+L.G.D. Agent:
+Understood.
+
+Swire:
+Hello?
+
+Ch'en:
+We've left Rhodes Island, Swire. You can begin.
+
+Swire:
+I bet it felt pretty good yelling at me earlier, huh?
+
+Ch'en:
+We may not get along, but it's not to that extent. I was exaggerating.
+
+Swire:
+I wasn't though. I thoroughly enjoyed it.
+
+Ch'en:
+You piece of...
+
+Swire:
+Fine, fine. You know, it's strange that we know nothing about each others' missions.
+
+Swire:
+Also, I just heard about this, but why don't you want Rhodes Island to intervene? Is this some kind of atonement?
+
+Ch'en:
+I have faith in Rhodes Island's abilities, as well as in Amiya and Dr. {@nickname}.
+
+Ch'en:
+But that's why I don't want them involved - they'll only add another unknown factor.
+
+Ch'en:
+Especially that Kal'tsit person. I guarantee you, she will not adhere to our plans.
+
+Swire:
+I've never met that person before.
+
+Ch'en:
+You won't need to. She's a bit like your grandfather, just without a ventilator.
+
+Swire:
+Huh.
+
+Ch'en:
+Let's focus on our jobs. Before that, I still have to find someone.
+
+Swire:
+Whatever. As long as you're not late.
+
+Ch'en:
+Hoshiguma, we're going.
+
+Hoshiguma:
+Where to?
+
+Ch'en:
+Muk Wo Warehouse.
+
+
+

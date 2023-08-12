@@ -1,0 +1,422 @@
+Nearl:
+Amiya, take the Doctor with you.
+
+Nearl:
+...Go, now!
+
+Amiya:
+No! I won't leave you...
+
+Nearl:
+Surely, you can feel it as well! She... If you don't leave, the entire rescue team will die here!
+
+Nearl:
+That Talulah...
+
+Nearl:
+She is a living monster! Amiya!
+
+Amiya:
+We'll be fine, as long as we stand together!
+
+Nearl:
+What about the Doctor, then? Can you ensure the Doctor's safety?
+
+Amiya:
+... Hm...
+
+Nearl:
+Team E4, we will stay behind and hold the line!
+
+Nearl:
+We must ensure that Amiya, Dr. {@nickname}, and the Medic teams escape safely!
+
+Ace:
+No, my squad will handle this.
+
+Nearl:
+Ace! Be rational, now's not the time to argue over this!
+
+Ace:
+I am rational.
+
+Nearl:
+Surely you can see it as well - everything around her is melting!
+
+Amiya:
+I'm not going to leave you all here to fight alone.
+
+Amiya:
+Rhodes Island... won't abandon you!
+
+Dobermann:
+Amiya, time is of the essence! You have to escape!
+
+Ace:
+...You should trust me.
+
+Amiya:
+I can't bear to see Rhodes Island sacrifice anyone!
+
+Dobermann:
+Think about our goal! Think about what we came here for!
+
+Amiya:
+This isn't the time to talk about that still!
+
+Talulah:
+...
+
+Nearl:
+--? The heat... is concentrating in her hands?
+
+Guard:
+Is she... distorting the space around her?
+
+Nearl:
+No, that's... the superheated air around her!
+
+Amiya:
+Watch out! She's getting ready to use her Arts...
+
+Amiya:
+No... You can't! Nearl!! Come back, now!!
+
+Amiya:
+That's not her... You'll be killed if you--
+
+Talulah:
+... Silence.
+
+Nearl:
+Uaaaaagh...!
+
+Nearl:
+Ugh... Gahh...
+
+Dobermann:
+Nearl!
+
+Nearl:
+*cough*... Stay back! Don't worry about me...
+
+Nearl:
+It's just... a little warm...
+
+Dobermann:
+What are you saying... don't worry?
+
+Dobermann:
+You don't have a single intact piece of armor on you, and you're telling me not to worry? !
+
+Dobermann:
+You mustn't fight her anymore!
+
+Nearl:
+I already said... Stay back!
+
+Dobermann:
+Nearl! You stubborn son of a...!
+
+Talulah:
+... Hm?
+
+Ace:
+Get down!
+
+Nearl:
+*cough* *cough*... What is it this time!
+
+Ace:
+... Invisible flames just swept over our head.
+
+Ace:
+Fall back. This entire block is melting...
+
+Ace:
+Don't sacrifice yourself in vain!
+
+Nearl:
+...
+
+Nearl:
+Just what monstrosity am I fighting against?
+
+Ace:
+We have to interrupt her casting somehow...
+
+Ace:
+Snipers, take aim at the enemy!
+
+Talulah:
+...
+
+Talulah:
+Resistance will usher hope into this land.
+
+Talulah:
+But resistance... will not change your fate.
+
+Ace:
+Fire!!
+
+Talulah:
+Chernobog has already attained liberation.
+
+Talulah:
+Our work here is done, and your group has proven to be quite interesting.
+
+Dobermann:
+What...
+
+Talulah:
+However, that is all you are worth.
+
+Talulah:
+You have chosen poorly.
+
+Talulah:
+Rhodes Island, you should have stood firmly with the Infected.
+
+Medic:
+What's... going on?
+
+Medic:
+Why is the entire plaza... getting scorched?
+
+Medic:
+What... happened... just now...?
+
+Medic:
+I... I can't breathe... it burns...
+
+Guard:
+Rocks, bolts, arrows...
+
+Guard:
+They're all gone.
+
+Guard:
+In a heartbeat... every object around her has been reduced to nothingness...
+
+Talulah:
+You have the resilience of liberators.
+
+Guard:
+... Not even ashes remain...
+
+Nearl:
+Amiya. You know what must be done.
+
+Amiya:
+...
+
+Nearl:
+Someone... has to stop her.
+
+Talulah:
+...But I grow tired of this.
+
+Amiya:
+...
+
+Nearl:
+Amiya!!
+
+Talulah:
+This is the price you must pay for slaughtering your fellow Infected.
+
+Talulah:
+I shall grant you an ending that I am quite fond of.
+
+Talulah:
+...Disappear.
+
+Dobermann:
+Damn it!!
+
+Dobermann:
+Run... hurry!!
+
+Dobermann:
+That amount of heat, at such a scale... No, no!
+
+Dobermann:
+Protect Amiya and the Doctor! Quick!!
+
+Nearl:
+We won't make it...!
+
+Nearl:
+I'll block her!!!
+
+Medic:
+AAAAAGH!!
+
+Medic:
+...
+
+Medic:
+...Huh???
+
+Medic:
+A-Amiya?
+
+Amiya:
+You will not hurt them.
+
+Talulah:
+...
+
+Amiya:
+I will never... allow you to do that!
+
+Talulah:
+-----Oh?
+
+Amiya:
+Ngh...
+
+Amiya:
+I must... protect everyone...!
+
+Dobermann:
+Amiya is holding back the enemy's Arts... all by herself...?
+
+Nearl:
+It's no good... That power is too tremendous!
+
+Nearl:
+Even Amiya won't be able to...
+
+Nearl:
+She won't be able to hold out for long!
+
+Medic:
+Amiya!
+
+Amiya:
+Don't worry... Don't worry about me...
+
+Amiya:
+I can handle this...!
+
+Amiya:
+I want to... I must... protect you all!
+
+Medic:
+Dark matter... is sealing the enemy's Arts within the plaza...
+
+Amiya:
+Ngh... Argh... Ughh!
+
+Guard:
+H-her barrier is catching on fire!
+
+Dobermann:
+Amiya, stop!! Your ring will--!
+
+Amiya:
+I don't care... even if...
+
+Amiya:
+Doctor, I'm sorry...
+
+Amiya:
+Even if this brings disaster, even if I...!
+
+Amiya:
+I don't want to lose... the person dearest to me... ever again...
+
+Talulah:
+Heh...
+
+Talulah:
+Very good.
+
+Amiya:
+Aghh... Aaaaaahhh...!!
+
+Nearl:
+Amiya!
+
+Nearl:
+Damn it... We're going to lose her...!
+
+Dobermann:
+What are you doing?
+
+Nearl:
+Destroying that she-dragon's Arts!
+
+Dobermann:
+You...
+
+Nearl:
+... 'O Light of Kazimierz, the Radiant Knight offers her body to thee...'
+
+Dobermann:
+Doctor! Just go! We'll help Amiya, but you have to...
+
+Talulah:
+--!
+
+Amiya:
+Aaaaaaaaghhh!!
+
+Amiya:
+What...?
+
+Ace:
+That's enough, Amiya.
+
+Amiya:
+--?!
+
+Ace:
+You've done well.
+
+Ace:
+Let us share your burden.
+
+Amiya:
+I...
+
+Dobermann:
+Amiya!
+
+Ace:
+Dobermann, take her with you. I'll see you soon.
+
+Dobermann:
+...Ace...
+
+Amiya:
+Ace... No... Ace...!
+
+Amiya:
+Promise me... that you'll...
+
+Ace:
+——
+
+Ace:
+I'm sorry, Dr. {@nickname}. You might not remember me.
+
+Ace:
+But I remember you, and I know what kind of person you are.
+
+Ace:
+... There will come a day when you and Amiya will face this cruel land together.
+
+Ace:
+That is why... you must cherish her, Doctor.
+
+Ace:
+Let's go.
+
+Ace:
+Godspeed.
+
+
+

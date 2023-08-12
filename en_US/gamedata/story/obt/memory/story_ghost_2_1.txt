@@ -1,0 +1,924 @@
+Specter:
+The scent.
+
+Specter:
+Fluid without the scent of seawater. Foul nutritional fluid, or completely scentless distilled water. It maddens, drives mad.
+
+Specter:
+The noise.
+
+Specter:
+There is no singing. There is no dancing. Only an endless, drawn-out clamoring remains. A horrific murmur, bringing craze.
+
+Specter:
+It's not all like that. Sometimes, in the momentarily returned quiet, there are voices to hear too. Clear voices.
+
+Specter:
+...Is it 'I' who hears them? Not for sure. How should 'I' respond? Not important.
+
+Specter:
+This ragged, dilapidated body... here and now lacks, beyond maintaining silence, any use.
+
+Skadi:
+...She's...
+
+Skadi:
+...Shark... no... Lauren... Laurentina!
+
+Kal'tsit:
+Don't rush, Skadi. You're far more familiar with her past than I am. But as for her present, you do not necessarily know her more thoroughly than I do.
+
+Kal'tsit:
+I know you've been emotionally excited by the prospect of seeing one of your colleagues, but do not make contact with her. Her slumber is the product of tremendous effort.
+
+Skadi:
+Shark... Shark of the Second. It really is you.
+
+Skadi:
+You're still alive... I'm not the only Abyssal Hunter still alive...
+
+Kal'tsit:
+Of course you're not.
+
+Skadi:
+What do you mean...?
+
+Skadi:
+I wandered dry land for so many years, and she was the first one I ever saw. Rhodes Island, exactly how did you find her?
+
+Kal'tsit:
+A deal, of no small cost, but thankfully enough for me to find out where the Church hid her.
+
+Kal'tsit:
+When we brought her back, she still held the last of her clarity, but very rapidly fell into confusion.
+
+Skadi:
+Shark... can you not hear my voice? You should still remember me... no matter if it's me with you, or you with me, there's still so much for us to talk about.
+
+Kal'tsit:
+But in her conversations with us... while her confusion hasn't relapsed, she only calls herself 'Specter.'
+
+Skadi:
+'Specter?' She wasn't called that before. She's an Abyssal Hunter, one of the fiercest, cruelest 'executioners' of the Second...
+
+Kal'tsit:
+But she is presently Specter. Infected, has fled the Church of the Deep, and proclaims herself 'Specter.'
+
+Kal'tsit:
+Skadi, no matter her past, in her final waking moments, this is all as she told me. As to her capacity as an Abyssal Hunter, she mentioned not even a word.
+
+Skadi:
+Why...?
+
+Skadi:
+Shark... no, Specter. She was taken away by a church on the land? They must have carried out so many cruel experiments on her.
+
+Skadi:
+They wanted to learn the secrets... Specter's secrets, the Abyssal Hunters' secrets. And you...
+
+Skadi:
+Isn't that your reason too?
+
+Kal'tsit:
+You know this is no easy topic. But exactly as per my attitude regarding you, the Abyssal Hunters' secrets are in no way the ultimate truth I seek to learn.
+
+Kal'tsit:
+I regard Specter the same way. She is first and foremost my patient, and then one of Rhodes Island's personnel. As for anything prior—anything she hasn't mentioned before, I have no need to investigate deeper.
+
+Skadi:
+I want to ask... when she'll wake up.
+
+Kal'tsit:
+Keeping an empty nest only wastes time. That miniscule chance of a miracle is not something you'd be willing to stop in your own tracks for.
+
+Kal'tsit:
+We are sustaining her life. Her outlook is neutral; whether or not she can recover entirely depends on her. Here on dry land, this is all we can accomplish.
+
+Skadi:
+I'll come back.
+
+Skadi:
+I want to meet her, speak with her, hear her singing. I've already... we've already been apart from our colleagues for far too long.
+
+Kal'tsit:
+Your and her callings, significances at Rhodes Island are not the same. But provided she awakens, Skadi, she should be able to address your and my confusions alike.
+
+Kal'tsit:
+I hope... we won't have to wait too long.
+
+Somewhere outside Sal Viento
+
+Specter:
+...Are we still hanging back, Captain? That's Skadi. She won't NOT find the way.
+
+Gladiia:
+No harm in waiting. She's more familiar with Rhodes Island's other operators.
+
+Specter:
+I see now. Aaaaall you need is to make a deal with Dame Kal'tsit, and that's why she's the only one you got in touch with.
+
+Specter:
+But I've been stuck in there for ages. There's so much that can take the same answer, and be done the same way.
+
+Gladiia:
+The situation is provisionally stable, but not completely secured. When the time comes, either myself or Skadi will be confirming whether we can take you back.
+
+Specter:
+Hah. I'm not withered enough to collapse before I make it to Rhodes Island. Yet.
+
+Specter:
+On that note, Captain, do you have any idea what kind of place it is? They don't even have auto-flush smart toilets!
+
+Gladiia:
+I know.
+
+Specter:
+So I'm not aaaaall in a hurry to get back to that landship. Skadi's got her worries to settle, and we can chit-chat over ours.
+
+Gladiia:
+Speak what you feel.
+
+Specter:
+Saying this now might be way, way too late... But I can't help but say it. Captain, relax. I haven't leaked anything about us to anyone, not once, not ever.
+
+Specter:
+Those Church idiots wanted to find our secrets. They tried prising open my mouth, digging the words out from inside my throat.
+
+Specter:
+I wasn't willing. Then they went and thought to find any hint, whisper, indication from within my flesh, from inside my brain. But... you've seen where that got them.
+
+Specter:
+They never got their wish.
+
+Gladiia:
+I saw. Were this the past, I would have to honor you... but at present, no one has the qualifications to do it for you, to officially and formally assess your conduct.
+
+Specter:
+No, Captain, you have those qualifications. Let's go back to the past for just a bit... we both have the memories to talk the talk.
+
+Gladiia:
+Very well, then. Shark... your judgment was proper. You protected our secrets with your life. Very well done.
+
+Specter:
+Heh... hah, hahah, that soothes me.
+
+Specter:
+Nothing else from me, Captain. I suppose you got to know everything going on with me all by yourself. It's a stupidly drier tale than what you've dealt with.
+
+Specter:
+I just want to know, actually. If it's not you skittering everywhere by yourself, but rather 'us' now...
+
+Specter:
+The Abyssal Hunters, back together again. What will we get up to, then?
+
+Gladiia:
+My mission has never changed. But, Shark, who are you now?
+
+Specter:
+Me?
+
+Gladiia:
+Those dry-landers aboard Rhodes Island all say it, let alone Dame Kal'tsit. Now, even Skadi calls you 'Specter.'
+
+Gladiia:
+You have chosen to accept this identity, and have had no need to continue being 'Shark.'
+
+Specter:
+I'm still same as ever, Captain... I do something when I can do it. I have others to think about the rest for me. I'm Laurentina, I'm Shark, and I'm Specter.
+
+Gladiia:
+Not a bad way to be.
+
+Specter:
+And is there nothing else? Captain, it's been so long since we saw each other, we've gone through so much. Why did it take so few words for us to become like we were before?
+
+Specter:
+But you never did care about much. Same then, same now.
+
+Gladiia:
+There is something. But you have no need to recall it.
+
+Specter:
+Something you want to know? What is it, then?
+
+Gladiia:
+When were you captured?
+
+Specter:
+On dry land. I broke free of those monsters, chased up onto shore, and while I was totally spent, those 'spirits' clasped me.
+
+Gladiia:
+So... you ultimately know nothing of the remaining hunters who were dragged to the bottom of the sea.
+
+Specter:
+Right. Everyone scattered.
+
+Specter:
+Captain, if all that remains of the Abyssal Hunters are us three now...
+
+Gladiia:
+Even so, we are still Abyssal Hunters. Our blood leaves us no escape from it.
+
+Specter:
+That's true, I knew you'd say something like that. Believe me, I wouldn't run from my mission.
+
+Specter:
+Weird. Who in the hell's Skadi meeting for this long of a chat? Sal Viento's turned into a real wreck these days. Like there's anything to keep her here.
+
+Gladiia:
+It seems of the Abyssal Hunters who walk on dry land, she has changed the most, and undertaken more besides.
+
+Specter:
+Landwalkers' emotions, hah. It stuns me how accustomed she is to living out of water. And all the connections she's worked up.
+
+Gladiia:
+Utterly meaningless. But to you, it is not a way of life necessarily ruled out, Shark.
+
+Specter:
+I get it, I get it. If they really can figure out how to cure my case of bad-mouth, I'll reconsider my lifestyle.
+
+Specter:
+But right now, my top priority is to reminisce, shoot the breeze.
+
+Specter:
+My weapon's duller than it was, my body's heavier than it used to be, and my reactions have slowed some too. If I'm going to be of real help to you, it'll take a bit more time.
+
+Specter:
+*sigh*... Forget it! Skadi's taking forever to come back anyway, so let's take a break. Oh, I'm dying to sing. Captain, who's going first?
+
+Gladiia:
+Hmph.
+
+Specter:
+Through all those mad, chaotic, inescapable days of pain, I would've gladly even given up my ability to fight, if only I could just sing.
+
+Specter:
+But in the end, shock and horror, that was the one thing I somehow couldn't do.
+
+Gladiia:
+......
+
+Specter:
+It's been too long... years, at this point. Does my throat still remember how to even hum? Let's try it and see.
+
+......
+
+......
+
+Skadi:
+Let's go.
+
+Skadi:
+Captain... Specter.
+
+Gladiia:
+Done with your conversation?
+
+Skadi:
+Yes. It's all sorted.
+
+Specter:
+You and the landwalkers find so much to talk about. What are you teaching them? Are you telling them the ocean's knowledge, maybe passing on the dance and song?
+
+Skadi:
+It's not important now... I didn't tell them any of that.
+
+Specter:
+You're lying. Hahah, Skadi, you're lying to cover them! You care so much about them!
+
+Specter:
+I bet you've sung, or danced, or at least taught them how to scrounge up something edible from the shore, like what the Ægir of the sea would eat...
+
+Gladiia:
+Shark.
+
+Specter:
+I've been dying to report it to you, Captain. Skadi's changed massively. She keeps coming to my room, singing songs, telling stories.
+
+Specter:
+The uptight little idiot, laying the tragedy of that entire disaster all on herself. All because she fought the Ægir's miserable destiny head-to-head?
+
+Skadi:
+I'm not.
+
+Gladiia:
+Let's go, Skadi. She's spent too long not talking. She won't stop now.
+
+Specter:
+Of course, I've got so much more I want to say. But I can let you have the first word, Skadi. When I can't open my eyes, or move my body, I can still hear your voice. You've asked me leagues of questions.
+
+Skadi:
+Some of them... are no longer important.
+
+Skadi:
+Some truths have already been revealed.
+
+Skadi:
+As for you... Specter, I have thought of asking you before. But I should not expose those emotions to you... at least, right now I shouldn't.
+
+Specter:
+Not like it matters much. If you think of anything at all, talk to me, no holds barred, Skadi. But...
+
+Specter:
+...I recommend you do it before the dark descends once more... the 'spirits' still have life...
+
+Specter:
+Yes?
+
+Skadi:
+Specter, did you just...
+
+Specter:
+Tch. Nothing major. Just a godawful old habit.
+
+Skadi:
+Really? If those ideas that maddened you are polluting your thoughts once again, then we have to hurry back immediately.
+
+Specter:
+What use would hurrying back be? Medical systems on dry land do absolutely nothing for me. They keep me alive, and that's it.
+
+Skadi:
+...But...
+
+Gladiia:
+Regardless, pick up the pace.
+
+Gladiia:
+Shark, Skadi. Our time is not so plentiful.
+
+Specter:
+Hahah. Skadi, is this what you're thinking? Three estranged, adrift old friends are back together again, but we get something so simple and perfunctory for it?
+
+Skadi:
+No. I only wanted to confirm the actual situation.
+
+Specter:
+Hah, 'actual.' What's the point? Abyssal Hunters only communicate what they need to know with each other. This is how we have always been, fundamentally.
+
+Specter:
+It's started up again... inside my head, within my spine, something's stirring outwards. It hurts...
+
+Specter:
+It took so much to break out... and now I'm right back on the way to madness. Hahah, what else can I even do? In this hellish state, do I have anything worth doing?
+
+Specter:
+Mm... right... what can I get done?
+
+Specter:
+Fighting. Right, that's the one.
+
+Specter:
+Sawing a thing or two apart is what I'm best at. Something I can do no matter my state.
+
+Specter:
+Even if I fall into darkness once more, I can still rely on this... as proof of myself. I fight. So I am Specter, I am Shark, I am Laurentina. There'll be those who remember me.
+
+Northern Iberia
+
+Specter:
+If we go by Dame Kal'tsit's plans, our support should be right here, right now. Misery, was that the name?
+
+Specter:
+But I don't see one single person who looks like Rhodes Island. How'd this happen?
+
+Liaison Operator:
+Do you copy? Skadi, Specter, and Lady Gladiia.
+
+Skadi:
+We're here.
+
+Liaison Operator:
+I'm with Misery's squad.
+
+Liaison Operator:
+The fact that we made contact means we can't be far from each other. We're very sorry we didn't show up at the appointed position, but Rhodes Island's Iberia field team has run into some trouble.
+
+Gladiia:
+Dame Kal'tsit isn't one to allow such error under her control.
+
+Liaison Operator:
+Undoubtedly. This accident was beyond her plans. There was an ambush, and we can't confirm the Rhodes Island team's status... to borrow your words, it's one of those 'pains of dry land.'
+
+Liaison Operator:
+Captain Misery says once it's sorted out, we'll rendezvous.
+
+Gladiia:
+How long will it take?
+
+Liaison Operator:
+Hmm... two hours, if we rush over. We're the closest to you.
+
+Specter:
+We're going to sit here and wait? Unacceptable. Captain, why don't we just—
+
+Gladiia:
+This is not an operation we have any choice in. I and Rhodes Island have not formally established cooperation yet.
+
+Specter:
+Yeah, yeah... Skadi, what do you think? How would the Rhodes Island operator in you take it?
+
+Skadi:
+With... the lift of a finger.
+
+Specter:
+Great minds think alike.
+
+Gladiia:
+Your attitudes towards the people on dry land have come to resemble each other.
+
+Specter:
+Then give it a go, Captain, join in the fun. We've all got the same objective, anyhow. If it gets us back to Rhodes Island sooner, what's the harm in helping a little along the way?
+
+Specter:
+Also, how long has it been since we last fought together? That battle just now could hardly scratch the itch.
+
+Specter:
+Even if... Fine, I can imagine facing off with land idiots won't take much effort. It probably wouldn't even leave the slightest wound.
+
+Specter:
+You two. One only ever says what she has to, the other skirts and sidesteps and never wants to say what's weighing on her mind. You suffocate me, both of you.
+
+Specter:
+Forget it, I'm making the call! Rhodes Island, heads up, we'll come and provide support. We'll clean up the battlefield faster that way.
+
+Liaison Operator:
+From what Dame Kal'tsit told us, you three have been through a fierce battle. Are you going to go jump straight into a new one?
+
+Specter:
+Hah, it's only a bit of a wake-up for us. She could never hold sway over our choices. And say what you like, our verdict's unanimous.
+
+Liaison Operator:
+—I need to confirm, this is a sign you're willing to provide us assistance?
+
+Skadi:
+It'll only be the lift of a finger.
+
+Gladiia:
+I have no interest in aiding any wave of landwalkers. I am even antipathic. However, nor will I have any guilt in destroying the other wave.
+
+Specter:
+Our stance is very clear, Rhodes Islanders.
+
+Specter:
+There's no time... Ah, the lure of the darkness, it encroaches step by step.
+
+Specter:
+Oh, 'Sister,' heed my command, respond to my hope, scatter the true essence of my mind forth...
+
+Specter:
+Hk—*cough*, *hack*... stop!
+
+Skadi:
+Specter? It's happening again, you're...
+
+Specter:
+No... hah... hahah... don't you pity me.
+
+Skadi:
+I'm not... I'm just worried.
+
+Specter:
+I know what you're afraid of... Skadi. The hourglass really is flowing far too fast... but I can still hold on.
+
+Skadi:
+But forget any of that... we're the survivors. We've got so much we can take our time with, talk about...
+
+Specter:
+It's not the time to talk about any of that. And besides, we're Abyssal Hunters, Skadi. Sharing our experiences might be exciting, but it's not quite the point.
+
+Specter:
+Just like before, Abyssal Hunters' communication—comes through song and battle. That's the most important thing.
+
+Specter:
+Captain, you don't pay much mind in battle, do you?
+
+Gladiia:
+Right. If you say you're fine, I will not ask further.
+
+Specter:
+That's the ticket. Let's go. Let me fight sober once again... it's been long, this self-determined joy.
+
+Specter:
+*cough*... hrgh—*cough*...
+
+Skadi:
+Are you alright there, Specter?
+
+Specter:
+(Waves hand)
+
+Skadi:
+You're already... in terrible shape. Where are you going now?
+
+Specter:
+Heheh... where am I headed... right. Before time's up, I still have to hand in that holiday assignment you arranged for me.
+
+Skadi:
+Me?
+
+Specter:
+You had me receive those 'kindnesses' for the landwalkers' Christmas. Apart from a cut-and-bone-dry gift... don't tell me you weren't meaning for me to gain some other, extra sentiments?
+
+Skadi:
+I had no other motive... I just didn't want you to miss it.
+
+Specter:
+Hah, the others don't know what you used to be like... but me and the Captain know who you really are.
+
+Specter:
+You've changed too much, Skadi. Your heart... is much too soft—even a landwalker can warm it. That's why you tried to return the favor.
+
+Skadi:
+Then what about you? You were snatched away by the Church... and rescued by Rhodes Island, and now you've united with your colleagues once again. How do you look upon this dry land?
+
+Specter:
+Me? Hm... Aside from revulsion, contempt and ridicule for those Church plankton worshipping the sea, I've never had much serious talk with the people of Rhodes Island.
+
+Specter:
+You know, they have no idea how to take in what I say, and they'd never understand Ægir life. They wouldn't have the first clue about the simple tools we use every day.
+
+Specter:
+Rhodes Island? In terms of living life... it's a pain, a pain in the ass!
+
+Skadi:
+I won't argue that.
+
+Specter:
+But there are places where their hearts and ours might agree.
+
+Specter:
+Yes... vast creation's master, in the darkness, spies on it all alike...
+
+Specter:
+It seeks, it coaxes... it will herein once again descend... ugh...
+
+Skadi:
+Specter, can you... still walk?
+
+Specter:
+(...I don't have much time.)
+
+Specter:
+Forget it. Let's drop it, Skadi, we talked enough on the way back, and I've still got a few things I need to see through.
+
+Specter:
+Also... those 'never met,' or those landwalkers I've only seen once. I guess I should meet them one last time, in the end.
+
+Skadi:
+If you need me to help, then.
+
+Specter:
+Hah, don't bother. With two Abyssal Hunters walking side by side, how would those landbound asses not piss themselves in awe?
+
+Specter:
+I'll leave the very last of my strength for the idiots of the land... however many I can meet... will be however many who can remember me. Ah, but what's the goddamned point?
+
+Specter:
+In the end, it's like Dame Kal'tsit says. It's only 'cause I'm needed that I'm still here, alive.
+
+Specter:
+Or maybe... hm.
+
+Specter:
+Dame Kal'tsit mentioned it. How I had those 'new friends.'
+
+Specter:
+Friends? The land people...? Hah.
+
+Specter:
+In any case, if I don't meet them in person, greet them directly, then I'll never know peace.
+
+Specter:
+Off I go.
+
+Skadi:
+Yes... Off you go.
+
+Skadi:
+You'll wake once again, Specter... I'll be there then.
+
+Specter:
+Don't beat yourself up so much. Skadi, quit frowning, I've never blamed you, not even once.
+
+Skadi:
+I know... I really do know.
+
+Specter:
+Smile! I've accepted how I'm powerless to wake up. It's about time you accept your own past and present.
+
+Specter:
+If I really do awaken again, when you see me, let's chat about the more interesting things in life.
+
+Closure:
+Yo, you guys are back early.
+
+Specter:
+Why'd you only call me? I thought the info Captain Gladiia or Skadi brought back would be more important.
+
+Closure:
+That's 'stuff for after' important. To Rhodes Island, getting you checked out and treated is more important at the moment. We deliberated on it, and that's the call.
+
+Closure:
+Of course, Kal'tsit's warned us about it a million times too.
+
+Specter:
+Don't you care about her...?
+
+Closure:
+Kal'tsit? That was her own decision. Besides, how do you know if she told me things would turn out this way?
+
+Specter:
+All these little schemes you landwalkers have really lose themselves in the details. Bo-ring.
+
+Closure:
+Majorly glad to see you with the gift of gab, Specter. Misery told me how you three Abyssal Hunters helped a Rhodes Island field team out of a pinch.
+
+Specter:
+Me and Skadi are registered, after all, and the other one'll be right on her way in to report.
+
+Closure:
+So... how do you feel?
+
+Closure:
+We need to run an evaluation on your combat strength.
+
+Closure:
+If you can hold onto your clear mind and run some combat in order against a team, we'll be real happy to draw you up some mission arrangements again.
+
+Specter:
+Hah. Your 'tests' really are far too simple, then. What makes that bunch of goons worth three Abyssal Hunters taking them on at once?
+
+Specter:
+When we got there, Misery already saved the show, more or less.
+
+Specter:
+Dull like nothing else. I'd even take that damned mutant bishop. Oh, shame it's already dead.
+
+Specter:
+It was I who personally returned it to the darkness... such darkness, a darkness still behind me, pursuing me...
+
+Specter:
+Hah... hahah... who could ever escape... the thirst to be one again with we many...
+
+Closure:
+Specter? You still holding up there?
+
+Specter:
+Ugh... not too well. But probably.
+
+Closure:
+Your nervous system's getting attacked hard, and quicker than I expected. Let's get your examination on the road now...
+
+Specter:
+No... I'll just be back on that bed in the end, either way. I want to make use of this time. I still have my own things I want to do.
+
+Closure:
+Knew it... Kal'tsit told me, don't force you to stop... she was able to figure your current state and choices.
+
+Closure:
+But still, Rhodes Island's got a few questions for you.
+
+Specter:
+Hah, then you'll need to be quick.
+
+Closure:
+How much longer will you be awake?
+
+Specter:
+Couldn't say... my head's all hazy dazy. I might have about fifty percent consciousness?
+
+Closure:
+Alright. I hope we can get everything out of you with these statements, and Rhodes Island will do all we can to respect your wishes.
+
+Closure:
+Specter, when you first came to Rhodes Island, you did not make it in time to convey the message you wanted. Do you intend on conveying it now?
+
+Specter:
+There's no need... Closure, is that what they call you? What I needed to convey, my colleagues have already come to learn.
+
+Specter:
+As for the leftovers, though... I won't allow those strains that the church pawns planted in my will to flower, to spread those obscenities to places farther, wider still.
+
+Closure:
+Alright. Next up, Rhodes Island took you in for treatment, and then with great caution sent you into field combat. Do you consider...
+
+Specter:
+I know all that. It was my own choice to fight. Dame Kal'tsit figured out that much, and I still need to give her a little thanks for that.
+
+Specter:
+The battlefield... is a peaceful place. At times, the silent ruins are much quieter than all that medical equipment, constantly whirring away.
+
+Closure:
+If, and I mean if, Specter, regarding recovery of your awareness... if we find a way to maintain your waking state to a certain degree, do you have any plans made for your future?
+
+Specter:
+Plans? I've long since had those ready.
+
+Specter:
+I was thinking about them on the trip back, even.
+
+Specter:
+Why not invite the Captain and Skadi to form a team of three with me, go outside just for a spot of slaughter, and bully your useless land-dwelling punk idiots a little.
+
+Specter:
+Skadi says after so long walking on land, she can tell apart the 'good' and the 'bad' in your hearts. With the Captain leading, we three are a complete army.
+
+Closure:
+For sure, if we consider what we know of the Abyssal Hunters' strength...
+
+Specter:
+However, I haven't told them any of that.
+
+Closure:
+Yes?
+
+Specter:
+Dame Kal'tsit's warned me, and I've had inklings myself. This sanity is something that can't last for long.
+
+Specter:
+A three-person team fails at the planning stage. My combat style is already totally unlike how it used to be. Rhodes Island, the tactics you currently choose for me seem to be the most optimal.
+
+Closure:
+Before we can find a way to treat you...
+
+Specter:
+Forget it. All this dry-land technology of yours could only ever give me occasional peace.
+
+Specter:
+The faults in my body... only I myself can sort them out. Anyone else? Hopeless.
+
+Closure:
+......
+
+Specter:
+Hey, now, don't look like that, Closure. All I can do is remain at Rhodes Island. I count as one of you. When I want to hack someone apart, let me out to war, and it'll be a win for you too.
+
+Closure:
+So, are you able to accept continued combat as a Rhodes Island Operator?
+
+Specter:
+I told you, the battlefield is where I can find some peace and quiet inside my head. I can't work like I did as an Abyssal Hunter anymore, but aboard Rhodes Island, there are those who let me revel in the fighting front.
+
+Closure:
+So you mean to say, our commander gives you effective instruction?
+
+Specter:
+In fact, once I'm done with you, that is where I plan to go.
+
+Specter:
+We've never talked while I was awake. I've got a few things I need to explain, quickly.
+
+Specter:
+Rhodes Island's commander—the Doctor, is nothing like any of you.
+
+Closure:
+You can tell.
+
+Specter:
+When language can't reach, all the other senses become stronger as a result. If I want to continue fighting...
+
+Specter:
+I must... bring the Doctor... to that place...
+
+Closure:
+Specter...
+
+Specter:
+...*hiss*. I can't stop now, or else the darkness will catch me up.
+
+Specter:
+I need to go.
+
+Specter:
+Ah... ah... I've found you...
+
+Specter:
+Good day... Doctor...
+
+Specter:
+Heheh. This is my first time talking to you awake...
+
+Specter:
+Yes... awake. I am still awake right now, but I am also... somewhat fatigued.
+
+Specter:
+Relax, Doctor. You are already used to this sort of conversation with me. Now, you may understand me even better.
+
+Specter:
+Doctor... you have seen me before as I washed about, spoken with me.
+
+Specter:
+If there were words then that you could not comprehend, do not... do not heed them.
+
+Specter:
+Those madnesses should not be passed on, but it is beyond me to control it. Fortunately, I still have the right to silence.
+
+Specter:
+Heheh, Doctor, there are so few who should be willing to try.
+
+Specter:
+My one regret is, in that form, I am unable to sing. And I... the I of now, no longer have the voice for song...
+
+Specter:
+Doctor... I will sing you a song.
+
+Specter:
+I must sing it. And then... you have... some kind of power. I believe, after you hear this, you may be able to understand.
+
+Specter:
+Doctor, I have met my colleagues. My captain... as Abyssal Hunters, we endured selection of the prime, elimination of the unfit, uncountable times.
+
+Specter:
+Gladiia once commanded us to jointly resist that terrifying enemy... the darkness from within the ocean. She remains the same even now.
+
+Specter:
+But I. I am the name 'Shark,' yet have become 'Specter.' Akin with Skadi, we carry the odor of dry land. We carry the scent Rhodes Island carries.
+
+Specter:
+Doctor, in the times I cannot maintain wakefulness, I cannot swim together with my captain... my body has been implanted with makings of dry land, and I am forced only to crawl across this world.
+
+Specter:
+I thirst, thirst to stand upon the battlefield, thirst to enter the sea, thirst to sing.
+
+Specter:
+You are the tactical commander... on the battlefield, you know, the way in which I fight. Do not let me leave the battlefield for too long. That is my... evidence, that I live after others die.
+
+Specter:
+Put even more danger upon my share.
+
+Specter:
+Then let me a little closer to the enemy. Do not worry, Doctor, I'll be more obedient on the battlefield than ever before.
+
+Specter:
+Do not fear my strength... simply keep far from me, what you do not want my saw to cut.
+
+Specter:
+Fundamentally, an Abyssal Hunter's battle needs no surplus communication.
+
+Specter:
+Worry not, Doctor. Break us in for a bit longer, and we will only become more familiar with each other, and the bindings of language... will have no meaning at all to fighters like us.
+
+Specter:
+Should I trust you, commander of dry land?
+
+Specter:
+To allow me to fight like an Abyssal Hunter, allow me to fight more and more... so that my faint consciousness returns to these hands of mine, power overflowing, weapon in their grasp?
+
+Specter:
+...Heh, heheh, hahahah...
+
+Specter:
+Observe, Doctor, I still have so many 'secrets,' and I will be sure to tell them to you, before you go to that place...
+
+Specter:
+But now, but now, just what ought I do...
+
+Specter:
+Sing... yes, sing.
+
+......
+
+......
+
+......
+
+Skadi:
+This... Specter can sing.
+
+Skadi:
+Specter?
+
+Specter:
+And when she wept♪
+
+Specter:
+The night let out a smile♪
+
+Skadi:
+Specter... Laurentina, stand still.
+
+Specter:
+A colleague's scent... oh...
+
+Skadi:
+Specter, can... you hear me speak? Specter—
+
+Specter:
+Don't touch... me...
+
+Skadi:
+—!
+
+Specter:
+You have not... undergone baptism... return your filth to the ocean... the breath of dry land repels you... seduces you...
+
+Skadi:
+......
+
+Specter:
+Hahh... I hear your call... hahh... the edge of the darkness...
+
+......
+
+
+

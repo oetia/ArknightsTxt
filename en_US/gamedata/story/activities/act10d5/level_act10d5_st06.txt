@@ -1,0 +1,695 @@
+Amiya:
+Huh? Oh, sorry, Doctor. I was spacing out.
+
+Amiya:
+Ah, um, there's a matter of some concern.
+
+Amiya:
+Doctor, look, it's an internal transfer application.
+
+Amiya:
+The applicant is Natalya Rostova.
+
+Amiya:
+She wants to transfer from Logistics to the front line.
+
+Amiya:
+Right. She's the only member working in Logistics.
+
+Amiya:
+I understand they appreciate her talent and efficiency.
+
+Amiya:
+Of course you'd be worried about it too. Honestly, I don't really want to approve this one.
+
+Amiya:
+I get it. Ursus names are hard. I'm not surprised you forgot.
+
+Amiya:
+She's one of the survivors we rescued from Chernobog, and a member of Zima's Ursus Student Self-Governing Group.
+
+Amiya:
+In fact, she was the only aristocrat among the refugees.
+
+Amiya:
+Do you remember that Zima's team became combat operators at their own request?
+
+Amiya:
+I was actually against it at first.
+
+Amiya:
+Right. Originally, even though they requested it themselves, I was going to convince Dr. Kal'tsit to veto the application.
+
+Amiya:
+It's just...
+
+Amiya:
+They get regular psychological counseling and according to the reports, they're generally healthy, notwithstanding the occasional dark spot.
+
+Amiya:
+It's just...
+
+Amiya:
+Thanks, Doctor.
+
+Amiya:
+It's just...
+
+Amiya:
+I don't know how to put it better.
+
+Amiya:
+...Doctor, can you go check on Miss Rostova?
+
+Amiya:
+Thanks, Doctor.
+
+Amiya:
+I know it's kind of a pain, but you're the only one who can do it, Doctor.
+
+Amiya:
+Doctor, this is really important. Don't be lazy.
+
+Amiya:
+And you really don't have to take it too seriously. Just think of it as a little change of scenery.
+
+Amiya:
+Oh, it's already lunchtime. No need to rush, you can go see her after you eat.
+
+Zima:
+Hey, Doctor.
+
+Zima:
+Nothing. Just saying hey, since I saw you.
+
+Zima:
+Hey, don't pretend you didn't hear me. I saw you stop.
+
+Zima:
+Aren't you like super busy all the time? What are you doing wandering the halls?
+
+Zima:
+You don't look busy.
+
+Zima:
+I've got a mission. I can't be enjoying a leisurely stroll like you.
+
+Nearl:
+I told you not to wander before deployments, Zima.
+
+Zima:
+......
+
+Nearl:
+Afternoon, Doctor.
+
+Nearl:
+Come on, Zima, back to the ready room. It's time to go.
+
+Zima:
+Hmph. One day I'm gonna be the captain and boss you around.
+
+Zima:
+You too, Doctor. You're gonna answer to me.
+
+Nearl:
+I like the ambition. Let's talk about it after you've got one on me.
+
+Nearl:
+As for the Doctor, well, you'll have to have won a lot more than one.
+
+Zima:
+Eh.
+
+Nearl:
+Oh, Doctor, you should know, I've been taking the rookie team lately.
+
+Nearl:
+So if you don't have anything else, I'll get going.
+
+Nearl:
+Hm?
+
+Nearl:
+Hm... Well, you just saw that she doesn't take well to discipline. She's very insubordinate.
+
+Nearl:
+And as a warrior, at her age, it's normal to not know what you're fighting, or what you're fighting for.
+
+Nearl:
+But it's especially obvious for Zima.
+
+Nearl:
+She suffers from a lot of confusion. I don't know exactly what it is, but it's a bad sign and something I'm going to focus on correcting next.
+
+Nearl:
+Right. Violence is a protective shell for her.
+
+Nearl:
+I wouldn't go so far as to say she has a fragile heart under that shell, but I can say that toughness is very fragile, in front of me.
+
+Nearl:
+Don't worry, Doctor. She's still a kid.
+
+Nearl:
+I heard she's from Chernobog. I'm sure she's carrying a lot of baggage. But she has a future.
+
+Nearl:
+Hah, don't worry, Doctor.
+
+Nearl:
+You must know, she doesn't hate you or anything.
+
+Nearl:
+In fact, she seems to reflexively attack people close to her.
+
+Nearl:
+But I do have to say, I think this kid's all right, Doctor.
+
+Nearl:
+In fact, I like her. She's got a strong sense of integrity. So even if she's confused, that integrity will keep her on the right path.
+
+Nearl:
+And that's rare.
+
+Nearl:
+Okay, I gotta get going. Please excuse me.
+
+Gummy:
+Wow, it's the Doctor!
+
+Gummy:
+Afternoon, Doctor!
+
+Gummy:
+Am I too short?!
+
+Gummy:
+Hellooo, Doctor, do you see me?
+
+Gummy:
+You're looking good today!
+
+Gummy:
+Are you here to eat?
+
+Gummy:
+I haven't had any missions lately, so I'm helping out in the kitchen.
+
+Perfumer:
+Gummy, I brought the spices.
+
+Gummy:
+Oh, thanks, Perfumer! Just put them over there.
+
+Gummy:
+Did you want something to eat?
+
+Perfumer:
+No thank you. I'm used to cooking for myself in my workshop.
+
+Gummy:
+Oooh, can I come eat with you sometime? I really wanna learn to use spices like you do!
+
+Perfumer:
+Heh heh. But of course.
+
+Matterhorn:
+Gummy, can you lend a hand when you've got a minute?
+
+Gummy:
+Coming!
+
+Matterhorn:
+Hung is out on a mission and I'm a little short-handed. I need you to take this pot for me.
+
+Gummy:
+Sure, Uncle Matterhorn! I'll see you next time, Perfumer. And you eat well too, Doctor!
+
+Perfumer:
+Sure. You're welcome anytime.
+
+Vanguard Operator:
+Is Gummy cooking today?!
+
+Logistics Operator:
+Oh man, what luck!
+
+Logistics Operator:
+Too bad I just ate!
+
+Vanguard Operator:
+Haha, I'll get seconds!
+
+Gummy:
+Settle down, everybody. There's enough to go around!
+
+Perfumer:
+Gummy sure has a lot of energy, doesn't she, Doctor?
+
+Perfumer:
+One time, when she fell asleep in my workshop, I heard her talking in her sleep. What she said worried me a bit.
+
+Perfumer:
+But when I see her like this, adapting so well to life at Rhodes Island, I feel like I have nothing to worry about.
+
+Perfumer:
+You can't expect them to heal instantly. But given time, they'll be okay.
+
+Perfumer:
+Oh, Doctor, some things call for discretion, you know?
+
+Perfumer:
+I'll be keeping that secret for her. But rest assured, she doesn't need comfort, she just needs time.
+
+Perfumer:
+You care, Doctor? Heh heh. You really worry about your operators.
+
+Perfumer:
+But rest assured, if there was something really important, I wouldn't hold my tongue.
+
+Perfumer:
+A girl has her secrets, you know?
+
+Perfumer:
+Doctor, don't be so full of yourself that you think you have to take care of everyone.
+
+Perfumer:
+We can look after each other too.
+
+Perfumer:
+It's time I went back to the office.
+
+Perfumer:
+If you ever find yourself tired, Doctor, you can always come sit with me.
+
+Istina:
+Hello, Doctor.
+
+Istina:
+I've never seen you in the canteen before, Doctor.
+
+Istina:
+You look like you have something on your mind, Doctor. I suggest you find a better place to stand and think than the cafeteria doorway.
+
+Istina:
+Hm... the rice is a little firm today, and the soup is too sweet. But I'm enjoying the vegetables.
+
+Istina:
+If there's nothing more, Doctor, I'll be going.
+
+Istina:
+I have class in the afternoon.
+
+Istina:
+Yes, Hypatia's history class.
+
+Istina:
+After auditing for a while, I found Hypatia's take on history very helpful for me.
+
+Istina:
+Hm. No.
+
+Istina:
+Oh, I don't mean to refuse you. I'm having trouble explaining, because I'm not very clear either.
+
+Istina:
+Hypatia's lectures are very interesting. I think you should take a listen yourself, when you have time.
+
+Istina:
+Um, Doctor, did I not hear that you suffer from amnesia?
+
+Istina:
+But I appreciate the offer.
+
+Istina:
+I'll say, I could use some guidance.
+
+Istina:
+In fact, I'm not certain the study of history will help me that much.
+
+Istina:
+However, thinking on the experiences of our forebears could provide me some inspiration.
+
+Istina:
+I'm off to class then.
+
+Istina:
+Natalya...? You're looking for her?
+
+Istina:
+Gummy told me she wants to become a front line operator. I haven't heard if her application has been approved, but from what I know of her, she is likely already preparing for the transfer.
+
+Leto:
+Your aim sucks, Natalya.
+
+Natalya:
+Don't be so sure, Rosalind. I'm going to hit you.
+
+Leto:
+Hehe, no way in hell~
+
+Leto:
+And you gotta call me Leto now! Operator Rosa~
+
+Natalya:
+Okay, Operator Leto. Let us wait and see.
+
+Leto:
+And who got you using such a big sucker?
+
+Leto:
+You found it in Chernobog, right? Why not throw it away and get something new?
+
+Natalya:
+Hup... sentimental value.
+
+Leto:
+Okay. More work for you.
+
+Leto:
+It kinda looks like you can't move anymore. Why not take a little break?
+
+Natalya:
+I can still...
+
+Natalya:
+Agh!
+
+Dobermann:
+You lack stamina, Natalya.
+
+Dobermann:
+Being Ursus gives you a nice base to build on, but you're a long way from combat ready.
+
+Natalya:
+Pshh... whew... Sorry. I'll keep trying.
+
+Dobermann:
+But your willpower is a lot stronger than I thought. Not bad.
+
+Dobermann:
+If you can push through this round of training, it'll be good for you, even if you don't become an operator.
+
+Natalya:
+Thanks for that.
+
+Dobermann:
+Hm... hm?
+
+Dobermann:
+Take five.
+
+Natalya:
+Yes, sir!
+
+Dobermann:
+Leto, you get out there and train yourself.
+
+Leto:
+Yes, sir~
+
+Dobermann:
+Grace, keep an eye on her.
+
+Instructor Grace:
+Got it.
+
+Dobermann:
+Doctor, it's lunchtime. You should be resting. We don't need you here.
+
+Dobermann:
+Afternoon, Doctor.
+
+Dobermann:
+If you're just here to say hello to me, I've got plenty to get back to.
+
+Dobermann:
+You're slowly but surely becoming a leader. That's no bad thing, I have to say.
+
+Dobermann:
+You can, but I have to take time to deal with you. I hope it won't be a lot.
+
+Dobermann:
+But I guess Amiya told you we have another girl from Zima's group who wants to be an operator, and you wanted to check her out?
+
+Dobermann:
+Don't look so surprised.
+
+Dobermann:
+Everyone knows Amiya is very concerned about the survivors we rescued from Ursus.
+
+Dobermann:
+You must remember Zima, Gummy, Istina, Leto——
+
+Dobermann:
+Well, Leto is an exception. Nothing to worry about in the combat department.
+
+Dobermann:
+When those four girls applied, Amiya was dead-set against it. She wanted to veto their applications. I don't know why, but she changed her mind at some point in the process.
+
+Dobermann:
+And so now that there's another one, it would be out of character for her not to care...
+
+Natalya:
+Phew, that's enough rest. Rosalind, practice with me a while.
+
+Leto:
+Wow, you're really committed.
+
+Natalya:
+Don't underestimate my determination to become an operator.
+
+Leto:
+Alright alright.
+
+Instructor Grace:
+Natalya, you still need to rest. The most important part of exercise is recovery. If you keep grinding away at it, you're just going to break your body.
+
+Natalya:
+Thank you, Instructor Grace, but I think I still have some strength left in me...
+
+Instructor Grace:
+Hey, don't worry about Dobermann, I know she looks scary...
+
+Dobermann:
+Grace, I can hear you.
+
+Instructor Grace:
+Oh, well, you get it.
+
+Natalya:
+Yes, but don't worry.
+
+Instructor Grace:
+Okay...
+
+Dobermann:
+What do you think of her?
+
+Dobermann:
+Is she now? I don't think so.
+
+Dobermann:
+I've seen her type. They grit their teeth, fighting hard not to think.
+
+Dobermann:
+Doesn't it remind you of those three?
+
+Dobermann:
+They don't know where courage comes from, so they bite down and take on society, no matter their age.
+
+Dobermann:
+But they do seem to be ready.
+
+Dobermann:
+Yes she is. Honestly, she exceeds my expectations.
+
+Dobermann:
+An aristocratic young lady who can actually work hard for herself... hah.
+
+Dobermann:
+I do understand Amiya's instinct to keep them off the battlefield.
+
+Dobermann:
+Doctor, no one would be happy to send young people to war. Isn't the point of a soldier like me to protect kids like that?
+
+Dobermann:
+I always blame myself for them having to go fight.
+
+Dobermann:
+But I've come to terms with the fact that I can't save everyone.
+
+Dobermann:
+All I can do is teach them to fight, to protect themselves, and to get home in one piece.
+
+Dobermann:
+Think about it, Doctor, what can you do for them?
+
+Amiya:
+Welcome back, Doctor.
+
+Amiya:
+So what do you think?
+
+Amiya:
+...Yes. That's why I've been paying more attention to them.
+
+Amiya:
+Sorry, Doctor, I... wasn't sure if I should tell anyone about this.
+
+Amiya:
+You know about my ability to sense a person's most powerful emotions, and to even feel them when they're directed at me.
+
+Amiya:
+If they're not directed at me, but still strong enough, I can't feel them as clearly, but I can still sense something.
+
+Amiya:
+And the Ursus girls... it's hard to say.
+
+Amiya:
+Their situation is different.
+
+Amiya:
+At times, times that would seem ordinary to us, I will sense immense, overpowering emotion from them.
+
+Amiya:
+Of course, their emotions are different, but they share some commonalities.
+
+Amiya:
+If I had to put a name to the main emotion, I think I'd have to say 'helplessness.'
+
+Amiya:
+They are not so sad, not pained, not angry, not hopeless...
+
+Amiya:
+Maybe it's not the right word. It's like... like there's an invisible wall.
+
+Amiya:
+It's usually invisible and intangible, but it blocks them whenever they try to move forward. And they're stuck.
+
+Amiya:
+No.
+
+Amiya:
+We are in no position to help them now, Doctor.
+
+Amiya:
+What each operator is willing to tell us when they register their file, that's all we 'can' know about them.
+
+Amiya:
+They may be hiding something from us. But if so, we have even less reason to dig it up.
+
+Amiya:
+Of course, that doesn't include things that might adversely affect Rhodes Island. But I don't think Zima's group falls into that category.
+
+Amiya:
+Also...
+
+Amiya:
+I'm not sure us suddenly reaching out to help them would actually be helpful.
+
+Amiya:
+Yes, I think so too.
+
+Amiya:
+Maybe it's just that I'm a little afraid to do it.
+
+Amiya:
+Oh, Doctor, you're teasing again.
+
+Amiya:
+If only it were that simple.
+
+Amiya:
+I feel like 'I understand you' isn't worth much.
+
+Amiya:
+But people love to say it. As if it fulfills their duty to provide comfort, or that it will make someone open up to them.
+
+Amiya:
+It's hard to understand someone's feelings, let alone help them.
+
+Amiya:
+Many operators on board this vessel are the same, actually.
+
+Amiya:
+We don't share any particular experience with them, our words don't get through to them, and what we do, even if it's right, won't be what they want.
+
+Amiya:
+Right.
+
+Amiya:
+After sensing their emotions, I changed my mind.
+
+Amiya:
+Forcing them to safety may seem to us like the right move, like it's best for them. And it probably would keep them safe, in practice.
+
+Amiya:
+But that would not help them heal.
+
+Amiya:
+Doctor, I really don't want to say that time heals all wounds.
+
+Amiya:
+But I don't know any other way.
+
+Amiya:
+All I can do is respect their choice, and protect them in my own, Rhodes Island way.
+
+Amiya:
+When I think about it like that, I feel kind of full of myself...
+
+Amiya:
+Yes, but I always hope I can do more.
+
+Amiya:
+Doctor, how to or whether to treat someone, from a physical perspective, is rarely something that needs consideration.
+
+Amiya:
+But when it comes to mental health, it becomes a more difficult problem.
+
+Amiya:
+For now, I can give only a vague answer.
+
+Amiya:
+Yes, you're right.
+
+Amiya:
+If we aren't in a position to help someone, we must create the position.
+
+Amiya:
+I'm just a little frustrated.
+
+Amiya:
+Medicine is for pain, to heal wounds. And some medicines can heal. But in any case, they can't erase the pain and suffering endured before the medicine is applied.
+
+Amiya:
+I've always wondered if Rhodes Island could help some people, even if only a few, to forget, or at least let go of the trauma they've suffered in the past.
+
+Amiya:
+I've realized along the way that it's really hard.
+
+Amiya:
+Developing the drug is only the most basic first step. There's so much more we would have to do to be able to achieve this.
+
+Amiya:
+Yeah. At least we are.
+
+Amiya:
+Thanks, Doctor.
+
+Amiya:
+I'm kind of embarrassed that you're comforting and encouraging me over someone else's business...
+
+Amiya:
+Anyway, to business, I'm approving Miss Rostova's application.
+
+Amiya:
+I hope that one day she and her friends are willing to open up to us. I hope that one day, we are able to help them.
+
+Amiya:
+I hope that one day... Rhodes Island can become their now home.
+
+
+

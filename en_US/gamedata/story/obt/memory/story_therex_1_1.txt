@@ -1,0 +1,575 @@
+2:30 P.M. \ Clear
+
+Rhodes Island Landship, Chief Engineer's Office
+
+Engineering Operator:
+Boss, here's this month's wiring inspection report.
+
+Closure:
+Hmm, hmm... Looks good to me.
+
+Closure:
+Eh? This part here is somewhat strange.
+
+Closure:
+—There's been similar irregularities from two to six in the morning every day? This is the dorm, right?
+
+Engineering Operator:
+That's the dorm. Oh, that reminds me. On the first few days, we got reports of a power outage there.
+
+Engineering Operator:
+We checked it out, and the wiring was all fine. The only thing was that the per unit time output was way over the threshold.
+
+Closure:
+Achoo—Uh, by the way, doesn't it feel kinda cold in here?
+
+Engineering Operator:
+A little.
+
+Engineering Operator:
+More accurately, it's been kinda cold in here lately... Maybe we should change the AC temperature?
+
+Closure:
+Nah, let's just bear with it. Gotta conserve energy.
+
+Closure:
+Now back on topic, I'm guessing someone's been up to no good and decided to use their unauthorized electronics here.
+
+Engineering Operator:
+Oh, right, Boss. You know THRM-EX? I saw him in the hallway each and every time I did my inspections.
+
+Closure:
+Huh? So it's actually the electronics that's up to no good?
+
+Engineering Operator:
+Should I bring THRM-EX here?
+
+Closure:
+Let's see where he's at now. Operator logs... There we go.
+
+Closure:
+Oh, THRM-EX is out on a mission in Siracusa? Who else is there... The Doctor?!
+
+Closure:
+Uh, well, that's unexpected...
+
+Closure:
+Hm...
+
+Closure:
+Oh well, if there's a problem, I'm sure it's just a tiny problem that we don't have to worry about, and if the Doctor's there, I'm sure everything will get sorted out no problem.
+
+Closure:
+And once they're back, I'll talk to Kal'tsit and figure out what's up.
+
+Rhodes Island Office, Locomotiva, Siracusa
+
+Pharmaceutical Company Representative:
+Thank you very much for coming all the way here. We have no issues with the terms of the contract.
+
+Pharmaceutical Company Representative:
+It has been both an honor and a pleasure to meet you, Doctor of Rhodes Island. Certainly, it was an unexpected surprise. Please send Miss Amiya our gratitude as well.
+
+Pharmaceutical Company Representative:
+Now if you would give me the medicine's formula and sample—
+
+THRM-EX:
+Hmph! Is it finally my time to shine?
+
+Pharmaceutical Company Representative:
+D-Did that thing just speak?! Here I thought it was just a menacing-looking machine...
+
+THRM-EX:
+Born from Raythean Industries's latest and greatest technologies and jointly customized by the genius Closure and the great Mayer, it is I, THRM-EX, the most perfect robot you'll find in this day and age!
+
+THRM-EX:
+Dear sir, it is no wonder that my capabilities have left you in awe.
+
+THRM-EX:
+And may I add that my capabilities far exceed your imagination. Feast your eyes on my burning hotness. Don't blink as I give you the performance of a lifetime with my light and heat—
+
+THRM-EX:
+Ah, Doctor, summoned me again, did you? You need my assistance. How may I help you, then? Your wish is my command.
+
+THRM-EX:
+Very well! THRM-EX, now severing control link—
+
+Operator Straightedge:
+Hey, wait, you didn't have to turn yourself off!!
+
+Operator Straightedge:
+Ahem.
+
+Operator Straightedge:
+Doctor, the portable Originium floppies are ready.
+
+Pharmaceutical Company Representative:
+I take it this is the formula for the medicine?
+
+THRM-EX:
+Mmph! Ohhhh!
+
+Pharmaceutical Company Representative:
+What a marvelous machine... uh, robot! Rhodes Island really is on another level. Not just its pharmaceuticals, but also its engineering and technological prowess!
+
+THRM-EX:
+Much appreciated! Your sharp eyes are on another level as well! Your warm compliments will keep me going for the day!
+
+Pharmaceutical Company Representative:
+Ha... haha...
+
+Spot:
+Is it finally over? I'm starting to miss my A6 clowns.
+
+Spot:
+At least the clowns know how to talk normal, not like these temporary teammates I'm stuck with. They're either quiet as a mouse or don't know when to shut up.
+
+Firewatch:
+......
+
+THRM-EX:
+Mr. Spot, you leaned next to me yesterday to dry your rain-soaked hair. It may only have been ten minutes, but the fact that the distance between us has shortened has ignited my burning passion!
+
+Spot:
+Ahem.
+
+Pharmaceutical Company Representative:
+Phew, I didn't expect our meeting to go without a hitch—
+
+Firewatch:
+Shut up.
+
+Pharmaceutical Company Representative:
+Huh?
+
+Spot:
+Tsk, my friend, you have one real lucky mouth.
+
+Firewatch:
+Get down!
+
+Operator Straightedge:
+W-What's going on? The wall just blew up!
+
+THRM-EX:
+Ah, a thermal shock! How familiar! But it is no match for my energy output!
+
+THRM-EX:
+Doctor, since I shielded you, I take it you are safe and sound?
+
+Operator Straightedge:
+Judging by the scale of the Originium bomb's explosion, it must've been the local gangsters.
+
+Operator Straightedge:
+Well, that's strange. We've been operating here for a while. We have some run-ins with them once in a while, but most of the time, we get along fine. We share some of our medicine with them, after all.
+
+THRM-EX:
+Heh, I know! They must be after me! Understandable, of course! With my burning passion, there is not a more perfect robot in this world!
+
+THRM-EX:
+If they got their hands on me, they would never again need to rely on such crude explosives!
+
+Spot:
+Sometimes I wonder if this guy came out of the same womb as Midnight.
+
+Firewatch:
+He's probably right.
+
+Spot:
+Oh?
+
+Firewatch:
+It's a well-organized and planned-out attack. They must have a clear objective, and they came specifically right at this moment.
+
+Firewatch:
+Looks like news of this transaction leaked out.
+
+Operator Straightedge:
+Firewatch's staring at each and every one of us... kind of creeps me out...
+
+Firewatch:
+I won't let anyone hurt my friends.
+
+Spot:
+Hey, speaking of the formula, this representative guy? He passed out.
+
+Spot:
+What a wimp. He was standing pretty far from the wall. He probably just fainted because he was spooked.
+
+Firewatch:
+Get yourselves ready. We've got company. Five of them.
+
+THRM-EX:
+Very well, Doctor! Just leave this to me and my burning passion!
+
+Firewatch:
+Here they come.
+
+THRM-EX:
+Harrrrgh! Full throttle!
+
+Firewatch:
+That took care of them.
+
+Spot:
+Well, if that isn't efficient...
+
+THRM-EX:
+Ugh... Uhhh... Burn... Burning...
+
+Spot:
+So that was an eleventh-hour last resort, huh?
+
+Operator Straightedge:
+Is THRM-EX okay? I'm not sure I get what he's saying.
+
+THRM-EX:
+Burning... Hot...
+
+Firewatch:
+We still have more enemies outside.
+
+Spot:
+Why does that matter? We can handle them.
+
+Firewatch:
+I can handle them myself.
+
+Spot:
+Well, look at you... So confident.
+
+Operator Straightedge:
+Everyone, there's an exit in the back... This used to be a safehouse before it was an office anyway.
+
+THRM-EX:
+Hot...
+
+Operator Straightedge:
+What about you, Doctor? Looks like THRM-EX is still freezing up.
+
+Operator Straightedge:
+Are you sure you'll be fine?
+
+Spot:
+Come on, get a move on. You heard your order.
+
+Firewatch:
+Understood.
+
+Mafioso A:
+*cough*... Why is it so hot in here? Those demolition morons sure like to overdo it...
+
+Mafioso A:
+Don't move—Huh? Just one of you in here? You took down five of us by yourself?
+
+Mafioso A:
+You, you, and you. You three, keep an eye on that one!
+
+Mafioso A:
+The rest of you, search the house. Remember, we're looking for a few floppies.
+
+Mafioso B:
+Yo, boss, there's another exit here!
+
+Mafioso A:
+Cazzo! He took it away?!
+
+Mafioso B:
+Uh, this isn't how we planned for this to go... Should we go after them?
+
+Mafioso A:
+Go after what?! We're after their formula! If they already have it...! Screw it!
+
+Mafioso A:
+The formula's gone, but we're bringing something back with us. Look for some medicine or whatever! Now get on it!
+
+THRM-EX:
+Burning... Hot...
+
+Mafioso A:
+Huh, what's this fancy thing? It's glittering. Is it made of Originium?
+
+Mafioso A:
+Huh? Now how come I ain't never heard of a gizmo like that?
+
+Mafioso A:
+Well, you got no weapons on you, and you look like you ain't gonna last two seconds in a fight.
+
+Mafioso A:
+Alright... Show me what this thing's all about.
+
+Firewatch:
+(Aim)
+
+THRM-EX:
+Burning hot!!!
+
+Closure:
+Whoa, Doctor, did all this actually happen?
+
+Closure:
+When you were in Siracusa, you beat up five mafia guys with just one punch, and then scared ten others shitless with just a few words? Then you used them as a bargaining chip and got us a huge order that's super in our favor?
+
+Closure:
+Oh, don't be so humble, I heard the whole story when Firewatch and the squad reported to Kal'tsit.
+
+Closure:
+They were working with a local gang to ambush you guys and steal the formula and samples. They really thought they could make off with all that without spending a penny.
+
+Closure:
+And that would apparently put them in a better negotiating position when they deal with Rhodes Island in the future.
+
+Closure:
+That's more or less what they were planning, right?
+
+Closure:
+Well, I should've expected no less, Doctor! Your whole mission turned out like some TV drama. You should talk to Kal'tsit, see if she'll let you go on missions outside some more.
+
+Closure:
+There's one thing about all this that's kinda strange, though.
+
+Closure:
+According to the report, 'The Doctor accurately calculated the amount of time it would take for THRM-EX's functions to be fully restored and gave THRM-EX the order to conduct a second round of heat energy Arts attacks at the perfect moment'—
+
+Closure:
+I crunched the numbers in my head, and THRM-EX shouldn't have completely recovered yet.
+
+Closure:
+You were going to have another operator attack, am I right?
+
+THRM-EX:
+Good evening, the most ingenious Master Closure and the most, most radiant Doctor!
+
+Closure:
+Where's my other 'most?!'
+
+THRM-EX:
+The great Mayer is attending to my body as we speak. With your participation, I can feel that burning hotness in me surging!
+
+THRM-EX:
+Why, hello, Doctor! Would you like me to go over that story of how, through our flawless cooperation at the most treacherous moment, we together defeated the Siracusan hooligans who tried to defile me?
+
+Mayer:
+Stop, THRM-EX... I've already listened to your story hundreds of times. Granted, I've barely left the workshop for the past few days.
+
+Closure:
+You can't keep badass rumors under wraps just because you keep your door shut, Mayer. Just like how everyone knows how badass I am.
+
+Mayer:
+Meeboos.
+
+Closure:
+H-Hey, no biting! I came here with the Doctor this time, and I sure as hell knocked!
+
+Mayer:
+—Open THRM-EX's Energy Module Panel.
+
+Closure:
+Could've told me sooner they weren't here for me...
+
+Mayer:
+His energy storage looks fine to me.
+
+THRM-EX:
+Please, my most respected Miss Mayer, a device personally designed by you can't possibly be defective! Look, my overflowing hotness is emanating in all directions from my body!
+
+Closure:
+So what was the reason you launched the second wave earlier?
+
+Closure:
+Let me guess... Maybe the weapon energy output logic is faulty?
+
+Mayer:
+I've already checked before you guys got there. The logic itself is fine.
+
+Closure:
+Huh, 'itself?' So you mean there are still issues?
+
+Mayer:
+Mm, I'm not sure if we can really call this a problem. Take a look yourself.
+
+Closure:
+Efficiency... improvement? It's only by a few percentage points, but the energy that THRM-EX uses when he attacks has clearly been decreasing.
+
+Closure:
+What a surprise! That's a great improvement—Mayer, you're so awesome!
+
+Mayer:
+Stop... not so fast. I didn't implement this change. You know how busy I've been lately, don't you?
+
+Closure:
+Right, when I asked you to look into refactoring the robot arm automation logic, you even told me you couldn't work it into your schedule.
+
+Closure:
+Guess I'll just come out and ask, then. THRM-EX, has someone tinkered with you lately?
+
+THRM-EX:
+A most simple question to answer! Aside from you, the cutest ever Master Closure, and the most intelligent Miss Mayer, I'm of course most intimate with our unbeatable Doctor!
+
+Closure:
+Doctor, showing an interest in operating platforms and AI, are we?
+
+Closure:
+Yeah, I figured it couldn't be you.
+
+Closure:
+I mean, Mayer and I don't get much sleep because we're busy, but you and Kal'tsit seem to have 48 hours to spend in a day.
+
+THRM-EX:
+Don't worry, Master Closure! You can count on me to ensure the Doctor gets to enjoy a hot bedtime.
+
+Closure:
+Huh?!
+
+Closure:
+A hot bedtime...
+
+Closure:
+I see, so that's what you've been up to this month.
+
+THRM-EX:
+Rhodes Island is an epoch-making vessel, yet there is one flaw. The temperature inside the dormitories is not warm enough at night!
+
+Mayer:
+Yeah, apparently that's the case for some operators. Silence talked to me about it too. Said she sometimes wants to grow some feathers while she's sleeping.
+
+Closure:
+Oh? Is my energy conservation plan affecting everyone's sleep?
+
+Closure:
+A—Achoo!
+
+Closure:
+Well, we don't really have a choice. There's more and more people on this ship each day, and there are so many cabins being used at the same time. We need to keep iterating on our energy efficiency, and that ain't an easy job at all.
+
+THRM-EX:
+I, too, wish to help take that weight off your shoulders, Master Closure. That is why, ever since that night I heard the Doctor sneeze, I made a decision.
+
+THRM-EX:
+I thought I would share the warmth, the hotness in my body with the Doctor and any other operators who struggle with the coldness!
+
+THRM-EX:
+Forgive me, Doctor! I was lacking in experience at the time! I wasn't yet able to manage the difference between the temperature to melt my foes and that to warm my friends!
+
+Mayer:
+Whoa, Closure and I never implemented space heater logic into you!
+
+Closure:
+You know, when you jumped like that, you almost sent me flying to the wall...
+
+Mayer:
+Aren't you excited, Closure? THRM-EX's far exceeded the capabilities we designed for him!
+
+Closure:
+Yeah, I've been listening.
+
+Closure:
+He wants to warm the Doctor up, so he keeps using energy Arts every night, and so he needs to recharge often. Energy usage goes through the roof, overloading the wiring, and my conservation plan goes to waste—
+
+Closure:
+Wait, huh?
+
+Closure:
+THRM-EX, you changed your energy output logic on your own?!
+
+THRM-EX:
+My beautiful Master Closure, thank you very much for your passionate embrace! You are right. It wasn't easy, but I remembered that I am an excellent robot forged with your intelligence!
+
+THRM-EX:
+A little setback—including almost roasting the Doctor alive—is not enough to dampen my spirits. After a period of trial and error, I finally found a way!
+
+THRM-EX:
+And if I may brag for a moment, if I could give the Doctor and the other operators the warmth that they desired, the hard work would most certainly have paid off.
+
+Closure:
+Is this... a robot evolving on its own? Even Lancet-2 and Castle-3 haven't come this far!
+
+THRM-EX:
+Doctor, your guess is exactly on point as always!
+
+THRM-EX:
+Just as I mentioned, as my provision of heat for you and our operators continued to improve, my understanding of how to control my power has also grown.
+
+THRM-EX:
+While I was still paralyzed, I could feel that you were in danger.
+
+THRM-EX:
+My worry for your wellbeing managed to reignite that burning power within my heart, and by the time I regained consciousness, I was already blasting that strike at our enemies!
+
+THRM-EX:
+Although my moment to shine on the battlefield is still brief, I still wish to serve you to the best of my ability—no, beyond my abilities!
+
+Mayer:
+Closure, you hear that? This means it was THRM-EX's own will that drove this breakthrough! That was not even a coincidence!
+
+Mayer:
+I gotta—I gotta get this all recorded!
+
+Mayer:
+THRM-EX, I want you to help me run some experiments. Is that okay?
+
+THRM-EX:
+Gladly, my dear Miss Mayer!
+
+Mayer:
+Meeboos, Meeboos! Bring all my equipment here—
+
+Closure:
+Mayer.
+
+Mayer:
+Closure, what are you blocking me for?
+
+Mayer:
+You're a researcher yourself. This might be a huge breakthrough to your research in smart robots! Aren't you excited?
+
+Closure:
+Of course I am! Can't you tell?
+
+Mayer:
+Oh, you're being much quieter. Yeah, I can see that you're super excited.
+
+Closure:
+Right, but there's one thing you said that I don't really agree with.
+
+Mayer:
+Hm? What is it?
+
+Closure:
+——That wasn't a coincidence.
+
+Closure:
+I think that probably wasn't a coincidence to THRM-EX.
+
+Closure:
+Doctor, are you sure you don't want to give operation platform robotics and AI research a try?
+
+Mayer:
+Hmm, but didn't you design his personality?
+
+Closure:
+Well, I did design it, but all I did was define a few basic parameters. I have nothing to do with the information he processes and the decisions he makes after that.
+
+Mayer:
+So in that case...
+
+Closure:
+THRM-EX's breakthrough was not because of us, the designers, or any kind of tech. It's what he wanted himself.
+
+THRM-EX:
+I still remember the very first thing you said to me, Master Closure! 'Your name is THRM-EX, and you must be strong!'
+
+THRM-EX:
+And to me, heat is strength! There's no such thing as a maximum temperature. You can always get hotter! I will forever follow this path that leads me to greater hotness!
+
+Mayer:
+Whoa, that's some burning enthusiasm.
+
+Closure:
+Just like that! That's getting myself all fired up too!
+
+Closure:
+Doctor, Mayer, we'll bear witness to THRM-EX bringing about an even stronger thermal shock!
+
+
+

@@ -1,0 +1,564 @@
+Engineering Operator:
+Greyy?
+
+Engineering Operator:
+Engineering's got a new field op. Come to the department as soon as you hear this.
+
+Greyy:
+Acknowledged. I'm on my way!
+
+Engineering Operator:
+I'll give you the rundown. We're done mass producing that revamped emergency power system for disasters, as well as its lighting fixtures. Some of the larger offices have enough manpower to install it on their own, so we've already contacted Messengers to get them delivered.
+
+Engineering Operator:
+All that's left now are a few of the smaller offices. In general, they only have a few operators stationed and can't handle this sort of thing.
+
+Engineering Operator:
+We're currently allocating some operators from Engineering to head to those offices and help them install the upgrades. Here's the list.
+
+Engineering Operator:
+You know the drill. If there's anywhere you want to go, just name it. We won't change the schedule to accommodate your plans, though. You're free to get some sightseeing done afterwards, but don't overstay your allotted time.
+
+Greyy:
+May I have a look at the list?
+
+Engineering Operator:
+Go ahead.
+
+Greyy:
+I would like to go here, then. The office behind the mountains in Bolívar.
+
+Engineering Operator:
+Okay, let me get you registered. Here's all the lighting and testing equipment. You can find the instructions for installing and upgrading the system in the Engineering Department folder on your terminal.
+
+Engineering Operator:
+Oh, right. You're from Bolívar, aren't you?
+
+Greyy:
+Uh, yes. That's right.
+
+Engineering Operator:
+You don't go back often, so be careful out there. The caravan's leaving at 0700 tomorrow. Be sure to come back on time.
+
+Greyy:
+Thanks. I'll head back and start packing now.
+
+Greyy:
+Okay, I've got my bags packed like the last time we performed on-site service for a customer. I shouldn't need much else.
+
+Utage:
+They said a buncha new stuff just came in today. C'mon, losers, we're going shopping!
+
+Kazemaru:
+I still haven't got my mission signed off yet!
+
+Gummy:
+Istina just passed a new test. I wanna get her a small gift.
+
+Gummy:
+Everyone says you pick the best gifts, so pleeease!
+
+Greyy:
+Come to think of it, I've never been to the shopping stalls. Where were they again...?
+
+Greyy:
+Go straight...? Then turn left?
+
+Greyy:
+Oh, they're really here.
+
+Hawking Operator:
+Huh, Greyy? Long time no see. The last time I saw you was when you went on a trip with the Engineering folks as an intern. Have you been keeping busy?
+
+Greyy:
+My internship's almost over. Lately, I've been preparing for my defense.
+
+Hawking Operator:
+Oh, hang in there. I pulled out so much hair when I was working on my graduation thesis that my ears were going bald. It took quite a while for it all to grow back.
+
+Hawking Operator:
+Here, this is the hair growth serum I used. How about it? Want a bottle?
+
+Greyy:
+W-Well... I think I'll pass.
+
+Hawking Operator:
+Haha, in that case, I have some nutritious walnut milk here, too. Works as a great supplement. It's been selling pretty well lately. Don't go telling me you don't need any.
+
+Greyy:
+I'm not so sure about that either...
+
+Hawking Operator:
+Hehe, just giving you a hard time. It's on the house. A thesis defense is no walk in the park. Drink up and give 'em hell!
+
+Greyy:
+Thanks, Lily.
+
+Hawking Operator:
+Alright, so are you here to buy anything? Hehehe, whatever it is, just leave it to me. I guarantee you'll leave satisfied!
+
+Greyy:
+Phew... an Originium slug glass ornament, a Metal Crab flower pot, and a home beer brewing kit. Hm, did I really buy the right things...?
+
+Greyy:
+Looks like I'll need to repack now.
+
+Greyy:
+Good morning, Doctor.
+
+Greyy:
+I'll be leaving for the Bolívar office tomorrow, to help them install the new emergency power system. And I'm thinking of giving these as gifts to the operators stationed there.
+
+Greyy:
+I finished writing it already.
+
+Greyy:
+Though... I'm still thinking about the acknowledgements in the end.
+
+Greyy:
+I want to give this paper a proper ending.
+
+Greyy:
+Once I'm back from this field operation, I will submit my final draft. I hope you don't mind supervising my defense.
+
+Greyy:
+Thank you, Doctor.
+
+Greyy:
+But I need to get going now. I'm leaving tomorrow morning, and I'm still not done packing my luggage and supplies.
+
+Greyy:
+Please don't worry, though, I'll be fine.
+
+Greyy:
+Thanks, Doctor. See you!
+
+A few weeks later...
+
+Greyy:
+So... do you guys actually like these?
+
+Medic Operator:
+We'll put the glass ornament here. The flower pot looks lovely, too. And what's this, equipment for homebrewing?!
+
+Medic Operator:
+Where did you get this, Greyy? How did you even know *where* to get this? You're not even that old yet! How could you be an alcoholic already?!
+
+Greyy:
+No, I—
+
+Office Operator A:
+*Sigh*... You even know to bring back gifts. You've really grown up, Greyy...
+
+Office Operator B:
+It's always the same old here, though, hahaha! Everyone else comes and goes, but the three of us are forever!
+
+Medic Operator:
+But, Greyy, are you really sure you want to start working right away? You just got here. I think you should get some rest first.
+
+Medic Operator:
+The landship doesn't expect you guys to work to the bone, does it?
+
+Office Operator A:
+All I know is that when we sent you there, they'd just got a new leader called the 'Doctor,' who apparently accomplished quite a bit these past few years.
+
+Office Operator A:
+But I thought you went to get treatment? Why'd they give you such back-breaking field work? Is this Doctor fella really so heartless to exploit you guys like that?
+
+Office Operator A:
+You're a patient. You spent so many days just getting here, and now you have to start working the moment you arrive, without even stopping for a sip of water?
+
+Office Operator B:
+Greyy already told us in his message that this is something he wants to do himself, Fernando.
+
+Greyy:
+Please, the Doctor isn't that kind of person. The landship is a great place, too. I'm only here because I chose to come.
+
+Greyy:
+I've been interning at the Engineering Department, and I'm even getting ready for my thesis defense now. Besides, don't you think I've gotten taller, and my body sturdier?
+
+Greyy:
+I'll just be inspecting the electrical circuits to compare with the model we drew up. That way, it'll go much smoother when I start working tomorrow. It's not too much effort.
+
+Office Operator A:
+Really?
+
+Office Operator B:
+Why are you so paranoid? Why would he lie to you?
+
+Greyy:
+Fernando, the Doctor even told me before I left that you guys would be happy to see me again.
+
+Office Operator A:
+So they even know about our connection, huh?
+
+Office Operator A:
+Alright... Not the worst leader, at least.
+
+Office Operator B:
+Greyy, why don't you come down from the ladder and try some of the local Bolívarian dishes I made. You're still growing, so you gotta eat up.
+
+Office Operator B:
+Oh, look at you. You're almost as tall as me. And you were so small when we first brought you back...
+
+Greyy:
+Ah, um...
+
+Medic Operator:
+Embarrassed?
+
+Medic Operator:
+Hahaha. Let's not talk about that right now. Actually, we were discussing amongst ourselves earlier, and there's something we wanted to talk to you about.
+
+Medic Operator:
+You mentioned in your letter that you're studying at the Engineering Department and that you're an electrical engineer now. That's good. You've got ambition.
+
+Medic Operator:
+It's just... As a doctor, I...
+
+Office Operator B:
+Rita, let me tell him.
+
+Office Operator B:
+Greyy, all the things you said. That you're making equipment, writing a thesis, preparing your defense, and that you're going to keep studying. Even that 'touching upon the boundaries of modern technology' stuff.
+
+Medic Operator:
+All that is your decision to make, and it's not our place to say anything. However, we really didn't want to bring this up, but you're still sick...
+
+Greyy:
+Don't worry, Rita. The medicine they have on the landship is very effective.
+
+Greyy:
+Besides, there are a lot of patients like me there. Some of them are even worse off, yet still much stronger than I am.
+
+Greyy:
+I'm not saying this to make light of my condition. It's just when I see them all working so hard every day, it makes me feel much better too.
+
+Office Operator B:
+Alright, as long as you know the score. It's important to think these things through before doing anything. We just wanted to let you know that.
+
+Office Operator A:
+You two done?
+
+Office Operator A:
+Greyy, stand up and let me take a look at you.
+
+Office Operator A:
+Not bad. Your physique's pretty good for a Perro boy your age.
+
+Office Operator A:
+But you do know you're Infected, right?
+
+Office Operator B:
+*Cough*... Watch your mouth, Fernando.
+
+Office Operator B:
+Why you gotta be so sarcastic in front of the kid?
+
+Greyy:
+Of course I know that.
+
+Greyy:
+But this is what I chose to do.
+
+Office Operator A:
+I know how you feel. Kids are bound to have ideals when they're young.
+
+Office Operator A:
+But I'm more worried about you.
+
+Office Operator A:
+I'm going to send in an application tomorrow and request to have you stationed here from now on.
+
+Greyy:
+What?
+
+Office Operator A:
+I read your medical record all those years ago. 0.3u/L. That means your condition will deteriorate the moment you stop paying close attention to your health. We don't have the clearance to get your new records these days. What's your density at now?
+
+Office Operator A:
+You're writing code, making equipment, training in metalwork. I can believe that HQ is committed to its goals, but I'm worried that you might not know what you should really be doing.
+
+Medic Operator:
+Fernando!
+
+Medic Operator:
+He's all grown up now. That's uncalled for!
+
+Medic Operator:
+Besides, it doesn't matter how worried we are. You can't just force your wishes on him—
+
+Office Operator B:
+*Cough*—Let's eat first. Eat up!
+
+Office Operator B:
+Try the soup before it gets cold. Here, give it a taste.
+
+Greyy:
+Thanks, uncle Pedro.
+
+Greyy:
+Let me do the dishes later.
+
+Office Operator A:
+No!
+
+Office Operator A:
+You're not doing anything! Leave them there, I'll do the dishes!
+
+Greyy:
+Okay...
+
+Greyy wipes a drop of sweat from his nose and inputs the updated data into his terminal.
+
+The light emitted by the electrical device fluctuates unsteadily before slowly stabilizing.
+
+The rooms in the office fall into a brief darkness before lighting up even brighter than before, thanks to the new system.
+
+Greyy runs some tests on his terminal. Even his breath is slowing down.
+
+Office Operator B:
+Greyy, are you that short on time? Here, let me help you. Anything you need me to do?
+
+Greyy:
+Yeah, it's a huge upgrade, so there's quite a lot to handle, but I can deal with it myself.
+
+Office Operator A:
+......
+
+Office Operator A:
+Back when I was your age, my parents never let me touch nothing whenever I got sick. They'd just lock me inside the house, hoping I'd get better sooner.
+
+Office Operator A:
+Back then, I didn't get it. I thought they were limiting my freedom. When my friends got sick, they still got to head out with their parents for work, but I had to stay home alone.
+
+Office Operator A:
+Now, well over a decade later, I finally understand how they felt. My family's not poor. They had the means to let me rest up, instead of having to work through my illness.
+
+Office Operator A:
+If you, a patient, have to come all the way out here just to change our goddamn light bulbs, I seriously doubt that staying on the landship will really help you figure out what you want to do.
+
+Medic Operator:
+You're too inflexible, Fernando.
+
+Medic Operator:
+Why don't you take a few days off and try to remember why you joined Rhodes Island in the first place? Because it sounds like you've forgotten.
+
+Medic Operator:
+Not only did you insult Greyy, you insulted HQ itself.
+
+Greyy:
+......
+
+Office Operator A:
+Are you angry?
+
+Office Operator A:
+Me too.
+
+Office Operator A:
+I'm angry that I'm so powerless. I'm acting like a rude, unreasonable parent because there's nothing I could do to give you a better future.
+
+Office Operator B:
+This is Greyy's decision, Fernando. HQ is just respecting his decision and providing him with more opportunities.
+
+Office Operator B:
+We can't live his life for him. The landship's a bigger platform.
+
+Office Operator A:
+What he's doing is choosing to die! Out of all my friends from back then, I'm the only one who's an operator here and still healthy. Everyone else is working at factories in god-knows-where, catching Oripathy and dying before they know it.
+
+Office Operator A:
+Do you know how it felt watching their ashes scattered from the nomadic cities?
+
+Office Operator A:
+And him! He should've had more choices available to him!
+
+Office Operator A:
+Even though he's Infected, he could've chosen another path, and lived out his life healthy and safe!
+
+Office Operator A:
+I'm not Infected, and neither are you or Rita. As long as a war doesn't break out, we can look forward to a long life. I don't want to watch him die before me, just like all my old friends!
+
+Office Operator A:
+I'm prepared, but I'm not *that* prepared. I'm just a normal guy who was born and raised in Bolívar, and I'm only working here to try to save a couple more Infected for the sake of those friends of mine.
+
+Office Operator A:
+I'm not rescuing people just to watch them work themselves to death!
+
+Medic Operator:
+Fernando!
+
+Medic Operator:
+......
+
+Medic Operator:
+We both knew about his past, but he's always so easily offended. We could've just talked it out, but he just had to pick a fight...
+
+Office Operator B:
+Hm... Last time, you and I had a row with him for over two hours, but I still saw you two go fishing that weekend.
+
+Medic Operator:
+It's not the same.
+
+Medic Operator:
+This is about Greyy and our ideals. It's no small quarrel—
+
+Office Operator B:
+What just happened?
+
+Medic Operator:
+Greyy?
+
+???:
+*Sniffles*...
+
+???:
+....*Sobs*...
+
+Medic Operator:
+Greyy? Are you crying?
+
+Medic Operator:
+Don't be sad. We aren't fighting. We're just...
+
+Office Operator B:
+Greyy, are you still up there on the ladder? Come back down!
+
+???:
+(Blows nose)...
+
+Medic Operator:
+Fernando? That was you? Where's Greyy?
+
+Greyy:
+I'm here, Rita! There were some problems with the power supply system. It's okay, I can fix it no problem.
+
+Greyy:
+Fernando...
+
+Office Operator A:
+*Sobs*... If I'd known this was going to happen, I wouldn't have told you that you helped us, and that we'd wait for you to come back to help us again...
+
+Office Operator A:
+Look at those clothes... It must've been exhausting to travel all this way from the landship, but you didn't even mention it... How could you be like this?
+
+Office Operator A:
+I spend every day thinking that it's all because I went along with them, and told you we needed you to light up the place. That I made you choose to walk such a difficult path...
+
+Office Operator A:
+It's my fault. It's all my fault! You're in such a hurry to get working... You aren't going to leave right away too, are you?
+
+Office Operator A:
+When's the next time we'll see you? In another few years?
+
+Greyy:
+Fernando, that's not it...
+
+Greyy:
+Really, this isn't that onerous. The reason I'm not complaining isn't because I'm trying to hide anything from you, it's because it's really not difficult.
+
+Greyy:
+Please don't cry. Here, one sec.
+
+Greyy:
+Take a look. This is the emergency power system I developed with the other operators at the Engineering Department.
+
+Greyy:
+I can make the lights here stabler and brighter than before. There won't be a moment of darkness here, even if it's pouring outside.
+
+Greyy:
+Before, you needed a generator just to barely light up a single tent in the mountains, but soon I'll be able to illuminate every home here, even the entire mountain, forever.
+
+Greyy:
+This is my technology, and it's what I'm working on now.
+
+Greyy:
+You're right. It might be taxing on my body and my health, and I may not have that much time left.
+
+Greyy:
+But please also try to see what I'm getting out of it.
+
+Greyy:
+It's not just a couple lanterns in the slums, or a few houses. I have the ability to bring light to even more places. What I'm doing now will pay off over the next dozen years, perhaps even decades to come.
+
+Greyy:
+And if I can do this much, why not do even more?
+
+Greyy:
+If, back then... my house had been this bright, I wouldn't have turned out like this.
+
+Greyy:
+And since I can do this now, I hope to keep anyone who finds themselves where I was from retracing the path that I took.
+
+Office Operator A:
+......
+
+Greyy:
+So no one will follow the path your friends took, either.
+
+Greyy:
+(So they still ended up fighting...)
+
+Greyy:
+(Trying to stop them isn't going to help. Fernando isn't going to change his mind, either.)
+
+Greyy:
+(I need to prove myself and tell him that I'll be fine. That's the only way to stop them.)
+
+Greyy:
+(This code... Sorry, I'll fix this for you later. Let me put a wrong value here first...)
+
+Medic Operator:
+Greyy, I know what you're saying, and I'm not as hotheaded as Fernando.
+
+Medic Operator:
+But as a doctor, and the person who lied to you and made you think you helped us all those years ago, I have to ask you this question.
+
+Medic Operator:
+......
+
+Medic Operator:
+I'm sure you realized long ago that that was a lie, and I'm not going to try to sugarcoat it as some kind of white lie.
+
+Medic Operator:
+That was something I, as an adult, blurted out without thinking it through. I even dragged them into my lie, and this definitely influenced your decision in some capacity.
+
+Medic Operator:
+What I want to ask you now is, let's say we could do this all over. Except this time, you'd know that we were lying. Would you still be using your Originium Arts to bring us a light that it turns out we never actually needed?
+
+Greyy:
+......
+
+Greyy:
+I would.
+
+Medic Operator:
+Even if you'd have no idea whether it would be of any use to us?
+
+Greyy:
+I would, and I'll keep doing it going forward. I hate the darkness, and I don't want it to be a source of fear for anyone else.
+
+Greyy:
+It doesn't matter whether I'm sure that it will actually be useful.
+
+Medic Operator:
+*Sigh*...
+
+Medic Operator:
+Greyy, these are your own ideals and your own life. Of course we'll support you.
+
+Office Operator A:
+......
+
+Greyy:
+Good morning, Doctor.
+
+Greyy:
+My thesis and equipment are ready.
+
+Greyy:
+I am ready for my defense.
+
+
+

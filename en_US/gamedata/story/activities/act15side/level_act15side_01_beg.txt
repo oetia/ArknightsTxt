@@ -1,0 +1,583 @@
+The inn has over ten branch locations in Shangshu. Yet, they do not take the name Xingyu. Perhaps Xinglu for a journey fortunate, or Xingfu for a journey blessed—but Xingyu, for a journey plentiful, belongs to this inn alone.
+
+And of course, this inn alone provides such an incredible view of the skyscrapers against the twin moons mirrored in the distant lake at night. The innkeeper paid mind only to the scenery when choosing locations. Not to the guests, nor to the rent.
+
+Fine scenery puts guests in a fine mood. Fine scenery puts all in harmony, and the coin will come whether you like it or not.
+
+Lee:
+Mmm... fine tea indeed, and a fine view.
+
+Boatman:
+First timers should stay somewhere nice. Get a good impression of Shangshu.
+
+Lee:
+Xingyu Inn. An antique, elegant name.
+
+Boatman:
+Famous, but it only recently got into food service. The innkeeper has talent, and whatever he touches goes well.
+
+Boatman:
+It's grown to be a lot to handle, but still he...
+
+Lee:
+Is that him there, busying about?
+
+Boatman:
+The very same.
+
+Lee:
+Doesn't look like an owner at all. Very steady as he goes. You have to admire him.
+
+Lee:
+If only I knew what my old schoolmate was up to... The Liang boy.
+
+Boatman:
+To borrow your words: steady as he goes.
+
+Lee:
+Is he a good mandarin?
+
+Boatman:
+Ask any passerby, shoe-shiner, yam hawker, or taxi driver on the street. They'd all give him a thumbs-up.
+
+Lee:
+Haha. Living his dream, then. Wish I could say that.
+
+Boatman:
+You haven't met Mr. Liang in over ten years?
+
+Lee:
+Nope.
+
+Boatman:
+But he still chose you to deliver this item.
+
+Lee:
+That it is.
+
+Boatman:
+Then your bond must deserve a thumbs-up as well.
+
+Boatman:
+I'm not experienced enough to say what this portends. I only know by Mr. Liang's expression that this is no laughing matter.
+
+Lee:
+Hardly. I wouldn't dare flaunt any grand bond with your 'Mr. Liang.' But Liang Xun, the man? He's a friend.
+
+Boatman:
+A friend, you say?
+
+Lee:
+And a good one.
+
+Boatman:
+A good friend is hard enough to find, much less one that will stay so after ten years apart.
+
+Lee:
+What about you, Master Shen?
+
+Boatman:
+What about me?
+
+Lee:
+With so many ferrymen at the docks, didn't it seem strange I chose you in particular?
+
+Boatman:
+No. I was briefed by Mr. Liang, so I assumed you were too. I have no need for the details.
+
+Lee:
+I had to steal this thing right out of a smuggler's hands for old Mr. Liang. Took some effort.
+
+Boatman:
+I didn't ask. You must have been itching to speak.
+
+Lee:
+I came all this way with no one to talk to. You bet I'm itchy.
+
+Lee:
+I'm surprised you trust Liang, what with that cold look on his face. Most people don't.
+
+Boatman:
+Ah. You trust him because he's your friend. I do because he's the magistrate of Shangshu.
+
+Lee:
+Do you know him well?
+
+Boatman:
+I do. Mr. Liang is good to us, so we return the favor.
+
+Lee:
+How long have you been in this business, Master Shen?
+
+Boatman:
+Hard to say... Who counts out the passing years on their fingers? Twenty? Thirty?
+
+Lee:
+Very admirable.
+
+Boatman:
+I'm only a boatman, what's there to admire? Lately they've been putting engines on the boats. Maybe I'll be out of a job in a few years.
+
+Lee:
+They'll still need someone to navigate the route and keep watch on the sky. I figure as long as there are waterways and the years run long, boatmen and Catastrophe Messengers are in the same boat.
+
+Boatman:
+Catastrophes, you say.
+
+Boatman:
+You don't see one often, but when you do, you never forget.
+
+Lee:
+Have you seen one before?
+
+Boatman:
+I have, but also things even more frightening. Not on the rivers, mind you—wait, what have you got me saying?
+
+Boatman:
+Hm.
+
+Lee:
+What is it?
+
+Boatman:
+Strange. Two foreigners, it seems.
+
+Inn Assistant:
+Alright, two guests?
+
+Mr. Nothing:
+Two guests.
+
+Kroos:
+So this is your 'reputation exceptional, dishes quintessential, service congenial, treatment all-equal' Xingyu Inn, then?
+
+Mr. Nothing:
+But of course, but of course. My master had nothing but praise for the 'Xingyu' name, so while I've never been graced with a chance to visit Shangshu, I just had to take you here, benefactor.
+
+Mr. Nothing:
+Ah, but...
+
+Kroos:
+But?
+
+Mr. Nothing:
+Heh, it shames me to admit, but my master praised only the name, not any particular amenity. So I am also ignorant as to its precise forte.
+
+Kroos:
+......
+
+Inn Assistant:
+Here's your tea.
+
+Inn Assistant:
+Just refreshments, or will you two be needing lodging too?
+
+Kroos:
+Wow, they've even got the standard line, huh?
+
+Inn Assistant:
+Hey, listen here. Maybe we've only been open for a few years, but trace the name 'Xingyu' back and you'll see it's got a century's worth of fame.
+
+Mr. Nothing:
+Benefactor, we've been searching for lodging, the prices are suitable enough, and it's not far from the northern crossing we agreed to meet at. What say you?
+
+Kroos:
+I'm fine with whatever.
+
+Mr. Nothing:
+Then two rooms, please.
+
+Inn Assistant:
+Allllright then. Anything to eat for now?
+
+Mr. Nothing:
+May I ask what you have?
+
+Inn Assistant:
+Our recommended set meals are on the signs. We're currently on the afternoon menu. If you need anything, just shout.
+
+Mr. Nothing:
+Very well, let's see...
+
+Kroos:
+This one looks alright, mate. Lot of Yan flavor in that name.
+
+Mr. Nothing:
+The extra-spicy fowl blood curd set...? I'd recommend refraining for now.
+
+Kroos:
+Why? When in Londinium, right? Can't hurt to try.
+
+Mr. Nothing:
+In my experience, such dishes don't quite... mesh with the lunchtime sensibilities a Rim Billitonian such as yourself might be accustomed to.
+
+Kroos:
+That so? I think I'm pretty good with spice, myself.
+
+Mr. Nothing:
+......
+
+Kroos:
+What are you sneaking peeks at?
+
+Mr. Nothing:
+Look there, at the proprietor. The innkeeper, I wager.
+
+Kroos:
+What about him?
+
+Mr. Nothing:
+He's a force to be reckoned with.
+
+Kroos:
+A force how?
+
+Mr. Nothing:
+Of course, he has to be, with a business this grand. But there's something more than that...
+
+Kroos:
+Are those calluses on his hands?
+
+Mr. Nothing:
+Your vision is as astounding as ever, benefactor!
+
+Kroos:
+And there's been two guests on the floor upstairs eyeing us ever since we walked in.
+
+Mr. Nothing:
+Hm?
+
+Boatman:
+What part of them's caught your eye?
+
+Lee:
+Well... that Cautus seems oddly familiar...
+
+Innkeeper Zheng:
+......
+
+Inn Assistant:
+Are you staying here today, boss? Not heading to check out the other side of the crossing?
+
+Innkeeper Zheng:
+No, I'm expecting someone. I must be here to attend to this guest.
+
+Inn Assistant:
+Heh, you're offering personal service? Gotta be a big shot then. Are we open for business then? How much can we make?
+
+Innkeeper Zheng:
+There might not be money in it. No shortage of things to settle, though.
+
+Inn Assistant:
+Is it about the business over there?
+
+Innkeeper Zheng:
+Yes and no.
+
+Inn Assistant:
+What does THAT mean?
+
+Innkeeper Zheng:
+Less blabbering, more greeting the customers.
+
+Inn Assistant:
+Pssh, penny-pincher.
+
+Inn Assistant:
+Ai, welcome, guests, are you—
+
+Miss Du:
+...Hmph.
+
+Inn Assistant:
+Miss Du? What are you—
+
+Miss Du:
+None of your business. Out of the way.
+
+Innkeeper Zheng:
+......
+
+Miss Du:
+Hey!
+
+Mr. Nothing:
+Why—what a formidable greeting, young lady. Are you looking for me?
+
+Miss Du:
+A sloppy man with glasses, a gaudy outfit, and the look of a swindler.
+
+Miss Du:
+So it's gotta be you, right?
+
+Mr. Nothing:
+Er... I must say that appraisal is a little...
+
+Kroos:
+An enemy of yours?
+
+Mr. Nothing:
+No, they'd never go so far as to send a little girl to do their bidding...
+
+Miss Du:
+Who's a little girl, huh?!
+
+Mr. Nothing:
+—!
+
+Mr. Nothing:
+(She kicked up an entire wooden chair—what leg technique!)
+
+Miss Du:
+Hmph. You have quick reflexes, dodging without getting up.
+
+Street Youth:
+Miss, Miss!
+
+Miss Du:
+What? Can't you see I'm busy—
+
+Street Youth:
+This guy's a Liberi, right? Didn't the letter say we were looking for a Lung?
+
+Miss Du:
+......
+
+Mr. Nothing:
+......
+
+Miss Du:
+Then it's the one upstairs. It's you, right, isn't it?!
+
+Mr. Nothing:
+Hey now, don't I deserve at least an apology?
+
+Kroos:
+Cool it, mate... Hm?
+
+Lee:
+Personally, I thought my attire was just dandy.
+
+Boatman:
+Given her approach, I doubt she means well.
+
+Lee:
+You stroll in and abuse an innocent chair, not to mention almost giving that man a concussion for no reason.
+
+Miss Du:
+Give it up, your cover's blown. Now play nice and hand it over.
+
+Miss Du:
+Hmph. I'll grant that it takes guts to sneak into the city in broad daylight though.
+
+Lee:
+Miss Du, was it? I believe there might be a misunderstanding.
+
+Miss Du:
+Did you come from Lungmen?
+
+Lee:
+Er, yes.
+
+Miss Du:
+Are you carrying an antique wine cup with you?
+
+Lee:
+......
+
+Miss Du:
+Then you have one minute to think up a good excuse. After that, you're handing it over and coming with me.
+
+Lee:
+The young lady's not too keen on hearing people out... Really makes me miss those kids of mine back home. They'd know better.
+
+Boatman:
+Don't look at me. Mr. Liang explained that he specifically entrusted you with bringing that wine cup from Lungmen.
+
+Boatman:
+And if Mr. Liang says so, I believe it.
+
+Lee:
+Well, Master Shen, thanks for the vote of confidence.
+
+Boatman:
+Odd though... This girl's bold enough to openly say she wants something that Mr. Liang requested?
+
+Lee:
+*Sigh*.
+
+Lee:
+One of our aunties plucked this right from a child smuggler's hands, so if you were expecting any legal formalities... haha.
+
+Boatman:
+Is the cup noteworthy?
+
+Lee:
+I looked into it, there's only baseless legends. Rumors the smugglers heard from the locals.
+
+Lee:
+*Sigh*. How did this become such a hassle?
+
+Kroos:
+(Nothing, mate, I've seen this in a movie before!)
+
+Mr. Nothing:
+(As have I! But they'd usually call the officers at this point. They'd never jump into a fight, right...?)
+
+Miss Du:
+Hey, enough muttering! Got your excuse ready?
+
+Mr. Nothing:
+(The lady is certainly blessed with a loud voice... Might those two upstairs be suspects of a sort, then?)
+
+Kroos:
+......
+
+Mr. Nothing:
+(Benefactor?)
+
+Kroos:
+(Mate. I... I think that guy looks familiar.)
+
+Mr. Nothing:
+(What? The fellow with the remarkably similar get-up to mine?)
+
+Kroos:
+(No... It can't be... They work with Rhodes Island. Guess there's a little resemblance though?)
+
+Lee:
+How about this, young lady? You've caught me, fair and square. Nowhere to run. Now, if you'd call the police...
+
+Miss Du:
+Stalling for time, huh? Alright. I was wondering how long you could anyway.
+
+Miss Du:
+Get up there!
+
+Street Youth:
+Don't let him get away!
+
+Mr. Nothing:
+A moment, please!
+
+Miss Du:
+What, you want to pay me back for earlier?
+
+Miss Du:
+Stand down, let me finish my business, and I'll pay for two days of lodging, all expenses. Sound good?
+
+Mr. Nothing:
+Take a good, long look Benefactor. If we've not got the wrong person, then a wonderful opportunity has landed in our laps.
+
+Kroos:
+Mr. Lee...?
+
+Lee:
+Ah...
+
+Lee:
+Let's see... little blonde rabbit, ambiguously closed eyes... a Rhodes Island operator?
+
+Mr. Nothing:
+Miraculous. Of the taverns in Shangshu, in all of Yan, in all the world, to think you'd have the fortune to run into an old friend here.
+
+Mr. Nothing:
+So how about we not sour the mood on this miraculous reunion?
+
+Miss Du:
+What the hell is going on?! You're all together?!
+
+Miss Du:
+Surround them! Nobody leaves until they hand over the booty!
+
+Oh? What inspired this?
+
+I dreamt of the fable of the shadow's shadow counseling its shade, and this is my response.
+
+Then I'd like to see it. How do you plan to let these common objects manifest themselves?
+
+Take it as but an inadvertent act. Mock me not for it.
+
+Lee:
+......!
+
+Lee:
+What the... just now...
+
+Mr. Nothing:
+Benefactor, watch out!
+
+Kroos:
+They're all civvies. Keep a light touch.
+
+Street Youth:
+Careful, that Liberi's from some martial school! Leave the Cautus to me—huh? Where'd she go?
+
+Kroos:
+Why's it always punch first, ask questions later...?
+
+Street Youth:
+Wh-When did she get on the second floor?!
+
+Kroos:
+No need to hurt anyone, Nothing, mate. Easy does it.
+
+Kroos:
+Over here, Mr. Lee.
+
+Lee:
+*Sigh* So sorry to get you all caught up in this mess.
+
+Kroos:
+Not like we expected to run into you, Mr. Lee. Well, uh, let's get out of here first.
+
+Miss Du:
+Hey—! Are you ignoring me on purpose?! You think you can just leave?!
+
+Mr. Nothing:
+Apologies, but you won't be passing.
+
+Miss Du:
+And who're you to decide?!
+
+Inn Assistant:
+A fan? That swindler... uh, no, that guest knows some rare kung fu, doesn't he?
+
+Innkeeper Zheng:
+......
+
+Inn Assistant:
+Zheng? Sir? Shouldn't you step in before they ruin all the furniture on the ground floor?
+
+Innkeeper Zheng:
+*Sigh*...
+
+Inn Assistant:
+Fan man's moves are probably meant to intimidate. He's being very slick about it. But the lady hasn't shown us everything yet either. If they work things out, we all come out richer and happier.
+
+Inn Assistant:
+While she's still being cautious, at least.
+
+Innkeeper Zheng:
+Hey!
+
+Innkeeper Zheng:
+All you fine people!
+
+In the late evenings of Shangshu's early spring, the wind arrives on time while the rain is no guarantee. So it has always been.
+
+A man lifts his head to the skies. The clouds and mist furl, Hui and Ming waver, but at the furthest ends, one can faintly see the light of day.
+
+A spring chill hangs, and a light breeze flutters their clothes.
+
+Unfrivolous Man:
+He should be here by now.
+
+Unfrivolous Man:
+Mm....
+
+Unfrivolous Man:
+I do hope that things conclude smoothly.
+
+
+

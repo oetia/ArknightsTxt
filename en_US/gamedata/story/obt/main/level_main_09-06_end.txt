@@ -1,0 +1,459 @@
+Horn:
+Ugh, ahem...
+
+Bagpipe:
+Leader, are you alright?
+
+Horn:
+I'm okay. But you, we're lucky you didn't jump on it this time.
+
+Bagpipe:
+You reacted faster than me. At least everyone in this bit of the hall's basically fine, thanks to your shield.
+
+Horn:
+I couldn't protect everyone.
+
+Bagpipe:
+The smoke's everywhere it'll go. Looks to me like the Colonel only took light harm, and they're retreatin' out another door.
+
+Horn:
+The Bard...
+
+Bagpipe:
+Oh... He was stood too close to the bomb.
+
+Bagpipe:
+What a pity... it's not everyone who can step forth for others at bladepoint. He was a poet, but he had the courage to match an excellent soldier.
+
+Horn:
+......
+
+Horn:
+I wish so badly he could've died with meaning.
+
+Horn:
+While the enemy's still outside, Bagpipe, let's evacuate the survivors.
+
+Horn:
+Bagpipe...?
+
+Bagpipe stares blankly out of the window.
+
+In that single moment, it is as if the sound of battle vanishes.
+
+A tremendous energy bursts from the depths of the night.
+
+Without a flicker of a flare, from the statue to the city hall, all living beings are instantly, silently snapped to ash.
+
+And immediately after, an army seeps out from the night and the ashes, without a sound.
+
+Bagpipe:
+......
+
+Bagpipe:
+............
+
+Bagpipe:
+I've never, ever seen... fire like this before.
+
+Bagpipe:
+The head Caster, who is she?
+
+Horn:
+Bagpipe, move away, quick!
+
+Horn:
+You're too close to the window. Given the energy just now, the next attack could blow straight through the walling.
+
+Bagpipe:
+Yes, Leader.
+
+Bagpipe:
+I'm just...
+
+Wildly Ambitious Baron:
+Help me... hurry, help me...
+
+Wildly Ambitious Baron:
+My leg... argh, ow!
+
+Horn:
+Focus on rescue. Pull back for now.
+
+Dublinn Soldier:
+Who was that? Are there still any Victorian soldiers alive?
+
+Bagpipe:
+It's the enemy all over!
+
+Horn:
+By the speed of this march, the spectre force infiltrated this city long ago.
+
+Bagpipe:
+District Eleven to Seventeen have been occupied far too quick... Can't be... Is this the reason the Colonel went to search those blocks?!
+
+Horn:
+......
+
+Horn:
+We need to withdraw south of District Ten. The troops and the spectre force are doing battle there right now.
+
+Wildly Ambitious Baron:
+D—Don't go off to battle, ta... take me back to somewhere I can hide in safety first... I can't let the heads find I'm still alive...
+
+Bagpipe:
+Take you back? With all of this goin' on right now, you ought to be taken straight to prison!
+
+Wildly Ambitious Baron:
+Lighter... wurgh... ow...
+
+Wildly Ambitious Baron:
+I... I'll pay you... I can even gift you a city block... so long as you...
+
+Bagpipe:
+Leader, can I use my own ways to shut him up?!
+
+Horn:
+We'll ask a few things more while he's still awake.
+
+Horn:
+Who was that heading the Casters just now?
+
+Wildly Ambitious Baron:
+...That's... The Leader...
+
+Bagpipe:
+The spectre force's leader?!
+
+Bagpipe:
+What... who is she?
+
+Wildly Ambitious Baron:
+I don't know...
+
+Bagpipe:
+Aren't you compatriots? You had the absolute gall to bring people into your house while knowin' nothin'?!
+
+Wildly Ambitious Baron:
+She's... the Duke's guest...
+
+Horn:
+Duke...? Which one?!
+
+Wildly Ambitious Baron:
+I can't...
+
+Wildly Ambitious Baron:
+Urgh—
+
+Bagpipe:
+He... died?
+
+Bagpipe:
+The spectre force did that...?
+
+Dublinn Soldier:
+—
+
+Bagpipe:
+Don't they band together? Why are the spectre force targeting their own?
+
+Horn:
+Let's get out of here first.
+
+Dublinn Soldier:
+You, hold still.
+
+Operator Will:
+......
+
+Dublinn Soldier:
+Who are you? What are you doing here?
+
+Operator Will:
+My, um... I was just delivering medicine... You all started fighting before I knew it.
+
+Dublinn Soldier:
+Delivering medicine? Who for? Is it the Victorian soldiers?
+
+Operator Will:
+I... aheh... Rhodes Island's medicine is for Infected use, and we don't pay mind to patients' identities...
+
+Dublinn Soldier:
+Your movements are suspect.
+
+Operator Will:
+Ah...!
+
+Outcast:
+It's alright now, Will.
+
+Operator Will:
+Outcast—The Lass! You—You came just in time!
+
+Outcast:
+Hey, you got the comms this afternoon, didn't you? Rhodes Island's called an emergency stop to all daily business in County Hillock.
+
+Operator Will:
+I got it, yeah, but...
+
+Outcast:
+—You wanted to finish delivering the rest?
+
+Outcast:
+You're a good kid. Pass me the meds, and I'll deliver what's left for you.
+
+Operator Will:
+Lass, what on Terra's going on outside? There was fighting everywhere in just a blink!
+
+Outcast:
+Several hundred years of accumulated resentment put to use, turned into a fire ready to destroy all.
+
+Outcast:
+And let me tell you, it's only just getting started.
+
+Outcast:
+Hurry on back. Now that I'm here, my highest priority's making sure we don't lose a single Rhodes Islander.
+
+Operator Will:
+Alright, Lass... Right, I just caught sight of Miss Jane near District Seventeen... She... She comes to the office so often, we all half-treat her as a Rhodes Island Operator!
+
+Operator Will:
+She's a Victorian soldier, and with what these rioters think, they won't just let her go!
+
+Outcast:
+Got it.
+
+Outcast:
+I'll amend my previous statement—we're not losing even half a Rhodes Islander.
+
+Bagpipe:
+Leader, I've evacuated everyone I could.
+
+Horn:
+Good. Do you have any injuries?
+
+Bagpipe:
+None. It's been a little reassurin' in a way, while coming to blows all night. Aside from that head Caster, and a couple strong folk, most of the rest of the soldiers are still normal people.
+
+Bagpipe:
+They've gotten trainin', but their discipline's not much to speak of. With equal numbers, and an open confrontation, they wouldn't be any match for our team.
+
+Horn:
+You're giving it preconditions. Besides, their main opponent is the barracks.
+
+Bagpipe:
+You're right, Leader. If they're going to fight them, the barracks won't be on the front foot.
+
+Horn:
+Any more discoveries?
+
+Bagpipe:
+The weapons they're armed with are all first-grade. Just now when I went rescuin' those few officials and nobles, someone tried to sneak on me at the corner, and after I knocked him out, I brought what he was holdin' back.
+
+Horn:
+A Victorian standard military crossbow?
+
+Bagpipe:
+It's a model from two years ago, but it's been modified. Look at these two coils and the guide rail underneath.
+
+Horn:
+A Shield-piercing Rounds Accelerator.
+
+Bagpipe:
+I'm not too smart with crossbows, and I never saw this in the army or at school. Is this our tech?
+
+Horn:
+Doesn't seem too like it.
+
+Horn:
+Bagpipe, have I overlooked something, maybe...? We came to investigate the theft of Originium products, correct?
+
+Bagpipe:
+Yes. The spectre force want to fend against our regular army without a doubt, so they'd need a lot of weapons for sure.
+
+Horn:
+But the crossbow in our hands reveals a lot of information.
+
+Horn:
+Firstly, the enemy has secretly been plotting for longer than we thought; secondly, beyond the goods they've stolen from our possession, there are other powers that have been funding their operations in the long term.
+
+Horn:
+In other words, in this instance, here, they had no plans to take up new equipment and rush to arms.
+
+Bagpipe:
+Right! So in that sense, where did the weapons we lost most recently go?
+
+Horn:
+So you've realized where the problem is—the spectre force finally show themselves, but the Originium products that disappeared in County Hillock are still missing.
+
+Horn:
+I hope Triangle's found some new leads.
+
+Triangle:
+(Hushed) Here, Leader.
+
+Horn:
+Is your group still doing alright?
+
+Triangle:
+Snare's been lightly injured, the others can still operate. It's just, everyone's tired and hungry. Our situation's not that nice for sure.
+
+Horn:
+Were you involved in combat yesterday, too?
+
+Triangle:
+Yes. Since nightfall, large numbers of enemies have suddenly poured out. It's like they were just lying in wait in the greenhouses and irrigation systems all this time—
+
+Horn:
+That seems to be exactly where they hid themselves. For the troops not familiar with the agricultural plates, it'll be exceedingly difficult to win that hide-and-seek.
+
+Triangle:
+We fought face-to-face with a small wave of them, there were far too many enemies in my view, and we hid away on my lead, all the way until daybreak.
+
+Horn:
+You've done very well. Can you return to the city?
+
+Triangle:
+Haha. That'll be a little tricky, Leader. Half of them have gone into the city, and the other half are still around everywhere.
+
+Horn:
+......
+
+Triangle:
+Leader, our group all agrees, we should continue with our initial task.
+
+Triangle:
+We've discovered a transport vehicle. Your guess was right, someone really did use an agriculture transport route to convey these Originium products somewhere.
+
+Triangle:
+Not that much each time. These ones today, most likely, are the last of them.
+
+Horn:
+These ones today? Where are you?!
+
+Triangle:
+We're hidden onboard the transport vehicle right now.
+
+Triangle:
+I can't risk talking too much. Worried they might hear. Next time we make contact, you'll know who the thief was.
+
+Horn:
+This is too dangerous!
+
+Triangle:
+Haha... Leader, you and Bagpipe, be careful too.
+
+Triangle:
+Triangle, out.
+
+Horn:
+......
+
+Horn:
+Bagpipe, inform Cello ASAP, we're returning to the barracks now.
+
+'...Districts Three through Nine have fallen...'
+
+'...The city hall, the newspaper, and Good Mary's Hospital are simultaneously under enemy attack...'
+
+'...Baron Paulet's wife sent an urgent cable—she's lost contact with her husband since early morning—she's requesting the barracks send help...'
+
+Horn:
+Colonel! I have something to say.
+
+Colonel Hamilton:
+Let her in.
+
+Colonel Hamilton:
+I hope you aren't here to give me nonsense, Skamandros. As you can see, our enemy is savage. I have no time to contest with you again.
+
+Horn:
+Colonel, the enemy is hiding in the agricultural plates.
+
+Colonel Hamilton:
+What?
+
+Horn:
+That's where they were concealed. On top of that, they're not all in the city—they have even more hands.
+
+Colonel Hamilton:
+......
+
+Colonel Hamilton:
+I knew it.
+
+Horn:
+I suggest you send someone fast to evacuate the citizens at the ag plates, and carry out emergency decoupling of the central city and those plates ASAP, to avoid letting even more of the enemy into the city!
+
+Colonel Hamilton:
+I don't need you instructing me on what to do.
+
+Horn:
+Colonel! It may not be in our power to prevail if we solely depend on the stationed troops, and my platoon, to cope with enemy forces infiltrating the city. We have to ensure the enemy gets no further reinforcement—
+
+Colonel Hamilton:
+You can go.
+
+Horn:
+Colonel?!
+
+Colonel Hamilton:
+It's my business how County Hillock is preserved.
+
+Horn:
+In the principal duty that is upholding the security of the Victorian Empire, we should be united!
+
+Colonel Hamilton:
+Hill, show her out.
+
+Colonel Hamilton:
+Did you hear that, Hill? The ag plates, ha! They're hiding in the ag plates! I deduced as much long ago. Who else would open the door for the ghosts?!
+
+Adjutant Hill:
+Yes, Colonel. The Tarans are assisting them.
+
+Colonel Hamilton:
+How are the artillery battalion's preparations?
+
+Adjutant Hill:
+According to plan. The final batch of material will arrive at around noon.
+
+Colonel Hamilton:
+Good. Have them speed up the remodeling. Every time I even think of those disgusting things bounding around in my city, it has me eager to finish this.
+
+Colonel Hamilton:
+Oh, yes, Skamandros and her subordinate. The wolf from Londinium is still biting fast and won't let go. You've heard, haven't you? They have a helping hand outside.
+
+Colonel Hamilton:
+Give the command. Regardless of the means, we cannot let anyone stand in the way of our plans.
+
+Adjutant Hill:
+Yes, Colonel.
+
+Colonel Hamilton:
+As for Skamandros, before we're done, she cannot be left to act freely.
+
+Adjutant Hill:
+I understand.
+
+Colonel Hamilton:
+I have realized something... thanks to her talking-to.
+
+Colonel Hamilton:
+Why were our movements last night at Bolton's already known to the enemy?!
+
+Colonel Hamilton:
+Skamandros... no, it couldn't be. Though she shares that weakness and naivete innate to her kind of nobility, she has a highly secured loyalty to the Empire.
+
+Adjutant Hill:
+......
+
+Colonel Hamilton:
+Hmph... it seems rabble is ultimately rabble, their base nature always stiff to bend.
+
+Colonel Hamilton:
+Within these last few hours, one more thing must be done. And it's long overdue.
+
+
+

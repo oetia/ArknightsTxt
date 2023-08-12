@@ -1,0 +1,408 @@
+Confessarius:
+I have seen your report.
+
+Confessarius:
+Your achievements with Reunion are, to say the least, not worthy of commendation.
+
+Confessarius:
+However, that being said, you have indeed procured some unexpectedly useful information.
+
+Hoederer:
+Thank——
+
+Confessarius:
+No, there is no need for thanks. At least, not this time.
+
+Confessarius:
+You are all impressive warriors, and until your deaths, you are entitled to the rewards you've earned by virtue of the blood, sweat, and tears you have shed.
+
+Confessarius:
+His Majesty the Regent knows well the acts and deeds of all Sarkaz, even those as insignificant as yourself.
+
+Confessarius:
+The Infected are not the only thing in this temple gradually depreciating. Do you understand?
+
+Hoederer:
+...I do.
+
+Confessarius:
+Mm.
+
+Confessarius:
+If I am correct in my predictions, Rhodes Island has already welcomed the return of a certain unpalatable individual.
+
+Confessarius:
+And you... you should have made contact.
+
+Hoederer:
+——!
+
+Hoederer:
+(The Regent is even faster than W? All the way from Londinium?!)
+
+Confessarius:
+Mercenaries know loyalty only to their own interests. But that nonetheless makes a fine starting point.
+
+Confessarius:
+When the dust settles, and you stand once again before the throne of His Majesty——
+
+Confessarius:
+That is when you will receive your reward.
+
+Hoederer:
+And what about the other warriors?
+
+Confessarius:
+The young Infected has her own plans. Were you unaware?
+
+Confessarius:
+But His Majesty will not participate in such nonsense. We have mutually decided that Victoria will stand by and watch Reunion's next move.
+
+Confessarius:
+We lack 'effective measures' to retake control of that unit from W.
+
+Confessarius:
+Furthermore, it is important that we, in the name of our supporters, continue to whip up the Infected in all corners of the world.
+
+Hoederer:
+We're still going to use Reunion? I was sure His Majesty would have...
+
+Confessarius:
+Given up? Oh my no, young mercenary.
+
+Confessarius:
+Things are yet far from chaotic enough. Even if Reunion has strayed from its leadership, it remains a source of chaos——
+
+Confessarius:
+What's more, should your words just now be taken as a question of His Majesty's intentions?
+
+Hoederer:
+No, absolutely not.
+
+Confessarius:
+Very well. Raise your head...
+
+Confessarius:
+Oh, yes.
+
+Confessarius:
+For the time being, you need not return to Kazdel. The journey back is too long, and matters have been progressing rapidly there.
+
+Confessarius:
+You are to stay here, for now. Enjoy this small respite however you can.
+
+Hoederer:
+Thank you very much.
+
+Confessarius:
+Now then, His Majesty awaits me. You are dismissed.
+
+Confessarius:
+Remember, see to your own business first, Hoederer.
+
+Hoederer:
+Of course.
+
+Confessarius:
+Hoederer, yes?
+
+Confessarius:
+I look forward to seeing what else you uncover.
+
+Hoederer:
+...*Sigh*.
+
+Sarkaz Messenger:
+Looks like it's house arrest for both of us?
+
+Hoederer:
+It's not like I never thought about it. And hey, it's better than I was expecting...
+
+Hoederer:
+But we were a little too naive.
+
+Sarkaz Messenger:
+Which part was naive? The part where you thought you'd die, or the part where you thought the Regent didn't know?
+
+Hoederer:
+Both. He's been pulling the strings from the start.
+
+Hoederer:
+Not that I'm surprised... he's Theresis. We've all heard the stories about him and Theresa, the invincible forces of nature...
+
+Hoederer:
+But I guess in the course of the war, I forgot those stories... weren't just stories.
+
+Sarkaz Messenger:
+So how do we warn W? What's going on with Reunion?
+
+Sarkaz Messenger:
+We wasted so much time on the road. She might've already split with Talulah.
+
+Hoederer:
+The other possibility is the show ends in Lungmen.
+
+Sarkaz Messenger:
+Wouldn't that be a bit too quick?
+
+Hoederer:
+It fits with the way W works. If Talulah's gonna destroy the Infected, W'll destroy Talulah first.
+
+Hoederer:
+Sarkaz style. With extreme prejudice.
+
+Hoederer:
+She's pretty upset over the death of a certain merc, after all.
+
+Sarkaz Messenger:
+She knows the score.
+
+Hoederer:
+She's out of room to hesitate any longer. Now she just needs to get into the right headspace to make a move.
+
+Sarkaz Messenger:
+And that means we're left waiting.
+
+Hoederer:
+We've got ways to fool the Regent's eyes. It'd be a crazy risky play, but...
+
+Hoederer:
+I've still got my own squad I can keep on 'standby.'
+
+Sarkaz Messenger:
+Victoria's all over the place right now. They probably wouldn't catch the code.
+
+Hoederer:
+Yeah, and it would have to pass by some real tricky spots controlled by the Regent... and on to Kazdel.
+
+Sarkaz Messenger:
+Kazdel?
+
+Hoederer:
+The battlefield ruins there haven't been touched in a long time.
+
+Hoederer:
+But we eked out a living there for a good long time.
+
+Hoederer:
+There was a communications station in an old bunker buried under those ruins. The tower made it look like it was destroyed, but everything down there still works.
+
+Sarkaz Messenger:
+Hold on, that was a long time ago...
+
+Sarkaz Messenger:
+How long have you been preparing this?
+
+Hoederer:
+All done way back at the very beginning. Cost me a pretty penny too.
+
+Sarkaz Messenger:
+Heh heh.
+
+Sarkaz Messenger:
+Oh man... if they saw the look on your face right now, boy would they be surprised.
+
+Sarkaz Messenger:
+For a while now, every time you came back from a battle, you were always deep in thought, like a kid who did something bad.
+
+Sarkaz Messenger:
+I figured you'd just lost your will to fight.
+
+Hoederer:
+Nah, it was the opposite, actually. I finally realized what it was I had to do.
+
+Sarkaz Messenger:
+How?
+
+Hoederer:
+Because I had no choice. It's kind of liberating, in a way?
+
+Sarkaz Messenger:
+W must've said something to you before you left Chernobog.
+
+Hoederer:
+Does that sound like her? Laying all the cards on the table?
+
+Sarkaz Messenger:
+No. She'd be a lot less of a pain if she did though.
+
+Hoederer:
+You're right that she came looking for me before I left the core city. She knew what we were going to do.
+
+Hoederer:
+She...
+
+W:
+Can you put a price on the life of a merc?
+
+Hoederer:
+Sure. Always have. Why even ask? You knew the answer.
+
+W:
+But who set the price?
+
+Hoederer:
+The war itself.
+
+W:
+Sure... you got your battlefield honors, your victories, the glory you pull out of a hand-to-hand fight, all the things that raise your profile, that let everybody know what a useful tool you are.
+
+W:
+So boring.
+
+W:
+But that's all in the past. At least for us it is.
+
+Hoederer:
+...What do you mean?
+
+W:
+Every Sarkaz merc should have a nice, clean price tag.
+
+W:
+But we don't need anybody to slap it on. No oversight. They write their own price in the blood of the enemies of Sarkaz.
+
+Hoederer:
+You... are you saying we should get everyone to leave Kazdel...?
+
+W:
+You look surprised. But like, they could choose for themselves.
+
+W:
+Does this sound weird?
+
+Hoederer:
+......
+
+W:
+Not weird, right?
+
+W:
+Just give it some thought... think about what you could be doing in Kazdel.
+
+Hoederer:
+You're talking about doing that right in front of Theresis, in broad daylight.
+
+W:
+You make it sound so bad. As if you don't have your own plans.
+
+Hoederer:
+.......
+
+W:
+Chill... you were my boss, Hoederer.
+
+W:
+You'd better do it, or we'll have trouble.
+
+Sarkaz Messenger:
+That's a pretty good joke. The old hands at the Scar Market would laugh themselves into a coma.
+
+Hoederer:
+It certainly wouldn't make the committee happy. They'd be out a lotta money, and a lotta wasted brainpower.
+
+Sarkaz Messenger:
+Not to mention all the people they killed.
+
+Hoederer:
+Sure enough... and the old hands there too... some of them are almost friends of ours...
+
+Sarkaz Messenger:
+So what are you gonna do now? It's up to you.
+
+Hoederer:
+Well... I can't leave Londinium. Hell, I can't even leave this mansion.
+
+Hoederer:
+I think it's up to you.
+
+Sarkaz Messenger:
+You can do a lot as a 'Messenger.'
+
+Hoederer:
+'Keep following Talulah's orders. Hoederer isn't coming back yet.' Should be good?
+
+Hoederer:
+As long as that comms station still works, we'll hear back. And they'll get word to W.
+
+Sarkaz Messenger:
+Hmph...
+
+Sarkaz Messenger:
+I know how to do this.
+
+Sarkaz Messenger:
+Don't give me orders.
+
+W:
+......
+
+W:
+*Sigh*... What a pain in the ass...
+
+W:
+Just when I decide to go after the dragon lady... What a time you picked.
+
+W:
+Get out here.
+
+The ruins of Chernobog weren't like those of Kazdel.
+
+There were still traces of life out on the streets, ravaged as they were. They gave you some idea of what had been.
+
+Unlike the total annihilation back there.
+
+Like, for example...
+
+Those two kids. Kids painstakingly raising their weapons.
+
+Unyielding Child:
+Devil! What are you doing here?!
+
+Waifish Child:
+N-no, don't provoke her...
+
+Waifish Child:
+S-sorry... we were just leaving...
+
+W:
+Hey—
+
+W:
+That's an army sword you're holding, isn't it?
+
+W:
+Yes, it is. Sarkaz steel... You can't even lift it. Why are you hauling that thing around?
+
+W:
+You gonna fight back? You gonna kill me?
+
+Waifish Child:
+Eeep——
+
+Unyielding Child:
+G-get back——agh!
+
+Waifish Child:
+Rublev... your leg!
+
+W:
+Oh, you're hurt.
+
+W:
+You're gonna get infected. This city got hit with a Catastrophe. It's not safe here.
+
+Unyielding Child:
+I won't turn into a thing like you!
+
+W:
+Aww. What a tough kid.
+
+W:
+Let me ask you——
+
+W:
+——Do you know what it means to take up the blade of a fallen Sarkaz?
+
+
+

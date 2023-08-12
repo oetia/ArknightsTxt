@@ -1,0 +1,170 @@
+Amiya:
+...It's getting darker and darker.
+
+Amiya:
+It's as if the clouds are pressing into the skyline...
+
+Amiya:
+The air still feels clear, but the dark clouds aren't moving. It feels like all the stress is being compressed into a single point.
+
+Amiya:
+Even the wind has stopped...
+
+Dobermann:
+No doubt about it. A Catastrophe is about to befall this city.
+
+Dobermann:
+By the looks of things, Chernobog has been completely paralyzed by Reunion's attacks.
+
+Dobermann:
+But when it comes to disabling a mobile city, the preparations must have been made several weeks in advance.
+
+Dobermann:
+Could Reunion have taken some other action since then...?
+
+Ace:
+That's a bit unrealistic.
+
+Ace:
+Based upon what we've seen, Reunion currently doesn't show the kind of discipline required to stage a covert takeover.
+
+Guard:
+Most Reunion members are still wandering the streets, taking revenge on Chernobogians.
+
+Amiya:
+It's all just senseless fighting, killing, and arson.
+
+Dobermann:
+When the Catastrophe falls, even the impregnable Chernobog will be shattered...
+
+Dobermann:
+...and turn into Originium-filled ruins.
+
+Dobermann:
+If fame or fortune is what they're after, Reunion is doomed to failure.
+
+Amiya:
+Even with Ursus's chain of command in shambles, I still doubt that Reunion is able to face their military...
+
+Amiya:
+Why hasn't the Ursus military staged a counterattack yet?
+
+Dobermann:
+From my experience, when a riot breaks out, the military usually manages to quash it immediately.
+
+Dobermann:
+But we did just witness the Ursus guards getting overpowered...
+
+Amiya:
+...
+
+Dobermann:
+That masked Reunion leader might have been a cut above the rest... but there's no way she could single-handedly destroy the entire city.
+
+Dobermann:
+Unless...
+
+Amiya:
+Unless what?
+
+Dobermann:
+I've fought in many battles before...
+
+Dobermann:
+I've seen many people who acted in the same way as that Reunion leader.
+
+Dobermann:
+To them, soldiers are nothing more than pawns to be tossed away as soon as they've served their purpose.
+
+Dobermann:
+Soldiers could be used efficiently when needed, and then left to their own devices when not needed.
+
+Dobermann:
+Because the cost of training and maintenance is too high.
+
+Ace:
+So, there's no standing army?
+
+Dobermann:
+Right. Most of the time, they simply have to be fed with some hatred or fear...
+
+Dobermann:
+All that's needed to whip them into a frenzy... is a little push.
+
+Dobermann:
+If the way that Reunion leader acted was any indication for how the organization is run...
+
+Guard:
+Ugh...
+
+Guard:
+Any Infected could join Reunion simply by donning a uniform and putting on a badge?
+
+Dobermann:
+Correct..
+
+Dobermann:
+So... that explains their endless numbers.
+
+Dobermann:
+There are too many oppressed Infected, desperately trying to cry out. No matter how tenuous the solutions that Reunion offers them might be...
+
+Dobermann:
+As long as they see a light at the end of the tunnel, they will gladly lay their lives down to pursue it, even if it means jumping into a sea of hellfire.
+
+Medic:
+Ugh...
+
+Dobermann:
+Dr. {@nickname}.
+
+Dobermann:
+They are not like us. Even if I don't fully trust you, I at least trust your abilities.
+
+Dobermann:
+And completely unlike you...
+
+Dobermann:
+That kind of leader is no commander.
+
+Dobermann:
+Those who would trample enemies and comrades alive... or rather, 'minions.'
+
+Dobermann:
+Perhaps not even minions. To Reunion, those thugs may have been nothing more than pawns.
+
+Dobermann:
+This is not a leader, but a tyrant.
+
+Ace:
+No matter who our enemies are, we will complete our mission.
+
+Ace:
+Someone once taught me and my teammates--
+
+Ace:
+'If facing a pawn, capture it; If facing a fortress, topple it; If facing the Crown, overthrow it.'
+
+Dobermann:
+Ace, wait a minute.
+
+Ace:
+Dr. {@nickname}, enemy light-armored troops are stationed in front of us.
+
+Amiya:
+Have we been found?
+
+Ace:
+Not yet.
+
+Dobermann:
+However...
+
+Ace:
+We won't be able to avoid them. The route we're on is the shortest one; if we take a detour, we'll lose time we don't have.
+
+Dobermann:
+No need for further discussion then. Thugs or pawns, all that matters is that we clear them out of our way!
+
+
+

@@ -1,0 +1,578 @@
+Leontuzzo:
+Urgh...
+
+Mafioso:
+Signor, are you alright?
+
+Leontuzzo:
+Just dreaming.
+
+Leontuzzo:
+That's why you shouldn't sleep on the sofa.
+
+Leontuzzo:
+Where's the old man?
+
+Mafioso:
+The Don went to the theater.
+
+Leontuzzo:
+......
+
+Mafioso:
+Are you going too?
+
+Leontuzzo does not answer, only sinking deeper into the sofa.
+
+Texas:
+Rossati, Giovanna.
+
+Bernardo:
+That's right.
+
+Bernardo:
+Cellinia, our original agreement was to ensure the Bellones come out on top.
+
+Bernardo:
+But, I've changed my mind.
+
+Bernardo:
+As long as you succeed, you don't owe us anything.
+
+Bernardo:
+At that point, you're free to go.
+
+Bernardo:
+This, I promise you as the Fang of Zaaro, il Signore dei Lupi.
+
+Texas:
+......
+
+Lappland:
+Tsk, tsk. The sun's still getting in my eyes, even though it's raining.
+
+Lappland:
+Prison food's not too bad. You should give it a try.
+
+Loyal Mafioso:
+You're right about that. I've even given 'em a few suggestions before.
+
+Loyal Mafioso:
+Now get in the car.
+
+Lappland:
+Can I sit this one out?
+
+Lappland:
+Does killing a single Columbian really deserve so much fanfare?
+
+Loyal Mafioso:
+The Don says Cellinia's gonna be there too.
+
+Lappland:
+Oh?
+
+Lappland:
+What's the plan?
+
+Loyal Mafioso:
+She'll pretend to be an actress, and once the performance starts, you'll improvise the rest.
+
+Lappland:
+Hmm... So what about my costume?
+
+Loyal Mafioso:
+What the Don meant was—
+
+Loyal Mafioso:
+You wait in the audience and play along.
+
+Lappland:
+Oh, right. Haha.
+
+Lappland:
+What an insensitive old jerk. So where's he gonna be? He's not trying to find a nice place to watch the show all by himself, is he?
+
+Loyal Mafioso:
+The Don has other business. He's got a meeting.
+
+Lappland:
+A meeting?
+
+Loyal Mafioso:
+Yeah, with a carwash worker.
+
+Croissant:
+Howdy, Sora. I just knew you'd be practicin' in Miss Caterina's studio.
+
+Croissant:
+I ain't gonna stop ya, but don'tha think you oughta head to the theater early? To do some makeup n' get ready n' whatnot?
+
+Sora:
+Yeah, you have a point.
+
+Croissant:
+Exusiai's already off to buy breakfast. We got just enough time to meet her.
+
+Sora:
+Okay.
+
+Croissant:
+Say... Didn't we say we'd set up a big ol' welcome for Exusiai's sister?
+
+Sora:
+We did.
+
+Sora:
+But now I'm not sure we'll have enough time for that.
+
+Sora:
+Croissant, watch your step!
+
+Croissant:
+Huh? Wooooah!
+
+Croissant:
+Owwie...
+
+Sora:
+Are you alright?
+
+Croissant:
+I'm fine, I'm fine. Just tripped on a little somethin'.
+
+Croissant:
+Dangit, I knocked over that stack of books. Lemme tidy 'em up.
+
+Croissant:
+Huh? A picture dropped outta somethin'.
+
+Sora:
+Picture?
+
+Croissant:
+Wait... Huh?
+
+Sora:
+What's wrong?
+
+Croissant:
+Lookie here!
+
+It is a photograph from many years ago.
+
+Sora can barely make out the background that should be of the wide and bustling streets of Columbia past.
+
+In the center of the photograph stands a middle-aged man who wears a kind expression, but exudes an audacity not to be trifled with.
+
+On his left and right sides stand a Lupo girl, and a Feline girl.
+
+The girl on the left has beautiful blonde hair and sports a cheery expression, and even at a glance, one can immediately tell that she has a bubbly personality.
+
+The girl on the right has black hair, her face betraying no emotions, making it difficult for one to guess the contents of her heart.
+
+Croissant:
+Look, this pitcher... ain't that... Texas, as a kid?
+
+Croissant:
+And standin' there with her... That's Caterina?!
+
+Croissant:
+And look on the back here...
+
+Written on the backside of the photo: 'Giovanna and Cellinia, 1080.'
+
+Croissant:
+Giovanna... Is that gonna be Caterina's real name?
+
+Sora:
+Giovanna... Giovanna Rossati.
+
+Alberto:
+How long has this carwash been open?
+
+Carwash Worker:
+Five years.
+
+Alberto:
+Five years? Coincidentally, that's how long my guard tuskbeast has been missing.
+
+Alberto:
+If only I knew how he was doing these days.
+
+Carwash Worker:
+The city's a pretty big place. There's always a way to survive.
+
+Alberto:
+It never made any sense to me before. I fed him plenty of meat, gave him a nice den. Why wasn't he happy?
+
+Alberto:
+Think he might've been vegetarian?
+
+Carwash Worker:
+Maybe. Maybe it never knew how bad meat actually was until it tried a full-course meal.
+
+Carwash Worker:
+It's better to not eat at all... than to eat something bad.
+
+Alberto:
+Oh?
+
+Carwash Worker:
+Your car's done.
+
+Alberto:
+You're pretty good at your job.
+
+Carwash Worker:
+Practice makes perfect.
+
+Alberto:
+Heh. You never fail to get it done just right.
+
+Alberto:
+But, Danbrown, nothing lasts forever.
+
+Alberto:
+It's time for you to change your tastes.
+
+Carwash Worker:
+...I'll think about it.
+
+Alberto:
+Think carefully. Once you've figured it out, you're always welcome to come back.
+
+Makeup Artist:
+Are you the backup bassist?
+
+Texas:
+Yes.
+
+Makeup Artist:
+Oh, um... Is that your natural hair color?
+
+Texas:
+Yes.
+
+Makeup Artist:
+That's special. Usually, you have to dye your hair to work as a bassist. I've heard only those with Famiglia Texas blood have that eye and hair color.
+
+Makeup Artist:
+And, now that I'm seeing you up close, your eyebrows... look really similar to Salvadore's. Are you his bastard or something?
+
+Texas:
+No, I have nothing to do with Texas.
+
+Makeup Artist:
+All sorts of coincidences out there, huh?
+
+Makeup Artist:
+Okay, take a seat over there. Your foundation's really good, so I should be able to get you squared away in no time.
+
+Theater Box
+
+Theater Manager:
+Pardon me, are you satisfied with your seating?
+
+Giovanna:
+Yes, I've got a fine view.
+
+Theater Manager:
+Excellent, excellent.
+
+Theater Manager:
+If there's anything you need, please don't hesitate to call for me.
+
+Wallach:
+Let's head down.
+
+Giovanna:
+You're not going to stay and watch?
+
+Wallach:
+You know I've never been a fan of this sort of stuff. How about I grab you a nice drink?
+
+Giovanna:
+I'd like—
+
+Wallach:
+Brandy, I know.
+
+Sora:
+Sorry I'm late!
+
+Makeup Artist:
+No worries. Everyone's still getting ready.
+
+Makeup Artist:
+Go ahead and take a seat. I'll do your makeup first.
+
+Sora:
+Okay.
+
+Makeup Artist:
+What's wrong? You don't look too well. Are you getting stage fright?
+
+Sora:
+No, I'm fine.
+
+Makeup Artist:
+Don't worry, Sora. You've been working so hard, everyone's gonna love you for sure!
+
+Sora:
+I hope so.
+
+Makeup Artist:
+Oh right, did you know...?
+
+Sora:
+What's wrong?
+
+Makeup Artist:
+Apparently, the bassist got sick and couldn't make it to the performance.
+
+Sora:
+Huh? What are you going to do then?
+
+Makeup Artist:
+It's no big deal. The director was able to find a stand-in. She's getting her makeup done in another dressing room right now.
+
+Sora:
+A stand-in... Are you sure that's going to work?
+
+Makeup Artist:
+Just trust the director's judgment, alright?
+
+Sora:
+Speaking of the director, he didn't come tonight?
+
+Makeup Artist:
+He just dropped by to give some direction before leaving again. I think he's meeting with a guest.
+
+Makeup Artist:
+Important people are always so busy, huh?
+
+Makeup Artist:
+But it's okay, Sora. You just need to play your part, that's all.
+
+Sora:
+Yes.
+
+Lavinia:
+......
+
+Onsite Staff:
+Oh, if it isn't Judge Lavinia!
+
+Onsite Staff:
+I haven't seen you here for a while. Have you come to watch tonight's opera?
+
+Lavinia:
+No, I'm just passing by.
+
+Onsite Staff:
+That's too bad. But, did you know we're putting on the highly-anticipated 'La Morte di Texas'? I'm sure you'll love it.
+
+Lavinia:
+Sorry, I'm not in the mood.
+
+Onsite Staff:
+That's alright then. I look forward to your next visit.
+
+Lavinia:
+...Huh?
+
+Lavinia:
+(Danbrown? What's HE doing here?)
+
+Lavinia:
+(Did he really... take my advice and come to the theater to unwind?)
+
+Lavinia:
+(But, today's performance is...)
+
+Lavinia:
+......
+
+Lavinia:
+Wait a second.
+
+Onsite Staff:
+Oh, did you change your mind?
+
+Lavinia:
+That's right.
+
+Lavinia:
+One ticket please.
+
+Theater Box
+
+Mafioso:
+Don Bernardo, someone's here to see you.
+
+Bernardo:
+Oh?
+
+Mafioso:
+It's Rubio, Segretario di Sicurezza Alimentare.
+
+Bernardo:
+......
+
+Bernardo:
+Let him in.
+
+Mafioso:
+Of course.
+
+Rubio:
+Don Bernardo—
+
+Bernardo:
+You can just call me 'director' here.
+
+Rubio:
+Ah, yes, yes. It's an honor to be here, Director.
+
+Bernardo:
+Take a seat, Signor Segretario.
+
+Bernardo:
+Let's enjoy the show first, then we'll talk.
+
+Announcer:
+Signore e signori, thank you for being here tonight. You are about to see another spectacular performance brought to you by Compagnia dell'alba.
+
+Announcer:
+'La Morte di Texas,' Act II, written by Signorina Caterina.
+
+Announcer:
+Every Siracusan already knows the story of Salvadore, but how many truly know the details?
+
+Announcer:
+Signora Caterina, who has a deep understanding of Famiglia Texas, provides us with her frank yet intricate perspective.
+
+Announcer:
+Let us delve deeper into the life of Salvadore!
+
+Sora:
+(Inhales deeply, then exhales.)
+
+Makeup Artist:
+Break a leg, Sora!
+
+Sora:
+Right, time to go!
+
+Exusiai:
+Phew... Finally found them.
+
+Exusiai:
+Attagirl, Sora scored us seats with a great view.
+
+Croissant:
+Great expectations for her, all around.
+
+Exusiai:
+Excuse me, would you mind letting us through?
+
+???:
+A Sankta girl... An unusual sight in Siracusa.
+
+Exusiai:
+Ehh? You're a Sankta too?
+
+Exusiai:
+I've been in Volsinii for a while, and this is the first time I've seen one of my people.
+
+???:
+Hehe, looks like it's one good thing after another today.
+
+???:
+Go right on by, child.
+
+Exusiai:
+......
+
+Croissant:
+What's wrong?
+
+Exusiai:
+That's weird... I don't sense any emotions from him. Is he an exiled Sankta?
+
+Exusiai:
+But, he's unlike any of the other Sankta exiles I've seen...
+
+Exusiai:
+Well, whatever. By the way, am I the only one who thinks way too much of this crowd looks like mobsters?
+
+Croissant:
+I hear tell the head of the Rossati Family's here tonight.
+
+Exusiai:
+Hey, isn't that what you were just talking about?
+
+Croissant:
+Yep. But let's just enjoy the show for now.
+
+Sora:
+(Singing) In an era when chaos and opportunity came hand-in-hand; some were swallowed by the tides of the times where others found in it their promised land.
+
+Sora:
+(Singing) Violence and wealth, power and order.
+
+Sora:
+(Singing) Onto Columbian soil steps a Siracusan, bringing with him only scars, hardship, and ambition.
+
+Sora:
+(Signing) And thus begins our tale. Ladies and gentlemen, come and bear witness, to whom this era truly belongs.
+
+Lappland:
+That voice...
+
+Lappland:
+I see how it is. You're here to bring her back, aren't you?
+
+Lappland:
+But do you really think that's going to happen?
+
+Rossati Mafioso:
+Who the hell are you?
+
+Lappland:
+Signore e signori, let the show begin!
+
+Giovanna:
+It really is you, Cellinia.
+
+Exusiai:
+Huh...?
+
+Croissant:
+Texas?!
+
+Sora:
+—Ehh?
+
+Texas:
+...?!
+
+For a brief moment, Texas shifts her eyes to one of the boxes.
+
+She knows Bernardo is sitting there, gazing down upon everything.
+
+She feels it in her heart.
+
+Whether coincidence or some form of necessity, in this moment, Sora is both a danger and a safe haven.
+
+Everything depends on her.
+
+The movement in the auditorium and the faint sounds in the distance all prelude the start of the assassination.
+
+She gestures to Sora for her to stay silent, then proceeds to pluck the strings in her hands.
+
+A most wonderful performance has begun.
+
+
+

@@ -1,0 +1,693 @@
+Wounded Townsfolk:
+Ah! Schultz! That's where you were!
+
+Wounded Townsfolk:
+I heard you were hurt. Are you being discharged?
+
+Severin:
+*cough*... There are so many wounded. If this keeps up, we'll run out of beds.
+
+Severin:
+Tatjana... how is Tatjana?
+
+Wounded Townsfolk:
+I- I'm not sure. I heard someone burned to death in front of her, and she...
+
+Tatjana:
+Urk... Ahhh...
+
+Severin:
+Let it out, child. Just let it all out.
+
+Tatjana:
+I- I'm sorry... I just...
+
+Severin:
+A good cry is healthy.
+
+Tatjana:
+But it's still chaos out there!
+
+Severin:
+I'll go. Between me, and the Rhodes Island team...
+
+Severin:
+We'll figure it out.
+
+Tatjana:
+No... Don't tell me...
+
+Severin:
+Take her to a bed. I'm taking command.
+
+Wounded Townsfolk:
+Of course.
+
+Tatjana:
+Uncle...! Promise me! Promise me you won't get yourself killed!
+
+Tatjana:
+It's pointless.
+
+Severin:
+It's pointless to even say it's pointless.
+
+Severin:
+Have some hope, at least. There's always a chance to turn things around.
+
+Folinic:
+Let me... through!
+
+Townsfolk:
+We did it! We shattered the giants!
+
+Mudrock:
+This persistence... unexpected.
+
+Sarkaz Warrior:
+If you keep holding back, we won't make it out in one piece.
+
+Mudrock:
+Your eyes are full of hatred, and emptiness.
+
+Mudrock:
+You are angry about Dr. Atro. But what of it?
+
+Mudrock:
+We all have our own baggage.
+
+Folinic:
+Shut up.
+
+Folinic:
+Don't you dare... speak her name.
+
+Folinic:
+Gah—!
+
+Mudrock:
+When winter comes, when the famine comes, you will still lose. No one will survive.
+
+Mudrock:
+Wolumonde... will end.
+
+Folinic:
+That goes without saying.
+
+Mudrock:
+Who is it you hate? Who are you going to save?
+
+Folinic:
+Grr! Those Arts again!
+
+Mudrock Colossus:
+Gaaaaaaaah!
+
+Suzuran:
+Folinic!
+
+Sarkaz Warrior:
+Delaying the time it takes for Mudrock's Arts to activate... what a strange ability.
+
+Sarkaz Warrior:
+But, do you really have the luxury to be getting distracted?
+
+Suzuran:
+Hey! L-let go of me!
+
+Sarkaz Warrior:
+You're lucky. If you were a few years older, I'd have already hacked off your dominant hand.
+
+Folinic:
+Suzuran?!
+
+Mudrock:
+Don't try to run.
+
+Mudrock Colossus:
+GRAAAAAAAHHHH—!
+
+Severin:
+You're just a medic. Don't try to fight.
+
+Folinic:
+Severin! You can't!
+
+Mudrock:
+Another... warrior.
+
+Severin:
+......
+
+Severin:
+We found the real murderer.
+
+Severin:
+The one behind everything! The traitor Biederman! Just moments ago brought to the Rathaus by the Rhodes Island operators!
+
+Armed Infected:
+......
+
+Rebellious Townsfolk:
+Wait, Biederman... Biederman's still alive? What are you talking about?
+
+Armed Infected:
+Don't listen to his bullshit! Does it even matter who the real murderer is?!
+
+Armed Infected:
+What we're fighting for is the end marginalization of the Infected, and the end to the aristocracy's exploitation of the working class! Winterwisp will rightfully reclaim its land!
+
+Armed Infected:
+We are Reunion! A new era begins today!
+
+Mudrock:
+Look, Severin, it's useless...
+
+Severin:
+Then kill me, Reunion. Let's have a good fight.
+
+Mudrock:
+And then what? Winter and famine will still destroy this city.
+
+Severin:
+No.
+
+Severin:
+It may be a dead end. But I'd rather believe Rhodes Island can keep things from getting worse.
+
+Severin:
+At least some will survive.
+
+Severin:
+You see how bruised and battered you are. Your mask is half broken. Your giant is falling apart. And you're exhausted, aren't you?
+
+Severin:
+I can tell. We're not so different, you and I.
+
+Severin:
+Say, got a light?
+
+Mudrock:
+......
+
+Severin:
+It'll be my last cigarette anyway... Forget it.
+
+Severin:
+(Do it. Now. Don't give them a chance to save me.)
+
+Mudrock:
+Severin Hawthorn, when you die, I will leave this place.
+
+Mudrock:
+This is a ghost town. Staying here is just waiting to die.
+
+Mudrock:
+I will tell them of your death. If they still wish to harm others, I shall personally deal with them.
+
+Severin:
+...Fair enough.
+
+Mudrock:
+Farewell.
+
+Mudrock:
+These Arts, what is this power...?
+
+Suzuran:
+Wh-why... must you die?
+
+Severin:
+Get out of here, girl!
+
+Suzuran:
+Don't die!
+
+Severin:
+I have to... so that others can live!
+
+Armed Infected:
+Hey! Mudrock's in trouble! Let's go help him! Don't let up!
+
+Armed Infected:
+B-but they even broke the colossi...
+
+Ayerscarpe:
+Surrender.
+
+Ayerscarpe:
+Sarkaz is lost. What do you have to fight for?
+
+Armed Infected:
+Hmph...
+
+Ayerscarpe:
+If you just need to vent your frustration, fine. I volunteer.
+
+Ayerscarpe:
+Until you're satisfied.
+
+Armed Infected:
+Hurry! Fire up the Gramophone!
+
+Armed Infected:
+I, I don't know Leithanian Arts. Go get us a Leithanian. What, what's that up there? A drone?!
+
+Armed Infected:
+Don't look up! Look behind you! There's something with red eyes...
+
+Click:
+You probably shouldn't move. GreyThroat has you in her sights.
+
+Click:
+Oh and you don't want to turn around and look for her either. I'm watching you too.
+
+Mudrock:
+You seethe. You protect. How many times is this?
+
+Mudrock:
+You... Heh, you actually beat me.
+
+GreyThroat:
+Drop your weapon. You're not getting away this time, Mudrock.
+
+Mudrock:
+......
+
+Severin:
+You'll leave them hating Wolumonde same as they always did!
+
+GreyThroat:
+Doesn't matter. They don't really want change. They only care about what's good for them.
+
+GreyThroat:
+They could have worked together to get through the crisis. They didn't. They didn't care about the truth. They just wanted to loot and riot.
+
+GreyThroat:
+Miss Tatjana is right. Even if you sacrifice yourself, it won't help anything.
+
+GreyThroat:
+No matter how complex the backstory here is, a Rhodes Island operator won't sit by while Infected rioters destroy a town.
+
+Folinic:
+A town Atro wanted to protect.
+
+Folinic:
+A Rhodes Island op team will die defending this plaza, this town hall.
+
+Folinic:
+Really, this might lead to so much more death...
+
+Folinic:
+But that's after. After 'you' and after 'us.'
+
+Folinic:
+As long as we're still here, we'll fight to the end. So Atro can rest in peace.
+
+Sarkaz Warrior:
+......
+
+Mudrock:
+......
+
+Armed Infected:
+......
+
+Mudrock:
+You really have defeated me... Maybe you can actually defend this tower to the death. But... why?
+
+Folinic:
+Many will die.
+
+Folinic:
+Just like Atro. A meaningless death.
+
+Mudrock:
+The Infected have a reason to fight.
+
+Folinic:
+There's always a justification. But for now, you're not solving the problem. You're only causing destruction.
+
+Folinic:
+After the Catastrophe struck Wolumonde, with supplies low and manpower short, what did you do?
+
+Folinic:
+Tell me. Tell me what you did!
+
+Mudrock:
+......
+
+GreyThroat:
+You were told not to move.
+
+GreyThroat:
+Your Arts are so sloppy that at this distance, my crossbow is enough to incapacitate you.
+
+Mudrock:
+Rhodes Island...
+
+Mudrock:
+What led to that fire? And what did that fire lead to?
+
+Folinic:
+The mastermind is already dead.
+
+Mudrock:
+Is he?
+
+Mudrock:
+......
+
+Mudrock:
+Retreat.
+
+Armed Infected:
+What? But we just...
+
+Mudrock:
+I said, retreat.
+
+Mudrock:
+Only a few... can pass through the Great Rift and return to the land of warmth.
+
+Mudrock:
+It doesn't matter if you want to take back your land or get revenge on the rich... You will only end up a corpse in the snow.
+
+Mudrock:
+Do you want to spend the winter burning with rage? Do you want to warm yourselves with a fire fed with the bodies of innocents?
+
+Mudrock:
+The murderer is dead. It's time to leave.
+
+Rebellious Townsfolk:
+B-but we have to take back Wolumonde! It's our land!
+
+Sarkaz Warrior:
+Quiet, Winterwisp. All you want is power. You want to cower behind the strong and pick up whatever scraps of power we leave behind.
+
+Sarkaz Warrior:
+Don't question the leader. Wise up, or you'll be six feet under.
+
+Rebellious Townsfolk:
+Err...
+
+Armed Infected:
+This isn't over!
+
+Armed Infected:
+We lost so many people! Are we going to leave like that? With our tails between our legs? Just because of a few words?
+
+Mudrock:
+Calm him down, friends.
+
+Graaaaagh...
+
+Armed Infected:
+Gaaaah! A.... fist...?!
+
+Sarkaz Warrior:
+A stone fist from underground? You still have the strength?
+
+Sarkaz Warrior:
+You don't need to go that far just to stop them. They were on our side until a minute ago.
+
+Mudrock:
+I wanted to scare them, but... never mind...
+
+Sarkaz Warrior:
+And stop calling your Arts monsters 'friends.' It's creepy.
+
+Mudrock:
+You don't have to listen. Leave me alone.
+
+Mudrock:
+I have decided to retreat. I can't force you all to listen, but...
+
+Mudrock:
+I am leaving. Those who follow me are also leaving.
+
+Mudrock:
+Those who stay... you're on your own.
+
+Mudrock:
+By the way, do you have a match?
+
+Sarkaz Warrior:
+They might be wet. Those casters back there were a real pain.
+
+Mudrock:
+Give a light to that Severin man.
+
+Mudrock:
+Defeated warriors... are lucky to leave the battlefield alive. Don't dawdle.
+
+Armed Infected:
+Pfah! Forget about Reunion then! It's only a matter of time before we take the Rathaus. This town needs us!
+
+Armed Infected:
+Surrender, Severin!
+
+Severin:
+I told you they wouldn't go down easily *cough* *cough*—
+
+Severin:
+They're coming! Eyes left!
+
+Suzuran:
+Get behind me.
+
+Folinic:
+Ugh. Bunch of lunatics.
+
+Folinic:
+Rhodes Island is protecting this place. You have to go through us.
+
+GreyThroat:
+They're going to use Arts. Prepare the defenses. Target the casters.
+
+Sarkaz Warrior:
+——
+
+Armed Infected:
+Wh- what? They blocked my Arts?
+
+Armed Infected:
+Why are you doing this?!
+
+Sarkaz Warrior:
+Leader's orders.
+
+Armed Infected:
+Even if we have to fight you, devil, we're not giving up!
+
+Sarkaz Warrior:
+Hah.
+
+Folinic:
+What happened? Are they fighting each other?
+
+Folinic:
+Wait... Mudrock... stopped moving?
+
+Sarkaz Warrior:
+Leader?
+
+Mudrock:
+Earth.
+
+Mudrock:
+Arise...
+
+Sarkaz Warrior:
+Stop, Mudrock. You're burning through your own life.
+
+Mudrock:
+Doesn't matter.
+
+Sarkaz Warrior:
+You don't have to use that ancient power—
+
+Mudrock:
+I said... Arise!
+
+All the rubble begins to condense into a single point.
+
+A giant, looking out over the distant mountains.
+
+Mudrock, however, stands motionless.
+
+Suzuran:
+It's... huge!
+
+GreyThroat:
+A last gasp. Its body is collapsing. He pushed himself too hard.
+
+GreyThroat:
+Fall back. Don't be hasty.
+
+GreyThroat:
+......
+
+GreyThroat:
+N-no... Mudrock already spent all his energy. These Arts...
+
+GreyThroat:
+That's Sarkaz... witchcraft?
+
+Mudrock:
+(I said...)
+
+Mudrock Colossus:
+I said...
+
+Sarkaz Warrior:
+This is way too dangerous. You're sharing your life with your own creation. It's not worth it just to subdue them.
+
+Mudrock:
+......
+
+Sarkaz Warrior:
+Fine. As you wish.
+
+Mudrock:
+(Shed your hate and strife. Live. This is your last chance to escape.)
+
+Mudrock Colossus:
+Leave this place.
+
+Mudrock:
+(Those who still fight... only seek death for all.)
+
+Mudrock Colossus:
+So... come destroy me.
+
+Mudrock:
+Come defeat me!
+
+Armed Infected:
+Wh-why...? Didn't he come to help us? Is he not Reunion?!
+
+Armed Infected:
+I... I don't care! Screw him!
+
+Sarkaz Warrior:
+In the past... we helped you. That fire unsettled us all.
+
+Sarkaz Warrior:
+We joined you, we guided you, but not for the sake of their deaths. Only for the sake of our lives.
+
+Sarkaz Warrior:
+Now, sadly, it looks like we're not on the same side.
+
+Sarkaz Warrior:
+Killing innocent people, and Rhodes Island's warriors, that's not our way.
+
+Sarkaz Warrior:
+And if we're dealing with a bunch of rioters who don't follow orders, why show mercy?
+
+Sarkaz Warrior:
+Us, the Sarkaz, the 'devils,' we're enough to take on anyone.
+
+Sarkaz Warrior:
+More than enough.
+
+Ayerscarpe:
+What happened? Everything got quiet as soon as that giant appeared.
+
+Click:
+So uh, that mountain-sized monster is a kind of Originium Art?
+
+Ayerscarpe:
+Let's figure out how to get back to Folinic.
+
+Armed Infected:
+Gah! Damn it!
+
+Armed Infected:
+Come on, let's go. This town is done for. We have to find a way over the Great Rift before winter sets in!
+
+Armed Infected:
+Abandon the town, Winterwisp clansmen, workers, and Infected.
+
+Armed Infected:
+There are other places to exact our revenge. Leave Wolumonde to its fate!
+
+Armed Infected:
+There's no reason to fight the Sarkaz. Fall back.
+
+Armed Infected:
+Let's go.
+
+Sarkaz Warrior:
+Mudrock, that's enough!
+
+Mudrock:
+——!
+
+Mudrock:
+Phew... Haah... Haah...
+
+Sarkaz Warrior:
+They stopped... That was crazy. Since when are we in the conflict mediation business?
+
+Mudrock:
+Look at this town... We, brought chaos.
+
+Sarkaz Warrior:
+It's not what we intended, but a rebellion is about self-interest, at its core. Not so many people come with high-minded ideals.
+
+Mudrock:
+You're right... So what do we do with our struggle...? With our deceased?
+
+Sarkaz Warrior:
+Loss and pain follow us everywhere.
+
+Sarkaz Warrior:
+Erm, just a second... I found a spare match.
+
+Sarkaz Warrior:
+Hey, Gendarmerie, here.
+
+Severin:
+......!
+
+Severin:
+Huh. Do Sarkaz warriors smoke?
+
+Sarkaz Warrior:
+I already quit.
+
+Severin:
+How about that. Looks like everyone who quits still carries matches.
+
+Mudrock:
+Cherish your life.
+
+Mudrock:
+And you, Rhodes Islanders...
+
+Mudrock:
+......
+
+Folinic:
+......
+
+Mudrock:
+It's time... to say goodbye.
+
+Mudrock:
+Maybe... just maybe, you can find a way to help these people.
+
+Mudrock:
+But none of that has anything to do with the Sarkaz anymore.
+
+To the sound of crumbling rock, the Sarkaz turn and leave.
+
+The entire block is burning.
+
+The mob is gone, having left only out of fear.
+
+The last chunk tumbles to the ground.
+
+
+

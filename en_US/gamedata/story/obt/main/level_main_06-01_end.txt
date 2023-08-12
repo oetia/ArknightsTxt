@@ -1,0 +1,416 @@
+Blaze:
+Hah...
+
+Blaze:
+Luckily I did some warm up back in Chernobog. But really, I didn't even break a sweat handling you guys.
+
+Reunion Member:
+You! You Rhodes Islander, you're a disgrace to all Infected. How could you turn on your own like this just to help Lungmen?!
+
+Reunion Member:
+So you'll hand us over to them, as if that keeps your hands clean? Bullshit! How do you live with yourself?!
+
+Blaze:
+Huh?
+
+Blaze:
+You ate two punches, cracked your skull on the pavement and you've still got the energy to talk trash? Not bad.
+
+Blaze:
+But you've got it all wrong.
+
+Reunion Member:
+Mmf!
+
+Blaze:
+Having trouble breathing? Feel like your lungs are on fire?
+
+Reunion Member:
+Ack... Guh...
+
+Blaze:
+It starts in your sinuses, then crawls down your windpipe, until it finally finds a home there in your diaphragm. All I have to do is wiggle my little finger and...
+
+Blaze:
+A stream of superheated air will shoot into your body, expand, ignite your organs, and erupt out of your pores.
+
+Blaze:
+The funny thing is, Lungmen might let you live. But me and my little finger...?
+
+Reunion Member:
+Aah! Gaaah...!
+
+Blaze:
+Won't leave any of you breathing.
+
+Reunion Member:
+Nooooo! L-let me go! Please!!!
+
+Blaze:
+Fine. I'll be merciful.
+
+Blaze:
+Officer! Over here. You take care of them.
+
+Blaze:
+And one more thing, my new Ursus buddy. You think next time you could actually make me break a sweat?
+
+Blaze:
+Hey, they made it.
+
+Blaze:
+Dr. {@nickname}, over here!
+
+Blaze:
+Hah. That was nothing.
+
+Blaze:
+How about next time I show you how to snap an arm 90 degrees without breaking the bone?
+
+Blaze:
+Hey, what's with that face...?
+
+Blaze:
+How long have you been at Rhodes Island? You're acting like you've never seen a fight before.
+
+Blaze:
+Compared to them, I'm a regular softie.
+
+Blaze:
+But of course. You think I'm the type to play it low-key?
+
+Blaze:
+If I can put the fear of Blaze into them, who knows how many others might just give up.
+
+Blaze:
+I have to play it up to make all my hard work worth something.
+
+Amiya:
+Let's not steer the Doctor astray...
+
+Blaze:
+Bunny!
+
+Amiya:
+Don't just scoop me up like a toy!
+
+Blaze:
+But you're just so soft...! Hey! Stop struggling! Just let it happen. I promise I won't bite!
+
+Amiya:
+Blaze... Stop... Can't... Breathe!
+
+Blaze:
+Phew.
+
+Amiya:
+We've only been apart for an hour! What's with you! Get serious!
+
+Blaze:
+I take it back. You're not cute.
+
+Amiya:
+......
+
+Amiya:
+That's enough...!
+
+Blaze:
+Woah, hey, I was just playing! Get out of my head! I can't take you screwing around with my emotions again!
+
+Blaze:
+Wait.
+
+Blaze:
+She's here with you?
+
+GreyThroat:
+Hello, I'm...
+
+Blaze:
+I know who you are.
+
+Blaze:
+Talk to my fellow Infected like that again and I'll tear out your throat myself.
+
+Amiya:
+Blaze!
+
+Blaze:
+Sorry, Amiya.
+
+Blaze:
+But that's the way it is. And she deserves a warning.
+
+GreyThroat:
+......
+
+Blaze:
+I'm out. Rendezvous at the next waypoint.
+
+Amiya:
+GreyThroat, Blaze may have misunderstood you.
+
+GreyThroat:
+It's fine. I really did say those things.
+
+Amiya:
+She shouldn't be dredging up your past to attack the person you are today.
+
+GreyThroat:
+Who knows? Have I really changed? Even I don't know.
+
+Amiya:
+......
+
+GreyThroat:
+I'm here because I wanted to do something. No matter what that Blaze says.
+
+Amiya:
+Sigh...
+
+Amiya:
+(Right... She's not Infected, so GreyThroat might not grasp the reality of Rhodes Island's current situation.)
+
+Amiya:
+(This operation could force her to decide once and for all... if she's going to stay or leave.)
+
+Amiya:
+(But she's gotten used to taking orders, and doesn't speak up much. Sometimes she does surprise, though...)
+
+Amiya:
+(There's no malice in her heart. She just needs a chance to find herself.)
+
+Amiya:
+(Still, she's strong and reliable. You can trust her, Doctor. And even if we can't help her, I know she can help you.)
+
+Amiya:
+Oh... where did Gavial go?
+
+Amiya:
+She can't do that!
+
+Amiya:
+Wait a minute, who taught you to think of her like that, Doctor? I mean, it's kind of true, but still...
+
+Amiya:
+We can't afford to make mistakes here. Hurry to the next waypoint and try to signal her.
+
+Amiya:
+Even if she's operating according to plan, there'll be trouble if no one's watching her...
+
+Amiya:
+We've got elite operators acting as squad leaders. They'll report in. Don't worry.
+
+Amiya:
+We stand at a crucial point in this joint operation. This is the decisive battle for Lungmen.
+
+Amiya:
+She has her own mission to command.
+
+Amiya:
+Superintendent Ch'en, as Chief of the Special Inspection Unit, will be deploying the best the L. G. D. has to offer against Reunion in service of our joint plan.
+
+Amiya:
+At the same time, she has to herd Reunion's main force to the target location, all while keeping any of their smaller teams from slipping into the slums.
+
+Amiya:
+And we, Rhodes Island, will keep moving through the waypoints on our patrol route, mopping up Reunion's squads along the way, pushing them to give up the fight.
+
+Amiya:
+Finally, we'll reach the target location at the slums and, together with the L. G. D., we'll deliver the decisive blow to Reunion's main force.
+
+Amiya:
+Considering the scale, there's relatively little Rhodes Island can do. But we'll execute the plan to the best of our abilities.
+
+Amiya:
+As for the issues that have come up in the course of our cooperation with the L. G. D.... Dr. {@nickname}, I promise to answer all our people.
+
+Amiya:
+But, Doctor, there is something only you can do.
+
+Amiya:
+Heh, good.
+
+Amiya:
+But it's not the kind of thing you'll have to put so much effort into.
+
+Amiya:
+Now's not the time to clam up!
+
+Amiya:
+Are you waiting for me to say more?
+
+Amiya:
+You could at least tell me what you're thinking, Doctor...!
+
+Amiya:
+No, that's okay!
+
+Amiya:
+This isn't the kind of thing you need to be so solemn about.
+
+Amiya:
+I'm going to call up Blaze and have her look after you. And for the little while until we meet up again, I need you to look after her too.
+
+Amiya:
+Ugh... I'm not talking about like in battle! I mean look after her psychology.
+
+Amiya:
+You know Rhodes Island has to fight the Infected sometimes.
+
+Amiya:
+Especially right now. Our cooperation with Lungmen has led to some friction.
+
+Amiya:
+Blaze is one of the elite operators we rely on for survival, yes, but her psychological state has an impact on her performance.
+
+Amiya:
+It is because she is so resolutely committed to our mission that her encounters with the Infected have the potential to influence her emotions.
+
+Amiya:
+Go on, Doctor. Treat it as an opportunity to learn what makes her tick.
+
+Amiya:
+Show your appreciation for her. Thank her for saving you back there. She'll eat it up!
+
+Amiya:
+I believe in you, Doctor! Go get 'em!
+
+Swire:
+Their main force is engaging our other teams!
+
+Swire:
+We will reach the target location ahead of Reunion and join the formation!
+
+Ch'en:
+Tell them we need to eliminate all Reunion elements that have not joined up with their main force first.
+
+Swire:
+Right. Got it!
+
+Swire:
+Do what Superintendent Ch'en just said! Over and out!
+
+Swire:
+How long has it been since we fought together like this?
+
+Ch'en:
+I wouldn't say we're 'fighting together' now. It's more like we're 'co-belligerents.' How did you get back here anyway?
+
+Swire:
+I've got my own motor pool, of course. How else do you think I saved Rhodes Island? Now what's got your panties in a twist? I can tell you're upset.
+
+Ch'en:
+Hm. Let me think.
+
+Swire:
+You need to think about it! Look at you looking for reasons to be mad...
+
+Ch'en:
+Oh, right. You went behind my back to save Rhodes Island. You could have told me in private.
+
+Swire:
+Was that embarrassing for you? Or you just don't like being kept in the dark?
+
+Ch'en:
+Both.
+
+Swire:
+Wowee... since when are you so direct? My old Officer Ch'en would talk herself in circles for hours...
+
+Ch'en:
+Eyes forward!
+
+Swire:
+L. G. D. defender squad, shields up! Play it just like we have a million times before. And never forget, your brothers and sisters are right behind you! Stand firm!
+
+Ch'en:
+Hold!
+
+Swire:
+Crossbows, nock!
+
+Reunion Member:
+They blocked this road too? Uh oh... there's nowhere to go! We're trapped!
+
+Reunion Member:
+Relax, we can break them! With me!
+
+Ch'en:
+Hold!
+
+Swire:
+Guards, ready!
+
+Reunion Member:
+Overrun them!
+
+Ch'en:
+——Now!
+
+Swire:
+Crossbows, first volley, fire!
+
+Ch'en:
+Pikes up!
+
+Ch'en:
+Don't let a single one of them out of our city!
+
+Wei Yenwu:
+Are you on site?
+
+Wei Yenwu:
+Yes, that's right.
+
+Wei Yenwu:
+I know. But the L. G. D. has their job to do and you have yours. Don't forget your role in all this.
+
+Wei Yenwu:
+Indeed. Lin Kojui is quite opposed.
+
+Wei Yenwu:
+But this matter is beyond him!
+
+Wei Yenwu:
+......
+
+Wei Yenwu:
+I've heard all the opinions from all the stakeholders. But there is no wiggle room here. I do what must be done.
+
+Wei Yenwu:
+Kojui's daughter will reach out to you. In the next three weeks, you are not to contact me. Everything goes to her.
+
+Wei Yenwu:
+I leave it to you. Don't worry. I am watching you.
+
+Wei Yenwu:
+...There's no need for that. The past is the past. And it stays in the past.
+
+Wei Yenwu:
+Right. To the peaceful and stable future of Lungmen.
+
+???:
+Wei, old boy, we're brothers, of a sort, aren't we...?
+
+???:
+So I'm asking you, for the sake of my daughter and her mother...
+
+???:
+Honestly, should I even have to ask? Would you really refuse to help your own sister?
+
+???:
+I've already decided on a name for my daughter. We'll call her...
+
+???:
+...Talulah.
+
+???:
+Don't take it to heart. I understand.
+
+???:
+It's all very clear to me.
+
+
+

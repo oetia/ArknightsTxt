@@ -1,0 +1,1039 @@
+Provence:
+Siv! The detector's showing one more person up ahead!
+
+Provence:
+Think you can hang in there?
+
+Rhodes Island Field Operator:
+Huff... Huff... I'm fine, let's go...
+
+Provence:
+This place is way too remote, and wasn't in the area covered by the infrared detector...
+
+Provence:
+I applied to advance the range one kilometer this way, and discovered a survivor nearby, but haven't pinpointed the precise location yet. Hurry, hurry...
+
+Provence:
+This town is clearly within the local Catastrophe Messenger's detection range, so how did this happen?!
+
+Provence:
+An earthquake of this magnitude should've had obvious signs. There's no way anyone stationed here could've missed it.
+
+Rhodes Island Field Operator:
+It's already been four and a half days. I'm starting to think it might be...
+
+Rhodes Island Field Operator:
+Besides, Rhodes Island was just passing by, and we're not at all prepared for this level of rescue operation.
+
+Provence:
+Don't talk like that!
+
+Provence:
+Let's go. There's still hope.
+
+Provence:
+Here, right here! They should be under the rubble. Hurry up, Siv!
+
+Provence:
+This is the rescue team! Do you hear me? We're from the rescue team, we're here to help you!
+
+Provence:
+Can you hear me? Please answer!
+
+Provence:
+......
+
+Provence:
+No response. Siv, try tapping a steel pipe!
+
+Rhodes Island Field Operator:
+Got it.
+
+Tap tap tap, tap tap tap...
+
+Rhodes Island Field Operator:
+......
+
+Tap tap tap, tap tap tap...
+
+Provence:
+Any response?
+
+Rhodes Island Field Operator:
+None... And we weren't assigned a life-detector. Is there a better way of confirming the exact location? There were survivors before who just didn't have the strength to respond. Maybe I should apply for a—
+
+Provence:
+Ugh... It'll be too late by then. Plus, there's no guarantee they even have any to spare. We'll do this the old-fashioned way. Listen carefully—even the scratching of fingernails makes a sound.
+
+Provence:
+I'll try tapping the pipes over there. Or do you have any Originium Arts that can help locate them?
+
+Rhodes Island Field Operator:
+Haha... If I did, then I wouldn't be digging through rubble with my bare hands...
+
+Tap tap tap, tap tap tap...
+
+Rhodes Island Field Operator:
+......
+
+Rhodes Island Field Operator:
+.........
+
+Rhodes Island Field Operator:
+I've knocked on this entire area and didn't get any responses.
+
+Rhodes Island Field Operator:
+It's been so long, and this place is so remote. Were we... too late again?
+
+Provence:
+No... there's still another place up ahead. I'll go over and take a look.
+
+Tap tap tap, tap tap tap...
+
+*Scratch*... *Scratch*...
+
+*Scratch*... *Scratch*...
+
+Provence:
+!
+
+Provence:
+I hear it! It's the sound of nails on pipe!
+
+Provence:
+Here, over here! Hurry, Siv!
+
+Rhodes Island Field Operator:
+I'm coming! ...Gah! Hiss...
+
+Provence:
+Careful! Take a break if you can't handle it anymore!
+
+Rhodes Island Field Operator:
+I'm fine, I can keep going. We've got a life to save!
+
+Provence:
+Can you hear me? We're from the rescue team, we're here to help you!
+
+Provence:
+Here, let's move this board out of the way. Careful not to hurt yourself. Three, two, one!
+
+Rhodes Island Field Operator:
+Hnngh!
+
+Rhodes Island Field Operator:
+We should still have some saline solution left, so let's pass it down with a hose.
+
+Provence:
+There's saline water on the way! Drink up, and we'll begin the rescue!
+
+Old Granny:
+*cough*... *cough*...
+
+Rhodes Island Field Operator:
+It's an elderly person?
+
+Provence:
+Granny?
+
+Old Granny:
+Ugh... I thought... nobody would come...
+
+Provence:
+No way! We're here for you!
+
+Old Granny:
+Thank goodness...
+
+Rhodes Island Field Operator:
+I've already started scanning the structure with radar. Hold on just a little longer!
+
+Old Granny:
+......
+
+Provence:
+Granny? Granny?
+
+Old Granny:
+.........
+
+Provence:
+She's losing consciousness! We can't let her fall asleep here!
+
+Rhodes Island Field Operator:
+I'll handle the scan. Head over and keep her awake!
+
+Provence:
+Granny, Granny? Don't go to sleep just yet, let's have a little chat first!
+
+Old Granny:
+......
+
+Provence:
+It's dangerous to fall asleep right now. Wake up, and we'll talk, okay?
+
+Old Granny:
+......
+
+Old Granny:
+How many days has it been...?
+
+Provence:
+...Um, two! Two days! We were nearby and came as soon as we could! Everything will be okay!
+
+Old Granny:
+Ngh...
+
+Old Granny:
+My grandson... Have you seen my grandson?
+
+Provence:
+(Have you seen him? Any young kids?)
+
+Rhodes Island Field Operator:
+(No, I haven't...)
+
+Provence:
+Granny, we're divided into teams who are all responsible for different areas. Maybe another team has already taken him to safety. We'll have a look after we get you out of here!
+
+Old Granny:
+My grandson... is a little troublemaker...
+
+Old Granny:
+I don't know where he's run off to...
+
+Provence:
+Don't you worry, I'm sure he's just fine!
+
+Rhodes Island Field Operator:
+(Looks like they also raised fowlbeasts here. The coop has collapsed, and there's nothing left.)
+
+Provence:
+(*Sigh*...)
+
+Provence:
+Granny, your grandson must've been real lucky. Is that a fowlbeast coop I see over there? I love me some fowlbeast eggs!
+
+Old Granny:
+Is that so... Oh my... little fowlbeasts... golden and shiny...
+
+Old Granny:
+The eggs... are probably crushed now...
+
+Old Granny:
+If there are any left... you can try some...
+
+Rhodes Island Field Operator:
+Don't worry, it'll be fine! I'm sure we can have some later!
+
+Rhodes Island Field Operator:
+You're the 30th person we've rescued today. We just dug through an entire house somewhere else, and rescued a whole family...
+
+Old Granny:
+Mm... Mm...
+
+Provence:
+(Is the scan done yet?)
+
+Rhodes Island Field Operator:
+(Here you go.)
+
+Rhodes Island Field Operator:
+(Is the sinking severe?)
+
+Provence:
+(...It's messy.)
+
+Provence:
+(The sinking's already begun over here, but the other side of the house hasn't collapsed. Probably a different soil layer. The terrain here is... complex. The seismic waves were reflected by its shape as they passed through.)
+
+Provence:
+(The whole house is twisted, and if this side is demolished, the other will lose its support and collapse. It's not an option.)
+
+Provence:
+(Do we seriously have to dismantle and clear out the other side first, just to ensure stability?)
+
+Rhodes Island Field Operator:
+(Do we have time for that...?)
+
+Provence:
+(Not a chance in hell. It's too big of a job for just the two of us anyway.)
+
+Provence:
+(We'll have to talk the old lady through it first, but... if we clear out what we can and think on our feet, there might still be a way.)
+
+Rhodes Island Field Operator:
+Huff... Huff... Ugh...
+
+Rhodes Island Field Operator:
+Ever seen a Lupo before, Granny?
+
+Rhodes Island Field Operator:
+We'll remove the stuff on top first, clean up a little, and get you out of there!
+
+Rhodes Island Field Operator:
+Then you'll get to see a purple Lupo with the biggest, bushiest tail there is!
+
+Provence:
+You know it! Once you're out, you can pat my tail! I bet you've never seen one as big as mine!
+
+Old Granny:
+Mm... Mm...
+
+Old Granny:
+......
+
+Provence:
+Hurry up, she can't hold out much longer.
+
+Rhodes Island Field Operator:
+Don't fall asleep just yet! You know, my grandma is about the same age as you... And I want to try some of those eggs too!
+
+Rhodes Island Field Operator:
+I've already cleared all the rubble that can be safely removed. Next I'll try propping up this beam. You think it'll be stable enough?
+
+Rhodes Island Field Operator:
+Three, two, one... Hup!
+
+Provence:
+No good! It's already starting to loosen!
+
+Rhodes Island Field Operator:
+Let's try over here then!
+
+Rhodes Island Field Operator:
+I'll hold up the middle. Head over and chip off that half while I support the other half!
+
+Provence:
+Alright, just tell me when you're reaching your limits.
+
+Rhodes Island Field Operator:
+Don't panic, Granny, we'll... we'll definitely to save you!
+
+Old Granny:
+......
+
+Provence:
+One more time! I'm going to knock down this section!
+
+Rhodes Island Field Operator:
+Nngh! So... just you wait! We'll go find your grandson once you're safe!
+
+Provence:
+Keep it steady!
+
+Provence:
+We've already cleared one of the beams, Granny! Hang in there!
+
+Old Granny:
+......
+
+Provence:
+Hang in there, hang in there... The beam over here, once it's cleared...
+
+Old Granny:
+......
+
+Rhodes Island Field Operator:
+Granny?
+
+Old Granny:
+......
+
+Provence:
+Don't fall asleep!
+
+Old Granny:
+......
+
+Old Granny:
+I can't...
+
+Old Granny:
+Two days is... a pretty long time...
+
+Old Granny:
+......
+
+Old Granny:
+Don't... worry about me...
+
+Rhodes Island Field Operator:
+No, don't say that! Keep going, Provence!
+
+Old Granny:
+......
+
+Old Granny:
+I...
+
+Old Granny:
+......
+
+Old Granny:
+.........
+
+Provence:
+Can you still hear her breathing underneath? She hasn't responded for a while now...
+
+Provence:
+......
+
+Provence:
+It's been too long. Let's stop.
+
+Provence:
+She's probably already...
+
+Rhodes Island Field Operator:
+No, no! No!
+
+Rhodes Island Logistics Operator:
+Provence squad? Survivors have been found near point 28, 575. Please hurry.
+
+Provence:
+...We've received new coordinates. 1673, 589. One victim, about 2.7 meters deep. Heavy equipment is needed to dismantle the rubble.
+
+Provence:
+We'll head straight there... Mhm, I'm fine.
+
+Provence:
+......
+
+Provence:
+I'm sorry, I'm so sorry. We're... We're going to rescue someone else.
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+Let's go, Siv. We've got someone else to save. The team responsible for finding the casualties will come around later.
+
+Provence:
+Are you okay...?
+
+Rhodes Island Field Operator:
+Aaaaaaaaargh!!
+
+Rhodes Island Field Operator:
+Aaaaaagh!
+
+Provence:
+Stop it! You're not good at—
+
+Rhodes Island Field Operator:
+Aaaaaaaaargh!!
+
+Rhodes Island Field Operator:
+I'm going to dig her out!
+
+Rhodes Island Field Operator:
+*gasp*... *gasp*...
+
+Rhodes Island Field Operator:
+Urgh...
+
+Provence:
+Stop, Siv! You're only destroying your own health, and it's not helping anyone! There are still so many more people to save!
+
+Rhodes Island Field Operator:
+No! I have to—
+
+Rhodes Island Field Operator:
+Aaaaaagh!
+
+Provence:
+I told you, stop!
+
+Provence:
+What more do you want?! Are you going to sacrifice yourself here? Nothing we do will change the situation! Don't sacrifice yourself for someone who's already dead!
+
+Provence:
+We still have others to save! And until we do, your own life takes priority!
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+We need to go, now! We can't afford to fall behind!
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+The team searching for casualties will be here soon. We'll ask where the old lady ended up later, okay? There's someone else waiting for us.
+
+Provence:
+Someone once told me that to save more people, you must first protect your own life.
+
+Provence:
+No matter what happens, you must always value your own life... All lives are equally important, including your own.
+
+Provence:
+So let's go. Together.
+
+Rhodes Island Field Operator:
+......
+
+Rhodes Island Field Operator:
+Okay...
+
+Provence:
+Over here! Found another one over here!
+
+Provence:
+Hang in there a bit longer! Hold onto my hand, we'll have you out soon!
+
+Provence:
+Alright, you're safe now!
+
+Rhodes Island Field Operator:
+Your family? Don't worry, see that tent up front? All our personnel should be over there, so go take a look!
+
+Rhodes Island Field Operator:
+If you have any questions, you can talk to any of the operators there and they'll be glad to help you!
+
+Rhodes Island Field Operator:
+Don’t you worry!
+
+Medic Operator:
+It's okay, calm down. I assure you, you won't have to pay for the treatment.
+
+Medic Operator:
+Yes, yes, I guarantee it. Just sit over there and don't go running off again.
+
+Medic Operator:
+No need to be nervous. You'll be fine.
+
+Provence:
+......
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+......
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+I'm too tired to even speak.
+
+Rhodes Island Field Operator:
+Same.
+
+Provence:
+It's quiet here... Brush away the rocks and come lie down.
+
+Rhodes Island Field Operator:
+Ugh... Ow ow ow, my waist... Ah...
+
+Rhodes Island Field Operator:
+How many... did we manage to save today...?
+
+Provence:
+Dunno... I feel like I can't move a muscle...
+
+Provence:
+But I still find it so weird...
+
+Rhodes Island Field Operator:
+What's weird?
+
+Provence:
+I've been thinking... We're in Victoria, right? This place is pretty remote, but the town's not exactly small, and there was supposed to be a Catastrophe Messenger here.
+
+Rhodes Island Field Operator:
+Uh huh...
+
+Provence:
+So how did all this happen? No Catastrophe Messenger could've failed to detect a Catastrophe of this scale, even if it wasn't obvious.
+
+Rhodes Island Field Operator:
+No idea... Maybe they skimped on the disaster avoidance procedures...
+
+Provence:
+No way... What happened here wasn't just poorly done. It's more like... there were no efforts at all.
+
+Provence:
+Everyone was basically trapped in their homes. No way they'd be indoors if they knew a Catastrophe was coming.
+
+Provence:
+Maybe some kind of fringe belief about accepting Catastrophes...? None of it makes any sense.
+
+Rhodes Island Field Operator:
+Maybe they just didn't believe what their Catastrophe Messenger had to say... That happens too, doesn't it?
+
+Provence:
+Yeah, it happens... and I've been there myself. But a whole town? Never.
+
+Provence:
+Ugh... So many dead...
+
+???:
+...How could I... not know... who...
+
+???:
+...Right now... they...
+
+???:
+...Why... you... should have...
+
+Rhodes Island Field Operator:
+There are still people over there? I'll ask them to come rest with us.
+
+Rhodes Island Field Operator:
+Huh?
+
+Rhodes Island Field Operator:
+(They're not with Rhodes Island?)
+
+Provence:
+(Townsfolk?)
+
+Rhodes Island Field Operator:
+(Not sure. Doesn't seem like it? The locals should all be recovering in the tents. What are they doing all the way out here?)
+
+Provence:
+(Should we sneak a peek?)
+
+Townsfolk:
+We already got the money. What now?
+
+Catastrophe Messenger:
+Bloody hell! You're the one who said to put on a show and make it convincing! Who the hell would care if a Catastrophe Messenger wasn't at the site of the disaster? 'Struggled to evacuate everyone but couldn't make it in time' my ass, now I'm all covered in soot!
+
+Catastrophe Messenger:
+Look at what happened! The box is buried under the house. Where's the money now, huh? Under a pile of bloody rubble, that's where! You gonna go dig it up?
+
+Townsfolk:
+I...
+
+Townsfolk:
+Was it really okay to cause this big of a scene?
+
+Catastrophe Messenger:
+The hell are you talking about? Now's the best time for us to bounce! Everything's a bloody mess outside, so hurry up and dig out the money so we can leave by tonight!
+
+Catastrophe Messenger:
+Change our names, leave the country. This money should last for a while, and with so many bloody Catastrophes everywhere, there'll never be a shortage of ways to make more.
+
+Townsfolk:
+Fine...
+
+Catastrophe Messenger:
+So stop dilly-dallying and dig it up already! I'm covered head-to-toe in dust, and you expect me to do it?
+
+Rhodes Island Field Operator:
+(Those bastards...!)
+
+Rhodes Island Field Operator:
+(It's not that the townspeople didn't believe it, they weren't even warned!)
+
+Rhodes Island Field Operator:
+(They... got all those people killed!)
+
+Provence:
+(Wait, cool your jets!)
+
+Rhodes Island Field Operator:
+Hold it right there!
+
+Townsfolk:
+Who the hell are you?!
+
+Catastrophe Messenger:
+That uniform... From that rescue organization...?
+
+Rhodes Island Field Operator:
+It doesn't matter who I am, but you're not getting out of here!
+
+Rhodes Island Field Operator:
+Dereliction of duty! And you call yourself a Catastrophe Messenger?!
+
+Catastrophe Messenger:
+......
+
+Townsfolk:
+Think this kid overheard us? We can't have him spilling the beans!
+
+Provence:
+*Sigh*...
+
+Provence:
+Provence squad here. Is this the landship? Requesting field op support at 683, 447.
+
+Provence:
+Our goal is just to detain them... Don't go overboard.
+
+Rhodes Island Field Operator:
+Provence, we finished our investigation...
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+What's wrong? You don't look so good.
+
+Rhodes Island Logistics Operator:
+So, you're already aware of what happened.
+
+Rhodes Island Logistics Operator:
+Here's the rub: the Catastrophe Messenger DID report this... to the nobles. If that's true, the only error is that many people who should've been taking refuge died instead.
+
+Rhodes Island Logistics Operator:
+But as you know, nobles... don't exactly care about human lives, as long as there are enough left to collect taxes from.
+
+Rhodes Island Logistics Operator:
+And these two scumbags are on the nobles' side. If they grease the right palms, they might even be spared from legal action.
+
+Rhodes Island Logistics Operator:
+We're leaving the day after tomorrow, first thing in the morning. We only stopped here for the rescue operation, and we don't have the luxury of getting involved in some drawn-out court case.
+
+Provence:
+...So you're saying that's it? We should just give up, because there's a chance we might not get the outcome we want?
+
+Rhodes Island Logistics Operator:
+No... That's not what I'm saying.
+
+Rhodes Island Logistics Operator:
+Why do you have to make me feel like the bad guy here?
+
+Rhodes Island Field Operator:
+I REALLY don't want hear that from you.
+
+Rhodes Island Field Operator:
+There was no need for any of those people to lose their lives. Not a single one should've died! I, I...
+
+Rhodes Island Logistics Operator:
+......
+
+Rhodes Island Field Operator:
+Suing them is one thing, but I've seen their victims with my own eyes... Those people who should not have died...
+
+Rhodes Island Field Operator:
+If we just walk away, how are we supposed to make those bastards pay for this? For all the lives they snatched away?
+
+Rhodes Island Logistics Operator:
+I get where you're coming from... But we'll still be bringing a case against them.
+
+Rhodes Island Logistics Operator:
+We've already prepared the documents, but there's no telling what the result might be. And we can't afford to wait either, just for the sake of intervening in a process that we're far from sure will produce a favorable outcome.
+
+Rhodes Island Field Operator:
+So you're telling us to not get our hopes up...
+
+Rhodes Island Field Operator:
+I suppose I've been naive about this from the start.
+
+Rhodes Island Field Operator:
+......
+
+Rhodes Island Field Operator:
+What's the point of even filing it then? Forget the death penalty, they'll probably get away with a small payment and a slap on the wrist. It'll mean nothing to them, and make us look like fools.
+
+Rhodes Island Field Operator:
+Damn it all! All those people, dying for nothing!
+
+Rhodes Island Logistics Operator:
+*Sigh*...
+
+Rhodes Island Logistics Operator:
+I know it's a bitter pill to swallow.
+
+Provence:
+Let's not overthink this and focus on what we CAN do.
+
+Provence:
+Let me see those documents. We're leaving the morning after, right?
+
+Rhodes Island Logistics Operator:
+Around 10 AM.
+
+Provence:
+Alright.
+
+Provence:
+I won't be leaving with you then.
+
+Rhodes Island Logistics Operator:
+What will you do...?
+
+Provence:
+Only what I should do... What I can do.
+
+Provence:
+Excuse me, sir, are you the judge here? I'm Provence, Rhodes Island Operator—
+
+Local Judge A:
+—Don't bother me!
+
+Local Judge A:
+Can't you see we're busy with repairs here?!
+
+Provence:
+I know, but it's really important and—
+
+Local Judge A:
+I told you not to bother me!
+
+Provence:
+I... Eh...?
+
+Provence:
+Hello, is anyone here? I'm Provence, Rhodes Island Operator.
+
+Provence:
+Hello?
+
+Provence:
+Nobody's in, huh...
+
+???:
+She left. Don't open the door for strangers at times like these! You never know what kind of misfortune you might invite!
+
+Provence:
+Thank you so much for letting me in. These are Rhodes Island's documents regarding the Catastrophe. We wanted to file an action against the Catastrophe Messenger Whelan...
+
+Provence:
+Ah!
+
+Provence:
+......
+
+Local Judge B:
+File for legal action? With me? Matters concerning Catastrophe Messengers should be brought to the High Court, and it's up to their discretion whether to...
+
+Provence:
+I know, I know, but can you hear me out first? Just take a look at these documents, please!
+
+Local Judge B:
+...I suppose I can do that.
+
+Provence:
+So there's the situation. We're holding two of them at Rhodes Island for now, but we don't have the right to detain them indefinitely. Besides, we're leaving the day after tomorrow.
+
+Provence:
+If this is turned over to the High Court, the nobles might just refuse to even hear it. This is brought up in the documents as well—the case may well be left without a conclusion.
+
+Provence:
+Exploiting Catastrophes to make money, trampling over peoples' lives, knowing the horrors to come yet deliberately not informing people—only truly vile people would do these things!
+
+Provence:
+To him this was simply a way to make money. If he cannot be punished under the law, in a situation we can control, who knows how many more murders he will go on to commit?
+
+Local Judge B:
+I understand.
+
+Local Judge B:
+But... even if I do file the case at the local level, once it's submitted up the chain, it may inevitably end up...
+
+Provence:
+I'll inform the townspeople! I'll get in touch with the locals, and even people from neighboring towns! I'll take care of all that!
+
+Local Judge B:
+Fine...
+
+Local Judge B:
+Alright, I'll see what I can do. Given the situation... I can apply for a higher court to accept the case after about half a month.
+
+Provence:
+Thank you so much, Mr. Tal! I'll go hand the culprits over to a security guard. Please, send me a Messenger as soon as you get a follow-up!
+
+Provence:
+Here's the temporary shelter for the townspeople we rescued...
+
+Provence:
+Sorry for bothering you, everyone, but I have an announcement to make!
+
+Townsfolk A:
+What's the matter?
+
+Townsfolk B:
+Oh, it's the purple lass! She rescued me with one of her buddies!
+
+Provence:
+I am a Catastrophe Messenger and one of the Rhodes Island operators involved in the rescue operation. The earthquake was indeed a Catastrophe, but the local Catastrophe Messenger failed to inform you!
+
+Townsfolk B:
+What?
+
+Provence:
+Instead, he took advantage of it—and your very lives—to make money. Yesterday, he was going to flee with the cash in hand!
+
+Townsfolk A:
+What?!
+
+Townsfolk A:
+Where is he now?!
+
+Townsfolk A:
+We'll kill the bastard!
+
+Provence:
+Judge Tal will be reviewing the case, but the nobles may let it go unresolved in order to help the two criminals escape the reach of the law. Therefore, I would like to ask this of all of you—
+
+Provence:
+Can we work together to keep the nobles from interfering in this case?
+
+Townsfolk A:
+Alright! You saved my life, lassie. Whatever you say, we're behind you!
+
+Townsfolk B:
+But how is that even possible...? How can we get the nobles to listen to us?
+
+Townsfolk A:
+Lass! Do you think we'll have enough people?
+
+Provence:
+What if I recruited people from other towns too?
+
+Townsfolk B:
+Maybe... but even that might not be enough to persuade the nobles!
+
+Townsfolk A:
+Yeah. When have they ever lifted a finger for us?
+
+Provence:
+I... I'll do whatever I can!
+
+Provence:
+This is the center of town.
+
+Provence:
+Hello? Excuse me, I'm from the next town over...
+
+Townsfolk A:
+What? I'm busy right now, so scram!
+
+Provence:
+The neighboring town was just hit by a Catastrophe...
+
+Townsfolk A:
+Catastrophes, huh? Yeah, we get plenty around here too! Lost half the town to one. Thought we'd never seen one before?
+
+Provence:
+I know! And they can be avoided, but because of the Catastrophe Messenger—
+
+Townsfolk A:
+Whatever, I've heard enough. I told you, I don't have time for this!
+
+Provence:
+......
+
+Provence:
+Excuse me, the neighboring town suffered a terrible tragedy because their Catastrophe Messenger hid the truth from them. We hope you can support us in preventing the nobles from interfering with the case...
+
+Townsfolk B:
+Is that supposed to be a joke? Where's the punchline?
+
+Provence:
+No, I'm serious! We're planning to escalate the case, so if you're—
+
+Townsfolk B:
+You wish.
+
+Provence:
+Yes, so that's what happened... Please, are you able to help us? We really need all the help we can get...
+
+Provence:
+Thank you so much! Here's my contact information; I'll be reaching out in about half a month!
+
+Provence:
+Thank you so much!
+
+Provence:
+Hello, I was wondering...
+
+Provence:
+Sorry to bother you, but...
+
+Provence:
+Thank you so much! I'll be contacting you in about half a month!
+
+Four months later...
+
+Rhodes Island Messenger:
+Provence! There's a letter for you!
+
+Provence:
+Coming!
+
+Provence:
+I wonder who'd be writing me...
+
+Provence:
+......
+
+Provence:
+Take a look at this.
+
+Rhodes Island Field Operator:
+What?
+
+Provence:
+Remember that town that suffered an earthquake? They sent a letter.
+
+Rhodes Island Field Operator:
+......
+
+Rhodes Island Field Operator:
+They did it... They...
+
+Rhodes Island Field Operator:
+They really did it?
+
+Provence:
+Yeah... They really did it.
+
+Rhodes Island Field Operator:
+Really? They got the sentence?
+
+Rhodes Island Field Operator:
+I... *sob*...
+
+Rhodes Island Field Operator:
+I never thought... I didn't think it was possible, but you...
+
+Provence:
+Stop bawling your eyes out already. Here, a handkerchief.
+
+Rhodes Island Field Operator:
+*sob*... Ugh, th-thank you...
+
+Rhodes Island Field Operator:
+Is this the reason you were away from the landship for so long, Provence?
+
+Provence:
+More or less. It wasn't quick, that's for sure...
+
+Rhodes Island Field Operator:
+I never knew... I, I've been wallowing in misery, but you...
+
+Rhodes Island Field Operator:
+I'm such a letdown.
+
+Provence:
+Don't say that. Practically speaking, we couldn't really intervene in what happened afterwards.
+
+Provence:
+But call this my own selfishness. I just couldn't leave things hanging like that.
+
+Provence:
+And even if we did manage to secure some kind of justice... It's still too late for those who already suffered in the Catastrophe.
+
+Rhodes Island Field Operator:
+......
+
+Provence:
+Ugh, but that's enough of that! Let's pay a visit to that Granny's grave some time.
+
+Rhodes Island Field Operator:
+I'd like to put some yellow rocks in front of her resting place... to remind her of all those little fowlbeasts she raised...
+
+Provence:
+Mhm, let's do that then. I'm sure she'd be happy.
+
+
+

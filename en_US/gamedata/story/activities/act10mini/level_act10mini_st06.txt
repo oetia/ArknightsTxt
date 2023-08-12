@@ -1,0 +1,982 @@
+December 21st, 1097, 8:44 A.M.
+
+Ancient Ruined Tower, Bleached Wasteland
+
+Ruined buildings stand tall between the steep canyon walls, their purpose now unknown.
+
+Those who live in the shadows of these ruins have brought life back to this barren land.
+
+Reunion Warrior:
+Here's your potato.
+
+Guard:
+How's production coming along?
+
+Reunion Warrior:
+Never thought you could grow so many of them in a car.
+
+Reunion Warrior:
+I've never seen farming like this before...
+
+Reunion Warrior:
+What's it called? Hy... hy something...
+
+Guard:
+Hydroponics. It's only become commonplace among nomadic cities in the last few decades or so. I'm not surprised that you didn't know about it.
+
+Reunion Warrior:
+You seem to know a lot about these things.
+
+Guard:
+A little bit. I've seen a lot of these farms on Rhodes Island.
+
+Reunion Warrior:
+But one car won't feed everyone.
+
+Guard:
+No worries. It's only a matter of time, now that we have the help of the Kazimierz scholars.
+
+Reunion Warrior:
+But all that knowhow is in the hands of that engineer and his team.
+
+Reunion Warrior:
+We're completely reliant on them.
+
+Reunion Warrior:
+And I still don't trust him.
+
+Guard:
+Why not?
+
+Reunion Warrior:
+He's not even an Infected.
+
+Reunion Warrior:
+He says he's helping us because his wife and daughter died of Oripathy.
+
+Reunion Warrior:
+So it's because of his anger at the injustice of fate, and his sympathy for the Infected.
+
+Reunion Warrior:
+But what if he decides to start a new life, a new family?
+
+Reunion Warrior:
+Would it become inconvenient for him to keep supporting the Infected? Would he betray us for that new life?
+
+Reunion Warrior:
+He's not one of us, no matter what he says.
+
+Guard:
+You're making assumptions based on hypotheticals. Just because someone isn't Infected doesn't mean they're our enemy.
+
+Guard:
+We'll never make allies if we treat every act of kindness with suspicion.
+
+Guard:
+Cooperation needs to start from trust. Even the word 'reunion' is all about coexistence, isn't it?
+
+Reunion Warrior:
+Did you already forget Talulah? That can't be allowed to happen again.
+
+Guard:
+Then what we need is a contingency plan. Planning for a rainy day doesn't mean looking at everyone with suspicion though.
+
+Reunion Warrior:
+Fine, fine.
+
+Reunion Warrior:
+Has anyone ever told you that you're becoming more and more like Patriot?
+
+Guard:
+Aw jeez, that's a little much, don't you think...?
+
+Guard:
+Changing the topic—how are the clothes?
+
+Reunion Warrior:
+A little tight, but wearable.
+
+Reunion Member:
+The material looks like it could stand up to some heavy use. Not bad.
+
+Guard:
+It's cheap and practical—ideal for combat attire.
+
+Reunion Warrior:
+Never thought I'd live to see the day.
+
+Reunion Warrior:
+How many years has it been since I last got something new to wear?
+
+Guard:
+You can thank the Infected workers in Caladon for that.
+
+Reunion Warrior:
+There's something that I don't quite understand, though.
+
+Reunion Warrior:
+Why are we taking down the Reunion symbol?
+
+Guard:
+We don't need it anymore.
+
+Reunion Warrior:
+We don't need Reunion?
+
+Guard:
+That's not what I meant.
+
+Guard:
+We just don't need a symbol anymore.
+
+Guard:
+We're linked by a common purpose, not by lines and shapes.
+
+Guard:
+We should be helping and supporting the other Infected, not differentiating ourselves from them.
+
+Reunion Member:
+So why is Team 4 still wearing the symbol then?
+
+Guard:
+They have a special mission: running diversion.
+
+Reunion Warrior:
+I... I don't understand.
+
+Phantom Crossbowman:
+They're operating in eastern Ursus, wearing the symbol in order to draw attention. That way, Ursus will think that there are only scattered remnants of Reunion roaming in the eastern wasteland.
+
+Phantom Crossbowman:
+Meanwhile, the rest of us can operate unnoticed by them, or any other country for that matter.
+
+Phantom Crossbowman:
+They'll think that we're just rogues, operating independently. They won't connect us to Reunion, or give us a second thought.
+
+Reunion Warrior:
+Mr. Bean! You're here!
+
+Phantom Crossbowman:
+Bean reporting back.
+
+Guard:
+How did it go?
+
+Phantom Crossbowman:
+No problem. Captain Red has delivered the equipment to the warehouse.
+
+Guard:
+Good. I was getting worried when you reported a change in the situation.
+
+Phantom Crossbowman:
+We encountered something unexpected in Caladon, but nothing we couldn't deal with.
+
+Elba:
+Good morning, Mr. Guard.
+
+Guard:
+Oh, hello, Miss Elba.
+
+Elba:
+The rest of the Messengers are here.
+
+Guard:
+What's the situation in Columbia?
+
+Messenger Member:
+It's a long story...
+
+Elba:
+Life isn't easy for the Infected on the frontiers, and the help that we can provide is limited.
+
+Elba:
+But the Columbians are giving land to homesteaders, even the Infected.
+
+Guard:
+I see...
+
+Messenger Member:
+The Infected in Tkaronto are willing to provide supplies and housing. For a price, that is.
+
+Messenger Member:
+There's a brewery owner who's offering to help for free though. He's a trustworthy guy, just a little... eccentric.
+
+Guard:
+Sounds like a good start.
+
+Guard:
+Good work, Miss Elba.
+
+Guard:
+What about the guerillas? Any response from Avrora?
+
+Reunion Member:
+Captain Avrora has travelled to the Northern Plains to find the troops who stayed behind. She probably won't make it here.
+
+Reunion Member:
+However, Sarkaz warriors from the guerillas have already rendezvoused with Nine's team.
+
+Reunion Member:
+Reinforcements from Kazimierz arrived yesterday.
+
+Guard:
+Then we're almost at full numbers.
+
+Guard:
+I'll check out the hangar. You guys go find Nine.
+
+Reunion Member:
+Got it.
+
+A massive machine sits at the center of the abandoned warehouse, and industrial noises fill the air.
+
+Reunion mechanics busy themselves around it, the sounds of metal cutting and welding following them wherever they go.
+
+Red:
+Lightly! Lightly! Don't break it!
+
+Guard:
+We've finally gotten the engine out of there.
+
+Red:
+Oh hey, Mr. Guard!
+
+Guard:
+How's the situation in Caladon? How are the Infected doing?
+
+Red:
+Could be worse, all things considered.
+
+Red:
+Setting aside Councilor Angst for a moment, we have half the city council in favor of maintaining the Infected community. Things won't get any worse as long as the community continues to operate.
+
+Red:
+Two months ago, a nobleman bribed a security guard to sabotage their power generator. Things could've been really bad if we didn't happen to have an engineering Caster stationed there.
+
+Red:
+Still, the Infected face a lot of difficulties. They need help.
+
+Guard:
+I heard you encountered some trouble when transporting the engine?
+
+Red:
+I would call it a little unpleasant surprise.
+
+Red:
+As you predicted, there are a lot of people who don't look kindly upon the presence of the Infected community, but at least we took care of a bunch of problems.
+
+Guard:
+Were our people at risk?
+
+Red:
+No one got exposed, although there are a few guys who should probably lay low for a while.
+
+Red:
+And we can't use the old supply tunnel anymore, after it got revealed by an explosion on the surface.
+
+Red:
+We'll need to scale down activities in Caladon for a few months.
+
+Red:
+It would seriously compromise the Infected community's day to day operations if anyone discovers our involvement.
+
+Guard:
+Agreed.
+
+Red:
+But the incident also allowed us to extract the engine without a hiccup, no traces.
+
+Red:
+So... are you really sure this thing can fly?
+
+Guard:
+I've ridden on something like it before.
+
+Guard:
+Over in Columbia, they use a smaller version in cities... what do they call them? Rotorcraft?
+
+Red:
+I've seen recon rotorcrafts when I was in the Ursus army—about the size of a motorbike, maybe a little bigger.
+
+Red:
+But I've never seen a flying machine this big before.
+
+Red:
+Where did you get this thing?
+
+Guard:
+Would you believe me if I said I found it in a trash dump?
+
+Red:
+I'm being serious.
+
+Guard:
+Well, it's half-true.
+
+Guard:
+This is the only surviving prototype from a Columbian military project to develop a hovering vehicle. It was abandoned seven years ago due to lack of funding.
+
+Guard:
+After letting it rot in a warehouse for all those years, they finally decided to scrap it.
+
+Guard:
+Now, the Columbians usually outsource the scrapping of military equipment to third-party contractors. There are just too many projects to handle themselves.
+
+Guard:
+But as you can imagine, the contractor didn't exactly follow military SOP. All they did was take it apart and sell the parts to a 'scrap recycler'.
+
+Guard:
+And this 'scrap recycler' sold the 'scrap' to us.
+
+Red:
+How did you even hear about the prototype?
+
+Engineer Andrey:
+That a-hole Dijkstra, of course.
+
+Red:
+Dijkstra? That weird Columbian Caster? The one who calls himself a 'Cracker'?
+
+Red:
+That's pretty amazing.
+
+Guard:
+So, what do you think, Andrey? Is the engine good to go?
+
+Engineer Andrey:
+It's got enough muscle, alright.
+
+Engineer Andrey:
+But it's a little big... could throw off the machine's balance.
+
+Red:
+Are you really sure about putting a Victorian engine on a Columbian flyer?
+
+Engineer Andrey:
+We'll find a way. Getting it in the air shouldn't be a problem, at least.
+
+Guard:
+Looking forward to it.
+
+Engineer Andrey:
+It's not like you could fly this with a standard driving license, though. What about pilots?
+
+Engineer Andrey:
+It needs two of them, and not many have the required skills, even in Columbia.
+
+Guard:
+Nine was concerned about that too, but Dijkstra said he had an idea.
+
+Engineer Andrey:
+Either way, we've got more pressing issues right now.
+
+Engineer Andrey:
+We need a whole new control system, and that's not something I can whip up for you. You'll have to find one.
+
+Engineer Andrey:
+Not just any old thing will do, either. It needs to be something on the scale of a mining platform control system.
+
+Engineer Andrey:
+We'll also need to replace the insulation plates for the Originium engine.
+
+Engineer Andrey:
+I already told Nine about all this, but I don't know if there's been any progress on that front.
+
+Guard:
+No worries, a trader will be bringing them over in a few days.
+
+Engineer Andrey:
+Are you talking about that bucket-head? He's got nerve, selling this stuff... How did he even get his hands on classified technology anyway?
+
+Nine:
+He's got his methods. Best not to ask too many questions.
+
+Guard:
+Oh, Nine! Hey there.
+
+Engineer Andrey:
+Well, you're the boss.
+
+Nine:
+Speaking of which, Guard, you may need to bring Captain Red over to meet with the trader.
+
+Nine:
+He wants someone from our side to be on site and 'have an understanding of the sourcing', in his own words.
+
+Guard:
+What a weirdo...
+
+Guard:
+But alright.
+
+December 24th, 1097, 6:44 P.M.
+
+Guard:
+So this is the rendezvous point.
+
+Red:
+Are you sure we can trust this guy?
+
+Guard:
+Hard to say... but Nine trusts him, at least.
+
+Guard:
+We've bought a lot of stuff from him, and in return he's asked us to do him a number of favors.
+
+Guard:
+He's eccentric, to say the least... you'll understand when you see him.
+
+Red:
+I have a hard time trusting shady merchants like this...
+
+A man wearing a strange helmet approaches from afar.
+
+He is accompanied by several large men wearing shabby armor.
+
+Red:
+Yup... He might as well be carrying a sign that says 'Shady' in big red letters.
+
+Cannot:
+Good morning, good afternoon, and good evening, my friends.
+
+Cannot:
+Mr. Guard! How good to see you again, and looking so well too.
+
+Guard:
+I wasn't expecting you to bring company. But I'm not seeing any trucks or vehicles?
+
+Guard:
+Where are the goods, Mr. Cannot?
+
+Cannot:
+No rush, my friend, no rush!
+
+Cannot:
+They're not in my hands right now, but they'll show themselves soon enough.
+
+Guard:
+I don't understand.
+
+Cannot:
+Have patience, friend, patience. They'll be here.
+
+A few minutes later, a convoy of armed vehicles appears on the horizon, kicking up a cloud of dust over the barren ground.
+
+Cannot:
+Here they come.
+
+Guard:
+Give me the binoculars.
+
+Guard:
+......
+
+Guard:
+Take cover! Take cover! They're armed with Originium cannons!
+
+Elba:
+That's... Volvort Kochinski's mark!
+
+Guard:
+I want an explanation, Mr. Cannot!
+
+Cannot:
+What you seek is right in front of you, my friend. You see that big one in the middle?
+
+Cannot:
+It's delivering a whole set of industrial-grade Originium engines and control systems from Columbia to Rim Billiton.
+
+Guard:
+You want us to raid an armed Columbian convoy?
+
+Guard:
+That's your plan? You'd need heavy artillery to even put a dent in that armor!
+
+Cannot:
+No need to get excited, my friend. Did you think I was going to make a customer do it themselves?
+
+Cannot:
+Just sit back, and watch.
+
+Guard:
+......
+
+About fifteen minutes later, the convoy passes through a canyon.
+
+Ballista turrets and Originium cannons are on full alert, sweeping the surroundings for potential threats.
+
+Driven by powerful engines, the heavily armored vehicles dash across the rugged landscape.
+
+It is a loadout intended to take them safely across the Terran wasteland to their destination.
+
+But there are very few guarantees in the wastes.
+
+A boulder suddenly stands up from the ground, reaching eight meters in height, dirt falling off it like a waterfall.
+
+It is a Metal Crab, camouflaged as a rock.
+
+The creature charges at the convoy.
+
+The cannons unload onto the beast, while the ballistae aim for its joints.
+
+However, their efforts prove futile at slowing it down.
+
+The Metal Crab smashes into the side of the large truck at full speed.
+
+The armored vehicle topples over violently, crushing one of its escorts.
+
+War cries and the sounds of clanging metal echo through the canyon.
+
+Hundreds of strangely dressed warriors charge out from the shadows, from behind rocks or cracks in the canyon walls.
+
+They throw explosives made from Originium crystals at the convoy, and fire at stragglers using improvised ballistae.
+
+It is a scene of chaos, as the convoy's guards try to flee for their lives.
+
+The outcome of the battle is never once in doubt.
+
+Guard:
+......
+
+Cannot:
+It would be nice if our friends over there could be a little more careful... I'll need to check up on the equipment later, make sure there's no damage.
+
+Cannot:
+See, I would have liked to deliver the goods earlier, but things didn't go quite as planned...
+
+Cannot:
+The convoy took a detour to avoid a Catastrophe, delaying their arrival.
+
+Red:
+(Draws weapon)
+
+Reunion Warrior:
+(Draws weapon)
+
+Cannot:
+Dear me. It seems we have a misunderstanding here.
+
+Guard:
+Mr. Cannot... you never told us you were a member of Rusthammer.
+
+Red:
+Reunion hasn't fallen so far that we need to traffic with bandits.
+
+Cannot:
+My, my! What a hurtful accusation.
+
+Cannot:
+And an untimely one, I should add.
+
+The Rusthammer warriors behind Cannot draw their weapons.
+
+Rusthammer Warrior:
+Watch your mouth, or I'll smash it in for you.
+
+Red:
+I'd like to see you try.
+
+Cannot:
+Hold on, my friends! Calm down!
+
+Cannot:
+We're not here to fight today, are we?
+
+Cannot:
+We're here for a reason. There's no need for us to go at each others' throats like wild animals.
+
+Cannot:
+Come now, Mr. Gareth, put away that weapon, will you? Didn't we agree that I would handle the negotiations?
+
+Elba:
+Gareth...?
+
+Gareth:
+That voice... Elba!?
+
+Elba:
+It's you! You're alive!
+
+Gareth:
+I never thought I'd see you here!
+
+Gareth:
+I didn't recognize you in that outfit.
+
+Reunion Warrior:
+Gareth? Gareth 'Swiftblade'? You're alive?!
+
+Reunion Warrior:
+W-Why are you with Rusthammer?
+
+Gareth:
+Oh, it's you guys!
+
+The warriors look at each other in bewilderment, still gripping their weapons, but seemingly unsure what to do with them.
+
+Gareth:
+Brothers, it's fine, I know them!
+
+Gareth:
+Put down your weapons! They're okay!
+
+Elba:
+It's really you...
+
+Elba:
+I thought you had...
+
+Gareth:
+It's a long story.
+
+Cannot:
+See, we're all friends here, aren't we? Maybe even relatives, if we go back a few thousand years. How about we find somewhere else to chat?
+
+Cannot:
+Per my agreement with your other leader, I'll deliver this equipment to your... base?
+
+Cannot:
+Mr. Gareth, would you kindly bring a few other men with us to deliver the goods?
+
+Gareth:
+Will do.
+
+Red:
+Are we seriously considering letting this guy into our base?
+
+Guard:
+It wouldn't be his first time. We just have to trust Nine's judgment...
+
+Red:
+Ugh...
+
+Cannot:
+Beautiful! Simply beautiful!
+
+Cannot:
+You really fixed the thing!
+
+Nine:
+I told you we could do it.
+
+Cannot:
+Reunion has surpassed the expectations of more than a few people. You certainly get things done.
+
+Cannot:
+So, forty Originium Ingots, as agreed? My humble commission is included in the price, of course.
+
+Nine:
+Thank you for your generosity, Mr. Cannot.
+
+Guard:
+......
+
+Red:
+What exactly are you planning, can-head? Just forty ingots for all this?
+
+Cannot:
+Why the mistrust, my friend?
+
+Cannot:
+Cooperation needs to start from trust. Conversely, considering our long history, it would do well for you to trust me a little more.
+
+Cannot:
+Think of it as an investment. I see bigger and better things in your future, and even more opportunities for us to work together.
+
+Cannot:
+Look at that hovercraft and tell me what you see.
+
+Red:
+A hovercraft.
+
+Cannot:
+I see OPPORTUNITY!
+
+Cannot:
+With that, you will be able to traverse the wastes at no less than two hundred kilometers an hour, zooming from nomadic city to nomadic city. How many organizations on Terra can claim that kind of capability?
+
+Cannot:
+Now, what you do with it is none of my concern, but I would suggest treating it with care... It's not exactly an easy thing to repair.
+
+Guard:
+Thank you for your assistance, Mr. Cannot.
+
+Cannot:
+Of course, my friend. Best of luck in your future endeavors.
+
+Elba:
+Rusthammer is... different from how I imagined.
+
+Gareth:
+A lot of people misunderstand them, but they're not concerned with what outsiders... with what 'civilized' people think of them.
+
+Elba:
+...Can I ask you a question?
+
+Gareth:
+What is it?
+
+Elba:
+Is Illa with you? What...
+
+Elba:
+What happened to her?
+
+Gareth:
+Illa?
+
+Gareth:
+Don't worry, she's fine.
+
+Gareth:
+She's just... not feeling too well.
+
+Elba:
+Are her Oripathy symptoms worsening?
+
+Gareth:
+No, no, it's not Oripathy, don't worry.
+
+Gareth:
+She... well, she's pregnant.
+
+Elba:
+P-Pregnant?
+
+Gareth:
+Can you imagine it? I'm going to be a dad!
+
+Elba:
+Oh... wow, so you guys have...
+
+Gareth:
+Don't worry, our Rusthammer brothers and sisters are taking good care of her. Those who are born onto the wasteland are blessed by the storms and the great earth.
+
+Elba:
+That's not what I was worried about.
+
+Elba:
+I just didn't think that you would... hehe.
+
+Elba:
+Anyway, congratulations.
+
+Gareth:
+Thanks.
+
+Gareth:
+I spent a lot of time thinking it over...
+
+Gareth:
+Whether it would be irresponsible to bring a new life into this world, only for them to grow up in pain and suffering.
+
+Gareth:
+But at last, Illa told me that she wanted to be a mother.
+
+Gareth:
+And so I decided that I would do everything I could to protect and educate my child, whatever awaits them in the future.
+
+Gareth:
+They will grow up to be a better person than I am.
+
+Elba:
+I... I really admire you.
+
+Cannot:
+Time to go, Mr. Gareth. Our work here is done.
+
+Gareth:
+Got it.
+
+Gareth:
+Goodbye, Elba. I thought I'd never see you again. It's been a blessed day.
+
+Gareth:
+Live long, Elba!
+
+Elba:
+You too.
+
+Cannot:
+Did you want to spend more time with your old friend? You can have it, you know.
+
+Gareth:
+It's fine. We've said what we needed to.
+
+Cannot:
+Very well then, let's go.
+
+Cannot:
+Well, look who's waiting for us. Did you have any unfinished business?
+
+Cannot:
+Impressive, by the way, to completely elude my notice.
+
+Nine:
+Do not underestimate Catastrophe Messengers.
+
+Elba:
+Do you remember me, Mr. Cannot?
+
+Cannot:
+Of course, Miss Elba.
+
+Cannot:
+I remember everyone I've ever met. That said, you've changed so much over the past year that I could barely recognize you.
+
+Cannot:
+It is always good to see old friends doing so well.
+
+Nine:
+You call everybody a 'friend'.
+
+Nine:
+Do you really understand how much weight that word carries?
+
+Nine:
+If we're truly 'friends'...
+
+Nine:
+Then I must ask you to answer a question before you leave. And answer truthfully.
+
+Nine:
+As you said yourself, cooperation needs to start from trust.
+
+Nine:
+So I need an answer that will develop that trust.
+
+Cannot:
+Certainly. Go ahead.
+
+Nine:
+Why are you helping us?
+
+Nine:
+Don't try to dodge the question, or get around it with sophistry.
+
+Nine:
+I want to hear the truth.
+
+Cannot:
+Hahaha...
+
+The man wearing a bucket on his head laughs wryly.
+
+For a moment, he gazes quietly at the Reunion member before him, his eyes cloudy under the heavy helmet.
+
+Cannot:
+It was never my intention to play with words.
+
+Cannot:
+But not everyone is able to accept the stark, unvarnished truth.
+
+Cannot:
+Some truths are better left unspoken, my dear Miss Nine.
+
+Nine:
+Reunion does not need lies and deception.
+
+Cannot:
+You have roamed the wastelands, the myriad realms of Terra. What have you seen?
+
+Cannot:
+Let me tell you what I've seen.
+
+Cannot:
+On the frontiers of Columbia, I saw the both Infected and the poor caught between barren soil and dangerous beasts.
+
+Cannot:
+Their human dignity is built upon flesh and blood, but beneath the bodies lies the gold that made the monster that is Columbia.
+
+Cannot:
+The people of Victoria cling to history and tradition like their lives depend on it. Their wealth and power serve only those who already have them—the greedy and self-serving noble class.
+
+Cannot:
+To them, the Infected might be tools in their political plots, or weapons against their enemies, but never human beings.
+
+Cannot:
+The 'most powerful country in Terra', and you could barely call it a civilization.
+
+Cannot:
+Two years ago, the Columbians turned a deaf ear to a Sami Snowpriest who prophesied that the End of Days is near.
+
+Cannot:
+The Columbians said the Snowpriest was mad, but what do they know?
+
+Cannot:
+They know nothing of Sami's long struggle against the frenzied darkness.
+
+Cannot:
+Sooner or later, this land... nay, the entire world must face the truth of that madness.
+
+Cannot:
+The dark shadow beneath the northern tundra, the great gloom deep in the ocean, not to mention ancient calamity buried under the earth.
+
+Cannot:
+Despite all this, the people of the land live on secluded islands, waging wars against each other with sticks and stones.
+
+Cannot:
+Time is running out. The world is falling apart, and change must come sooner rather than later!
+
+Nine:
+Is that why you're helping us?
+
+Cannot:
+One of the reasons.
+
+Cannot:
+I support any group that is trying to change things, be it Rusthammer or Reunion, or even those who merely sense the ship beginning to sink and are trying to save themselves.
+
+Cannot:
+Someone needs to do something.
+
+Cannot:
+I've provided assistance to many individuals and organizations, from Rusthammer to Reunion, to the Cyclopes of Sami, to the mystics of Sargon...
+
+Cannot:
+Unfortunately, no one has been able to come up with a solution.
+
+Cannot:
+But at the very least, I can point the way.
+
+Cannot:
+For better or for worse, we have to try.
+
+Nine:
+......
+
+Nine:
+Even if all you say is true, Mr. Cannot, I'm still not convinced.
+
+Nine:
+Saving the world from danger is beyond Reunion's ability. It's not our job.
+
+Cannot:
+I understand. But it can be a catalyst. We must start the engine before we discuss which way to go.
+
+Nine:
+You're better off looking to the idealists of Rhodes Island.
+
+Cannot:
+Rhodes Island alone is not enough, despite the talent they've gathered.
+
+Nine:
+Have you heard of what they did in Kazimierz?
+
+Cannot:
+Of course. I was there.
+
+Cannot:
+They made a fine move, but one move will not be enough to bring victory in this great game. No one is more aware of that than themselves.
+
+Cannot:
+Even the resplendent fire burning in the Radiant Knight's heart is not enough to drive the dark clouds from the land.
+
+Cannot:
+Of course, it is still gratifying to see people like them, in this world of pain and hatred.
+
+Cannot:
+'Even as dark clouds gather, the spark of hope glows bright.'
+
+
+

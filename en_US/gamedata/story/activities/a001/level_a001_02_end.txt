@@ -1,0 +1,222 @@
+Grani:
+Damn, these bounty hunters sure are persistent!
+
+Carol:
+Eek! Bugs!!
+
+Carol:
+Gross!
+
+Grani:
+Yuck, they're all sticky...
+
+Bounty Hunter:
+Hurry up and surround them! Don't let them escape this time!
+
+Bounty Hunter:
+Don't worry if you can't beat that kid. Just keep him occupied until you can capture that village girl!
+
+Grani:
+Carol! Stay close to me!
+
+Carol:
+Ahh...!
+
+???:
+Cover your ears, you two!
+
+Bounty Hunter:
+Huh? Who are you? Where'd you come from, fatty?
+
+Bounty Hunter:
+Gyaaaaahhh—!
+
+???:
+Hmph. Fatty? I'm just big-boned.
+
+Grani:
+That sounded like... explosives?!
+
+???:
+Just a flashbang. Loud, but not going to kill anyone! Pretty good for scaring away bugs and other critters though!
+
+???:
+Let's get out of here while they're still reeling! We need to find some place safe first!
+
+Grani:
+Carol! Don't lead us into some tiny attic this time!
+
+Carol:
+Um, over here then!
+
+Clear \ Visibility: 14 km
+
+Forest outside the village
+
+Carol:
+These woods are quite remote. Very few people should know their way around here except me and my childhood friends...
+
+Grani:
+Hold on, Carol, don't let your guard down yet.
+
+???:
+Tch.
+
+???:
+My saw, ammo, and explosives...
+
+???:
+I've put all my weapons down. Now, can we talk about that treasure?
+
+???:
+I'm also a bounty hunter, but I'm not greedy like those guys back there. Those idiots were basically errand boys anyway; they wouldn't have been able to find the treasure regardless.
+
+???:
+Instead of taking the risk of trying to force the information out of this young chief here, it'd be much more efficient to just work with you.
+
+Grani:
+Thanks for helping us out back there, but we can't discuss the treasure just yet.
+
+???:
+You're not a bounty hunter, are you? I can tell from a glance.
+
+???:
+I, on the other hand, know all the tricks of the trade.
+
+Grani:
+So, I assume you know about the situation with the bounty hunters in Dewville?
+
+???:
+Of course. The Torrent Troupe, the Florence Fiends, the Lublin League, the Valk Vanguards...
+
+???:
+All the bounty hunters have been scouring this area for the last few days. To be honest, it's only a matter of time until someone finds the treasure.
+
+???:
+But no matter who finds it, all the different factions are gonna end up spilling blood fighting over it.
+
+???:
+At that point, not only will Dewville get nothing in return, but it might even get wiped off the face of the map. I'm sure you two understand that.
+
+Grani:
+...
+
+Grani:
+So, what can you offer us?
+
+???:
+I'm experienced in wilderness survival, hunting, cracking codes, dismantling traps, and more. Of course, I can hold my own in a fight.
+
+???:
+You two are probably lacking in all of these things.
+
+Grani:
+For starters, how should we address you?
+
+Big Bob:
+Call me Big Bob.
+
+Grani:
+Uh, give me a second here. I need to talk to the Chief first.
+
+Grani:
+Big Bob won't be able to hear us from over here.
+
+Carol:
+I... can't trust a bounty hunter...
+
+Carol:
+He could be baiting us into a trap, or working with other bounty hunters. We can't let any of these things happen...
+
+Grani:
+Carol, have you seen this Big Bob before?
+
+Carol:
+No... I clearly remember the faces of every single bounty hunter who set foot in our village, especially those that caused us harm.
+
+Grani:
+It'll definitely be risky to work with him.
+
+Grani:
+However, things are only going to more complicated over time.
+
+Grani:
+We might have to work with him if we want to find this treasure as soon as possible.
+
+Carol:
+What about that coworker of yours, Grani? Could she help?
+
+Grani:
+Can't say for sure. She's not that easy to get along with. Besides, she's a bounty hunter herself.
+
+Grani:
+If possible, I'd like to have the situation under control before I say anything to her.
+
+Carol:
+Let me think about it.
+
+Carol:
+I can't just straight up tell him where the treasure is. Maybe I can just give him some hints, like dangling a carrot in front of him.
+
+Carol:
+Do you think that would work?
+
+Grani:
+Hmm, that's probably the best option.
+
+Grani:
+I'll keep an eye on him. If I sense anything wrong, I'll get you out of the forest right away.
+
+Grani:
+Carol, I'm going to keep you safe.
+
+Big Bob.:
+So? At least tell me what the plan is.
+
+Grani:
+We need a route that takes us to Mt. Terrat in the shortest time possible.
+
+Big Bob.:
+If you want to reach Mt. Terrat, we're going to have the cross the northern part of the forest.
+
+Big Bob.:
+Unfortunately, that part of the forest is hotly contest territory for the bounty hunters.
+
+Big Bob.:
+I bet there plenty of them out there already waiting to ambush us. However, I'll take you along a safe path.
+
+Grani:
+Big Bob, we have to lay down some conditions before we agree to work with you.
+
+Big Bob.:
+Of course. Isn't that what we were going to talk about next anyway?
+
+Big Bob.:
+Just tell me how we're going to split the treasure.
+
+'Captain':
+I'm not thirsty! I don't need your water!
+
+Bounty Hunter:
+Fine, fine. Anyway, Captain, are we still gonna keep looking for those two kids?
+
+'Captain':
+What kind of question is that? Did you forget why we're even out here in the first place?
+
+'Captain':
+We're a long way from the nearest city, and we barely have any signal here. Even though we probably can't count on backup, the other guys are in the same situation. This is the best chance we're gonna get!
+
+Bounty Hunter:
+But that monster headed in the same direction too. We...
+
+'Captain':
+What are you scared of? She might know how to fight, but don't forget that we know the terrain better than she does. Just wait 'til she discovers all the traps we laid for her!
+
+'Captain':
+Treasures exist for us to take! Monsters exist for us to hunt!
+
+'Captain':
+I will have it all!
+
+
+

@@ -1,0 +1,362 @@
+Ash:
+Rangers's map stops here.
+
+Ash:
+It's all up to us now.
+
+Blitz:
+Who knew this cave would be so big?
+
+Blitz:
+It's like the ground beneath the town is completely hollow.
+
+Ash:
+Are the explosives okay?
+
+Schwarz:
+We've got the strongest batch from the safehouse here.
+
+Ash:
+I hope Lord's plan works.
+
+Schwarz:
+I'm afraid it won't be that simple. Look there...
+
+Ash:
+...I hope it's not what I think it is...
+
+Originiutant Infected:
+Gaa...
+
+Blitz:
+That's... a person?
+
+Originiutant Infected:
+Gaa...
+
+Schwarz:
+Whatever it is, it's going to die and that's enough.
+
+Blitz:
+I won't be surprised at whatever *profanity* showing up now...
+
+Ash:
+Keep moving! Don't get caught up in a fight with them. We don't have time to waste in here!
+
+Blitz:
+Understood.
+
+Schwarz:
+...Why would Long Spring have a facility like this underneath it?
+
+Blitz:
+Cohen... Where are we?
+
+Ash:
+I knew it! *profanity*, I knew it!
+
+Blitz:
+So this is where most of the lab ended up.
+
+Ash:
+Now that I think about it, we were too careless.
+
+Ash:
+We've lived in this town for so long and we had no idea at all.
+
+Blitz:
+It's that psycho behind all this.
+
+Blitz:
+What's that smell...?
+
+Ash:
+What else could it be? That's the smell of death.
+
+Schwarz:
+......
+
+Ash:
+Stay frosty. And close.
+
+Blitz:
+What are these?
+
+Blitz:
+Cages? So many?
+
+Schwarz:
+All corpses... people and beasts together...
+
+Ash:
+This is the work of Lev Klitschko, a man both mad and cruel beyond imagination. I never should've tried to take him alive. He should have a bullet in his head.
+
+Blitz:
+Your typical madman wouldn't do something this awful.
+
+Schwarz:
+Wait.
+
+Schwarz:
+...There's someone alive in that cage.
+
+Drudge:
+Heh.
+
+Drudge:
+Look who's here?
+
+Ash:
+......
+
+Blitz:
+It's that Drudge character.
+
+Ash:
+I'd recognize the *profanity* anywhere.
+
+Drudge:
+Oh, it's you. The mercenaries.
+
+Drudge:
+I'm so glad to see you.
+
+Drudge:
+I know we've had our differences in the past... but let's set them aside for now.
+
+Drudge:
+I have a feeling you're looking for that scientist... and I know where he is.
+
+Drudge:
+We've got a common enemy. And the enemy of my enemy is my friend.
+
+Ash:
+So brazen I'm sick to my stomach.
+
+Drudge:
+That Feline over there, I know you.
+
+Drudge:
+Your skills are pretty easily recognizable. And one can hear a lot in the mercenary market in Columbia.
+
+Drudge:
+You are a killer, aren't you?
+
+Schwarz:
+......
+
+Drudge:
+Rhodes Island hired you, meaning even they have quite some dirty work to do.
+
+Drudge:
+Compared to others, you must know better how to weigh up the pros and cons. Let's have a talk, shall we?
+
+Schwarz:
+Shut up. Or I can help you with that.
+
+Drudge:
+Shame. I thought people like you would be more realistic.
+
+Ash:
+Open the cage.
+
+Schwarz:
+What...?
+
+Ash:
+Don't worry about it. Just open the cage.
+
+Schwarz:
+......
+
+Schwarz:
+Got it.
+
+Drudge:
+Good call. We all know the score.
+
+Ash:
+Yeah. I sure do.
+
+Drudge:
+Hold on, what are you doing?
+
+Drudge:
+Agh!!!
+
+Drudge:
+Hey! You crazy...
+
+Drudge:
+You...
+
+Drudge:
+Help me......please......
+
+Drudge:
+Please...
+
+Drudge:
+......
+
+Drudge:
+Please... stop.
+
+Ash:
+Hah. You can still talk. Guess I'm not done.
+
+Ash:
+And this one's for Dr. Miarow.
+
+Blitz:
+Okay, okay, he's had enough.
+
+Ash:
+Phew...
+
+Blitz:
+You went a little overboard there.
+
+Ash:
+What... you feel bad for him?
+
+Blitz:
+Man, you almost killed him.
+
+Blitz:
+Totally rearranged his face.
+
+Blitz:
+Save your strength. We've still got work to do.
+
+Ash:
+You're right.
+
+Schwarz:
+Pfft.
+
+Ash:
+What happened?
+
+Schwarz:
+Nothing. I'm just feeling a lot more relaxed.
+
+Ash:
+You know what? Me too.
+
+Blitz:
+If he's locked up in here, he must be part of Lev's plan.
+
+Ash:
+I'm not surprised.
+
+Schwarz:
+I don't see anyone here...
+
+Schwarz:
+Might be an ambush ahead. Keep cautious.
+
+Levi:
+Well well well, look who it is. More visitors to my laboratory?
+
+Levi:
+It's been a while, my friends from Team Rainbow.
+
+Levi:
+You're just in time.
+
+Levi:
+No... you always come at precisely the right time.
+
+Ash:
+Tch.
+
+Levi:
+Don't bother. It's bulletproof glass.
+
+Levi:
+I applaud your decisiveness, squeezing the trigger without hesitation. Don't even wait for an end to our little prologue here.
+
+Levi:
+But we have a show to put on. A great opening requires a great audience, and a complete opening dialogue.
+
+Levi:
+Today is a day of praise for the great work of the Creator. And that Creator is none other than yours truly.
+
+Ash:
+Creator? That's quite a title you've given yourself.
+
+Ash:
+You're a *profanity* psycho!
+
+Levi:
+Psycho... hah. The mediocre always use this word to describe ideas and concepts they cannot understand.
+
+Levi:
+Behold this world!
+
+Levi:
+Completely different chemistry... totally inverted laws of physics... the flower of science blooms in exploration and doubt. And the most fertile soil lies in the land of the unknown!
+
+Levi:
+And now, I have succeeded.
+
+Levi:
+Do you see? Can you feel? The surface appearance is similar, but it all functions on radically different principles!
+
+Levi:
+This is the evolution of life. This is the iteration of existence.
+
+Levi:
+Originium is the truth of this world. You should accept that. Don't fear it.
+
+Levi:
+Welcome to the future.
+
+Ash:
+Don't you have even the slightest moral compunction over what you're doing?
+
+Ash:
+What does human life even mean to you?
+
+Levi:
+Human nature is weak, good and evil are subjective definitions of weakness, and what we call guilt is but one of the myriad cognitive signals produced by the brain.
+
+Levi:
+And the science I pursue is never swayed by such flimsy concepts.
+
+Levi:
+Don't delude yourselves that even in this world you still bind your minds with these meaningless ideas.
+
+Levi:
+Even electronic information technology and nuclear energy were originally designed to help us kill each other more effectively.
+
+Levi:
+Would you add a new layer of definition to science? Force everything to fit your fragile spiritual needs?
+
+Levi:
+Nonsense.
+
+Levi:
+But I forgive you.
+
+Levi:
+You don't have to understand. I'll allow you to go on, unknowing. Primitive thinking is a common form of ignorance. It's not your fault, and I forgive you.
+
+Levi:
+That's the end of my speech. And in addition to my forgiveness, I also offer you my thanks for waiting so patiently.
+
+Levi:
+Now it is time for praise. Give your praise to this entirely new life form.
+
+Levi:
+Praise be! Praise be! Praise be!!!
+
+Ash:
+No matter what, we absolutely can't let that thing make it to the surface.
+
+Blitz:
+You stall it! I'll get the bomb ready!
+
+
+

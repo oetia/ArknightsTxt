@@ -1,0 +1,311 @@
+Amiya:
+Doctor, I have to blame you for what happened this time.
+
+Amiya:
+Everyone has been injured to some degree. As the leader, you're responsible for that!
+
+Amiya:
+Gummy has already finished treating them, but it's going to sting if they get in the water.
+
+Amiya:
+Jeez, you need to show some more reservation when leading your teams.
+
+Amiya:
+Um, it's not like I'm trying to trample on your good will...
+
+Amiya:
+Is, is that so? Miss Savage picked it out for me... I was so worried that you wouldn't like it--
+
+Amiya:
+W-wait! Don't you try to play that trick on me, Dr. {@nickname}!
+
+Amiya:
+Good grief... And I have a word for Mister Hellagur as well!
+
+Amiya:
+I explicitly told him to keep an eye on you, so why did he turn a blind eye...
+
+Amiya:
+Until a contract is signed, Rhodes Island is not allowed to intervene in the internal affairs of an independent city-state.
+
+Amiya:
+If we get caught up in legal repercussions, Rhodes Island will be in a very tight spot.
+
+Amiya:
+Yes, I know.
+
+Amiya:
+Doctor, you really did something very dangerous.
+
+Amiya:
+...Why were you fighting with crazed fans anyway! If you're an adult, you should act like one.
+
+Amiya:
+No matter how much you like a band, you need to be nice to the other audience members, and you certainly can't pick fights with them!
+
+Amiya:
+(Shush!)
+
+Amiya:
+No more questions! That wraps up this incident! Okay!
+
+Amiya:
+Be more careful next time, okay?
+
+Amiya:
+All right!
+
+Amiya:
+Doctor, come with me. I found lots of beautiful seashells on the other side of this reef. Beaches are absolutely fascinating!
+
+Amiya:
+The water isn't cold... Hmm...
+
+Amiya:
+Come, Doctor, it's over here!
+
+Amiya:
+Eek! Doctor! Please don't do that!
+
+Amiya:
+Darn it! Take this! Ahaha...
+
+Amiya:
+Ehehe...
+
+Herman:
+Dr. {@nickname}, nice to see you.
+
+Herman:
+Ceylon told me many things about Rhodes Island, so I've been very keen on speaking with you.
+
+Herman:
+How about taking a walk with me?
+
+Herman:
+Thank you, Doctor of Rhodes Island.
+
+Herman:
+Had you not helped my daughter, her recklessness would have ended dismally.
+
+Herman:
+I trained Cronin myself. His instincts may be base, but he's also very capable. That's why I turned a blind eye on him all these years.
+
+Herman:
+However, as of the last few years, he's gone down a dangerous road, and I can no longer trust him.
+
+Herman:
+This time, I left Schwarz here on purpose just to see if he's still trustworthy.
+
+Herman:
+The results were disappointing.
+
+Herman:
+...I enjoy walking along this part of the beach.
+
+Herman:
+That's because my wife, Barbara, sleeps deep beneath these waves.
+
+Herman:
+I still remember that day; the weather was a bit warm, and the sunset was splendid. She turned to me here and said, 'If only we could stay here forever.'
+
+Herman:
+In the blink of an eye, I was left behind.
+
+Herman:
+Doctor, turn around and take a look.
+
+Herman:
+Do you understand now? This city is a paradise I built for her.
+
+Herman:
+As for why I'm telling you this...
+
+Herman:
+Because I can tell that you and I are the same type of person.
+
+Herman:
+In this world, not everything can be resolved with good. Sometimes, we must get our hands dirty.
+
+Herman:
+For me, good and bad lost their meaning a long time ago. The only things that matter to me are results, and this city.
+
+Herman:
+I'm not looking for understanding, Doctor.
+
+Herman:
+If I needed my daughter's understanding, we would not have become like we are now.
+
+Herman:
+Besides, do you think she'd really understand if I told her?
+
+Herman:
+No. She still needs a long time to understand that the world isn't as black and white as she thinks.
+
+Herman:
+Schwarz hopes that she will never understand, but I... Unfortunately, I lost the ability to make that choice.
+
+Herman:
+Doctor, Ceylon would like to join you, so I asked Schwarz to accompany her. I'm fine with it.
+
+Herman:
+After all, this Siesta is no longer her paradise.
+
+Herman:
+I've seen the new geological report. Sooner or later, Siesta will be consumed by the magma.
+
+Herman:
+We've managed to postpone that day's coming. I am grateful for the effort that you've all put forth today.
+
+Herman:
+Over the years, I've been looking for a solution to this matter. I have found it, but the price is almost as great.
+
+Herman:
+The new development zone I've been working on will become a brand new mobile city. By the looks of things, it will become the next Siesta.
+
+Herman:
+I'm deeply attached to this place, but that doesn't mean that I can ignore the volcano that slumbers fitfully beside me.
+
+Herman:
+After the end of this Obsidian Festival, we will begin moving into the new mobile city. As for Siesta, we will let her rest until the magma reclaims her.
+
+Herman:
+I heard that this ocean is bounded by land. Some have told me that this isn't a real ocean. It may be wide, but it's not boundless.
+
+Herman:
+In that case, we will continue to follow the coast. Perhaps one day, we will finally return to our starting point, the real starting point.
+
+Herman:
+However, by that time, this beautiful beach, the great Obsidian Festival, and this coastal city with its volcanic smell...
+
+Herman:
+The Siesta that holds the memory of countless people, will be gone forever.
+
+Herman:
+Perhaps one day, you'll be able to tell her what I've told you here today.
+
+Herman:
+Perhaps that day will never come.
+
+Herman:
+And one day, should she perhaps need my help, you can come find me.
+
+Herman:
+No matter where Siesta is or what it looks like, this city will forever support her.
+
+Herman:
+Or rather, I should say... As long as Siestans exist, Siesta also exists. Within the hearts of young people like her are where Siesta really is.
+
+Herman:
+Now, seize the day, and enjoy the Obsidian Festival.
+
+Herman:
+At least until we find another suitable location, we'll have to suspend our collaboration with Siren Records. I have a lot of things to discuss with them.
+
+Herman:
+Schwarz seems to have something to tell you. She's over there.
+
+Herman:
+If I keep talking for much longer, she won't have anything to say. You should hear it from her.
+
+Schwarz:
+...Sir.
+
+Herman:
+Don't mind me. This is between you youngsters.
+
+Schwarz:
+Hello.
+
+Schwarz:
+Don't worry, I'm not your enemy anymore.
+
+Schwarz:
+Oh, hello to you too, stranger.
+
+Schwarz:
+I'll pass for now.
+
+Schwarz:
+Actually, I wasn't really going to say anything special.
+
+Schwarz:
+At first, I was going to give you a good beating. Miss Ceylon never have been subjected to such danger.
+
+Schwarz:
+But, I have to thank you as well. Without your help, we might never have been able to clear up our misunderstanding.
+
+Schwarz:
+Truthfully, I did not want her getting involved with these things, but perhaps you were right. She has her own ideas, and her own responsibilities.
+
+Schwarz:
+...Thank you. Were it not for you, everything I loved would have been destroyed by the volcano.
+
+Schwarz:
+I am in your debt.
+
+Ceylon:
+Doctor!
+
+Ceylon:
+Hey, Schwarz, what are you doing here?
+
+Schwarz:
+...Milady?
+
+Ceylon:
+Perfect timing. I have something important to announce!
+
+Ceylon:
+I am going to submit my resume to Rhodes Island.
+
+Ceylon:
+As I said, I'm interested in joining your company.
+
+Ceylon:
+Heheh~ I already asked Miss Eyjafjalla and Miss Skyfire about it. They said I have their recommendations.
+
+Ceylon:
+After seeing your abilities throughout this whole situation, I've come to this decision after careful deliberation.
+
+Schwarz:
+But Rhodes Island is not a simple drug company...
+
+Ceylon:
+That's why I want you to come with me.
+
+Ceylon:
+By the way, my father already approved of it.
+
+Schwarz:
+...I know. If that is what you desire, milady.
+
+Ceylon:
+So, Doctor, we're going to be colleagues from now on!
+
+Ceylon:
+Come on, Doctor! The experiment is about to start!
+
+Ceylon:
+Ah fine, forget it. Schwarz, go drag Doctor over here!
+
+Schwarz:
+...Your voice is loud enough to crack the ceiling, milady. I'm sure the Doctor has heard it.
+
+Schwarz:
+...Doctor, I don't know what you're waiting for, but in times like these, Miss Ceylon won't care what we're thinking.
+
+Schwarz:
+It would behoove you to walk over there yourself. It'd be a bit unsightly if you really wanted me to carry you over.
+
+Schwarz:
+Very well.
+
+Schwarz:
+Please wait a moment, milady. We'll be there shortly.
+
+Schwarz:
+Let's go, Doctor.
+
+
+

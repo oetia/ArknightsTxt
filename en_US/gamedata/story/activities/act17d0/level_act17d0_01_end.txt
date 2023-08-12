@@ -1,0 +1,404 @@
+Schwarz:
+Last one here!
+
+Rangers:
+Everyone else!? Any wounded?
+
+Liskarm:
+No worries here.
+
+Franka:
+None here, either.
+
+Rangers:
+Communications equipment?
+
+Liskarm:
+Unharmed.
+
+Rangers:
+Is this its burrow? ...Strange.
+
+Franka:
+They seemed like sand beasts, at least?
+
+Liskarm:
+Sand beasts, of this size? Over two meters long?
+
+Rangers:
+...I've spent the better part of my life in these wastelands, but never have I seen a sand beast capable of digging holes.
+
+Schwarz:
+...These creatures have Originium crystals on their bodies.
+
+Liskarm:
+...Mm...
+
+Liskarm:
+Possibly biological mutations caused by Originium pollution, then?
+
+Franka:
+There's no nomadic cities, no factories and no mines. How does Originium pollution even happen here?
+
+Liskarm:
+Could it have been a Catastrophe's fault?
+
+Franka:
+You'd be underestimating nature. Wildlife knows Catastrophes far better than we do. These creatures would've been the first to avoid Originium pollution.
+
+Franka:
+Cities can be torn apart by Catastrophes while the wildlife emerges untouched
+
+Franka:
+—Nature in this world is ruthless when it wants to eliminate you. If you don't have some way of dealing with Originium, your time as a living species won't be long.
+
+Schwarz:
+I think... I have a hypothesis. Like ordinary Originium Slugs, the body's outer shell could have absorbed Originium into its makeup, while its innards remain clean and uncorrupted.
+
+Liskarm:
+On that note, has P.R.T.S ever recorded any similar cases?
+
+Franka:
+None. Not even for the Ironforge City leakage incident in Columbia, and that's the first thing you'd think of.
+
+Rangers:
+Sand beasts are docile creatures by nature. Originium shouldn't change them so drastically, and I can't imagine anything short of Arts would make them outright aggressive.
+
+Rangers:
+Stay vigilant. Don't let your guard down.
+
+Schwarz:
+...Arts? A Caster? I just hope this doesn't complicate things for us.
+
+Rangers:
+Don't let it worry you too much. We'll continue on as we were, anyhow.
+
+Schwarz:
+Understood.
+
+Liskarm:
+Is this... a Rhodes Island emergency rescue signal?
+
+Franka:
+Is it another Rhodes Island field team, maybe?
+
+???:
+...oh, thank hea......meone finally answered!
+
+???:
+...pl......help us......equesting support...
+
+Liskarm:
+This is a Rhodes Island Field Personnel Team. If you receive this, please reply.
+
+???:
+This is......Long Spring......Watchtower 33...
+
+???:
+...mob......currently...
+
+???:
+...they've come in!
+
+Rangers:
+Calm down! Operator, tell us what's happened!
+
+Liskarm:
+The signal's very poor. They're coming through intermittent.
+
+???:
+...help us......plea......ing you—
+
+Liskarm:
+......
+
+Franka:
+Well, that's not good.
+
+Schwarz:
+What does Watchtower 33 refer to?
+
+Rangers:
+From the sound of it, it seemed like a Rhodes Island safehouse's code name.
+
+Franka:
+A safehouse? The mission brief didn't mention any safehouses around here.
+
+Rangers:
+...Mm...
+
+Rangers:
+Truthfully, in a few areas, Rhodes Island will make a habit of hiding some safehouses, out of the way. For use in very particular field missions.
+
+Schwarz:
+But we ourselves don't know where Watchtower 33 is.
+
+Rangers:
+Long Spring... Long Spring...
+
+Rangers:
+That name rings a faint bell. If you could let me see the map for a second.
+
+Rangers:
+Hmm...
+
+Rangers:
+Here, if I'm not mistaken. Following about twenty kilometers north from Trumhill, you should find another canyon. That canyon had a little village near it, I'm sure of it.
+
+Rangers:
+That village, years ago, had a well. One of the very few reliable water sources for miles around.
+
+Liskarm:
+So that's why it's Long Spring?
+
+Franka:
+So. What do we do next? Change of plans?
+
+Liskarm:
+Or we can try and make for Phecon overnight, get in touch with the branch office and see what assistance we can procure from them.
+
+Rangers:
+...I worry the operator in the safehouse may not last long enough for that.
+
+Rangers:
+All of you, keep going until you reach Phecon, and find some support or other there if you can.
+
+Rangers:
+I'll head for Long Spring and see what the situation is. Don't you worry, I know this land very, very well. Indeed, I can afford to be more flexible on my lonesome.
+
+Rangers:
+If things get out of hand there, I'll head back for Phecon promptly and join up with you all.
+
+Liskarm:
+That...
+
+Schwarz:
+I object.
+
+Rangers:
+Oh?
+
+Schwarz:
+I'm aware how wary it is of me to say our sand-burrowing mutants and the safehouse's distress call might not just be coincidence, but the Sargon barrens demand we must maintain vigilance.
+
+Schwarz:
+We are not clear about the area surrounding Long Spring. Given we are not, you would gamble more alone than you can afford, Rangers, sir.
+
+Liskarm:
+I'd also like to recommend we move for Long Spring as one. If things aren't friendly for us, we can still cover for each other, especially during a retreat.
+
+Rangers:
+...Mm...
+
+Rangers:
+That does make sense.
+
+Rangers:
+Yes, you're right. The old man will listen. I ought to at my age, anyhow. Can't be as spry and reckless as I was in my younger years.
+
+Drudge:
+This thing is ugly as sin.
+
+Levi:
+Ugliness is a personal thing subject to the eye of each beholder. You ought to be seeing through to what this creature embodies, signifies. See through to the myriad array of evolutionary possibilities that it testifies to.
+
+Levi:
+Order is but our own arbitrarily imposed concept which nature suffers. All the world and its beings were, in their primordiality, chaos seized by impermanence.
+
+Levi:
+(Russian) Of course, I don't expect any of your sort to understand that in the first place. It's only natural your soft, ignorant little brains can't grasp the grand strokes of the evolutionary scheme.
+
+Drudge:
+A language I know, please!
+
+Levi:
+Of course, dear sir, setting apart the matter of whether or not it is ugly to you. I must say you are not seeming wholly satisfied with it.
+
+Levi:
+Else you would not be looking for me in the first place.
+
+Drudge:
+It still isn't strong enough, schoolboy! Your little beastie couldn't even make the lord's escort blink!
+
+Levi:
+Surely you do not suppose it was down to the sheer incompetence of your ignorant little mercenaries?
+
+Levi:
+These mutant creatures are weapons, just weapons. If they knew tactics for themselves, you could throw every mercenary of yours into the garbage heap the next day.
+
+Mercenary:
+Bite it, old coot! I'm going to twist your goddamn head off.
+
+Drudge:
+Hold it!
+
+Drudge:
+*Sigh* (facepalm).
+
+Drudge:
+Listen, schoolboy.
+
+Drudge:
+I'm not backing your research so you can talk my ear off about a bunch of high crap. You're here, for me, to solve practical problems.
+
+Drudge:
+I acknowledge it, no mistake. Your research is something else.
+
+Drudge:
+But! If you can't help me depose of my father with it, then you and your little shop of horrors can walk yourselves into the goddamn garbage heap.
+
+Drudge:
+My patience is limited.
+
+Levi:
+As is mine. I have explained this to you over and over already, and I do not wish to do it again, because I do not wish to waste my time.
+
+Drudge:
+You think you can fool me!
+
+Drudge:
+I've poured money into your little 'experiments' for half a year, the likes of which you'll never see in your entire goddamn life. And I don't think I've seen an equal return on it!
+
+Drudge:
+Where's that 'cruel and frightening army' you promised me?
+
+Drudge:
+Where's that 'might to make the heart know fear', huh?
+
+Drudge:
+You think all it takes to keep me happy is a bunch of ugly, swollen, light-up sand beasts?
+
+Levi:
+What does it take for you to understand? The fruits of scientific research need time to grow swollen.
+
+Levi:
+If money was all it took to accelerate the march of science, to ripen the fruit, I would have long since flown away to the moon by now.
+
+Drudge:
+Enough of that. I'll give you two more days. And I want to like what I see.
+
+Levi:
+(Russian) Imbecile.
+
+Drudge:
+You speak in a language I don't understand one more time, and I'll throw you and all your little creations into the barrenlands to make merry until the sun goes down.
+
+Drudge:
+Go on, try me.
+
+Levi:
+*Sigh*.
+
+Levi:
+Fetch me some corpses.
+
+Drudge:
+Come again?
+
+Levi:
+Bring me corpses! People's corpses, corpses like the ones you leave behind! Any will do.
+
+Levi:
+Of course, ones blighted by the Originium infection will do even better.
+
+Drudge:
+What the hell do you need those for?
+
+Mercenary:
+You bastard old coot. Now you want to insult the dead, huh!
+
+Levi:
+Did you not want the 'might to make the heart know fear'?
+
+Levi:
+Then do not hang yourself up on all that pernicious, useless witter you might otherwise call 'ethics'.
+
+Levi:
+The corpses, bring them to me. I would like to have you see something interesting.
+
+Drudge:
+......
+
+Mercenary:
+Chief, this goes completely against the Lord Ameer of Bayalir's great commandments. The old coot is trying to dupe you.
+
+Drudge:
+You want to take the dead and raise me some Zhayedans?
+
+Levi:
+I do not know whatever this ghoulish thing you call a Zhayedan is, but rest assured you will find confidence in the fruits of my scientific research.
+
+Mercenary:
+Chief, I don't think...
+
+Drudge:
+Shut up!
+
+Drudge:
+Old boy, I want you to listen carefully.
+
+Drudge:
+You might think you're the peak of intelligence. You might think you've seen every move on the board. You might think there's nothing you don't know.
+
+Drudge:
+But don't think about playing a fast one on me. I've gotten to know your kind all too well.
+
+Drudge:
+Everyone like you dies because they think they're too goddamn smart to die.
+
+Drudge:
+The only reason I still put up with you is because you're still useful.
+
+Drudge:
+I can get you what you need.
+
+Drudge:
+But don't disappoint me. Because you will not like what comes after.
+
+Levi:
+Well, then, what else can I possibly say?
+
+Levi:
+Good luck to you.
+
+Drudge:
+You're still alive. Don't forget who you have to thank for it.
+
+Drudge:
+Without me, your research would amount to a pat of bullshit.
+
+Drudge:
+If not for me, you'd be six months dead, rotting in this ore mine.
+
+Drudge:
+(Sargonian) Head in your ass.
+
+Drudge:
+I'm leaving you two here. Watch him.
+
+Mercenary:
+Got it, boss.
+
+Levi:
+(Russian) Gaggle of imbeciles. Every second I spend talking to you is spent killing off my precious braincells.
+
+Levi:
+(Russian) Originium...
+
+Levi:
+(Russian) It boggles my mind that this world has such an extraordinary existence gracing it.
+
+Levi:
+(Russian) Yet somehow, these locals fear it in their ignorance. Fear what evolution this great power brings with it.
+
+Levi:
+(Russian) But no, oh, of course, they should be afraid.
+
+Levi:
+(Russian) For the fool fears the unknown. The fool fears might. The fool fears progress...
+
+Levi:
+(Russian) Ignorants, oh, you ignorants.
+
+
+

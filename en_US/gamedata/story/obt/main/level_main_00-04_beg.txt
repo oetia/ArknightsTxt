@@ -1,0 +1,146 @@
+Dobermann:
+Ace!
+
+Ace:
+Looks like you all made it out alive.
+
+Dobermann:
+This isn't the rendezvous point... Why are you here alone?
+
+Reunion Member:
+They're the ones who escaped from the central area! Don't let them get away!
+
+Dobermann:
+Tsk, they just keep coming after us!
+
+Dobermann:
+Team E2, prepare to intercept--
+
+Ace:
+Dobermann, don't get overzealous. Retreating is our top priority!
+
+Ace:
+Amiya, Dr. {@nickname}! Quick!
+
+Dobermann:
+It's not safe here either.
+
+Ace:
+That's right. We still have to press on to the next rendezvous point.
+
+Dobermann:
+Where's your team?
+
+Reunion Member:
+Where are you rats hiding? Smoke them out!
+
+Dobermann:
+Here they come again!
+
+Ace:
+Dr. {@nickname}, please give us your orders.
+
+Ace:
+Just like the good ol' days.
+
+Amiya:
+Um, Ace...
+
+Amiya:
+Actually, something unexpected has happened.
+
+Amiya:
+Doctor... is suffering from amnesia.
+
+Ace:
+...I see.
+
+Amiya:
+I'm sorry, Ace... But compared to before, a lot has changed.
+
+Ace:
+Is that so? You don't need to apologize to me.
+
+Ace:
+Have the Doctor's commanding capabilities suffered as a result of the amnesia?
+
+Amiya:
+...As sharp as before.
+
+Amiya:
+Doctor's decisionmaking is still absolutely reliable. I can promise you this.
+
+Ace:
+Very well then. I'll follow the Doctor's orders then.
+
+Ace:
+What has been lost can be found again.
+
+Ace:
+Right now, there's a more imminent problem on our hands.
+
+Reunion Member:
+They're over here! Hurry, let's get them! !
+
+Dobermann:
+Are you done chatting yet? I'm going to go crack some skulls!
+
+Ace:
+Dr. {@nickname}, please give us your orders.
+
+Reunion Member:
+Go. Release your inner beast, and let them feel your fangs!
+
+Dobermann:
+Doctor! Ace! The enemy is right in front of us!
+
+Ace:
+——
+
+Ace:
+Understood.
+
+Ace:
+Team E3! Back up Dobermann!
+
+Reunion Member:
+An ambush?!
+
+Dobermann:
+Team E3 has been moving undercover this whole time... I see, they've been waiting for us to pincer the enemy.
+
+Ace:
+When communications are jammed, our teams should operate near the rendezvous point. That way, even if something happens to me or the scout...
+
+Ace:
+The broader operation can still be carried out. This is my decision-making.
+
+Dobermann:
+In other words, Ace, you left your team back at the rendezvous point and came here alone...
+
+Ace:
+After all, neutralizing threats around the rendezvous point is our top objective.
+
+Ace:
+Of course, prioritizing checking on your status is a big risk. There's no way I could imperil the entire team.
+
+Ace:
+The whole reason teams exist is to increase tactical efficiency, not the other way around.
+
+Dobermann:
+Hah. Let's continue our discussion after we've taken care of Reunion!
+
+Ace:
+Amiya, you're up.
+
+Amiya:
+Understood! I'll back you up with my Arts!
+
+Ace:
+Finally...
+
+Ace:
+Dr. {@nickname}, please command Rhodes Island.
+
+
+

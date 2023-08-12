@@ -1,0 +1,874 @@
+Elysium:
+Letter for you! I'll leave it right here.
+
+Elysium:
+I'm going into town this afternoon. Write down anything you want me to buy you before I go. Don't be late, because I won't wait!
+
+Shopkeeper:
+Wow, that was fast! Thanks, Elysium!
+
+Strong Townsfolk:
+Going into town again? For that thing that you have... what's it called? A transmitter?
+
+Elysium:
+A transmitter-receiver—or transceiver!
+
+Elysium:
+It's second-hand and the range is limited, but look at the case and the paint job! Don't you think it goes well with my outfit?
+
+Strong Townsfolk:
+I'll never understand your tastes...
+
+Old Townsfolk:
+Bring me back some cigarettes. Same brand as last time.
+
+Shopkeeper:
+I also want one of those hair curlers everyone's been talking about. Could you get me one?
+
+Elysium:
+Sure. The latest model, right? I'm on it.
+
+Old Townsfolk:
+Hey, sonny, what about my—
+
+Elysium:
+Now, who was it who asked me for cigarettes, then got caught by his family and got his allowance cut? As if I've forgotten.
+
+Elysium:
+Not for another forty or fifty years, at least.
+
+Old Townsfolk:
+The memory on you!
+
+Old Townsfolk:
+Kids these days just can't let anything go...
+
+Shopkeeper:
+Ignore him. The doctor told him to stop smoking and he doesn't listen.
+
+Shopkeeper:
+Here's the money for the hair curler. Thanks for that.
+
+Elysium:
+I'll get you the best one there is.
+
+Elysium:
+Now, off I go.
+
+How many years has it been since he left home?
+
+Three? No, he was in Columbia that third year, then went north to Sami.
+
+The Snowpriests stopped him when he tried to go further north, so he changed course and continued on his way.
+
+A healthy man who knows some Arts can always find a job, as long as he's not too picky.
+
+When he ran out of money, he would find work wherever he was and save a bit before heading out again. He has seen many sights along the way.
+
+Some places were rich and prosperous, some poor and barren.
+
+He did not stop at this town because there was something special about it.
+
+He just wanted to rest.
+
+Elysium:
+A new hair curler, and... well, I guess just a tiny little pack of cigarettes.
+
+Elysium:
+Still missing one component for the transceiver... hard to find an amplifier around here.
+
+Elysium:
+Hey, am I imagining things...?
+
+Elysium:
+Or does the sky look a little ominous to me?
+
+Masked Man:
+Oh, it's ominous all right.
+
+Elysium:
+You think so too? Great minds think alike!
+
+Elysium:
+There's something special about you, isn't there? I would've believed it if you said you just robbed the shop. I'm guessing you didn't manage to sell too much today.
+
+Masked Man:
+It's none of your concern. We're not an ordinary shop.
+
+Elysium:
+But you've got stuff to sell, don't you?
+
+Masked Man:
+It's...
+
+'Silent Lady':
+It's a prophylactic that we're distributing.
+
+Elysium:
+Prophylactic? Really? It's not for Oripathy, is it?
+
+Elysium:
+They say the meds that really prevent Oripathy are so expensive that only the very rich can afford them, and the stuff you can get easily on the open market doesn't actually work.
+
+Elysium:
+But I think I've got a good eye for people, and you don't look like hucksters to me. Are you legit?
+
+'Silent Lady':
+......
+
+'Silent Lady':
+You heard?
+
+'Silent Lady':
+You talk a lot.
+
+Elysium:
+Just being friendly. It's my secret to getting along.
+
+Elysium:
+Especially when dealing with people who look dangerous, or when I see something that maybe I shouldn't have, like drugs of unknown provenance—
+
+Elysium:
+Maybe if I'm talkative you'll take it easier on me when you beat me to a pulp. I'm sure the gentlemen over there will, at least.
+
+Masked Man:
+No, I'll aim for the face.
+
+Elysium:
+Come now, say what you're really thinking, don't be shy.
+
+Elysium:
+But now I'm beginning to think you don't look like scammers or smugglers.
+
+'Silent Lady':
+We're not.
+
+'Silent Lady':
+We're a... pharmaceutical company. Our mission is to eliminate the Infected problem.
+
+Elysium:
+Eliminate the Infected, or eliminate the problem? Well, I that's what I would've asked, if I didn't have what I assume to be a deep trust in you.
+
+Masked Man:
+I suggest you watch your mouth if you don't want it punched.
+
+Elysium:
+Oh, no violence, please!
+
+Elysium:
+Alright, I've taken up enough of your time. I ought to be on my way.
+
+Elysium:
+Might be a good idea to put someone else on the front desk though, friends!
+
+Masked Man:
+Just get lost! Mind your own business.
+
+'Silent Lady':
+......
+
+'Silent Lady':
+Catch.
+
+Elysium:
+Whoa! What the... huh, medicine?
+
+Elysium:
+For me? Oh, you're too kind.
+
+'Silent Lady':
+Three thaler.
+
+Elysium:
+You're charging money? I mean, three thaler isn't that bad...
+
+Masked Man:
+Captain...
+
+Masked Man:
+He wasn't talking to himself, was he? Was he talking to you?
+
+Silent Lady:
+......
+
+Masked Man:
+But... how could that be?
+
+Silent Lady:
+......
+
+Silent Lady:
+............
+
+Hardware Shop Owner:
+Sorry, sir, but we're out of that particular ampliﬁer.
+
+Elysium:
+Seriously? But you're my last hope!
+
+Elysium:
+Are you sure? You don't have one lying in a corner of a warehouse or something?
+
+Hardware Shop Owner:
+I've looked everywhere. Plus, we keep good records of all our transactions.
+
+Elysium:
+I know, I know.
+
+Elysium:
+Sigh.
+
+Hardware Shop Owner:
+You've been here before. Still working on that machine you were talking about last time?
+
+Elysium:
+Yes, the transceiver. I've been doing all the modifications myself.
+
+Elysium:
+I have very little experience with this stuff, but things have been going relatively smoothly, learning on the fly and doing it myself. I'm surprised that I'm learning so quickly!
+
+Elysium:
+I'm just looking for the right amplifier to take its performance up another level.
+
+Elysium:
+What do you think about me becoming a Messenger? My Arts would fit right in. I was born to be one, wasn't I?
+
+Hardware Shop Owner:
+Ha, becoming a Messenger is about more than just putting together a transmitter.
+
+Elysium:
+You've got to take exams, right? Don't worry, they used to call me Rey de los tests back home.
+
+Hardware Shop Owner:
+What does that mean?
+
+Elysium:
+It means I'm really good at tests.
+
+Hardware Shop Owner:
+......
+
+Hardware Shop Owner:
+Let's get back on topic.
+
+Hardware Shop Owner:
+It's not a common model, but I could try to get one for you, if you can wait.
+
+Elysium:
+Sure, I'll be around.
+
+Elysium:
+That's it, then, I'll be back later—
+
+Radio Announcement:
+Attention. Attention.
+
+Radio Announcement:
+This is an emergency public service announcement.
+
+Elysium:
+Hmm?
+
+Shopkeeper:
+......
+
+Strong Townsfolk:
+Serious face there. Who's the letter from?
+
+Shopkeeper:
+Quiet, give me a second...
+
+Shopkeeper:
+......
+
+Shopkeeper:
+Yes! Good news!
+
+Strong Townsfolk:
+What's the good news?
+
+Old Townsfolk:
+I bet it's got something to do with Elysium. The signature on the letter looks like the Messenger that was reassigned to the city a while back.
+
+Shopkeeper:
+The Catastrophe Messenger!
+
+Shopkeeper:
+Elysium's been here a while. He can't stay in that little attic of ours forever.
+
+Shopkeeper:
+So I wrote a letter and the Catastrophe Messenger said Elysium could move into his house.
+
+Old Townsfolk:
+Really? He'd be so gracious?
+
+Strong Townsfolk:
+Who are you talking about? What Catastrophe Messenger?
+
+Strong Townsfolk:
+Did we ever have one? Wasn't Elysium saying he could be the town's regular Messenger?
+
+Shopkeeper:
+Well... we used to have a Catastrophe Messenger.
+
+Shopkeeper:
+The town gave him a house, hoping to entice him to stay.
+
+Old Townsfolk:
+But you know those types, they won't stay in a backwater like this for long.
+
+Old Townsfolk:
+I'm getting grumpy just thinking about it. See you later.
+
+Shopkeeper:
+...Sigh.
+
+Shopkeeper:
+Can't blame them, though. The big cities pay much more than we can. No way for us to stop them.
+
+Strong Townsfolk:
+Hmph! Who cares! We have Elysium.
+
+Strong Townsfolk:
+He's given himself a codename. He says the first step to becoming a professional Messenger is having a cool codename. He seems serious about it.
+
+Shopkeeper:
+I hope so!
+
+Shopkeeper:
+......
+
+Shopkeeper:
+Say, I'm getting a bad feeling...
+
+Old Townsfolk:
+Hey! Everybody!
+
+Old Townsfolk:
+Go outside! Look up at the sky!
+
+Elysium:
+......
+
+Hardware Shop Owner:
+My supply routes don't come through the southwest.
+
+Hardware Shop Owner:
+It shouldn't affect your thing—
+
+Elysium:
+Here's the deposit! I'll be back; just get that item for me!
+
+Hardware Shop Owner:
+Hey! Where are you going?!
+
+Elysium:
+To race against a Catastrophe!
+
+Going back now means taking a massive risk.
+
+Elysium can't help but ask himself: Is he really that attached to the town?
+
+Hard to say. Probably not so much that he should risk his life for it. He's only been there a few months.
+
+But he also understands that he can't just stand by and watch, can't just wait for the storm to pass.
+
+And there's no point in thinking about what he can't do.
+
+He needs to focus on what he can do.
+
+Frightened Child:
+Mom, I'm scared of that big cloud in the sky...
+
+Helpless Mother:
+D-Don't be scared! We'll go and find dad!
+
+Panicked Woman:
+Was that an earthquake?! What do we do?
+
+Injured Man:
+Help! I'm trapped under this frame! I can't move my leg!
+
+Strong Townsfolk:
+I'm coming! Hang on!
+
+Strong Townsfolk:
+What's going on?
+
+Old Townsfolk:
+Catastrophe! Catastrophe!
+
+Old Townsfolk:
+It was like this the last time! We need to run! As far and as fast as we can!
+
+Shopkeeper:
+Aah!
+
+Strong Townsfolk:
+Look out!
+
+Elysium:
+Whew...
+
+Elysium:
+That was a perfect rescue, wasn't it? A judge would've given that ten out of ten. What do you think?
+
+Shopkeeper:
+Elysium! Y-You're hurt!
+
+Strong Townsfolk:
+What are you doing here? Didn't you go into town?
+
+Elysium:
+That? Just a scratch.
+
+Elysium:
+I heard through the grapevine that someone needed my help—alright, I came back because I heard on the radio that this area might get hit by a Catastrophe.
+
+Elysium:
+How's that? Pretty selfless, if I do say so myself.
+
+Strong Townsfolk:
+Y-You fool! Idiot! Why did you come back?!
+
+Elysium:
+Wait, why are you yelling at me?
+
+Elysium:
+Save the jokes, now's not the time.
+
+Elysium:
+Tell everyone to get ready to move... this sort type of Catastrophe will be on top of you before you know it. We don't have much time!
+
+Shopkeeper:
+But where do we go?
+
+Elysium:
+Leave that to me.
+
+Elysium:
+I'm an expert at surviving in the wilderness.
+
+Elysium:
+Stay close to me! Don't get separated!
+
+Elysium:
+Originium levels in the atmosphere will increase sharply in the presence of a Catastrophe, and the wind might be carrying active Originium particles. Keep yourself covered, especially any wounds!
+
+Shopkeeper:
+But you just got hurt...
+
+Elysium:
+Don't worry, I have a secret weapon.
+
+Elysium:
+(Well, how about that, those meds I got are gonna come in handy!)
+
+Elysium:
+(Let's hope they're the real deal.)
+
+Elysium:
+Just hold on!
+
+Elysium:
+We're almost... there!
+
+Elysium:
+Lock and bolt the door... alright, we'll be safe for now.
+
+Old Townsfolk:
+Is this an underground shelter?
+
+Elysium:
+Yes, an abandoned one.
+
+Old Townsfolk:
+I never knew about this place. How did you find it?
+
+Elysium:
+I'm rather adept at pathfinding. Let me tell you, I mapped this entire area with my own two feet.
+
+Elysium:
+There's nothing here I don't know about, including shelters that have been abandoned for years.
+
+Elysium:
+Now, please, shower me in praise.
+
+Shopkeeper:
+Huh? Oh... you're amazing, Elysium!
+
+Elysium:
+Yup, keep going, I know you've got more in you!
+
+Old Townsfolk:
+......
+
+Strong Townsfolk:
+Ahem... well, we definitely owe you one.
+
+Strong Townsfolk:
+So we should just wait? We left in such a hurry that we didn't have time to bring a lot of supplies... how long will we be in here?
+
+Elysium:
+Until the Catastrophe passes and things return to normal outside, at least.
+
+Elysium:
+Sudden Catastrophes like this tend to go as quickly as they come.
+
+Strong Townsfolk:
+I don't want to think about what might have happened if you didn't come back.
+
+Elysium:
+You're welcome.
+
+Elysium:
+But we should make a plan for future emergencies. This shelter is pretty old. It's taken a beating.
+
+Elysium:
+I wouldn't have picked it if there were crystal clusters growing from the ground, but fortunately that's not the case this time.
+
+Strong Townsfolk:
+There's just nothing we can do about Catastrophes...
+
+Strong Townsfolk:
+If we had some sort of advance warning, at least...
+
+Elysium:
+Don't get too down on me, bro.
+
+Elysium:
+That's exactly what I've been working on all this time.
+
+Strong Townsfolk:
+That's good news. What are you fiddling with?
+
+Elysium:
+Just some machines... imagine that I'm yelling out in a radius of a few klicks that 'We need help here!'
+
+Elysium:
+It might not be useful right now, but it never hurts to be prepared.
+
+Shopkeeper:
+The earth's shaking... how long is this gonna last?
+
+Shopkeeper:
+Eek! What was that noise?
+
+Shopkeeper:
+Sounds like something fell...
+
+Elysium:
+I'll go take a look.
+
+The Liberi passes through the crowd of townsfolk crammed into this dark shelter.
+
+A panicking mother holds her child tightly in her arms. The elderly sit in a corner, like a row of wrinkled statues.
+
+Elysium can hear the occasional sob. There seems to be fewer people here than he thought there would be. He tries not to think about it.
+
+He looks at the source of the sound. Above them is the door that they came in from. A little bit of dirt drops in with every vibration.
+
+He gets a bad feeling.
+
+The Liberi extends his hand.
+
+Then he stops, stunned.
+
+The door has been blocked by fallen rocks and can no longer be opened.
+
+Strong Townsfolk:
+We can't get out?! How could this...
+
+Old Townsfolk:
+Don't panic! Just a little hitch in the plan. We'll dig our way out.
+
+Elysium:
+......
+
+Elysium:
+Relax, everyone. We still have my transceiver, and I've already sent out a distress signal. All we have to do is wait.
+
+Shopkeeper:
+Really? That's great!
+
+Elysium:
+(The range is limited without an amplifier, though...)
+
+Elysium:
+(I need to think of a way.)
+
+Elysium:
+(I didn't manage to take the medicine either. Now my injured shoulder is starting to feel numb.)
+
+Elysium:
+(We were in the ashring for a while. I had wrapped it in cloth, but that's not exactly enough.)
+
+Elysium:
+(Seriously? Just my luck...)
+
+Elysium:
+(......)
+
+Elysium:
+(Well, maybe that's not so bad, given the situation...)
+
+Shopkeeper:
+Things seem to have calmed down.
+
+Elysium:
+Good news. It looks like the Catastrophe has passed.
+
+Old Townsfolk:
+Any news?
+
+Elysium:
+Not yet, but I'm happy to report that I've achieved a breakthrough in the transmission range! Help should be here soon now that the Catastrophe is over.
+
+Old Townsfolk:
+I hope so...
+
+Shopkeeper:
+Your wound looks worse. What about the secret weapon of yours?
+
+Elysium:
+Er... well, it's not time to use it yet.
+
+Elysium:
+Don't worry, I'll use it when I have to. When I have to.
+
+Old Townsfolk:
+......
+
+Strong Townsfolk:
+How many layers of dirt are up there? We're not getting through!
+
+Strong Townsfolk:
+We can't hold out much longer without food and water. Are you hearing anything?
+
+Elysium:
+Settle down. We should save our strength if there's no way through.
+
+Strong Townsfolk:
+How are we supposed to settle down? You've been sending that signal for ages. With no response!
+
+Strong Townsfolk:
+No one's coming to help us! We're all gonna starve to death here!
+
+Elysium:
+......
+
+Elysium:
+We might be able to get help if we can contact a nearby nomadic city.
+
+Strong Townsfolk:
+That piece of junk doesn't have the range!
+
+Elysium:
+Right, which is where I come in.
+
+Elysium:
+Everybody, listen up.
+
+Elysium:
+Keep your distance from me.
+
+Strong Townsfolk:
+Keep our distance? What do you mean?
+
+Elysium:
+Well... I mean what I said.
+
+Elysium:
+Give me space. Don't come close.
+
+Shopkeeper:
+How many days have we been here?
+
+Shopkeeper:
+I don't think I can hold on...
+
+Elysium:
+Just a bit longer!
+
+Strong Townsfolk:
+How long do we have to wait...?
+
+Elysium:
+I've got this! I'm beaming a transmission out there!
+
+Old Townsfolk:
+We're done for...
+
+Old Townsfolk:
+We were always doomed, whether we stayed up there or came down here.
+
+Elysium:
+Don't... *cough*... say that...
+
+Elysium:
+(Almost... almost... we made it this far...)
+
+Elysium:
+(Come on, don't disappoint me, 'pharmaceutical company'...)
+
+Elysium:
+*cough*, *cough* *cough*...
+
+Elysium:
+(The wound's swollen, maybe festering, and I'm hurting all over, like that time I got run over by that contraption in Rim Billiton... worse, actually.)
+
+Elysium:
+(My Arts are getting more powerful, though it aches when I use them.)
+
+Elysium:
+(Is this how it feels to get Oripathy?)
+
+Elysium:
+(Looks like I won't get to use those meds after all.)
+
+Elysium:
+......
+
+Shopkeeper:
+What's that... sound...?
+
+Elysium:
+Hey!
+
+Elysium:
+I got a response!
+
+Strong Townsfolk:
+Response...
+
+Elysium:
+Yes! A station heard me and responded!
+
+Elysium:
+You hear me? Hold on! Someone's coming!
+
+Masked Man:
+It's here, right?
+
+Masked Man:
+How the heck did that signal find us?
+
+Masked Man:
+Is Rhodes Island so well-known already? We've only just gotten started.
+
+Silent Lady:
+......
+
+Rhodes Island Operator:
+Captain, we're reading vital signs below.
+
+Rhodes Island Operator:
+Ready to dig.
+
+Shopkeeper:
+Welcome... oh, it's you, Elysium.
+
+Elysium:
+Morning, folks. It's been a while! Nice to see that the rebuilding is going well.
+
+Shopkeeper:
+Yeah... all thanks to you. We wouldn't have made it otherwise.
+
+Elysium:
+......
+
+Elysium:
+That's great! I'm glad I worked so hard.
+
+Strong Townsfolk:
+Just simple houses to protect us from the elements. Nothing complicated.
+
+Strong Townsfolk:
+Where have you been?
+
+Elysium:
+Me? A bunch of nice people who don't look so nice dragged me away to treat my sickness. I've never seen a doctor so scary, I tell you.
+
+Strong Townsfolk:
+Your sickness...
+
+Shopkeeper:
+Well, have a seat, er, I'll pour you a drink.
+
+Elysium:
+Oh, there's no need for that, I'll be going in a moment.
+
+Elysium:
+I just wanted to come back and say goodbye, because I'm leaving.
+
+Strong Townsfolk:
+Y-You're leaving? But you said...
+
+Elysium:
+Oh, the Messenger thing? Well, er, sorry about that.
+
+Elysium:
+I guess I just want to see the world, you know? Like they say, don't put a fowlbeast in a cage... well, however the saying goes.
+
+Strong Townsfolk:
+......
+
+Shopkeeper:
+......
+
+Shopkeeper:
+But we haven't thanked you for saving our lives yet!
+
+Strong Townsfolk:
+Yeah. It's just a little sickness... it's no big deal.
+
+Shopkeeper:
+If you're leaving because you're Infected—
+
+Elysium:
+It's okay, I hear you.
+
+Elysium:
+But people will get scared if there's an Infected living in town. They won't want to talk.
+
+Strong Townsfolk:
+We're not scared!
+
+Elysium:
+I know, I know. There's always a risk, though.
+
+Shopkeeper:
+But...
+
+Elysium:
+Oh, don't give me that look. It's not so bad.
+
+Elysium:
+You remember Rhodes Island? The people who dug us out of that hole? I'm going with them.
+
+Elysium:
+They're going to keep treating me. Things don't get any better than that!
+
+Shopkeeper:
+Can they cure your sickness?
+
+Elysium:
+Well... I don't know.
+
+Shopkeeper:
+Will you come back?
+
+Elysium:
+Of course! I'll drop by when I get some free time.
+
+Strong Townsfolk:
+Where are you going now?
+
+Elysium:
+Well, I'm not sure.
+
+Elysium:
+I guess I'll go with the Rhodes Islanders for a while. I think this is the beginning of a beautiful journey.
+
+
+

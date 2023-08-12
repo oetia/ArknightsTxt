@@ -1,0 +1,632 @@
+Mechanist:
+This smell is familiar...
+
+Mechanist:
+Too bad there's still work to be done. I miss the sensation of alcohol rushing through my body.
+
+Mechanist:
+You're listening to Blaze, huh?
+
+Mechanist:
+She's always complaining about all the rumors there are about her, and complaining that I take things too rough in her weapon test sessions.
+
+Mechanist:
+'Machine oil' is the name of my favorite cocktail.
+
+Mechanist:
+Regular patrons of Just One More Pint know it well.
+
+Mechanist:
+If you want to dig deep into those kinds of rumors, Doctor, take Blaze up on it next time she invites you to drink.
+
+Mechanist:
+Logos and the others will—
+
+Mechanist:
+Let's just say that what you see will make you forget any rumors about me.
+
+Mechanist:
+Have you found your man, Saria?
+
+Saria:
+He spends twenty hours a day here.
+
+Saria:
+Two Trimounts Sunshines, please.
+
+Mechanist:
+You don't look like someone who drinks during work hours.
+
+Saria:
+I'm not.
+
+Saria:
+I've never been one to let alcohol interfere with my brain, regardless of the hour.
+
+Drunkard:
+Live a little, Saria.
+
+Saria:
+Both of these are yours.
+
+Saria:
+And you'd better pull yourself together, because I'm not buying a third.
+
+Drunkard:
+What? Have you gone homeless too, after leaving Rhine?
+
+Saria:
+How many drinks I'm willing to buy for you depends on how much your information is worth to me.
+
+Drunkard:
+Well then, spit it out. What do you want to know?
+
+Saria:
+See the liquid in this test tube?
+
+Drunkard:
+Hm? Hmm...
+
+Saria:
+It's not for drinking.
+
+Drunkard:
+Well then, why are you asking me?
+
+Saria:
+Show me your right hand.
+
+Drunkard:
+What are you doing?
+
+Saria:
+You're right-handed, but you're holding the glass with your left.
+
+Saria:
+Does your right arm still hurt from the subdermal Arts Unit implant?
+
+Mechanist:
+The what?
+
+Drunkard:
+Saria...
+
+Drunkard:
+Who's the helmet, and the hood?
+
+Drunkard:
+Rhine Engineering? Volvort Kochinski? Maybe... one of those places whose name we dare not speak?
+
+Drunkard:
+Did they change their minds? Decide to shut me up forever?
+
+Mechanist:
+I promise you, I have nothing to do with any of the organizations you mentioned. Not now, not ever.
+
+Drunkard:
+Promise? Words like that ain't even worth the booze in front of me.
+
+Mechanist:
+Doctor, he may not be willing to talk with us here.
+
+Drunkard:
+It's you I don't trust, especially not that getup.
+
+Drunkard:
+You reek of the Columbian tech elite, know what I mean?
+
+Drunkard:
+The hood can stay. I feel better about you.
+
+Mechanist:
+......
+
+Mechanist:
+Alright, I'll be over there.
+
+Drunkard:
+Saria, you've picked up so many tabs for me, let me give you some honest advice.
+
+Drunkard:
+Don't dig any deeper, if you don't want to end up like me.
+
+Drunkard:
+This test tube of yours, that power armor—you're biting off more than you can chew.
+
+Saria:
+......
+
+Drunkard:
+Yes, more than even you can chew.
+
+Ferdinand:
+Do you understand what it is you've just said?
+
+Parvis:
+Of course.
+
+Parvis:
+It was you who reminded me. I'm not senile yet.
+
+Ferdinand:
+This is a very serious accusation.
+
+Parvis:
+Is it now? An accusation?
+
+Parvis:
+Oh, the accusation that you have something to do with Muelsyse's disappearance? Or the one that you're trying to seize control of Rhine Lab?
+
+Ferdinand:
+......
+
+Ferdinand:
+You need stronger evidence than that to blackmail me.
+
+Parvis:
+Relax, old friend.
+
+Parvis:
+How long have we worked together? Ten years and then some?
+
+Parvis:
+Did you think I was the type to come chat with an old friend carrying a bunch of papers, voice recordings and legal drafts?
+
+Ferdinand:
+You...
+
+Parvis:
+Just because you did it to me doesn't mean I intend to return the favor.
+
+Parvis:
+Columbians like to put everything on the negotiating table. But you forget, I'm a cunning old Leithanian goat, who likes to play dumb.
+
+Ferdinand:
+What exactly do you want?
+
+Parvis:
+Just passing by, and to encourage an old friend.
+
+Ferdinand:
+I don't understand. I thought you were on Control's side.
+
+Parvis:
+You don't understand? We're researchers, after all. There's always more we don't understand than we do. That's part of the fun.
+
+Parvis:
+You're a lot like Kristen. Too young, and too smart.
+
+Parvis:
+You're always trying to fly high, not realizing how difficult it is for the others to keep up with you.
+
+Parvis:
+All I want is to be left in peace to do my research, and not be dragged along the ground.
+
+Parvis:
+It may only take a couple of years of your administration for the military and big capital to pick Rhine Lab to the bone, but it won't happen tomorrow.
+
+Ferdinand:
+I'm surprised you have such a high opinion of me.
+
+Parvis:
+You'll need to deal with the Director of Defense first, however, in order to get to Kristen.
+
+Ferdinand:
+I didn't think Defense had a director.
+
+Parvis:
+Look at you, your memory failing at such a tender age.
+
+Parvis:
+Kristen never accepted Saria's resignation.
+
+Drunkard:
+I never understood how you think, Saria.
+
+Drunkard:
+No one talks about that ever since everything went down at Loken... my old employer.
+
+Drunkard:
+They all chose to cut ties, no matter how much or how little they knew about the experiments.
+
+Drunkard:
+That's what smart people do.
+
+Saria:
+Does that mean you're not smart?
+
+Drunkard:
+Ha... tongue still as sharp as ever, huh?
+
+Drunkard:
+I would run if I could. They won't let me.
+
+Drunkard:
+You ask if my right hand hurts? Of course it does! But did you think they would let me live this long if I didn't give up my hand and become a test subject?
+
+Drunkard:
+I was the goddamned surgeon! Even if I had no idea what they wanted me to implant!
+
+Saria:
+Still capable of anger, I see. Looks like alcohol hasn't completely numbed you.
+
+Drunkard:
+You've changed, Saria.
+
+Drunkard:
+I could see you were angry when you first came to me, a few years ago.
+
+Saria:
+Oh?
+
+Drunkard:
+You weren't exactly wearing it on your face.
+
+Drunkard:
+But I could see it. I felt the same way, when I learned what kind of experiments I was involved in.
+
+Drunkard:
+There are other ways, if you want to take down Rhine Lab.
+
+Drunkard:
+You're one of the founders. Anybody after Rhine will be queueing up to take your hand.
+
+Saria:
+Taking down Rhine won't solve anything.
+
+Saria:
+Kill one beast, only for its flesh and blood to feed yet more beasts. The fall of Loken Watertank is proof.
+
+Drunkard:
+Excuses.
+
+Drunkard:
+You've gone all over the place for Rhine. You're opposed to them on the surface, but what you're actually doing is cleaning up their messes.
+
+Drunkard:
+When I saw you, I knew the rumors were true.
+
+Drunkard:
+You were willing to go to jail for Rhine Lab.
+
+Saria:
+Not the smartest thing to deal in rumors.
+
+Drunkard:
+The fall of HydeBro was a headache for the Director of Energy, wasn't it?
+
+Drunkard:
+The loss of a key supplier has thrown a wrench into his requests for a new laboratory site. He lost a few major orders, didn't he?
+
+Drunkard:
+It was a setback to whatever experiments he had going on.
+
+Saria:
+It wasn't me who sent the Hyde brothers to jail.
+
+Drunkard:
+You played a big part.
+
+Drunkard:
+I know the rules. With the Hyde brothers locked up, the prosecutors no doubt wanted to use them to hook bigger fins.
+
+Drunkard:
+Why was there no mention of Rhine Lab in the news? Why does Rhine always emerge unscathed from these things?
+
+Drunkard:
+The truth is you've been following the trail, cleaning up all Rhine's little mistakes left along the way.
+
+Drunkard:
+That's why you came looking for me...
+
+Drunkard:
+You wanted to know whether or not Rhine had anything to do with this reagent.
+
+Drunkard:
+Deep down, you're still the Rhine's Director of Defense. You still think it's your job to pick up after them.
+
+Drunkard:
+There's something at Rhine that you can't let go of. Or maybe it's someone. Some sentiment.
+
+Drunkard:
+Ha, looks like you do have emotions after all, Saria!
+
+Drunkard:
+At the end of the day, we're all flesh and blood.
+
+Rhine Lab Tech:
+The subject is out of control!
+
+Rhine Lab Tech:
+Restraints have failed!
+
+Rhine Lab Tech:
+Not getting any neural signals from the subject! Attempting sedative injection... negative!
+
+Rhine Defense Section Employee:
+The subject is activating Originium Arts!
+
+Rhine Defense Section Employee:
+A monster... it's a huge monster...
+
+Rhine Defense Section Employee:
+No, the flames are manifesting...
+
+Rhine Defense Section Employee:
+Get the Director on the line, now!
+
+Silence:
+Fire... the fire... cough...
+
+Silence:
+Ifrit, where are you...?
+
+Silence:
+Ifrit!
+
+Silence:
+Saria...?
+
+She felt no heat in the fiery corridor.
+
+The eyes of the Vouivre were harder than rock, colder than steel.
+
+She could not read the emotions within them.
+
+To this day, she does not know what she saw in the Vouivre's eyes.
+
+Sonny:
+Are you okay, Doc Silence?
+
+Silence:
+I...
+
+Sonny:
+You've gotta be tired.
+
+Sonny:
+You've been taking care of Doc Moore, and the rest of us.
+
+Sonny:
+I'm wicked sorry I acted like that, and almost got you hurt.
+
+Sonny:
+Rhodes Island isn't like Rhine Lab. You and Greyy have been so good to us, and you never asked for nothing for it.
+
+Silence:
+Is that true?
+
+Silence:
+I'm no saint, Sonny.
+
+Silence:
+I was a Rhine Lab researcher. My experiments almost wiped out an entire city block, countless people along with it...
+
+Sonny:
+Huh?
+
+Silence:
+There was a girl. She was close to me... almost like family.
+
+Silence:
+She was the subject of the experiment.
+
+Sonny:
+What happened to her?
+
+Silence:
+She's still alive.
+
+Silence:
+But only alive. All these years, I've tried and failed to give her back the life she should have had, a normal life.
+
+Silence:
+But I couldn't stop the situation from deteriorating.
+
+Sonny:
+Don't blame yourself. I'm sure you never meant to hurt her.
+
+Silence:
+Ha... haha...
+
+Silence:
+Funny, that's how I comforted myself in the past.
+
+Silence:
+I didn't know. It was others who were truly to blame.
+
+Silence:
+But was that really so?
+
+As the overseer in the field, did I really not know the risks of our research?
+
+The answer is clear.
+
+Either I was blinded by the tantalizing promise of a breakthrough...
+
+Or I was far less a researcher than I thought I was.
+
+And that's harder to do than to hate someone else.
+
+Silence:
+Perhaps the one I truly could not forgive was...
+
+Silence:
+......
+
+Sonny:
+I never knew your story.
+
+Silence:
+It's more than just a story. It's why I came here.
+
+Sonny:
+Aren't you trying to save your friend?
+
+Silence:
+Of course, I have to save Joyce.
+
+Silence:
+But I want to save you, and Elena, and Director Franks.
+
+Silence:
+I want to stop all this, before we get to the point of no return.
+
+Sonny:
+You believe me?
+
+Silence:
+Like I said, I believe in the truth, in what I see for myself.
+
+Silence:
+And I recall that I've seen something like it.
+
+Silence:
+The silver things following us—they look like the result of Originium Arts gone awry.
+
+Parvis:
+By the way, I had Ben bring you something. It should be on your desk now.
+
+Ferdinand:
+Ben?
+
+Parvis:
+You forgot again? You told him to have tea with me. He talked so much that he nearly drank my entire stash.
+
+Ferdinand:
+I don't remember you owing me anything.
+
+Parvis:
+Oh? That wasn't what you said when I'd just completed my chimeric organism experiments.
+
+Ferdinand:
+The Diαbolic Experiments.
+
+Parvis:
+Glad you remember.
+
+Parvis:
+My student used an anesthetic of her own design during the final phase.
+
+Parvis:
+To shocking results.
+
+Parvis:
+Silence was such a smart girl. I miss her.
+
+Parvis:
+After the project was suspended, I reviewed the data logs and found that it was no coincidence.
+
+Ferdinand:
+What data?
+
+Parvis:
+You're not the only one who digs through the trash.
+
+Ferdinand:
+You mean Loken Watertank? Those data were...
+
+Parvis:
+Let's not dwell on clerical matters, shall we?
+
+Parvis:
+Loken Williams was a genius. Reviewing his data made me realize that I was taking the long way round.
+
+Parvis:
+I was trying to increase the subject's cell activity, in order to increase sync rate with the energy contained within the embedded shards.
+
+Parvis:
+Who would have thought that suppressing the subject's neural responses would be the way to go?
+
+Ferdinand:
+Suppress?
+
+Parvis:
+I made some small changes to your formula based on this conjecture.
+
+Parvis:
+I hope you'll forgive the initiative.
+
+Ferdinand:
+You're a sly one, old goat.
+
+Parvis:
+Why the irritation? I simply offered a gift before you asked for it.
+
+Parvis:
+Is it really so disappointing to lose a weapon against me?
+
+Ferdinand:
+It had better be of use to my experiments.
+
+Parvis:
+I promise you'll like it.
+
+Parvis:
+Oh, and if you're successful, could you pick up the tab on the ten boxes of black bean tea that Muelsyse owes me?
+
+Parvis:
+I would have won that bet, if not for my formula.
+
+Saria:
+Back on topic.
+
+Saria:
+The reagent.
+
+Drunkard:
+I had a sniff when you took it out.
+
+Drunkard:
+Yes, it's the exact same smell.
+
+Drunkard:
+Ha, it's the ghosts of the ones who died on my operating table, back to haunt me.
+
+Drunkard:
+Thicker and more numerous...
+
+Saria:
+Who?
+
+Drunkard:
+Who, you ask?
+
+Drunkard:
+Who salvaged the most from the ruins of Loken Watertank?
+
+Drunkard:
+Time to go home, Saria.
+
+Saria:
+Rhine Lab.
+
+Drunkard:
+See, you knew the answer all along.
+
+Drunkard:
+You already met the Tin Man. He helped you find me.
+
+Drunkard:
+Who was the main sponsor of the Diαbolic Experiments? Who was Loken Watertank's investor?
+
+Drunkard:
+Who had the means to hire multiple labs to engage in similar experiments at the same time?
+
+Drunkard:
+How irresistible did the order have to be, to make those labs put their petty patent feuds aside and sit down to share data?
+
+Drunkard:
+And...
+
+Drunkard:
+Whose hands did the surviving subjects pass through before they were sent out of Columbia?
+
+???:
+Looks like a pretty lively conversation.
+
+???:
+I hope I didn't miss too much.
+
+
+

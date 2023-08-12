@@ -1,0 +1,270 @@
+Oh... Rosmontis, what are you doing?
+
+Rosmontis:
+I... I wanna fix this terminal.
+
+Rosmontis:
+Six years of memories up to last year... I saved them all in here...
+
+Rosmontis:
+This morning, I went to read the log from June 12, but the screen wouldn't turn on.
+
+Rosmontis:
+What if... what if I can't ever read them again...?
+
+Rosmontis:
+The March 14th log, when I went to the botanical gardens with daddy, or hiking in July, or the time when mommy...
+
+Rosmontis:
+...Mommy...
+
+D- don't cry! Listen, you're not great with screens, right?
+
+Why not wait until Scout can help you fix it? Or Closure?
+
+I'll take it to Closure for you. She'll fix it up lickety-split!
+
+Rosmontis:
+Scout...
+
+Rosmontis:
+Is Scout that one operator who moves around all quiet?
+
+That's him! You know him?
+
+Rosmontis:
+Yeah.
+
+Rosmontis:
+With that perfectly polished look... like a porcelain doll.
+
+Rosmontis:
+There he is.
+
+Huh...?
+
+Scout:
+I had yet to hear your estimation of me. I now understand how weak it is.
+
+When did you get here?!
+
+Scout:
+You could say I have always been here. I am used to concealing myself.
+
+Rosmontis:
+So Mr. Scout was here all along.
+
+Rosmontis:
+Why didn't Blaze sense it?
+
+I... I wasn't paying attention. I just didn't notice!
+
+Hey, if you were standing here all this time, why didn't you help her fix it?
+
+Scout:
+Forgive me. We are mere moments from undertaking a mission. I must focus my energy on calibrating my weaponry.
+
+Scout:
+You might ask Closure, or the good Mechanist to assist you.
+
+Are you about to go save Dr. {@nickname}?
+
+Ace:
+Yes.
+
+Oh. You're going too.
+
+Ace:
+It's me we're talking about. If I didn't go, what kind of joke would Rhodes Island's elite operators be?
+
+Scout:
+And what did Ascalon say?
+
+Ace:
+The usual. She's not going. Always there with Kal'tsit, that one.
+
+Scout:
+Did it ever occur to you... That now is perhaps not the optimal time?
+
+Ace:
+But it might be our last chance.
+
+Ace:
+Chernobog is probably going to turn back deep into Ursus to avoid that Catastrophe. And a rescue operation in the Ursus interior is going to be damn near impossible.
+
+I keep hearing you talk about it, but is this Dr. {@nickname} really worth all this?
+
+Ace:
+Worth as much as Amiya and Kal'tsit.
+
+Rosmontis:
+Have I met the Doctor?
+
+Ace:
+Not yet. But you will soon.
+
+Rosmontis:
+Good. I want to know what the Doctor is like too.
+
+Rosmontis:
+I really, really want to.
+
+Scout:
+You will, kitten.
+
+By the way, Ace, there's an uninfected girl named GreyThroat on your team.
+
+Ace:
+I'm aware. She's been training in isolation.
+
+Ace:
+Listen, Blaze. I've been working with her for a few months now. She has trouble expressing herself, but she's not a bad person.
+
+She looked my teammate in the eye and asked, 'How hard could it be to be Infected?'
+
+Ace:
+I know. But it might have been a legitimate question to her. She might really be curious.
+
+Ace:
+It's not my place to demand an operator turn her opinion on a dime. And GreyThroat has never once questioned orders.
+
+I don't care. I'm not going to stand by and let her insult my teammates, and I sure as hell won't let her disgrace the struggle of the Infected.
+
+Ace:
+Now's not the time. I can see the rage you're holding back. But really, not now.
+
+She said it right in front of me!
+
+Scout:
+Take a breath, Big Cat.
+
+Scout:
+You have a task at hand yourself.
+
+...I do.
+
+Fine. We'll deal with it when you get back.
+
+Since when is Ace more senior than me?
+
+Ace:
+When you take that tone, I start to think maybe you're screwing around.
+
+Scout:
+She may very well be mocking you.
+
+When he goes two days without shaving, he'll definitely look way more senior.
+
+Rosmontis:
+Ace's beard is very manly.
+
+Ace:
+...Hm.
+
+Hahaha! I have to go move some stuff around. Got my own job to do, you know. Later.
+
+Let's get a drink when I'm done!
+
+Scout:
+Try not to puke this time.
+
+Scout:
+Misery spent two hours scrubbing the floor. I wager he would vomit himself when faced with that task again.
+
+Who knew you could hold your liquor so well!
+
+Rosmontis, Mechanist will give you back your terminal in a bit.
+
+Be a good girl and wait patiently. But don't forget either!
+
+Rosmontis:
+I'll definitely remember! Bye bye!
+
+Scout:
+Don't burn yourself!
+
+Relax. I can control my own Arts.
+
+Blaze:
+...How is it you went before me?
+
+Blaze:
+Ace, was some uninfected girl like GreyThroat really worth training?
+
+Blaze:
+How much trust did we earn? And how much trust did we give?
+
+Blaze:
+If the Doctor...
+
+Blaze:
+I'm saying bad things about you. To your face.
+
+Blaze:
+If there's a Doctor hanging around here, hurry up and come out already. You'll need some fancy Arts to hide behind that wall if you don't want me to find you.
+
+Blaze:
+Then I'll string you up on a lamppost as bait for Reunion. Don't worry! You won't die. A few bolts and a knife or two never hurt anyone.
+
+Blaze:
+....sigh.
+
+Blaze:
+Sigh!
+
+Blaze:
+Did Amiya send you?
+
+Blaze:
+Whatever. That's what she's best at. And what she's worst at...
+
+Blaze:
+I keep trying to remind her, to get her thinking about how she's still just a kid... it always seems to have the opposite effect.
+
+Blaze:
+I guess she'll never be able to put down that grown up persona of hers as long as she's the leader of Rhodes Island.
+
+Blaze:
+Of course, if it wasn't Amiya who sent you, if you decided to come keep me company all by yourself, I'm not against the idea.
+
+Blaze:
+...Hold me back? Haha! I could carry three of you on my back and I wouldn't even notice. One little Dr. {@nickname} can't hold me back.
+
+Blaze:
+Hey, look over there.
+
+Reunion Member:
+Go on! Get out of here! We don't want to fight!
+
+L. G. D. Officer:
+Hmph... we won't yield to the Infected!
+
+Reunion Member:
+You're outnumbered! What's the point?
+
+L. G. D. Officer:
+Duty!
+
+Reunion Member:
+Don't blame us for what happens! You see those monsters behind us? Just run already!
+
+L. G. D. Officer:
+What monsters?!
+
+Blaze:
+See that Reunion group cutting through the alleys? They're picking at Lungmen's vanguard units. They won't hold for long...
+
+Blaze:
+Give me a path.
+
+Blaze:
+The fastest, of course!
+
+Blaze:
+Don't give me that look. It's not like I've never carried you before.
+
+Blaze:
+Here we go! Smash Reunion and save the Lungmenites!
+
+
+

@@ -1,0 +1,278 @@
+Skullshatterer:
+Look.
+
+Misha:
+Hmm...
+
+Skullshatterer:
+This is the trigger.
+
+Skullshatterer:
+Just load the ammo like this...
+
+Skullshatterer:
+Aim at the enemy, and pull the trigger.
+
+Skullshatterer:
+This will launch the bullet...
+
+Skullshatterer:
+Then concentrate, and grip the handle.
+
+Skullshatterer:
+Concentrate... and channel your Arts.
+
+Skullshatterer:
+This will cause the bullet to detonate.
+
+Misha:
+I don't know if I can...
+
+Skullshatterer:
+I know you can do this.
+
+Skullshatterer:
+We have a lot in common. I can feel it within you.
+
+Skullshatterer:
+Just picture it in your mind...
+
+Skullshatterer:
+Here, hold on to this Originium shard.
+
+Misha:
+Nnh...
+
+Skullshatterer:
+Concentrate.
+
+Misha:
+...
+
+Misha:
+My palm feels... hot.
+
+Skullshatterer:
+That's right!
+
+Skullshatterer:
+I knew it, I knew it...
+
+Skullshatterer:
+Yes, Misha, you really are... Haha, ahaha...
+
+Skullshatterer:
+You really are my...
+
+Reunion Member:
+...We have to go! Skullshatterer, hurry!
+
+Reunion Member:
+We can't hold this base anymore!
+
+Skullshatterer:
+What happened?!
+
+Reunion Member:
+Rhodes Island is attacking! We're being rushed!
+
+Skullshatterer:
+...
+
+Skullshatterer:
+Those bastards...
+
+Skullshatterer:
+Don't panic. Regroup and prepare our counterattack!
+
+Misha:
+Skullshatterer...
+
+Misha:
+I'm sure... Rhodes Island will...
+
+Skullshatterer:
+Will what? You want me to have a chat with Rhodes Island?
+
+Misha:
+They, they're surely trying to help the Infected.
+
+Skullshatterer:
+They killed so many of my comrades...
+
+Skullshatterer:
+You're really asking me to talk to them?
+
+Skullshatterer:
+All my comrades... they were Infected too!
+
+Skullshatterer:
+Rhodes Island, those self-proclaimed saviors of the Infected... what did they do to help my comrades?
+
+Skullshatterer:
+What did they say to you to blind you?!
+
+Misha:
+I don't know...
+
+Skullshatterer:
+Sorry...
+
+Skullshatterer:
+I'm getting too emotional.
+
+Skullshatterer:
+But one thing is certain...
+
+Skullshatterer:
+Reunion has finally provided a sliver of hope to the Infected after all this time...
+
+Skullshatterer:
+But Rhodes Island, despite being Infected, chose to hurt us, to slaughter us!
+
+Skullshatterer:
+What are they but traitors?!
+
+Skullshatterer:
+What is there to discuss with traitors?!
+
+Misha:
+Are the Infected doomed to always kill each other then?
+
+Skullshatterer:
+Then, what am I supposed to do...
+
+Skullshatterer:
+Should I just stand by and watch my comrades die?
+
+Misha:
+...
+
+Skullshatterer:
+Don't worry.
+
+Skullshatterer:
+We'll protect you.
+
+Skullshatterer:
+You'll also have to protect yourself though...
+
+Skullshatterer:
+Don't get pulled into the fighting.
+
+Skullshatterer:
+Please be careful...
+
+Misha:
+Promise... you'll come back...
+
+Misha:
+Just when I finally found you again...
+
+Skullshatterer:
+Yeah. I'll come back for you.
+
+Skullshatterer:
+Then, we'll go home together...
+
+Misha:
+...Mhm.
+
+W:
+Hey there.
+
+W:
+So, you need my help after all?
+
+Skullshatterer:
+That's right.
+
+Skullshatterer:
+Actually... the situation is a bit different from what Talulah told us.
+
+Skullshatterer:
+The enemy is more powerful than we expected.
+
+Skullshatterer:
+That's why... you have to protect Misha.
+
+W:
+I don't think I'm obligated to do that.
+
+Skullshatterer:
+You are.
+
+W:
+Fine, fine.
+
+W:
+However, it's not enough to just protect Misha, is it?
+
+W:
+If you fail, they'll still catch up to us.
+
+Skullshatterer:
+...
+
+Skullshatterer:
+What do you have in mind?
+
+W:
+Skullshatterer, don't you remember what I told you before?
+
+Skullshatterer:
+...I do.
+
+Skullshatterer:
+We can turn the tables if we take out that target.
+
+Skullshatterer:
+Dr. {@nickname}...
+
+W:
+See, you were paying attention. All we have to do is take out their commander. Easy, right?
+
+W:
+The hooded person who's always next to that bunny girl.
+
+W:
+The person who leads Rhodes Island's combat operations.
+
+W:
+If you can kill that one... Bang!
+
+W:
+Just like that, their brain will be gone.
+
+W:
+Everything will be so easy after that~
+
+W:
+We don't have many troops left, and we're running out of options.
+
+W:
+There's a location near the front of the mines that will be great for setting up our ambush.
+
+W:
+My casters will provide cover for you... You know what to do, don't you?
+
+W:
+I'll use my troops to draw them here.
+
+W:
+Don't miss this opportunity~
+
+Skullshatterer:
+I understand.
+
+Skullshatterer:
+...Take care of Misha for me.
+
+W:
+Sure thing~
+
+W:
+Hmph... Anyways, good luck.
+
+
+

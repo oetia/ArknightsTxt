@@ -1,0 +1,916 @@
+4:11 P.M. \ Overcast, Visibility: 10 km
+
+Rhodes Island Landship, Medical Cabin
+
+Kal'tsit:
+Remove the electrodes.
+
+Kal'tsit:
+No new developments.
+
+Kal'tsit:
+You'll feel better after a quick rest.
+
+Kal'tsit:
+Dr. {@nickname}, I've scanned your brain seven times over the past month or so, and the results are always the same.
+
+Kal'tsit:
+There's nothing wrong with your medial temporal lobe, and the neurons in other brain areas are as active as they are in most young people.
+
+Kal'tsit:
+Meaning you don't need to come to Medical for these unpleasant tests so often.
+
+Kal'tsit:
+There's no doubt that you've lost a lot of your memory. Even someone like you wouldn't be able to manipulate the results.
+
+Kal'tsit:
+Those memories are episodic, chiefly concerning the subjective awareness of your identity, and even more so about all your experiences before you fell asleep in the Chernobog sarcophagus.
+
+Kal'tsit:
+In contrast, your procedural memory has recovered extremely quickly.
+
+Kal'tsit:
+From my reports or Amiya's and Dobermann's observations, this conclusion is clear.
+
+Kal'tsit:
+Your ability to command, as exhibited during the Chernobog incident, is not significantly worse than before.
+
+Kal'tsit:
+There are many reasons for memory loss. Some are force majeure, others are subjective.
+
+Kal'tsit:
+Medical testing can only rule out qualitative pathological changes.
+
+Kal'tsit:
+Of course, you don't make as much noise as you used to.
+
+Kal'tsit:
+Considering your language center has not been damaged, I can only guess that the deprivation of episodic memory has caused some changes in your personality.
+
+Kal'tsit:
+To Rhodes Island, you are far more than just 'useful.'
+
+Kal'tsit:
+Even if you truly lost all your memories and become an ignorant bystander, Amiya would not have regretted saving you, and there will always be a place for you at Rhodes Island.
+
+Kal'tsit:
+In any case, I believe that the skills you possess will play just as key a role as they did in the past.
+
+Kal'tsit:
+I know.
+
+Kal'tsit:
+And I've seen how hard you've been working.
+
+Kal'tsit:
+After leaving Lungmen, we've been making our way through the wastelands for some time. The operators need an opportunity to rest, Amiya in particular.
+
+Kal'tsit:
+Likewise, you also need a chance to catch your breath, don't you?
+
+Kal'tsit:
+With PRTS to help you, it won't take long for you to adapt to your work at Rhodes Island.
+
+Kal'tsit:
+However, I don't want you to push yourself.
+
+Kal'tsit:
+Rhodes Island is not the only thing that has just emerged from a terrible disaster. You have as well, Dr. {@nickname}.
+
+Kal'tsit:
+Your physical indicators have more or less returned to normal, but your memory is still damaged, and your mental state is unstable.
+
+Kal'tsit:
+As a patient, overwork can only harm you.
+
+Kal'tsit:
+Me? I appreciate your concern.
+
+Kal'tsit:
+Though I can't say I'm used to Oripathy, I can assure you that I'm the last person you should worry about.
+
+Kal'tsit:
+Amiya knows you're concerned about her, and she's been paying more attention to her health lately.
+
+Kal'tsit:
+I have no choice but to admit, there are some areas in which your words hold more weight than mine.
+
+Kal'tsit:
+Dr. {@nickname}, in the span of one short month, you've taken over the staffing of several departments on this ship.
+
+Kal'tsit:
+In addition, I've seen you reviewing past battles together with combat operators to further explore the possibilities of tactical optimization.
+
+Kal'tsit:
+You've even been reading during this entire examination. Are you looking at the briefing submitted by the new operator who just reported in a few days ago?
+
+Kal'tsit:
+Furthermore, I've seen your notes.
+
+Kal'tsit:
+Those records about even the most trivial of the operators' details, those flashes of tactical inspiration...
+
+Kal'tsit:
+Those calculations for determining Rhodes Island's business efficiency, and even those scrawls that I can't make sense of. They are all evidence of your commitment to your duty.
+
+Kal'tsit:
+Although most of these tasks can be completed with the assistance of PRTS, I think this is your preferred method.
+
+Kal'tsit:
+As the density of your notes increases, your cognition also improves.
+
+Kal'tsit:
+PRTS is just a tool. Avoiding overreliance on tools is a good working habit.
+
+Kal'tsit:
+So that was a complaint? I would rather take those words as a compliment.
+
+Kal'tsit:
+All of your abilities are recovering rapidly, not only due to the retention of your procedural memory, but also due to your extraordinary efforts.
+
+Kal'tsit:
+Conscious exercise will help your brain return more quickly to your pre-comatose state, and may even bring back your memory faster than expected.
+
+Kal'tsit:
+I am your doctor. There's not a doctor out there who does not wish for the quick recovery of her patient.
+
+Kal'tsit:
+That said, if you end up collapsing due to overwork, you'll disrupt Amiya's condition as well.
+
+Kal'tsit:
+These sentiments of yours that occasionally leak through are quite unlike the past you. While this is rather intriguing, if I am the object of your feelings, let's just say we've no need of that.
+
+Kal'tsit:
+I've told you many times over that ensuring your physical and mental well-being has always been one of my duties.
+
+Kal'tsit:
+So, yes, even here, I still care about you. Even without a battle.
+
+Kal'tsit:
+Today's exam is over.
+
+Kal'tsit:
+As I said, you don't need to report back here at the same time next week.
+
+Kal'tsit:
+The regular morning and evening check-ups will continue for a while. Lancet-2 will look after you for me.
+
+Kal'tsit:
+If we ever find that your physical condition does not support your continued work, you must immediately return to Medical.
+
+Kal'tsit:
+As for now, you may return to your work, Doctor.
+
+4:32 P.M. \ Overcast, Visibility: 7 km
+
+Rhodes Island Landship, Hallway outside the bridge
+
+Navigator A:
+Earthspirit? What brings you here?
+
+Earthspirit:
+I've updated the geological monitoring report I submitted this morning.
+
+Navigator A:
+You needed to make an adjustment so soon? That's unlike you.
+
+Earthspirit:
+The numbers changed quickly. Made me miss my afternoon nap.
+
+Earthspirit:
+Forward the report to your team leader. My recommendations are at the bottom.
+
+Navigator A:
+Sure. Strong winds warning, is it?
+
+Navigator A:
+That's no problem. The Engineering Department strengthened the storm shutters two days in advance, and Logistics notified everyone to stay away from the at-risk deck areas.
+
+Earthspirit:
+That's not all. Keep reading.
+
+Navigator A:
+Huh... There might be a strong windstorm ahead of our route? Should we slow down or make a detour?
+
+Navigator A:
+How dangerous is this windstorm you're talking about here?
+
+Earthspirit:
+I don't know.
+
+Earthspirit:
+I looked at anomalies in the data and made my best call. All I know for sure is there's more than one cyclone forming ahead, and it's far more intense than anyone would expect.
+
+Navigator A:
+Sounds pretty vague.
+
+Navigator A:
+We set our route a month ago, it's already been approved. We're looking at a big mess if we change it on the fly.
+
+Navigator A:
+You were in that meeting, right? We chose the route for its super low risk profile. Over the last decade, caravans from Lungmen to Leithanien have been back and forth over this route dozens of times.
+
+Earthspirit:
+Yes. In theory, we've avoided the Catastrophe-prone areas, and the probability of encountering danger is low.
+
+Navigator A:
+But you're also not sure?
+
+Navigator A:
+The bosses want us as far away from Ursus and Lungmen as soon as possible.
+
+Earthspirit:
+Whatever... I just needed to make sure you got my warning.
+
+Earthspirit:
+Deciding what to do with it is not in my job description. That's up to you.
+
+Navigator A:
+Settle down, Earthspirit, we've got protocols. I'll notify the team leader, and we'll discuss...
+
+Navigator A:
+Huh, Doctor?! Why are you here?
+
+Navigator A:
+Shouldn't you be in your office?
+
+Navigator A:
+Now that's some coincidence...
+
+Navigator A:
+If you're taking the report, are you going to explain the situation to our team leader in person?
+
+Navigator A:
+What? It's that serious? Well that's not good...
+
+Earthspirit:
+Doctor, you believe me?
+
+Earthspirit:
+Then I'll go to the bridge with you. I'll continue to observe the situation in real time and report to you and Amiya.
+
+Earthspirit:
+This is within the scope of my duties.
+
+4:39 P.M. \ Overcast, Visibility: 4 km
+
+Rhodes Island Landship, Bridge
+
+Central Control Staff:
+Warning, the wind speed is increasing rapidly!
+
+Central Control Staff:
+At these numbers, our visibility's going to fall under one kilometer within a few minutes!
+
+Amiya:
+Did you turn on the assisted driving function for sandstorm mode?
+
+Central Control Staff:
+We've had it on for a while, it was part of the itinerary.
+
+Central Control Staff:
+But Amiya, this might not be an ordinary sandstorm...
+
+Navigator B:
+My god!
+
+Amiya:
+What is it, Pavel?
+
+Navigator B:
+Sensors detecting thunderstorm clouds ahead!
+
+Amiya:
+......
+
+Amiya:
+Open the PA, tell the whole ship that Rhodes Island will pass through a thunderstorm shortly, and raise the alert level by one!
+
+Amiya:
+Central command personnel, slow us down right now!
+
+Amiya:
+Ugh... we're rocking a lot...
+
+Amiya:
+What's the situation?
+
+Central Control Staff:
+The pressure on the hull side panels is skyrocketing!
+
+Central Control Staff:
+70% of the outermost storm shutters have been damaged and are basically failing!
+
+Central Control Staff:
+Also... multiple abnormal heat sources detected near the hull, energy amplitude approaching critical threshold!
+
+Amiya:
+Does this mean...
+
+Amiya:
+Ah, Dr. {@nickname}!
+
+Amiya:
+How... can this be?
+
+Amiya:
+Alright... I got it.
+
+Amiya:
+All hands, activate code red Catastrophe alert!
+
+Amiya:
+Evacuate all personnel on the first deck, bridge excluded. Gather all non-engineering personnel from the second to sixth levels in the central area for safety!
+
+Amiya:
+Central control, maintain minimum speed cruising...
+
+Amiya:
+Navigator, how long will this desert thunderstorm last?
+
+Navigator B:
+These sudden-onset storms usually pass within an hour or two...
+
+Navigator A:
+It's hard to say for sure. Doctor? Earthspirit?
+
+Earthspirit:
+Yes, Doctor.
+
+Earthspirit:
+Mr. Pavel, the Doctor gave you the report I completed an hour ago.
+
+Navigator B:
+Multiple small cyclones within two kilometers...? This doesn't bode well!
+
+Navigator B:
+This Catastrophe is no ordinary desert thunderstorm... we could be looking at a maximum strength windstorm!
+
+Earthspirit:
+Can I borrow one of the sensors on the bridge?
+
+Navigator B:
+Of course. I should've seen it myself...
+
+Earthspirit:
+It's alright, Mr. Pavel. This is an extremely abnormal phenomenon and well beyond the scope of normal Catastrophe prediction. An experienced Catastrophe Messenger would have some trouble spotting all the signs in time.
+
+Earthspirit:
+If not for the Doctor's assistance, I would've treated the outliers as errors and glossed over them.
+
+Earthspirit:
+Doctor, Amiya, the small cyclones ahead are converging and intensifying.
+
+Earthspirit:
+In other words, the core of the multi-cyclone vortex is about to generate.
+
+Earthspirit:
+Once the core forms, I estimate the cyclone will reach two kilometers in diameter and last at least seven to eight hours.
+
+Amiya:
+What happens if Rhodes Island maintains its speed as it approaches the core?
+
+Central Control Staff:
+If we come into contact with the vortex, the ship's hull may collide with high-speed active Originium dust, roughly equivalent to the simultaneous detonation of hundreds of maximum-payload Originium bombs across the bulwark.
+
+Central Control Staff:
+I'm sure you can guess how that might go for us.
+
+Amiya:
+Do we have enough time to change course?
+
+Central Control Staff:
+I can try...
+
+Navigator B:
+The core of the windstorm changes directions very quickly, and can reach a maximum speed of nearly 1,000 kilometers per hour.
+
+Central Control Staff:
+Then there's no point in us trying.
+
+Central Control Staff:
+Amiya, even if we try a full speed retreat, if we get unlucky with the direction, Rhodes Island won't escape the storm.
+
+Amiya:
+Then it seems like the only thing we can do is stay put.
+
+Amiya:
+Mr. Pavel, give me a potential damage assessment.
+
+Navigator B:
+If we spend seven hours in a thunderstorm of a similar scale, the first to sixth decks will be damaged maybe 15%...
+
+Navigator B:
+Of those, the first deck will take the hardest hits, and casualties are likely.
+
+Amiya:
+It'll be the biggest loss the ship takes in a year.
+
+Amiya:
+But, I don't see any options...
+
+Amiya:
+Doctor?
+
+Amiya:
+Yes, if we have to stop in the wastelands, we could face other threats.
+
+Amiya:
+Doctor, are you suggesting that we continue straight ahead?
+
+Central Control Staff:
+That's out of the question, visibility is too low!
+
+Central Control Staff:
+Even with assisted driving, I can't navigate. I'm from Sargon, plunging headfirst into a sandstorm like this is suicide!
+
+Amiya:
+I understand your concerns, Mr. Kamal.
+
+Amiya:
+But, I trust the Doctor.
+
+Amiya:
+Dr. {@nickname}, are you sure about leading Rhodes Island through the Catastrophe zone?
+
+Amiya:
+Good, please cooperate with the Doctor.
+
+Central Control Staff:
+Calculating a safe route in such a short time sounds like a bad joke.
+
+Amiya:
+If anyone can do it, it's our Doctor.
+
+Central Control Staff:
+I've heard stories of the battles and all... but operating the landship is nothing like field command!
+
+Navigator B:
+I don't know about this... Of course, I don't doubt the Doctor's abilities, but I've never heard of this real-time calculation method...
+
+Earthspirit:
+It just might work...
+
+Navigator B:
+Earthspirit, can you make sense of the Doctor's formulas?
+
+Earthspirit:
+No.
+
+Earthspirit:
+But they feel a bit familiar.
+
+Earthspirit:
+Right... I heard about a similar formula from some whiz kid a couple days ago, but the Doctor's version is more complicated and varied.
+
+Amiya:
+Let's head forward then!
+
+Amiya:
+No, Doctor, that would be too inefficient.
+
+Amiya:
+Rhodes Island only needs one commander right now.
+
+Amiya:
+Okay, Doctor, go forward until you're at my position.
+
+Amiya:
+From the moment I saw you appear on the bridge, I trusted that the situation would definitely turn around.
+
+Amiya:
+Attention, everyone on the bridge–
+
+Amiya:
+From now on, I am transferring command of the Rhodes Island landship to Dr. {@nickname}!
+
+Navigator B:
+Got it, Doctor!
+
+Amiya:
+Message from Closure: The engine is ready, and she wishes us 'good luck'...
+
+Earthspirit:
+There's nothing wrong with going a little crazy every now and then.
+
+Central Control Staff:
+If I knew I'd be sailing like this, I would've brought some booze.
+
+Central Control Staff:
+I'm getting a nosebleed from this speed!
+
+Navigator B:
+That's because I elbowed your nose... Sorry, but the whole place is shaking so much I can't control my limbs.
+
+Central Control Staff:
+Is the seismic damper malfunctioning?
+
+Navigator B:
+Looks like it's not just my imagination - the whole ship's falling apart.
+
+Navigator B:
+Earthspirit, you haven't taken your eyes off the screen at all...
+
+Earthspirit:
+Cyclone number two is continuing to move thirty degrees southeast, cyclone number three... cyclone number four...
+
+Amiya:
+Doctor, hold my hand!
+
+Amiya:
+Doctor, did I step on your foot...?
+
+Amiya:
+Are we shaking less?
+
+Central Control Staff:
+Haah... I didn't even notice that strong wind just now. If it caught us, there's no telling if we would've been able to stabilize the hull at this speed!
+
+Navigator B:
+Did the downburst make contact with the ground?
+
+Earthspirit:
+Only two minutes until the core of the storm forms.
+
+Central Control Staff:
+Wait, I see the cyclone!
+
+Central Control Staff:
+There's one on the left and another on the right!
+
+Central Control Staff:
+We're surrounded. Rhodes Island is going to collide in just two or three more minutes!
+
+Central Control Staff:
+It's impossible to avoid them! We don't have enough space to maneuver!
+
+Central Control Staff:
+I'm trying real hard, Doctor!
+
+Central Control Staff:
+But I don't trust myself so much!
+
+Central Control Staff:
+Forget it, if Amiya's with you, I'm on board too. Even if I have to tie my hand to the steering handle, I'll keep pushing it forward until the very end!
+
+Central Control Staff:
+I just regret agreeing to swap shifts with that stinky lad, George...
+
+Earthspirit:
+Seventy-five meters. Fifty meters. Thirty meters...
+
+Navigator B:
+(Gulps nervously) I've never seen a Catastrophe-cyclone up close before...
+
+Amiya:
+Doctor...
+
+Amiya:
+I'm a bit nervous, but I'm not afraid.
+
+Amiya:
+I am a little nervous. But rest assured, Doctor, I'm not afraid.
+
+Amiya:
+Sorry, Doctor, I'm a bit nervous. But I'm not afraid.
+
+Amiya:
+We've been through times like this together before.
+
+Amiya:
+The closer we might be to despair, the bigger everyone's hopes are, the more incredible the outcome will be.
+
+Amiya:
+Doctor, this is what you taught me.
+
+Amiya:
+Yes, Doctor, you once said the exact same words.
+
+'Red alert, red alert...'
+
+'Attention everyone, prepare for impact!'
+
+Amiya:
+Just like before, we'll get through this crisis together.
+
+Amiya:
+The wind is subsiding... and the color of the sky is changing too.
+
+Navigator B:
+Report, Rhodes Island has left the Catastrophe zone!!
+
+Navigator B:
+The damage to all deck levels is less than 5%, and nobody was injured!
+
+Amiya:
+Thank goodness...
+
+Central Control Staff:
+My nose hurtsssss... Pavel, do you know you hit my nose again?
+
+Navigator B:
+So what if I did? We're alive, I say! Alive!
+
+Central Control Staff:
+Fine, but you owe me a drink.
+
+Navigator B:
+Whatever you want, it's on my tab. I almost made a big mistake.
+
+Navigator B:
+Doctor, it's all thanks to you!
+
+Earthspirit:
+Absolutely brilliant calculations, Doctor.
+
+Central Control Staff:
+Doctor, is your command always so thrilling? Haha, I'd like to get another taste of that sometime!
+
+Navigator A:
+Doctor, how in the world did you pull that off? It's like you've got prophetic Arts or something, suddenly showing up on the bridge right before we get hit by a Catastrophe!
+
+Amiya:
+Doctor...
+
+Amiya:
+Thank you... Thank you standing by my side.
+
+Kal'tsit:
+Not half bad.
+
+Kal'tsit:
+The relationship between the self-replication speed of Originium and the increase in energy— you applied this knowledge to the calculation of wind-Catastrophe trajectories.
+
+Kal'tsit:
+You demonstrated similar abilities in the past, helping your colleagues at the time mitigate losses from Catastrophes. Some called you a Catastrophe expert.
+
+Kal'tsit:
+But we both know what you really specialize in.
+
+Kal'tsit:
+That formula... You still remember it.
+
+Kal'tsit:
+You created that formula yourself.
+
+Kal'tsit:
+You've recovered a lot of information about Originium and Catastrophes over the past month, and you left a lot of calculations in your notes.
+
+Kal'tsit:
+Perhaps the sudden crisis dredged up the latent memories from deep inside your consciousness, or perhaps you reinvented it using the knowledge you left behind.
+
+Kal'tsit:
+The fact that you could recall this formula proves that you still retain a basic understanding of the nature of Originium.
+
+Kal'tsit:
+In other words, you've never forgotten your identity as a researcher of Originium.
+
+Kal'tsit:
+You may see the study of Originium as your duty, but know that our actions should never be restricted by duty alone.
+
+Kal'tsit:
+Dr. {@nickname}, what drives you to pursue the study of Originium so fervently?
+
+Kal'tsit:
+I once heard an answer to this question.
+
+Kal'tsit:
+It was very similar to what you said today, but also completely different.
+
+Kal'tsit:
+The person who uttered those words had an instinctive desire to unravel truths unknown, and also worked hard to save lives.
+
+Kal'tsit:
+But sometimes, salvation also meant destruction— that is what the same person told me.
+
+Kal'tsit:
+Do you still harbor that same answer deep within your brain?
+
+Kal'tsit:
+Amiya said your performance on the bridge today was much like that of an actual 'prophet.'
+
+Kal'tsit:
+The rational part of me wants to believe in science.
+
+Kal'tsit:
+When the results of your first brain examination came back, I thought I saw some errors in the process, and so there was a second time, a third time... and even a seventh time.
+
+Kal'tsit:
+The rational part of me told me that repeating the same results three times was enough to prove that you weren't lying.
+
+Kal'tsit:
+Without a shadow of a doubt, you really did lose a lot of your memories. You don't remember what you did to Theresa, and you forgot why you were standing here in the first place.
+
+Kal'tsit:
+All of this has caused a significant... dichotomy between you and the person I once knew.
+
+Kal'tsit:
+But just like I allowed you to do the seventh test, in this moment, I once again find myself doubting... Who exactly is standing in front of me?
+
+Kal'tsit:
+How much of the past remains, and how much of you blooms anew?
+
+Kal'tsit:
+Perhaps, I won't deny it. Dealing with you always has a tendency to sway my emotions.
+
+Kal'tsit:
+But this is also born of extreme rationality.
+
+Kal'tsit:
+I hope you understand, there can be errors in our measurements. And in your case, I can no longer tolerate any errors.
+
+Kal'tsit:
+I would like to apologize to you regarding this matter.
+
+Kal'tsit:
+But taking a better grasp of your memory recuperation will also have real benefits for your body.
+
+Kal'tsit:
+Situations are rarely black and white... and the same is true of human emotions.
+
+Kal'tsit:
+I've not concealed my hatred for you in the past, but... no matter how much I hate to admit it, there's something else there too.
+
+Kal'tsit:
+If it's only strength I needed, I believe that you are good enough as you are... Perhaps, you can do even better.
+
+Kal'tsit:
+Do I... 'miss'...?
+
+Kal'tsit:
+That word is far too simple. The languages of this world have developed over thousands of years, and yet I am still unable to choose the most suitable word to order my thoughts during the many moments I think about you.
+
+Kal'tsit:
+Without a doubt, I seek that answer.
+
+Kal'tsit:
+Ideally, I want to hear the truth from your mouth. But I will not give up looking for that truth in other ways.
+
+Kal'tsit:
+Now, it's my turn to ask you.
+
+Kal'tsit:
+Dr. {@nickname}, do you want your memories back?
+
+Kal'tsit:
+Your answer doesn't matter. I see your hesitation.
+
+Kal'tsit:
+Once your memories come back, many of your questions will be answered. However, not every answer will satisfy you.
+
+Kal'tsit:
+You will know where all the emotions pouring into you come from, whether it is the hatred from me and W, the unconditional trust from Amiya, or... even further back.
+
+Kal'tsit:
+Excess memories, intense emotions, will instantly flood your entire brain—
+
+Kal'tsit:
+Trust me, what you will feel at that time will be far greater than exhaustion.
+
+Kal'tsit:
+What you should fear even more is, when the past finally catches up to you, you must decide.
+
+Kal'tsit:
+What if those memories are too strong and engulf all the hard work you've put in recently, and pull you back into the abyss that you failed to crawl out of over countless years?
+
+Kal'tsit:
+Once the current you is defeated, everything you've worked so hard to build will collapse, and your will may no longer be your own.
+
+Kal'tsit:
+So, let me ask you once more—
+
+Kal'tsit:
+Dr. {@nickname}, are you ready?
+
+Kal'tsit:
+If luck is on our side, you won't need to answer this question any time soon.
+
+Kal'tsit:
+I want to thank you. Over the past month or so, you've shown me some new possibilities.
+
+Kal'tsit:
+Especially today. I learned that you still remember the formula.
+
+Kal'tsit:
+It turns out, you and I are not the only ones preparing for that day.
+
+Kal'tsit:
+I suspected this long ago, that home-use life functions restoration device was not supposed to have the defect of deleting one's memory—
+
+Kal'tsit:
+In particular, it's impossible to selectively delete the part of the brain most likely involved in decision-making, but still retaining the parts most meaningful to you.
+
+Kal'tsit:
+Dr. {@nickname}......
+
+Kal'tsit:
+What I think is, she trusted you even more than I could fathom in the past.
+
+Kal'tsit:
+That being the case, we should continue to work hard.
+
+Kal'tsit:
+Just as I've said countless times already, I will help you, as long as we continue to stand together.
+
+7:43 P.M. \ Overcast
+
+Rhodes Island Landship, Command Center
+
+???:
+Professor, are you here?
+
+Eyjafjalla:
+Professor, they said you wanted to see me...
+
+Eyjafjalla:
+Is it about my application to become an operator...? Oh, it's been approved?
+
+Eyjafjalla:
+That's great news. Everyone said you and Miss Amiya would turn me down because of my condition.
+
+Eyjafjalla:
+I see, you even went out of your way to get it approved? Thank you...
+
+Eyjafjalla:
+You mean... the Catastrophe this afternoon?
+
+Eyjafjalla:
+Professor, did you read my analysis?
+
+Eyjafjalla:
+It was just a hunch.
+
+Eyjafjalla:
+They said the density of Originium near the surface around here would be very low, but I saw the same situation in a volcano in southern Leithanien...
+
+Eyjafjalla:
+Even a small amount of Originium proliferates rapidly over a brief period when the conditions are right.
+
+Eyjafjalla:
+Two days ago, after finishing my daily treatment, I was walking around the dorms as usual when I saw the approaching phenomenon from the dust samples on the porthole.
+
+Eyjafjalla:
+In sandy terrain, a sudden burst in Originium energy will cause the ground temperature to rise rapidly, leading to a significant increase in the possibility of large-scale wind-Catastrophes.
+
+Eyjafjalla:
+Um... I'm so sorry... I can go on and on about this stuff...
+
+Eyjafjalla:
+You've already seen the report, right?
+
+Eyjafjalla:
+Busy as you are, I never expected you'd read our random notes.
+
+Eyjafjalla:
+Professor, are you interested in my research?
+
+Eyjafjalla:
+Do mystical Originium Arts like that exist?
+
+Eyjafjalla:
+......
+
+Eyjafjalla:
+............
+
+Eyjafjalla:
+Ah... I understand, you were making a joke.
+
+Eyjafjalla:
+If you're not too busy, I'd love to stay over and have a nice chat with you again.
+
+Eyjafjalla:
+There are so many books on your desk...
+
+Eyjafjalla:
+Annals of the Great Yan Classics,' 'A Tower Without a Legend,' 'Columbia Judicial Observation Notes,' 'Conquest and Assimilation' ...Professor, are these the books you normally read?
+
+Eyjafjalla:
+Your interests are so diverse. It's nothing like the bookcases of the other professors I know.
+
+Eyjafjalla:
+These are your... Catastrophe research notes?
+
+Eyjafjalla:
+Thank you... Thank you so much! I'll study these thoroughly!
+
+Eyjafjalla:
+If I have any questions, may I come to talk to you?
+
+Eyjafjalla:
+Professor... my life has been a series of wonderful surprises since coming to Rhodes Island.
+
+Eyjafjalla:
+The stability of my Oripathy has given me a lot more confidence about my future, and people like you have given me the hope to keep moving forward.
+
+Eyjafjalla:
+If you're working so hard, then what reason do any of us have to give up?
+
+Eyjafjalla:
+—Professor.
+
+Eyjafjalla:
+Thank you so much for leading Rhodes Island forward, and on into the future.
+
+
+

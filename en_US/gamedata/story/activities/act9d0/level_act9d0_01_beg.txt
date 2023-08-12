@@ -1,0 +1,316 @@
+It's me.
+
+I've reached the target destination. I have visual confirmation of the smoke signal's coordinates.
+
+...It's been a while since our last fight with the other mercenaries. We've taken some losses.
+
+But they hid plenty of supplies in the underground bunker. We won't come back empty-handed.
+
+Mm, yeah. The scout can go on ahead.
+
+I'll catch up soon.
+
+...Right, there was an unexpected casualty.
+
+W is dead.
+
+Ines:
+...
+
+Ines:
+You're talking like it was hell on earth out there, but you look perfectly fine to me.
+
+Ines:
+Or are you talking it up to get a pity bonus?
+
+Hoederer:
+Well, it's not like you had to go out of your way to leave camp to pick us up. Who asked you to be such a worrywart?
+
+Ines:
+I don't give a shit about anyone. Quit projecting.
+
+Hoederer:
+If W hadn't stayed behind to create an opening for us, none of us would've made it out.
+
+Ines:
+...
+
+Ines:
+...When did it happen?
+
+Hoederer:
+Two hours ago, when our communications were cut off. The squad got ambushed.
+
+Hoederer:
+W blew apart the ruins and gave us a chance to escape. He fought until the bitter end.
+
+Ines:
+Poor guy.
+
+Hoederer:
+Yeah. If only he made it back to camp alive. His kill count was well past mine. He would've come out as top merc, easy.
+
+Hoederer:
+Forget it, no point talking about that stuff now. At least he's earned his rest.
+
+Ines:
+With the enemy routed, we should probably bring him back?
+
+Hoederer:
+Impossible. We can't risk exposing ourselves like that. Don't want to get caught out.
+
+Hoederer:
+Why would you even want to? Were you two that close? Nobody told me.
+
+Ines:
+He had a bunch of loot on him. That's all I care about.
+
+Hoederer:
+It wasn't that much. Some of the other guys brought in bigger hauls.
+
+Hoederer:
+When the war ends, we can go back to the good old days.
+
+Hoederer:
+...If the war ends.
+
+Ines:
+Hmph...
+
+Hoederer:
+We can sit around and commiserate later. We'd better get out of here before sunset if we don't want to be the center of attention.
+
+Hoederer:
+Head back to camp and muster the troops.
+
+Ines:
+Hmm—?
+
+Ines:
+Is that an order, 'Second' Lieutenant Hoederer?
+
+Hoederer:
+...We've lost contact with the other squads. As of right now, I'm your commanding officer.
+
+Ines:
+We're the same rank.
+
+Hoederer:
+*Sigh*....
+
+Hoederer:
+...Ines, let's hurry back to the rendezvous point. Then we can contact the client again to renegotiate our deal.
+
+Hoederer:
+That's a suggestion, not an order. All right?
+
+Ines:
+Hmph...
+
+Ines:
+How much you think we can milk W's death for?
+
+Hoederer:
+A lot.
+
+Hoederer:
+He was a helluva merc. Everybody knew.
+
+Ines:
+At least... his death won't be in vain.
+
+Ines:
+In the end, did he leave anything—
+
+Ines:
+—Shh!
+
+Ines:
+Someone's coming. Three o'clock. Not one of ours.
+
+Hoederer:
+...
+
+Ines:
+Just one. Get out.
+
+Disheveled Sarkaz Woman:
+...
+
+Ines:
+A Sarkaz...? One of the natives?
+
+Ines:
+No, wait... You have W's gun and knife in your hands...
+
+Ines:
+Who the hell are you?
+
+Disheveled Sarkaz Woman:
+...
+
+Ines:
+Not talking? Then, die.
+
+Hoederer:
+Wait, hold up.
+
+Hoederer:
+She followed us here.
+
+Disheveled Sarkaz Woman:
+...
+
+Ines:
+...You let her follow you?
+
+Hoederer:
+We haven't exactly been dragging our feet, but she's kept up with us purely through her own skills, even after grabbing W's gear.
+
+Hoederer:
+She's an 'experienced' Sarkaz, and I may need a local guide when it's time to bounce.
+
+Ines:
+—Are you insane? Isn't that all the more reason to kill her right here?
+
+Ines:
+If you want us all dead, you might as well just do it yourself.
+
+Hoederer:
+I wouldn't dare.
+
+Ines:
+What if she's an assassin? What if she leads us straight into a trap?
+
+Ines:
+Did you forget how many people in Kazdel want your head?
+
+Hoederer:
+Oh? How many?
+
+Ines:
+...There's one right in front of you.
+
+Ines:
+You've got a huge bounty on your head. But for the time being, I'd rather it stay on your shoulders. Don't get too full of yourself.
+
+Hoederer:
+I appreciate your diligence and frugality, but I'm not joking around either.
+
+Hoederer:
+She took the risk to pick up W's knife and gun, and had the stones to walk right up to us.
+
+Hoederer:
+What are your Arts telling you? Is she hostile?
+
+Ines:
+...No sane person would just take in a totally unknown Sarkaz.
+
+Hoederer:
+Yeah, that's the difference between you and me.
+
+Hoederer:
+On my way back, I gave her a whole bunch of openings, and she... threw little stones at me.
+
+Hoederer:
+An interesting display of good will, wouldn't you agree?
+
+Ines:
+...Huh?
+
+Hoederer:
+According to the old ways, we might want to give her a chance.
+
+Hoederer:
+This war has thinned out our ranks. We could recruit some more Sarkaz, just as mysterious as her, but I'd rather hand-pick someone myself.
+
+Disheveled Sarkaz Woman:
+...
+
+Ines:
+But, she's an outsider. Our ways don't apply to—
+
+Ines:
+—You know what, forget it.
+
+Ines:
+I'm leaving in ten minutes. I don't care how many come with me.
+
+Ines:
+But if you're gonna give me any more corpses to deal with, I don't care whose, you better make it quick.
+
+Hoederer:
+Heh. Quite the impatient one, aren't you.
+
+Hoederer:
+...All right, you. Listen carefully.
+
+Disheveled Sarkaz Woman:
+...
+
+Hoederer:
+You're holding our fallen comrade's relics there.
+
+Hoederer:
+Put them down, and you can walk out of here alive. You'll have to find somewhere else to die, but at least you'll buy yourself some extra time.
+
+Disheveled Sarkaz Woman:
+...
+
+Hoederer:
+...
+
+Hoederer:
+This is your last chance.
+
+Disheveled Sarkaz Woman:
+...
+
+Disheveled Sarkaz Woman:
+Last... chance?
+
+Disheveled Sarkaz Woman:
+...I don't think I ever had a choice. The second I turn around, you draw your blade and cut me down.
+
+Disheveled Sarkaz Woman:
+This whole time... your other hand has been on that hilt.
+
+Hoederer:
+...Very good.
+
+Hoederer:
+You may have seen us before, or maybe you worked for someone else. None of that concerns me.
+
+Hoederer:
+But, you understand what it means to take up the weapons of the fallen, yes?
+
+Disheveled Sarkaz Woman:
+Of course.
+
+Hoederer:
+In that case, prepare to evacuate first. We'll talk details later.
+
+Hoederer:
+Now, go rejoin the squad—
+
+Hoederer:
+—'W.'
+
+There is no end to war. And there is no end to our fight.
+
+It is as if war is the tool that we have always relied on for survival.
+
+...Mm, I am convinced of that.
+
+Some still harbor reservations in their heart, while others have grown accustomed to that fact. The latter live, the former die.
+
+And some people... were born to play this role.
+
+What a pleasant surprise.
+
+When I saw her in those crumbling ruins, I knew for sure...
+
+She would reign supreme among the Sarkaz warriors.
+
+
+

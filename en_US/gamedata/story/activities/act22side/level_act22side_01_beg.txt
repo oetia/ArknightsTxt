@@ -1,0 +1,236 @@
+Taran Refugee:
+Leave your account book alone already. What, gonna wait a few days, and then go selling stuff out of your boot again?
+
+Fionn:
+No, that's never happening. *sigh*
+
+Fionn:
+But just, whenever I do something shameful, I feel the need to make a note.
+
+Taran Refugee:
+The doctor's a smart sort—she knew how you'd gotten hurt on first blush, even. If she's not blaming you, that's because she forgives you.
+
+Fionn:
+But she said, she wasn't a doctor. She just learned a little first-aid working someplace where they sell medicine. That's how she led us through treating our wounds...
+
+Taran Refugee:
+How do you know she's telling the truth?
+
+Taran Refugee:
+If you ask me? She's not your normal doctor, no, but there's no chance she's just some pharmacy worker. She had a full suite of medicine with her, out here in the wastes. That, that's strange.
+
+Taran Refugee:
+Oh, yeah, and did you see what she had in that box of hers? You're a business type. Got a guess on how much it was worth?
+
+Fionn:
+I didn't look properly.
+
+Fionn:
+You can't be thinking of stealing luggage from the person who saved us.
+
+Taran Refugee:
+No, no, I'm just asking.
+
+Fionn:
+*sigh*... Got any more bread there?
+
+Taran Refugee:
+Not much.
+
+Fionn:
+Give me a little, for God's sakes.
+
+Fionn:
+Doctor.
+
+Fionn:
+Er, no, sorry, I know you don't like being called that... um, you want some bread?
+
+Reed:
+No, thank you.
+
+Fionn:
+What are you reading there?
+
+Reed:
+It's just... an old Taran poetry collection.
+
+Fionn:
+Oh, oh, it's in Taran... I never knew much Taran, see. Even less so when it's written, I suppose, haha.
+
+Reed:
+If you want to sit down here, I won't mind.
+
+Reed:
+All I did was give you some medicine.
+
+Reed:
+They're things I ought to do, cleaning wounds, bandaging. But I—still can't do them that well.
+
+Fionn:
+That's fine, I didn't even dare touch the wound myself. Scared the living daylights.
+
+Fionn:
+What I wanted to say was, if you hadn't set that fire off, we might never have escaped.
+
+Reed:
+Fire...?
+
+Reed:
+No, the fire wasn't me. I was just passing by.
+
+Fionn:
+Okay. If you say so, then it must've been a coincidence.
+
+Fionn:
+Ah, Dublinn my arse. Those army lot'll call anyone who disobeys them Dublinn. We're a lost cause, but good people like you, you shouldn't have to bear such heavy guilt.
+
+Reed:
+Do you hate Dublinn, very much?
+
+Fionn:
+I... I couldn't say.
+
+Fionn:
+I'll give you a word of warning, seeing as you're from the city. For the past while, Dublinn's people have been around these parts.
+
+Fionn:
+I hear they ran into one lot of Victoria's army, and not a single of those Victorians survived.
+
+Fionn:
+That upset the lords of the city fierce, so they transferred in a whole thing of soldiers to Trent, seizing people all over the Scáthanna Fields. Burnt several villages down too.
+
+Fionn:
+You really shouldn't have saved us, truth be told. We're not worth it.
+
+Reed:
+......
+
+Reed:
+If I don't—care for other people's lives, then I won't have achieved—what I agreed with Rhodes Island...
+
+Fionn:
+Eh? Sorry, you're talking a little too quiet, actually...
+
+Reed:
+No, it's nothing... I'm already aware of—some of what you've told me. I'll be careful on the way.
+
+Fionn:
+Er, you're going now?
+
+Reed:
+Mm. It's day now. I won't need you to show me the way.
+
+Fionn:
+Alright, alright. I understand. Tarans like your sort, speaking Victorian so finely, I know you don't like to talk with us much.
+
+Selmon:
+Hey, you seen Caireann? Woman about this tall, tail swings all around when she walks.
+
+Selmon:
+No? Could you look for her around these parts, then, doctor? She hasn't come back since last night.
+
+Fionn:
+Selmon, what's got you so—
+
+Selmon:
+Ah, Fionn, come on here and help us out.
+
+Reed:
+......
+
+Bagpipe:
+Oh, we've got signal here? Doesn't that mean we went the wrong direction again?
+
+Ch'en:
+Looks like it. The comms facilities around here haven't been destroyed, which indicates they haven't advanced upon these parts.
+
+Bagpipe:
+Hmm... any word from Rhodes Island, then?
+
+Ch'en:
+Basically the same as what the news says. Arson committed by a small group of Dublinn soldiers in Redridge village last night, burning down a building in the barracks.
+
+Ch'en:
+But said soldiers don't seem to have fled into these barrens.
+
+Ch'en:
+The rest is all invalid info. It just so happens every nomadic city been far from these barrens for the past month. Our field operators haven't reported anything unusual.
+
+Ch'en:
+While we've only seen what mark the battles have left behind... and we can't even determine the scale of those battles from it.
+
+Ch'en:
+We can only tell one thing. There was a massive disparity between the two sides' power. It seems they made short work of that whole unit of Victorian soldiers.
+
+Ch'en:
+Bagpipe, are you listening?
+
+Bagpipe:
+Eh?
+
+Ch'en:
+Your parts are installed in the wrong orientations. I can tell you're getting distracted again.
+
+Bagpipe:
+Wow, Chenchen, I didn't know you knew piledriver spear assembly too! It took me forever studyin' to actually remember how you maintain one.
+
+Ch'en:
+I never fully got my head around the assembly.
+
+Bagpipe:
+I was just thinkin', why does Hughes always sound like somebody else in his letters? I know it doesn't make much sense bringin' it up, but...
+
+Ch'en:
+That's fine. I've always trusted your intuition to be on the mark.
+
+Ch'en:
+You feel like there's always something he wants to say, but doesn't dare to?
+
+Ch'en:
+Just like how last time we went to see him, it was like he was being watched.
+
+Bagpipe:
+Aye, that's exactly it!
+
+Ch'en:
+That proves we're not on the wrong track. The intel Hughes gave us was accurate—enough so to put the enemy on guard.
+
+Ch'en:
+The army can hide their march route, but there's some leaked hint of how raw materials are flowing for war purposes. Over the past few months, the few Dublinn units we've marked have all converged on this area.
+
+Bagpipe:
+The outer parts of Trent? This... uninhabited zone?
+
+Ch'en:
+......
+
+Bagpipe:
+Chenchen, you look like you've seen a...
+
+Ch'en:
+Three o'clock.
+
+Dublinn Soldier:
+—
+
+Bagpipe:
+Same dress as back in County Hillock... it's the spectre force!
+
+Bagpipe:
+Come on, after them—
+
+Ch'en:
+Wait, Bagpipe... there's something very strange about them.
+
+Bagpipe:
+Oh. They're just a few of them. It's like they're standin' guard... Are they bait?
+
+Ch'en:
+No, not necessarily. They're reminding me of... some things that happened in Lungmen.
+
+Ch'en:
+Don't underestimate them. We'll approach carefully.
+
+
+

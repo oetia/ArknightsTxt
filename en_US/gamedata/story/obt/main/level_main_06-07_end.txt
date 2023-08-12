@@ -1,0 +1,347 @@
+Blaze:
+*Pant* *pant*...
+
+Amiya:
+Blaze!
+
+Blaze:
+I'm fine! They... have some moves.
+
+Blaze:
+You're not freezing, are you?
+
+Amiya:
+Thanks to you, we're okay. You're keeping the air warm enough to stop her chills.
+
+Blaze:
+Don't mention it.
+
+Blaze:
+Hey Frosty, why aren't you using lethal Arts?
+
+FrostNova:
+*Hack* *cough*...
+
+Blaze:
+......
+
+Blaze:
+So that's why.
+
+Amiya:
+...FrostNova, she...
+
+Blaze:
+FrostNova's the name?
+
+FrostNova:
+*Hack*... Help me... cover...
+
+Yeti Squad Member:
+Sister...
+
+Blaze:
+Get out of here, Amiya. There could be more Reunion on the way. Do we have any injured? I can help.
+
+FrostNova:
+So you're retreating?
+
+Blaze:
+I'm going to politely suggest that you don't fight anymore, snow bunny.
+
+Blaze:
+If you keep using your Arts like that, you're going to die. You're just burning your life into power.
+
+Blaze:
+Or, you could always come to Rhodes Island. We've got ways to extend your life.
+
+FrostNova:
+......
+
+FrostNova:
+Don't look at me like that... I don't need your pity.
+
+Blaze:
+Do I look like I pity you? You're strong. I respect you.
+
+FrostNova:
+......
+
+FrostNova:
+Why are you running away?
+
+FrostNova:
+*Cough*... *Hack* *hack*...
+
+Blaze:
+Dr. {@nickname}, run. Don't look at her!
+
+Meteorite:
+Reunion forces closing on our position!
+
+FrostNova:
+You're not leaving.
+
+Yeti Squad Member:
+Sister, don't use that now, not where you're standing!
+
+FrostNova:
+We can't let them escape!
+
+FrostNova:
+Who knows what Rhodes Island might do to our people in Lungmen!
+
+FrostNova:
+The temperature difference... it's causing the structure... to weaken!
+
+FrostNova:
+*Cough* *cough*... freeze!
+
+FrostNova:
+......♪......
+
+FrostNova:
+*Hack*...!
+
+Yeti Squad Member:
+It's working...
+
+Yeti Squad Member:
+The Originium we buried has changed the structure of the lower levels, the plates are tilting!
+
+Yeti Squad Member:
+Sister, it's too dangerous! Hold onto me!
+
+FrostNova:
+......
+
+Yeti Squad Member:
+Sister?!
+
+Meteorite:
+...Blaze. Do you hear that?
+
+Blaze:
+Hm?
+
+Meteorite:
+Is that the sound of the structure shattering?
+
+Blaze:
+Oh...
+
+Amiya:
+Buried Originium... heat absorption... temperature difference...
+
+Amiya:
+It's collapsing... FrostNova's Arts can actually do that...?
+
+Blaze:
+No!
+
+Blaze:
+The plate is warping!
+
+Meteorite:
+Reunion is capable of something like this?
+
+Blaze:
+All I know is... the whole district is sinking!
+
+Amiya:
+Run! Get to a stable area! The ground here is caving in!
+
+Jessica:
+...Doctor?
+
+Jessica:
+Doctor, the ground under you... it's... splitting?
+
+Blaze:
+Uh oh.
+
+Blaze:
+Dr. {@nickname}, move!
+
+Amiya:
+Doctor!
+
+Blaze:
+Amiya, stay where you are! Dr. {@nickname}, grab onto that lamppost!
+
+Amiya:
+Save the Doctor!
+
+Blaze:
+The ground is splitting too fast! I can't reach!
+
+Amiya:
+Then I'll do it!
+
+Blaze:
+No!
+
+Amiya:
+What did——
+
+Amiya:
+Doctor!!
+
+Meteorite:
+The buildings can't support their own weight anymore, they're all collapsing!
+
+Blaze:
+Meteorite, take her!
+
+Meteorite:
+Okay, I've got Amiya!
+
+Amiya:
+Put me down!
+
+Blaze:
+Amiya, go. I'll get the Doctor! I'm an elite operator, I can do it!
+
+Amiya:
+......
+
+Blaze:
+Welp, looks like we're not quite done.
+
+Blaze:
+Doctor, I'm going to use airflow and pressure to slow your fall and push away the building beside you. Don't worry, it won't crush you!
+
+Blaze:
+Just don't panic! I've got you!
+
+Blaze:
+...See you soon!
+
+Blaze:
+......
+
+Yeti Squad Member:
+......
+
+Blaze:
+Sup? Where's FrostNova?
+
+Blaze:
+Your commander fell down there too, huh?
+
+Yeti Squad Member:
+...Yes.
+
+Yeti Squad Member:
+Could we not fight?
+
+Yeti Squad Member:
+Rabbit of Rhodes Island, could we forge a temporary armistice? Honestly, we never much wanted to fight you.
+
+Amiya:
+But...
+
+Yeti Squad Member:
+Mephisto told our sister you'd killed Alex, and she was very concerned about what you would do next.
+
+Amiya:
+...Who's Alex?
+
+Yeti Squad Member:
+Skullshatterer.
+
+Amiya:
+I'm sorry. I did kill Skullshatterer.
+
+Yeti Squad Member:
+...Oh.
+
+Amiya:
+Infected really should not fight one another. I'm sorry.
+
+Yeti Squad Member:
+What's to apologize for? It was a battle, wasn't it?
+
+Amiya:
+It was.
+
+Yeti Squad Member:
+So let's have a ceasefire. Nesti, what do you say?
+
+Yeti Squad Member:
+Huh? *Ursine profanity*!
+
+Yeti Squad Member:
+Nesti says he's fine with it.
+
+Frostleaf:
+I don't think that's what he said.
+
+Yeti Squad Member:
+As long as we're not in battle, there's no reason to kill anyone, right?
+
+Amiya:
+Why is it... you want a ceasefire?
+
+Yeti Squad Member:
+Did you ever notice that both our sides are led by rabbits?
+
+Blaze:
+...Huh?
+
+Frostleaf:
+I think something in my brain just broke.
+
+Jessica:
+Hm?
+
+Frostleaf:
+These are the yetis of the ice field?
+
+Jessica:
+Wh- what do you mean?
+
+Frostleaf:
+Shouldn't they be cold, merciless killers?
+
+Frostleaf:
+This isn't right.
+
+Yeti Squad Member:
+That's prejudiced.
+
+Yeti Squad Member:
+Listen here, bunny.
+
+Yeti Squad Member:
+Who wins the battle, or where you go, none of that matters to us. All we care about is our sister's life.
+
+Yeti Squad Member:
+And you're worried about your friend too, right?
+
+Amiya:
+...Right. We didn't come here to hurt anyone.
+
+Yeti Squad Member:
+You're definitely not here to hunt Reunion for sport, are you?
+
+Amiya:
+Of course not!
+
+Yeti Squad Member:
+You know... it's funny...
+
+Yeti Squad Member:
+If it weren't for Patriot insisting on unity in the Reunion Movement, we'd have dealt with Mephisto and his people a long time ago.
+
+Yeti Squad Member:
+And that'd be kinda like hunting Reunion for sport, huh?
+
+Amiya:
+Huh...
+
+Yeti Squad Member:
+Let's get digging, shall we?
+
+
+

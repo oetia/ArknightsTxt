@@ -1,0 +1,287 @@
+Villager:
+Stay away! Get back!
+
+Villager:
+It—it bit off my hand—ha, haha—why can't I feel any pain at all, why—
+
+Ink Spirit:
+Gkhaa!
+
+Villager:
+Eek—stay away!
+
+Lava:
+Are you okay?!
+
+Villager:
+Why did you only just come?! Why did nobody sound the bell?! Where'd the vigilant monk go?!
+
+Villager:
+You know we trusted you, so we did what you said! Why! Why did my husband have to die?! How can you make up for that?! How?!
+
+Lava:
+We'll talk when we're safe.
+
+Little Girl:
+Waaahhh—mama, mama! Give my mama back!
+
+Ink Spirit:
+Gkhaa!
+
+Mr. Nothing:
+Whoa, there! Even less close for comfort!
+
+Little Girl:
+M-Mister, mama, mama—
+
+Ink Spirit:
+Gkhaa!
+
+Mr. Nothing:
+Let's ignore this fellow for now! There seems be something disastrous afoot outside! Young lady, hold on tight, we're going to slip out of here!
+
+Ink Spirit:
+Gkhaa—! Gkhaa!
+
+Mr. Nothing:
+Another one?!
+
+Lava:
+I can't—I can't deal with this!
+
+Ink Spirit:
+Gkhaa—!
+
+Ink Spirit:
+Gkh!
+
+Lava:
+Where the hell did they all come from?!
+
+Lava:
+Damnit, there's no way I can hold back this many—
+
+Ink Spirit:
+Gkh...?
+
+Saga:
+Though they may figures in a painting, there is no need to slaughter them all... observing such a scene only serves to inspire outbursts of sorrow.
+
+Saga:
+Lava, I am here to watch this place. Thou would best hurry to take others to refuge.
+
+Lava:
+You...
+
+Saga:
+Worry not for me. I have traveled many times here. I have had all manner of thought on the future, anxieties indeterminate—
+
+Saga:
+—but for that in front of me, I have never been one moment nor fraction irresolute.
+
+Saga:
+Leave this to me.
+
+Lava:
+Alright. Keep going east. When you're done, find me and we'll converge.
+
+Saga:
+Understood!
+
+Ink Spirit:
+Gkhaa!!
+
+Saga:
+I am here! None shall come forward!
+
+Ink Spirit:
+?!
+
+Saga:
+Those who pass this line—shall be cut down.
+
+Little Girl:
+Waaahhh—
+
+Mr. Nothing:
+Ow, ow! My dear young lady! Might you be able to stop pulling on my hair!
+
+Little Girl:
+Mamaaa—mamaaaa—
+
+Ink Spirit:
+Gkhaa!
+
+Mr. Nothing:
+These cretins only keep gkh-gkh-gkhing! How can things so bent on chasing you not spit out a human word or two?!
+
+Ink Spirit:
+Gkh...
+
+Ink Spirit:
+...DON'T... RUN...
+
+Mr. Nothing:
+Good heavens, I was only joking! You need not! You absolutely need not—!
+
+Little Girl:
+*whimper* Mister, l—look in front!
+
+Mr. Nothing:
+Eh?
+
+Villager:
+Yaaagh!
+
+Villager:
+A—Are you that fortune-teller...? Where are the other two heroes?
+
+Villager:
+Behind you, behind you!
+
+Ink Spirit:
+Gkhaa!
+
+Villager:
+Why did you bring it over here!? Think of something—think of something!
+
+Mr. Nothing:
+What can I possibly think of?!
+
+Villager:
+Lead them away from here, away!
+
+Mr. Nothing:
+I... I'm...
+
+Little Girl:
+*whimper* Waaahhhh, mama, mama—
+
+Mr. Nothing:
+......
+
+Villager:
+Oh, just stop crying! Stop! Stop crying, girl!
+
+Villager:
+Agh! Those things are looking at us! Get out of here, get out of—
+
+Ink Spirit:
+Gkhaaaaaagh!
+
+Villager:
+Huh...?
+
+Villager:
+Y-You used your fan?
+
+Mr. Nothing:
+Hide yourselves further away.
+
+Ink Spirit:
+Gkhao? Gkhaa—
+
+Villager:
+In one move...?!
+
+Ink Spirit:
+Ao!?
+
+Villager:
+A-Amazing...
+
+Mr. Nothing:
+......
+
+Mr. Nothing:
+Ow-Owie, it hurts so much, it hurts so much—just what are these things, and how can they look so soft, yet be so hard when striking them?
+
+Mr. Nothing:
+Oh, stop goggling at me. The proverb puts it well; even a cornered burdenbeast will bite. Here, we'd best just hurry on our way!
+
+Ink Spirit:
+Gkhao...
+
+Mr. Nothing:
+?!
+
+Kroos:
+Man alive, Nothing, your kickboxing work's not bad, but you've never done a rescue business like this, eh?
+
+Kroos:
+Deal with the enemies in front of you without checking movement on your whole perimeter, and sooner or later you'll give yourself grief.
+
+Mr. Nothing:
+Ah, ahahah... that was quite dangerous just now! My apologies for the grief I gave you, benefactor. Only thanks to you am I safe and sound.
+
+Kroos:
+Alright, quick, go and get everyone left into shelter.
+
+Mr. Nothing:
+Er, what about you, benefactor?
+
+Kroos:
+Me? Don't you mind, I walk light as a feather. They won't ever notice me.
+
+Mr. Nothing:
+(Can the single skill of light-footedness really explain that?!)
+
+Kroos:
+And then... how do we cut down these Ink Spirit numbers fast...?
+
+Villager:
+Eyaah! Wh—what's that fire in the garden?
+
+Saga:
+Hoo! This blaze soaring skyward makes quite a spectacle!
+
+Saga:
+Ho? Could it be that the name 'Lava' held this exact meaning?
+
+Lava:
+......
+
+Kroos:
+Lavaaa.
+
+Lava:
+Confirm the extent of all enemy scatter in the vicinity for me.
+
+Kroos:
+This big of an arena?
+
+Lava:
+I'm worried about the surrounding buildings getting caught up, so I've been sort of keeping my Arts tied down...
+
+Lava:
+...but there's just too many enemies. If we keep dragging this out, I'm concerned casualties are going to end up tough to estimate.
+
+Kroos:
+Roger. Special times, special methods, right.
+
+Kroos:
+I'll find a high vantage point. You focus on casting.
+
+Kroos:
+I'll help you sort all the ones outside your Arts range. I guarantee I'm not gonna miss a single one.
+
+Lava:
+Good.
+
+Lava:
+I'll submit the mission report afterwards... after all, it's not just the Infected that Rhodes Island helps.
+
+Kroos:
+Infected...?
+
+Lava:
+What's up?
+
+Kroos:
+Huh... nothing, actually. By the way, Lava.
+
+Kroos:
+You seen Mr. Umbrella-Boiler anywhere?
+
+
+

@@ -1,0 +1,629 @@
+Keen Famiglia Juror:
+Tsk, tsk. The courtroom sure is lively today.
+
+Composed Famiglia Juror:
+Today's trial will be open to the general public, and broadcasted live. Far too many people will be joining in on the fun.
+
+Keen Famiglia Juror:
+Heh, this is the first time I've seen jurors representing so many different famiglie arrive in such an orderly fashion. This almost seems more like a press conference than a trial.
+
+Composed Famiglia Juror:
+After all, the man on trial today is none other than Leontuzzo Bellone.
+
+Composed Famiglia Juror:
+Signora Sicilia gave the order that 'the famiglie are not to interfere with the new city' but didn't elaborate on her plans beyond that. Everybody's scratching their heads.
+
+Composed Famiglia Juror:
+Finally, the court representing Signora Sicilia's will is about to make its move, so of course it has everyone's undivided attention.
+
+Keen Famiglia Juror:
+But, the woman adjudicating the trial is that Judge Lavinia, and everybody knows she's tied up with the Bellones.
+
+Composed Famiglia Juror:
+There's no Bellones anymore, they're stricken from the books. What kind of connections could she have?
+
+Composed Famiglia Juror:
+If you ask me, she's taking the initiative to convict Leontuzzo, exactly because she wants to show everybody she's done with the Bellones.
+
+Keen Famiglia Juror:
+And besides, Signora Sicilia's made it pretty clear what she's up to here. She's gonna make an example of him.
+
+Keen Famiglia Juror:
+She's playing her cards well.
+
+Composed Famiglia Juror:
+Who knows.
+
+Composed Famiglia Juror:
+Anyways, since Bernardo was the mastermind behind everything, his son's obviously involved. Today's trial should give us the closure we're looking for.
+
+Keen Famiglia Juror:
+Fair enough.
+
+Composed Famiglia Juror:
+Look, the judge is here.
+
+Lavinia:
+Order in the court.
+
+Lavinia:
+Presumably, many of you are perplexed about today's hearing.
+
+Lavinia:
+That is to be expected, because while you may know the man on trial today, you do not know the contents of the case.
+
+Lavinia:
+I ask that you all remain patient.
+
+Lavinia:
+......
+
+Lavinia:
+I trust that nobody has forgotten that day, one week ago.
+
+Lavinia:
+So much happened. Minister Rubio's broadcast, and the ensuing chaos that engulfed the city.
+
+Lavinia:
+Many people died during that turmoil, and many others had their lives turned upside-down.
+
+Lavinia:
+Fortunately, it was all eventually smoothed over.
+
+Lavinia:
+Many people know now that Bernardo Bellone, the man who instigated this chaos, lost his life to it as well.
+
+Lavinia:
+Yet his objectives, as well as his motives, remain mysterious.
+
+Lavinia:
+During that incident, another man played an important role. He is none other than Bernardo Bellone's son, Leontuzzo Bellone.
+
+Lavinia:
+Bring him forward.
+
+Lavinia:
+Order, order.
+
+Leontuzzo:
+For some of you, this may be your first time seeing me. For others, you might've known me for a long time.
+
+Leontuzzo:
+But first, allow me to introduce myself. I am Leontuzzo Bellone, and I am just an ordinary civilian now.
+
+Juror:
+Ordinary civilian? Aren't you the heir to Famiglia Bellone?
+
+Leontuzzo:
+I was. But now, I do not belong to any famiglia.
+
+Leontuzzo:
+I know you all have many questions, and I will answer them one by one. First and foremost, however, I must explain what my father did, and how it came to this.
+
+Leontuzzo:
+All of this most likely began with the death of Carracci, Ministero dei Lavori Pubblici.
+
+Leontuzzo, standing at the center of the courtroom under the watchful eyes of the entire crowd, shows no signs of nerves at all.
+
+He methodically lays out the backdrop to this entire incident, starting from the assassination.
+
+Lavinia:
+The other famiglie seem to have already received the news about the ownership of the new city.
+
+Leontuzzo:
+I know. 'The famiglie are not to interfere with the new city.'
+
+Leontuzzo:
+That she's willing to hold down the other famiglie is proof she wasn't lying when we talked.
+
+Lavinia:
+But as far as I know, she neither said who would manage the new nomadic city, nor did she explain her rationale.
+
+Leontuzzo:
+That's how Grey Hall has always worked.
+
+Leontuzzo:
+Signora Sicilia doesn't need to explain everything. Her orders are absolute.
+
+Lavinia:
+But, we need her explanation.
+
+Lavinia:
+Right now, everything about the new city is shrouded in uncertainty, and we owe the people an explanation.
+
+Leontuzzo:
+That's right, which also brings us to our first dilemma.
+
+Leontuzzo:
+Everything happened so suddenly. Am I supposed to get up on stage and announce to everyone, 'hey, we're going to build a city without famiglie?'
+
+Leontuzzo:
+That would only scare everyone away.
+
+Leontuzzo:
+If the only ones who end up there are you, me, Cellinia, and Rubio's followers, we've already failed at the very first step.
+
+Leontuzzo:
+I'm guessing Signora Sicilia wants to see how we handle this.
+
+Lavinia:
+Looks like you have something in mind.
+
+Leontuzzo:
+I do.
+
+Leontuzzo:
+I want you to arrest me, Lavinia.
+
+Lavinia:
+Come again?
+
+Leontuzzo:
+My father's actions, no matter his motivations and intentions, put us in this mess.
+
+Leontuzzo:
+Someone must be held accountable, in the eyes of the people.
+
+Lavinia:
+But...
+
+Leontuzzo:
+Besides, I'm doing the same thing, aren't I?
+
+Lavinia:
+......
+
+The assassination of Carracci, the alliance with the Saluzzos, the assassination of Donna Rossati, and finally, the separation of the secondary core area.
+
+Though some of these events were not secret, when people learned that Bernardo was the driving force behind them, a commotion still broke out in the courtroom.
+
+Leontuzzo lays out his father's plan as objectively as possible using the information he has.
+
+Finally, after an hour-long exposition, the story comes to an end.
+
+Leontuzzo:
+I know that many of you are here on behalf of various famiglie, and I assume you've all heard a number of rumors.
+
+Leontuzzo:
+That one rumor is correct.
+
+Leontuzzo:
+Everything was my father's doing, and the reason why he did it was––
+
+Leontuzzo:
+'For a Siracusa without famiglie.'
+
+Confused Government Observer:
+How is it possible that the don of a famiglia would want to tear down the entire system?
+
+Leontuzzo:
+Good question. Even I, his own son, was shocked when I found out.
+
+Leontuzzo:
+This idea took root in my father's heart decades ago. And it only just now bore fruit.
+
+Keen Famiglia Juror:
+Leontuzzo, drop the act already. Your father's dead, but you're still here. That's why you're trying to clear your name with all this nonsense.
+
+Composed Famiglia Juror:
+After all, we know exactly who the new city belongs to.
+
+Leontuzzo:
+I can handle accusations from some famiglie associates or soldiers, if that makes you happy.
+
+Composed Famiglia Juror:
+......
+
+Skeptical Civilian:
+If he was the mastermind behind all this, then why did he end up dead?
+
+Leontuzzo:
+......
+
+Il Signore dei Lupi.
+
+Leontuzzo almost blurts the words, but finally suppresses them within his heart.
+
+Because, everything about that existence is utterly absurd.
+
+Leontuzzo:
+My father believed that if famiglie should not exist, then he should be eliminated too.
+
+Leontuzzo:
+So, after setting everything in motion, he chose to commit suicide.
+
+Irascible Famiglia Juror:
+Pretty damned good joke there, kid!
+
+Irascible Famiglia Juror:
+You're telling me he was such a selfless saint? He really did all this for the common Siracusan?
+
+Leontuzzo:
+The exact opposite, actually.
+
+Leontuzzo:
+My father was solipsistic, if anything. Everything he did was for the sake of the painting in his memory he called Siracusa.
+
+Leontuzzo:
+Which is why he failed.
+
+Irascible Famiglia Juror:
+Alright... I get it now.
+
+Irascible Famiglia Juror:
+Hah, no wonder. That's why Bernardo's dead, and you're still alive.
+
+Irascible Famiglia Juror:
+I dunno what kind of stunt you pulled, but you somehow stopped your papa, and then went to Signora Sicilia and took credit for it.
+
+Irascible Famiglia Juror:
+That's how you got yourself the right to manage the new city. And now, you're up here spinning a magical tale for us, trying to win some sympathy for yourself.
+
+Irascible Famiglia Juror:
+Isn't that right, you patricide?
+
+Lavinia:
+......
+
+Leontuzzo:
+......
+
+Leontuzzo lets out a deep sigh, but in the end, looks away without refuting the accusation.
+
+Deep down, he cannot deny it.
+
+Irascible Famiglia Juror:
+Look at that, see the guilt on his face!
+
+Calm Civilian Juror:
+I have a question.
+
+Calm Civilian Juror:
+Even if we did believe all that garbage, Your Honor, what does it have to do with the trial?
+
+Calm Civilian Juror:
+It's not like you want us passing judgment on a dead man and handing down a sentence for his crimes?
+
+Lavinia:
+Because Leontuzzo is not here as a witness to tell you about his father or opine about his actions.
+
+Lavinia:
+The case being heard today concerns the ownership of the new city.
+
+Lavinia:
+Leontuzzo arbitrarily determined what is to come in this new city, and in Siracusa as a whole.
+
+Lavinia:
+Leontuzzo, please explain to us why Signora Sicilia chose you.
+
+Leontuzzo:
+......
+
+Leontuzzo:
+I was both my father's accomplice in everything that happened, as well as the one who stopped him.
+
+Leontuzzo:
+I became the latter after I learned the truth.
+
+Leontuzzo:
+I believe that my father was misguided, and that his actions would not bring a new era to Siracusa.
+
+Leontuzzo:
+Even if dragging all the famiglie into a war would somehow see them erase each other in the end, it does not necessarily mean that the people would choose a new way of life.
+
+Leontuzzo:
+But beyond that, I saw a real opportunity in all this.
+
+Leontuzzo:
+So, at the end of everything, I went to Signora Sicilia and asked to borrow a city from Siracusa.
+
+Leontuzzo:
+'A city without famiglie.'
+
+Irascible Famiglia Juror:
+Another joke? Why would Signora Sicilia ever agree to that?
+
+Leontuzzo:
+Because it wasn't actually a request. It was a challenge to Siracusa.
+
+Leontuzzo:
+In Signora Sicilia's eyes, my father's methods violated her order, and she couldn't tolerate that.
+
+Leontuzzo:
+But the method I chose... Though I don't want to put it this way, was something she found permissible. Otherwise, I wouldn't even be standing here speaking to all of you.
+
+Leontuzzo looks in a certain direction, to where a Sankta priest is standing.
+
+The blindfolded priest does not seem to be paying attention to the ongoing trial.
+
+Keen Famiglia Juror:
+Alright. If what you say is true, then Signora Sicilia's order does make more sense...
+
+Keen Famiglia Juror:
+Or I guess, this is the only explanation for why Signora Sicilia would've decided that.
+
+Composed Famiglia Juror:
+If this really is true, Leontuzzo, then everything you're doing today is just for show.
+
+Composed Famiglia Juror:
+Call this a trial? You might be standing here, this is all just announcing you as owner of the new city. Isn't that right?
+
+Leontuzzo:
+No, this city does not belong to me.
+
+Leontuzzo:
+The new city will have everything you'd expect it to, with one exception—famiglie.
+
+Composed Famiglia Juror:
+You really think you can keep them out?
+
+Leontuzzo:
+What a stupid question. It's just as if I asked you, has the boundary between famiglie and ordinary civilians ever been respected?
+
+Leontuzzo:
+Famiglie are only willing to abide by Signora Sicilia's rules because she's strong enough to dominate them.
+
+Leontuzzo:
+And this gentleman's agreement among famiglie only exists because they don't have what it takes to wipe each other out.
+
+Leontuzzo:
+Of course you'll come to the city. I know that, obviously.
+
+Leontuzzo:
+But this time, you'll see what it is you've always underestimated.
+
+Leontuzzo:
+Of course, I will welcome any famiglie looking to bring change as partners in the new city.
+
+Calm Civilian Juror:
+I don't think there's any difference between 'a city without famiglie' and 'Siracusa without famiglie.' They're both crazy.
+
+Leontuzzo:
+Do you say that because it's unrealistic, or because it's hard?
+
+Calm Civilian Juror:
+Because it's unrealistic, of course.
+
+Leontuzzo:
+My father was definitely misguided, but I don't think either of these ideas are unrealistic.
+
+Leontuzzo:
+You're just too used to letting your eyes decide what is and is not realistic.
+
+Calm Civilian Juror:
+The famiglia are deeply ingrained into this land. You can't hope to uproot them. Nobody can.
+
+Leontuzzo:
+But famiglie can be changed, and they can become more civilized.
+
+Leontuzzo:
+Even if they can't be wiped out, they should be changed into something else. And as long as that something else is what we want, then that's fine too.
+
+Calm Civilian Juror:
+And you really think you can make that work?
+
+Leontuzzo:
+I might fail, but don't you think it's worth a shot?
+
+Calm Civilian Juror:
+......
+
+Serious Government Observer:
+The only thing you've won for yourself is a handout from Signora Sicilia.
+
+Serious Government Observer:
+The famiglia system still exists. Though it may appear shaky right now, it is by no means so easy to topple.
+
+Serious Government Observer:
+No matter if this business today is serious or just for show, it's only possible because you have Signora Sicilia's permission.
+
+Serious Government Observer:
+Is there actually any point to all of this?
+
+Leontuzzo:
+Unfortunately, if things don't pan out the way I want them to, then I'm afraid we'll simply be replaced like a tablecloth.
+
+Leontuzzo:
+Plus, I've never considered my success inevitable. That day, I was honestly ready to die.
+
+Leontuzzo:
+But that doesn't mean I won't take an opportunity that presents itself, handout or not.
+
+Leontuzzo:
+Maybe in some other place, given the same set of circumstances, someone in my position could've been a better person and turned down the handout.
+
+Leontuzzo:
+But in Siracusa, at this very moment, if this is the only way to move things forward, then that is the pill I will swallow.
+
+Leontuzzo:
+Would Ministero Rubio have done what he did, if there was another option?
+
+Lavinia:
+......
+
+Lavinia:
+Are you aware of the consequences?
+
+Leontuzzo:
+No.
+
+Leontuzzo:
+What we're doing is unprecedented. How am I supposed to guess what the consequences will be?
+
+Leontuzzo:
+But, this is what I believe.
+
+Leontuzzo:
+Lavinia, I owe an answer not only to all of Volsinii, but to you and everyone around you. Right?
+
+Lavinia:
+......
+
+Leontuzzo:
+After that day, we didn't get a chance to talk things through, and only had a vague idea of what the other was thinking.
+
+Leontuzzo:
+Are we really walking down the same path?
+
+Leontuzzo:
+Is the new city that I want the same as the one you want?
+
+Leontuzzo:
+We don't really know how the other thinks, do we?
+
+Lavinia:
+...I trust you.
+
+Leontuzzo:
+If you trust me, that's all the more reason to pass judgment on me.
+
+Leontuzzo:
+Not just for your sake, but for all the officials who've rallied around you because of Rubio.
+
+Leontuzzo:
+Otherwise, what reason would they have to trust me, a man who was mafia royalty?
+
+Lavinia:
+This isn't a burden you have to carry alone.
+
+Lavinia:
+I ought to shoulder the responsibility with you.
+
+Leontuzzo:
+No... I've finally come to understand the words you said to me, Lavinia.
+
+Leontuzzo:
+Our world views are fundamentally different.
+
+Leontuzzo:
+As the former heir to a famiglia, there's no way I can empathize with your perspectives and experiences.
+
+Leontuzzo:
+What I have to suffer now... is just dealing with whatever's left over after unloading that identity.
+
+Leontuzzo:
+Also, from a utilitarian perspective, the people trust you, and this is a real chance for you to lock in that image.
+
+Lavinia:
+If you put it like that, I'm afraid a lot of people will see this trial as nothing more than a show.
+
+Leontuzzo:
+Let them think that then. It doesn't matter.
+
+Leontuzzo:
+Even if they do think it's a show, sometimes, the willingness to put on a show is already a gesture in its own right. Don't you think?
+
+Lavinia:
+......
+
+Leontuzzo:
+Anyway, Lavinia, that's what I think.
+
+Leontuzzo:
+We haven't accomplished anything big just yet.
+
+Leontuzzo:
+One day, we'll end up mistrusting each other.
+
+Leontuzzo:
+One day, when we come to our senses, we might realize that we've been misguided all along.
+
+Leontuzzo:
+But...
+
+Lavinia:
+Leontuzzo Bellone, what is it that makes you stand here so resolutely?
+
+Lavinia:
+You were born into a famiglia, yet now, you've become the famiglie's worst enemy. Why?
+
+Leontuzzo:
+Why, huh... I ask myself the same question a lot.
+
+Leontuzzo:
+Is it my idea of chasing efficiency?
+
+Leontuzzo:
+Was I raised on ideals of justice?
+
+Leontuzzo:
+Is it because of the actions of an admirable government official?
+
+Leontuzzo:
+Is it a conclusion from a minor observation of changes in the famiglie?
+
+Leontuzzo:
+Maybe all of the above.
+
+Leontuzzo:
+If we put all these reasons together, we might be able to come up with an answer––
+
+Leontuzzo:
+The time has come.
+
+Leontuzzo:
+Maybe Carracci avoided assassination and became a successful Ministero dei Lavori Pubblici, working hard towards a similar goal.
+
+Leontuzzo:
+Maybe Ministero Rubio chose to show restraint and continued to occupy his position, secretly winning people over with his lofty ideals and striving to bring change to Siracusa.
+
+Leontuzzo:
+This wasn't some elaborate plan I've been hatching my whole life. It suddenly dawned on me at some point, and I only made it this far on luck.
+
+Leontuzzo:
+If I die, there'll be someone who comes after me, and another man after that.
+
+Leontuzzo:
+And none of this is a testament to how hard I work or how unique I am. It just means that––
+
+Leontuzzo:
+The time has come for Siracusa to change.
+
+One question after another is thrown at Leontuzzo, the entire court filled with voices interrogative and vitriolic.
+
+He stands in the center of the courtroom, earnestly and tirelessly answering every question he deems worthwhile.
+
+Slowly but surely, more and more people begin to think that this young man is actually quite thoughtful, and that––
+
+He's serious.
+
+In the end, the courtroom's entire atmosphere seems to cower before him.
+
+Leontuzzo:
+All the jurors present, all the civilians watching, and all the people tuning in through various media.
+
+Leontuzzo:
+Until now, my heart has been filled with uneasiness.
+
+Leontuzzo:
+I borrowed this city from Signora Sicilia, but never saw it as something that belonged to me.
+
+Leontuzzo:
+I borrowed this city from Signora Sicilia so we could work together to build something completely new, for all of you to work towards a Siracusa free from the famiglie.
+
+Leontuzzo:
+Because I made that decision on everyone's behalf, I must also face everyone's judgment.
+
+Leontuzzo:
+But, if you'll let me make a single grand statement–
+
+Leontuzzo:
+At this moment, Siracusa doesn't have the right to judge me.
+
+Leontuzzo:
+And so, I can only be judged... by all of you.
+
+Leontuzzo:
+You will receive this right, just as if you had won the power to build an entirely new city.
+
+Leontuzzo:
+Maybe one day, at one point in the future, the power to determine Siracusa's future will also lie in your hands.
+
+Leontuzzo:
+This new city welcomes all of those dissatisfied living under the yoke of the famiglie and those who have their doubts, including doubts about me.
+
+Leontuzzo:
+That's all I wanted to say.
+
+
+

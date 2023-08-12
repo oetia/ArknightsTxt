@@ -1,0 +1,617 @@
+Enya:
+By Kjeragandr.
+
+Crowd of Elders:
+By Kjeragandr.
+
+Enya:
+I'm very sorry, but I've gathered you here today not for the study of scriptures, but for more mundane concerns.
+
+Enya:
+A Kazimierz trade representative has requested a meeting with the Saintess of Karlan. May I have your thoughts?
+
+Solemn Elder:
+Preposterous! How can an outsider be allowed to meet the Saintess on a whim?
+
+Solemn Elder:
+Moreover, Karlan will not tolerate outsiders treading upon her land.
+
+Enya:
+True. If we welcomed secular matters into the Vine-Bear Court, I fear it would unnecessarily disturb the peace of all present.
+
+Enya:
+But as Kjerag's administrator, declining their request would inevitably harm our diplomatic efforts.
+
+Solemn Elder:
+It was always Enciodes's role to discuss business with outsiders. This is the wish of a mere businessman. Moreover, wanting to chat with the Saintess is inappropriate in itself.
+
+Enya:
+I'm afraid you're wrong. The General Chamber of Commerce's sway in Kazimierz cannot be belittled.
+
+Enya:
+On top of which, I'm worried they will leverage their developed economy and enormous capital to pressure us into submitting to unfavorable contract terms.
+
+Enya:
+A GCC representative being sent to Kjerag signifies their desire to partner with us on multiple fronts.
+
+Enya:
+More importantly, this requested audience shows obvious intent far beyond the commercial.
+
+Enya:
+A contract with Karlan Trade was only the beginning.
+
+Enya:
+Enciodes is only leader of the Silverashes, after all. The weight of his promises and guarantees could never rival mine.
+
+Kindly Elder:
+If you should personally meet an outsider, Saintess... such action alone would be weighty enough.
+
+Enya:
+My view exactly.
+
+Solemn Elder:
+So you have resolved to bring an outsider into the Vine-Bear Court?
+
+Enya:
+No. Karlan is still Karlan, and the Vine-Bear Court is sacred ground within Kjerag. I would not wish to displease Kjeragandr.
+
+Enya:
+Thus, I will descend the mountain to receive Kazimierz's representative.
+
+Solemn Elder:
+That's...
+
+Solemn Elder:
+Descending merely to bend to an outsider's rudeness—this is beyond improper.
+
+Solemn Elder:
+Even our own devout citizens are hard-pressed to glimpse the Saintess. Why should this faithless outsider be allowed to meet her so casually?
+
+Enya:
+Hm. I agree that he should be made to realize what an honor such a meeting is, so I will require that he attend with the worshippers at the upcoming ceremonies to pay respects to Kjeragandr.
+
+Enya:
+As for Kjerag's people... Perhaps they will not understand their Saintess' decision this time, but eventually they will come to accept this shift.
+
+Enya:
+As our connection with the outside world grows more intimate by the day, I can only presume more such political figures will seek meetings here. And I must assume responsibility in kind.
+
+Enya:
+Furthermore, I invite all Elders to weigh this matter too. No doubt you're all aware of the potential consequences of indulging Enciodes in his business.
+
+Enya:
+In exchange for industrial technology, Karlan Trade has signed many an unfavorable contract for Kjerag, this much is certain.
+
+Enya:
+I am not criticizing him; he was powerless to do anything else. However, my hope is that circumstances will gradually become more advantageous for us over time.
+
+Enya:
+Surely Kjeragandr, who protects our people, would wish for this too.
+
+Solemn Elder:
+Enciodes, Enciodes... If not for him, Kjerag wouldn't be so... *sigh*.
+
+Kindly Elder:
+Now, now. Most people don't spend their lives looking out over snowy mountains.
+
+Kindly Elder:
+We're all old fuddy-duddies by now. What's the harm in letting the youngsters live more comfortable lives?
+
+Kindly Elder:
+However, Saintess, I'm afraid you have a difficult road ahead of you.
+
+Enya:
+That's fine by me. Between the care of my maids and the protection of the Silverashes' soldiers, I have little to worry about.
+
+Enya:
+And you have no need to fret over the ordeals of the conference table... Kjeragandr will bless Her people.
+
+Rhodes Island Operator:
+Whew—this place is freezing.
+
+Rhodes Island Operator:
+I can’t remember the last time I went somewhere I could see my breath.
+
+Rhodes Island Operator:
+Man, I just wanted to see some snow. If I knew this place was so freaking chilly, I wouldn't have applied for Kjerag fieldwork.
+
+Rhodes Island Operator:
+Eh, at least I'm just here to meet someone, and HR said I can call it off if they don't show up by 4 PM.
+
+Rhodes Island Operator:
+Applying for a post and then missing the appointment? Who does this guy think he is?
+
+Rhodes Island Operator:
+Might as well check the file... 'Pramanix'. Derived from 'first snow'. Chilly name, too. Those clothes look pretty snug though.
+
+Rhodes Island Operator:
+Ah, whatever, I'll go ask if they sell any heat patches around here.
+
+Rhodes Island Operator:
+Hey, sir, do you stock any heat patches?
+
+Shopkeep:
+Yes, yes, coming—heat what now? I didn't quite catch that.
+
+Shopkeep:
+You must be a tourist from afar. You want some nice warm tea, I'm guessing?
+
+Shopkeep:
+It's pretty cold here, no? Some tourists say they could freeze to death, others say it's nothing special.
+
+Shopkeep:
+I'll pour you some tea while you take a look around.
+
+Rhodes Island Operator:
+Uh, okay...
+
+Rhodes Island Operator:
+Whew, this place sure does have everything. Never seen any of it before either.
+
+Shopkeep:
+Here, get some tea in you for now. This is what keeps us going when we cross the snowfields here.
+
+Rhodes Island Operator:
+Oh, sure. Thanks.
+
+Shopkeep:
+So where are you from?
+
+Rhodes Island Operator:
+Um, Rhodes Island...?
+
+Shopkeep:
+Rings a bell... but I can't put a face to the name, as it were. Tourists are always coming and going, you know.
+
+Rhodes Island Operator:
+(The person in that portrait strikes me as kinda familiar though...)
+
+Shopkeep:
+Who ever knew the outside world was so gosh darn huge? I've a mind to see it myself, once I save up enough cash.
+
+Rhodes Island Operator:
+(Let me take that photo out again.)
+
+Shopkeep:
+First time in Kjerag? Or repeat visitor? We do sell souvenirs...
+
+Rhodes Island Operator:
+Sorry, but can I ask a weird question? Do a lot of people in Kjerag look like the one in this picture?
+
+Shopkeep:
+What in the...? This is our Saintess, you know. We'd be in trouble if there were any lookalikes running around.
+
+Rhodes Island Operator:
+*cough*, *cough* *cough* *cough*...
+
+Shopkeep:
+Times were, the Saintess only had a few portraits, each hung in front of a clan's home. Their subjects would go in person to pray to it.
+
+Shopkeep:
+If I'm honest, no one ever knew whether the portraits looked anything like the Saintess. Commoners like us'd only get to see her once a year at most, at the Ceremony.
+
+Shopkeep:
+And that's from across a sea of people in the square. One glimpse a mile away.
+
+Shopkeep:
+The chance to hear the Saintess' bell, to receive Kjeragandr's blessings, that was enough for us.
+
+Shopkeep:
+But times change. Tourists started coming in, and Sir Enciodes learned an awful lot of outsiders were curious about the Saintess, so he called on everyone to make all these portraits, embroideries, and statues.
+
+Shopkeep:
+Of course, he'd make sure the portraits were accurate too. After all, he gets to meet the Saintess herself all the time.
+
+Shopkeep:
+I mean, she's his own little sister, so of course he knows her well, yeah?
+
+Rhodes Island Operator:
+Ha, I never knew...
+
+Rhodes Island Operator:
+So, hypothetically speaking, what would happen if the Saintess left Kjerag?
+
+Shopkeep:
+Huh? How would she? She hardly ever even comes down from Karlan.
+
+Shopkeep:
+And when she does, it's because something big's happened.
+
+Shopkeep:
+Hey, boy, you'd never believe me if I told you Kjerag is blessed by Kjeragandr, would you? None of you tourists do.
+
+Rhodes Island Operator:
+Er, I'd say I'm closer to agnostic...?
+
+Shopkeep:
+Now listen here. My business is only around thanks to Kjeragandr's miracles, brought about by the Saintess.
+
+Shopkeep:
+I had barely opened my shop last year when they started fighting.
+
+Rhodes Island Operator:
+'They' being...?
+
+Shopkeep:
+*Sigh* The three clans, wouldn't you know it. Strife and turmoil.
+
+Shopkeep:
+They didn't just fight either, the worst part was when they blew up the railroad. No railroad, no tourists, no freight.
+
+Shopkeep:
+I'd put all the savings I'd scraped together into this, and now my business was frozen over. What's a man to do?
+
+Shopkeep:
+So I prayed day after day, begging Kjeragandr to show me a way.
+
+Shopkeep:
+And sure as sure, my prayers came true. The Saintess descended, Kjeragandr created a miracle, and nobody dared try anything else.
+
+Shopkeep:
+Ah, by Kjeragandr...
+
+Rhodes Island Operator:
+So, just—I'm just curious here, what's the Saintess like in person? Is she, uh, easy to get along with?
+
+Shopkeep:
+Haha, listen to yourself.
+
+Shopkeep:
+The Saintess is the recipient of Kjeragandr, so she'd have to be the forgiving sort.
+
+Shopkeep:
+If I weren't so sure that Kjeragandr Herself is a forgiving god, how would I find it in me to even answer such an offensive question?
+
+Rhodes Island Operator:
+Haha, yeah, sorry about that...
+
+Rhodes Island Operator:
+Thanks, sir. I'll take one of your cloaks.
+
+Rhodes Island Operator:
+Er, just a normal one, please. It doesn't need the Saintess embroidered on it... Normal, thanks.
+
+Enya:
+It's been such a pleasure meeting with you, but I'm sorry, I'm afraid I must cut this short.
+
+Enya:
+The Saintess' daily meditation is soon, and I cannot neglect it.
+
+Kazimierz Representative:
+No, no, I'm the one who should be sorry for disturbing your routine. Please, do as you always do.
+
+Kazimierz Representative:
+To be honest, I wasn't actually expecting to get to meet the Karlan Saintess on this visit.
+
+Enya:
+I'm more than happy to show myself, given Kazimierz's interest in mutually beneficial exchange with Kjerag.
+
+Enya:
+And I'd imagine that for the Kazimierz General Chamber of Commerce, successfully reaching Kjerag's Saintess is itself a form of provocation.
+
+Kazimierz Representative:
+Meaning...?
+
+Enya:
+Before too long, the Adeptus Sprawiedliwi Kazimierz will attempt to contact Kjerag as well.
+
+Kazimierz Representative:
+...You're quite familiar with us.
+
+Kazimierz Representative:
+I assume you would welcome such a development then?
+
+Enya:
+This is but a necessary step in Kjerag's foreign outreach. If I had to say, I can only hope the Adeptus Sprawiedliwi's representative will be as amicable and sincere regarding mutual benefit as you were.
+
+Kazimierz Representative:
+You flatter me.
+
+Kazimierz Representative:
+If future dealings between Kjerag and the KGCC will have the support of the Saintess, I see nothing but smooth sailing ahead.
+
+Enya:
+May Kjeragandr bless you.
+
+Enya:
+Oh dear, it's almost 4 PM already...
+
+Karlan Trade Manager:
+Thank you for making this journey, Saintess.
+
+Karlan Trade Manager:
+An outsider was so bold as to seek audience with you, and not only did you forego criticism, you made an exception to meet him. You are truly generous.
+
+Karlan Trade Manager:
+We at Karlan Trade are deeply ashamed that we could not settle the matter ourselves, forcing you be personally involved.
+
+Karlan Trade Manager:
+We will strive to ensure no such offense to Kjeragandr occurs ever again.
+
+Enya:
+Please, don't mind it. The Saintess is Kjeragandr's chosen envoy, after all; it's only right for me to be present for diplomatic affairs.
+
+Enya:
+She is forgiving, and I descended the mountain in following Her decree.
+
+Karlan Trade Manager:
+Yes... may we be grateful for Kjeragandr's blessing.
+
+Karlan Trade Manager:
+The procession of burdenbeasts is ready outside. Our Silverash soldiers will see you back to the Vine-Bear Court.
+
+Enya:
+That won't be necessary. I still have other arrangements, and I'd rather they not wait for me in the snow.
+
+Karlan Trade Manager:
+I... worry that Sir Enciodes would reprimand us for our etiquette, in neglecting the Saintess.
+
+Enya:
+Enciodes... Kjeragandr does not place blame, and nor should Her people.
+
+Enya:
+The Saintess' daily meditation awaits. Please, go on and return.
+
+Karlan Trade Manager:
+Very well. My apologies.
+
+Enya:
+May Kjeragandr bless you.
+
+Enya:
+Phew... finally over. I need to hurry to where we agreed to meet...
+
+Enya:
+Enciodes is so annoying, choosing this moment to mess up my plans.
+
+Enya:
+Hmph. If anyone else tries to stop me, forget the excuses, I'll just freeze them on the spot.
+
+Enya:
+In any case, nobody would ever guess where I'm going, not even him. They just want to keep me shut away in the Vine-Bear Court again.
+
+Enya:
+Indeed, it's time for the Saintess to do her homework.
+
+Enya:
+But for now, I'm just Enya.
+
+Enya:
+Oh, wait, no. For now, I'm Pramanix.
+
+Solemn Elder:
+'...I have other matters I must attend to on this descent, beyond meeting the Kazimierz representative.'
+
+Solemn Elder:
+'For the following half-month, I must regrettably ask that all affairs of the Vine-Bear Court be entrusted to the Elders.'
+
+Solemn Elder:
+Was this letter truly left by the Saintess herself?
+
+Kindly Elder:
+We've seen her annotating the scriptures for so many years. I would think we can recognize her handwriting.
+
+Kindly Elder:
+It seems she's had this in mind for a while now.
+
+Solemn Elder:
+This is an outrage, I tell you, an outrage!
+
+Solemn Elder:
+If it were known that she has not merely descended, but went missing for half an entire month, what of the dignity the Vine-Bear Court? Of the Saintess herself?
+
+Solemn Elder:
+Kjeragandr may yet bring Her fury upon us all.
+
+Kindly Elder:
+Now, now. The Saintess is the one who receives Kjeragandr's decree. Should she say that She permits it, then we can only trust in her.
+
+Kindly Elder:
+Until she returns, we must assert that the Saintess is meditating indoors and is not taking visitors.
+
+Kindly Elder:
+Oh, Enya, though. That child has always had her own opinions. Whatever she's descended to do, I'm sure she has her reasons.
+
+Kindly Elder:
+When has she ever failed to win us over, after all?
+
+Solemn Elder:
+......
+
+Solemn Elder:
+*Sigh* Enough. I've more or less decided how we're going to handle visitors.
+
+Rhodes Island Operator:
+'Head in and take the second alley from the restaurant selling stew.' Should be here...
+
+Rhodes Island Operator:
+It'll be four o'clock in five minutes. Still don't see anyone, huh.
+
+Rhodes Island Operator:
+Lemme just check the photo again... Not that I'd mistake the Karlan Saintess for anyone else, though.
+
+Rhodes Island Operator:
+Man, I bet this alley's the kind you enter on foot and leave on a stretcher...
+
+???:
+Don't turn around.
+
+Rhodes Island Operator:
+Waugh! I surrender, I'm just a tourist, I've got no money on me, I'm estranged from my family, you won't get anything out of killing me—
+
+???:
+Shh, quiet. Who are you?
+
+Rhodes Island Operator:
+Er, I just said I'm just a tourist...
+
+???:
+Company?
+
+Rhodes Island Operator:
+Rhodes Island, a pharmaceutical firm, principally treating Oripathy. Probably not a great market presence here...
+
+???:
+You'd better not whip that knife out.
+
+Pramanix:
+If you stabbed the Saintess, the charges alone would crush you.
+
+Rhodes Island Operator:
+*cough* *cough*... Huge apologies, Saintess of Karlan! By Kjeragandr! I beg you not to visit Her wrath upon me!
+
+Pramanix:
+No harm, no foul. As agreed, I'm here to lend my aid to Rhodes Island.
+
+Pramanix:
+I see you even learned the words of praise we always use in Kjerag?
+
+Rhodes Island Operator:
+Phew. You scared the living daylights out of me. I just said whatever holy words came to mind...
+
+Rhodes Island Operator:
+And now I'm even more scared that I nearly pulled a knife on you.
+
+Pramanix:
+No, but see, if even you recognize me as the Saintess, obviously anyone from Kjerag would too, right?
+
+Pramanix:
+So if this man all wrapped up in black wasn't from Rhodes Island, but just some other weirdo, and they saw me, then...
+
+Pramanix:
+Wouldn't there be rumors about the Saintess running around on her own?
+
+Pramanix:
+So I had to approach from behind, and confirm your identity first.
+
+Rhodes Island Operator:
+This is NOT what I expected from the Saintess everyone's always talking about...
+
+Pramanix:
+Hm? But I'm Pramanix, not the Saintess. It's normal that we're nothing alike, right?
+
+Pramanix:
+And just so you know, if you ever call me 'Saintess' aboard Rhodes Island, I'll freeze your mouth shut.
+
+Rhodes Island Operator:
+Haha, okay...
+
+Rhodes Island Operator:
+Well, it just hit four. If you were any later, I might've already left.
+
+Pramanix:
+Oh, but I've got a whole pile of people that still want me here. Who knows what trouble awaits us on the way back?
+
+Rhodes Island Operator:
+Right, I heard the Saintess doesn't get to descend whenever she wants.
+
+Pramanix:
+Mhm, but if an ambassador comes calling, what choice does she have?
+
+Pramanix:
+That's why before Kjarr went to Rhodes Island, I asked her to make a quick detour to speak to a Kazimierz rep visiting Kjerag.
+
+Pramanix:
+Through her, I made a little suggestion.
+
+Pramanix:
+And so, a few days later, news of his request to meet the Saintess was reported to the Vine-Bear Court.
+
+Rhodes Island Operator:
+You worked with him to get down the mountain?
+
+Pramanix:
+But not just for fun, of course.
+
+Pramanix:
+Without this opportunity, outsiders wouldn't even know Kjerag had a Saintess, let alone that she was so willing to meet them. They'd think we were only Karlan Trade.
+
+Pramanix:
+Heh. If Enciodes had his way, then that just might...
+
+Rhodes Island Operator:
+Wait, I thought Enciodes was your—
+
+Pramanix:
+—Come to think it, I've never left Kjerag before.
+
+Rhodes Island Operator:
+(Whoops. Guess that's a touchy subject.)
+
+Rhodes Island Operator:
+Yeah, I'd never left Victoria before I boarded Rhodes Island either.
+
+Rhodes Island Operator:
+Good thing we've got chefs from all over Terra. You'll never go hungry, at least.
+
+Rhodes Island Operator:
+But still, it's hard not to get homesick. Regional specialties just aren't the same as your family's home cooking.
+
+Pramanix:
+Have you ever been back, then?
+
+Rhodes Island Operator:
+Uh, where'd that come from...?
+
+Rhodes Island Operator:
+I'm Infected, so I wouldn't be welcome there anyway. Can't go home even if I wanted to.
+
+Pramanix:
+Oh, I'm sorry.
+
+Pramanix:
+I was just a little curious, since the most I met were people who came home from abroad.
+
+Pramanix:
+One spent years outside of Kjerag, and by the time he came back, I didn't recognize him one bit.
+
+Rhodes Island Operator:
+There's the kicker. I'm guessing he was young, and then got all grown up in the blink of an eye, right?
+
+Pramanix:
+Exactly. But he didn't just get taller, his shoulders got broader too... and his way of thinking was completely different.
+
+Pramanix:
+Hardly anyone used to leave Kjerag, so I always wondered what it was like out there. Just what it was he saw, you know?
+
+Pramanix:
+And if every person who left would be changed just as much.
+
+Pramanix:
+Let's get a move on. I'm dying to get to Rhodes Island and see Kjarr again.
+
+Rhodes Island Operator:
+Sure, let's go.
+
+Rhodes Island Operator:
+Oh yeah, when someone told me you were the Saintess, I picked up this cloak for you.
+
+Rhodes Island Operator:
+Put up the hood and it'll cover your face. That'll keep anyone from noticing you at a glance.
+
+Pramanix:
+Wow, you're very thoughtful.
+
+Pramanix:
+Could you hold my book for a moment? I'll put it on now.
+
+Rhodes Island Operator:
+Sure—'A Brief History of the Battle of the Four Emperors'?
+
+Pramanix:
+Oh, the Doctor lent me that book.
+
+Pramanix:
+My room is still piled up with what the Doctor gave me for light reading. I'm planning to return this one once I'm done, and we can talk about the rest another time.
+
+Pramanix:
+Speaking of which, I suppose I've never actually met the Doctor... I hope they won't make me do any work. This is supposed to be a vacation, after all.
+
+Rhodes Island Operator:
+Operators are supposed to work at Rhodes Island though...
+
+Rhodes Island Operator:
+Ah, whatever. Here's to a pleasant holiday for you.
+
+
+

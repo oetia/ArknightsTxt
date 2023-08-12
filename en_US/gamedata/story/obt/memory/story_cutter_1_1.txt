@@ -1,0 +1,654 @@
+Some people say mercenaries are like MREs. Meals, ready-to-eat.
+
+Can be eaten right out of the bag. Disposable. High efficiency, low risk. The best kind of field ration.
+
+But if given a choice, practically everyone would choose to eat fresh, hot food. And practically no one would choose to risk their lives just to earn their next meal.
+
+If given a choice.
+
+???:
+All units take note, the target has entered the alert range, and is expected to reach the defense point in one minute.
+
+???:
+All units are to complete emergency preparations within thirty seconds. Repeat, all units are to complete emergency preparations within thirty seconds.
+
+???:
+Over.
+
+Cutter:
+Um, I'm here to see if you need any help?
+
+Savage:
+Oh, there you are, Cutter.
+
+Savage:
+You're just in time to try my veggie flatbread, fresh from the oven!
+
+Cutter:
+Thanks, I think I will.
+
+Cutter:
+Mm... It's really good.
+
+Savage:
+Haha, I don't call it my specialty for nothing.
+
+Savage:
+Why not take a few more for the road? Don't be shy now.
+
+Cutter:
+Uhh, I appreciate it, but I'm good. I'm just here to see if there's anything I can help you with.
+
+Savage:
+Ehh? I'm pretty much done cooking on my end. Maybe you can go check on Matterhorn though!
+
+Matterhorn:
+Oh, Cutter! Perfect timing. Here, try my Kjerag-style braised meat.
+
+Matterhorn:
+I substituted scalesaur meat because it's easier to get, and changed the seasonings accordingly. But I was just thinking I needed a taste-tester.
+
+Cutter:
+Mm, sure. I'll try some.
+
+Cutter:
+(Chews)
+
+Cutter:
+Very good. I can't say much else about it... but it's very tasty.
+
+Matterhorn:
+Nothing to write home about then? Hmm... Looks like I'll have to work on the flavor to make it more distinctive.
+
+Cutter:
+No, that's not what I meant. I'm just not very good at... describing things. Believe me, Matterhorn, your cooking is top notch!
+
+Cutter:
+By the way, could you use any help?
+
+Matterhorn:
+Haha, I'm all squared away over here. All the dishes are already cooking, so all that's left is to turn off the heat later. Gummy might need help though, in a bit.
+
+Matterhorn:
+Actually, wait. There is something. I experimented with a few more new dishes today, and I'd like your opinion on all of them, if it's not too much trouble.
+
+Gummy:
+Cutter! Come try some of Gummy's fried pies!
+
+Cutter:
+I'm kind of full...
+
+Cutter:
+But do you need help with anything, Gummy?
+
+Gummy:
+I've already finished frying up my pies~
+
+Cutter:
+Then, I suppose I can try one.
+
+Gummy:
+Is it good?
+
+Cutter:
+I... think so?
+
+Cutter:
+Urgh... Can't take another bite...
+
+Cutter:
+I just wanted to lend a hand, but ended up getting treated to an early lunch and then some.
+
+Cutter:
+(Sighs)
+
+Cutter:
+Well, at least everyone's been real good to me.
+
+Sideroca:
+I'm here to help!
+
+Savage:
+Oh, Sideroca, right on time. Two of our logistics operators took the day off, so the three of us are a bit short-staffed right now.
+
+Matterhorn:
+We might be able to manage if we all went full throttle, but I'd rather not burn ourselves out for no reason.
+
+Gummy:
+My arm's all sore...
+
+Sideroca:
+Well, your savior has arrived! Good work hanging on so long.
+
+Sideroca:
+Oh, and I happened to see Cutter in the cafeteria just now. Had a real mopey look on her face. Any idea what's wrong with her?
+
+Savage:
+Right, you don't come by the kitchen a lot, so you might not know...
+
+One month ago...
+
+Cutter:
+Good work everyone. Um... but is there anything I can help with?
+
+Logistics Operator:
+Ohh, you must be Cutter, the new arrival. Perfect timing—could you chop up those potatoes into chunks, if you don't mind? We'll be making soup soon.
+
+Cutter:
+Mm, got it.
+
+Logistics Operator:
+Cutter! I asked you to chop the potatoes, not the cutting board!
+
+Cutter:
+I'm sorry!
+
+Cutter:
+It was an accident! I'll pay for it—
+
+Logistics Operator:
+No, it's fine, don't worry about it. I guess you're not very experienced with a kitchen knife? Just keep an eye on the pot then. Remember to stir it around with a ladle every now and then, so it doesn't burn.
+
+Cutter:
+Understood. I won't mess up this time!
+
+Cutter:
+Stir, stir... Don't let it burn, stir...
+
+Cutter:
+Stir, stir...
+
+Logistics Operator:
+(Sniffs) What's that smell?
+
+Savage:
+As much as it pains me to do this to her, as one of Rhodes Island's kitchen staff, I absolutely can't have a repeat of last time.
+
+Gummy:
+The lady in the logistics department even thought about adding a 'Cutter is not allowed in here' sign next to the 'Kay is not allowed' one...
+
+Matterhorn:
+I'd rather avoid unnecessary food waste, if possible.
+
+Sideroca:
+Oh, I see...
+
+Sideroca:
+But I won't stand for it!
+
+Sideroca:
+Cutter! Get back here!
+
+Cutter:
+Huh? Sideroca?
+
+Sideroca:
+You're not allowed to throw in the towel, ever!
+
+Cutter:
+It's for the best. I just mess things up for everyone else anyway.
+
+Sideroca:
+Don't worry about that. We've got plenty of time until dinner, so who cares if you make a few mistakes on the way?
+
+Cutter:
+Are you sure? I really appreciate it.
+
+Sideroca:
+Don't mention it. I just think that if you want to do something, you should see it through to the end.
+
+Sideroca:
+So starting from today, I'm going to give you a crash course in cooking!
+
+Sideroca:
+Relax. With me here, there won't be a repeat of last time.
+
+Cutter:
+I'll do my best, Sideroca!
+
+Cutter:
+Thank you very much!
+
+Sideroca:
+I'm your instructor now, so let me hear a 'yes, ma'am!'
+
+Cutter:
+Yes, ma'am!
+
+Sideroca:
+(Haha, so this is what it feels like to be an instructor.)
+
+Sideroca:
+Ahem... Pop quiz! What do you think cooking is?
+
+Cutter:
+Making food fit to eat?
+
+Sideroca:
+Wrong! You couldn't be more wrong!
+
+Sideroca:
+It's not as simple as making something edible. Remember this: cooking is the art of bringing out the characteristics of each ingredient to make something delicious!
+
+Cutter:
+I, I'll keep that in mind!
+
+Sideroca:
+From the looks of it, you don't even know the fundamentals. In which case, I'll have to start from the basics. Stand at attention and follow my orders!
+
+Cutter:
+Yes, ma'am!
+
+Sideroca:
+The first, most basic thing you need for any dish is knife work.
+
+Sideroca:
+Listen up! First, raise your knife!
+
+Cutter:
+Um, with my left or right hand...?
+
+Sideroca:
+Well, with your dominant hand. Then hold the potato with your other hand, and run the knife along the contours and gently peel off its skin, like this...
+
+Cutter:
+Follow the contours... Gently... Oh, it flew across the room.
+
+Sideroca:
+How in the—
+
+Sideroca:
+How can someone named 'Cutter' be this bad with a blade?
+
+Cutter:
+Cutting vegetables feels completely different from cutting my enemies.
+
+Sideroca:
+I mean, I get you, but... the ingredients are not your enemies.
+
+Sideroca:
+In any case, practice makes perfect, same as any skill. So let's keep practicing!
+
+Cutter:
+Y-Yes, ma'am!
+
+Cutter:
+You're amazing, ma'am. I never knew mashed potatoes could taste so good.
+
+Sideroca:
+Haha, we can't let perfectly good food go to waste, after all...
+
+Sideroca:
+(After seeing so many potatoes gutted like that, I couldn't think of any other way to use them.)
+
+Sideroca:
+See, cooking isn't so difficult. Once you've gotten the feel of handling a kitchen knife, you'll be peeling potatoes, no problem.
+
+Cutter:
+But then I almost burned a hole through the pot while waiting for it to heat up...
+
+Sideroca:
+You're still too tense, Cutter. Cooking isn't like swordsmanship. You can't expect to get it down just by mechanically imitating a teacher, like finishing an assignment.
+
+Sideroca:
+It's about understanding your ingredients, and turning them into what you hope for.
+
+Sideroca:
+Right! The most important thing is hope!
+
+Cutter:
+That makes perfect sense! Mm, I'll remember that.
+
+Sideroca:
+By the way, why do you want to cook so much?
+
+Sideroca:
+You should already be able to find any kind of cuisine you like in the Rhodes Island cafeteria, right?
+
+Cutter:
+It's because... I've never had anything but MREs. So I want to know what it's like to eat something I made with my own hands.
+
+Sideroca:
+?!
+
+Cutter:
+Well, maybe not 'never,' but I was following my master for as long as I can remember, and my master didn't know how to cook either.
+
+Cutter:
+Later on, after I became a mercenary, I had even fewer opportunities to sit down and enjoy a peaceful meal.
+
+Cutter:
+I was really curious about how food was made, so one time I slipped into a tavern's kitchen to go take a look. The owner thought I was a thief though, and ended up scolding me all night. Ahaha...
+
+Sideroca:
+Cutter!
+
+Cutter:
+Hwah! Yes, ma'am?!
+
+Sideroca:
+I swear, I'll teach you how to cook if it's the last thing I do!
+
+Sideroca:
+Even if we have to sacrifice a dozen potatoes, no, a hundred, I swear I'll teach you!
+
+Cutter:
+Um, please calm down. That's all in the past now. And look, I survived and stayed healthy—
+
+Sideroca:
+Finish up your mashed potatoes, and we'll continue the training!
+
+Cutter:
+Y-Yes, ma'am!
+
+Cutter:
+I can't believe I ended up using the rest of the potatoes and she had to go look for more ingredients...
+
+Cutter:
+Getting kind of... sleepy...
+
+Cutter:
+No, no, I can't let her down now!
+
+Cutter:
+I just learned how to peel potatoes, so I can't afford to slack off already!
+
+Cutter:
+*Yawn*... But the afternoon sun is so comfy...
+
+Cutter:
+I can't keep my eyes open...
+
+Cutter:
+Maybe a little nap...
+
+???:
+Hey, wake up.
+
+Mercenary A:
+Here, this is yours.
+
+Cutter:
+Thanks.
+
+Mercenary A:
+Lucky you, you can fall asleep even at a time like this. But that's fine. There's still time before we head out, so conserve your strength while you can.
+
+Mercenary A:
+Hey, you over there. Catch.
+
+Mercenary B:
+Again with the canned food?
+
+Mercenary A:
+We're lucky we even have canned food. You got any idea what happens to mercs who lose their supplies out in the barrens?
+
+Mercenary A:
+You collapse on the ground out here, and scavenging Originium slugs think you're a carcass and start gnawing on your clothes from your legs up. You're still conscious by the time they get to your flesh.
+
+Mercenary B:
+Speaking of which, I'm sure in the mood for some coal-grilled sandworm legs. Preferably fresh.
+
+Mercenary A:
+*Columbian profanity* You wish.
+
+Mercenary B:
+Why can't we grill something anyway? I'd even settle for soup at this point.
+
+Cutter:
+No.
+
+Cutter:
+We're in the barrens, and there's no wind. Fire means smoke, which means anybody can spot us from miles away.
+
+Cutter:
+Might as well be broadcasting 'there's a caravan here' to all the other mercenaries in the area.
+
+Cutter:
+We're escorting goods this time, so we can't afford to blow our position.
+
+Mercenary B:
+Ooh, the little girl's talking like a pro now. How many runs have you made at your age?
+
+Cutter:
+Too many to count.
+
+Cutter:
+Done pretty much everything except fraud and trafficking. I've probably been doing this longer than you, too.
+
+Mercenary B:
+You talk a big game. But how do you know when I got in the biz?
+
+Cutter:
+Your knife.
+
+Mercenary B:
+What?
+
+Cutter:
+It's one of the latest from Raythean, put out just last year. Brand new materials, and half the weight of the previous generation. No signs of wear and tear on your belt sheath either, so you can't have used other knives before.
+
+Mercenary B:
+Impressive. You sure know your stuff.
+
+Mercenary B:
+To tell you the truth, I'm only doing this because I lost my farm in a Catastrophe. Who the heck would take a job that puts a bounty on their head if they had any land to grow crops on?
+
+Mercenary B:
+Heh. Still, I might be the newbie here, but I've never screwed up a job.
+
+Mercenary B:
+If we bump into any bandits, I'll show you what I'm capable of.
+
+Mercenary A:
+Bah. Don't jinx us.
+
+Mercenary B:
+Can't you take a joke? We did a great job covering up our trail, and we only got our route just before setting off.
+
+Cutter:
+That's the best way to keep it secret.
+
+Cutter:
+Some employers prepare multiple route maps in advance and keep them sealed. Before departure, a middleman will randomly select one and hand it to the mercenaries.
+
+Cutter:
+Then we're allowed to refuse the job if the seal has been tampered with.
+
+Cutter:
+This avoids direct contact between the mercenaries and the employers, and also eliminates the risk of leaks. Our client kept things professional this time.
+
+Mercenary B:
+What a stand-up guy. Makes you wonder what the hell is in these boxes to be worth all this trouble.
+
+Mercenary A:
+We just drop off the goods at the destination, grab our money, and leave. Nothing else matters.
+
+Mercenary B:
+True. But when they're paying this much just to move 'em, they must be worth a pretty penny! Makes me feel like I'm in the big leagues now, hahaha!
+
+Mercenary B:
+Soon as I get my hands on that cash, I'm gonna find a good bar and drink myself silly.
+
+Mercenary B:
+A few more contracts like this, maybe I'll even head south, buy another plot of land, and open another brewery! Hahaha!
+
+Mercenary B:
+What about you guys? What are you gonna do with the money?
+
+Mercenary A:
+Can't say I share your optimism, so I'll need to find a weaponsmith for crossbow maintenance first.
+
+Mercenary B:
+How about you, girlie?
+
+Cutter:
+A new hairclip, probably.
+
+Mercenary B:
+Huh? What'd you say?
+
+Cutter:
+I lost my last one. My bangs sometimes fall down and block my vision, and it's a pain in the ass.
+
+Mercenary B:
+Ahahahahaha—
+
+Mercenary A:
+Bwahahaha...
+
+Cutter:
+What's so funny?
+
+Cutter:
+*cough* *cough*...
+
+Cutter:
+We're the only ones still alive...
+
+Mercenary B:
+......
+
+Cutter:
+That attack was clearly premeditated.
+
+Cutter:
+I can't say for sure what happened, but someone must have deliberately exposed our position—
+
+Cutter:
+What are you doing? Forget about the goods. We're already exposed, and there'll be more after us before long!
+
+Mercenary B:
+Out of my way!
+
+Cutter:
+We've already failed the mission! You need to head to the town up ahead and find a way to deal with your injuries—
+
+Mercenary B:
+Do you not see this chunk of Originium in my neck?! It's over for me!
+
+Mercenary B:
+I'm already dead! I just want to take a goddamn look at the shit I'm dying over!
+
+Cutter:
+There's no need for you to—
+
+Mercenary B:
+Hah... Haha... Hahahahahaha!
+
+Mercenary B:
+Empty. There's nothing inside!
+
+Mercenary B:
+We've been nothing more than goddamn bait from the very beginning! That money... was the price of our heads!
+
+Mercenary B:
+I'm such an idiot. How could I get caught up in other people's bullshit? As if being a mercenary can just endlessly shit out money.
+
+Mercenary B:
+Hahaha... But I suppose they're right about one thing. Die fast enough, and you won't have any need for money!
+
+Mercenary B:
+Damn it all! All you mercs can go to hell!
+
+???:
+Hey, Cutter? Wake up.
+
+Cutter:
+Ah! Sorry, how long was I asleep?
+
+Sideroca:
+Your training's been getting rough recently.
+
+Sideroca:
+Still, it's been a month, and it's time to check on your progress. So chin up and show me what you've got!
+
+Sideroca:
+You ready?
+
+Cutter:
+Mm... Mhm!
+
+Cutter:
+(Swallows nervously)
+
+Cutter:
+(Carefully lifts the lid of the pot)
+
+Cutter:
+I've finally... finished.
+
+Sideroca:
+Woooah, this looks pretty promising!
+
+Sideroca:
+I knew you could do it, Cutter!
+
+Cutter:
+It's all thanks to you, Sideroca. I'd never have managed it alone.
+
+Sideroca:
+Who cares about that? Let me have a taste!
+
+Cutter:
+W-Wait!
+
+Cutter:
+Maybe I should try it myself first...
+
+Cutter:
+(Chews)
+
+Sideroca:
+How is it?
+
+Cutter:
+It seems...
+
+Sideroca:
+Seems what?
+
+Cutter:
+Not very good.
+
+Sideroca:
+Hm? Let me try.
+
+Sideroca:
+What are you talking about? It's great. You're too hard on yourself. I'd even believe it if you told me Matterhorn made it.
+
+Cutter:
+You're exaggerating...
+
+Sideroca:
+No, I'm not. How do I put this? This is definitely your own style of cooking!
+
+Sideroca:
+I was dumbstruck when you said you'd make canned sandworm risotto at the end of our 'class,' but I never expected it to be this delicious!
+
+Sideroca:
+The heavy seasoning from the canned worms was mellowed out by the rice, and the meat tasted much better after being re-cooked.
+
+Sideroca:
+Damn, the mashed potatoes on the side cap things off perfectly too! I think this dish might even be worth a spot on the cafeteria menu!
+
+Cutter:
+I remembered what you said about 'understanding the ingredients, and turning them into what I hope for.' I kept thinking it over, and the only food I really understand is canned sandworms.
+
+Sideroca:
+That just proves you've mastered the art of cooking!
+
+Cutter:
+But I only know how to make one dish.
+
+Sideroca:
+Sure, for now, but it's an entirely new beginning for you!
+
+Cutter:
+Mm, I'll keep that in mind.
+
+Cutter:
+It's much more than trying to finish an assignment. It's about having hope... and creating something I want.
+
+
+

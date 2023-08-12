@@ -1,0 +1,926 @@
+Rhodes Island Landship
+
+'Lutra Workshop'
+
+Mayer:
+Ooh, looks like it's about time. Gotta get to work now.
+
+Mayer:
+Lemme see the schedule for today.
+
+Mayer:
+Mmm...
+
+Mayer:
+Mmyeah, works for me.
+
+Mayer:
+Let's get around to Maggy's 'Improvement proposals for Drone Dragonfly operation' and polish off my submissions for today. Get around to the rest later. Then I just gotta wait for her.
+
+Mayer:
+Doing maintenance on Saria's armor? Main thing should be giving it a new coat of paint... crap, did I not order paint?!
+
+Mayer:
+Arghh—we're good, we're good. Didn't use it up last time.
+
+Mayer:
+Main focus for today'll be that.
+
+Mayer:
+If I get the time, I'll send some orders for a couple new parts. Then I can give all my frontline Meeboos some real maintenance.
+
+Mayer:
+Mm-hm. Today's lineup, sorted.
+
+Mayer:
+Let's kick it off!
+
+???:
+Mayer!
+
+???:
+Mayer, open the door!
+
+???:
+It's urgent!
+
+Mayer:
+Not too happy about Saria's suit here...
+
+Mayer:
+Wonder why it can't charge up properly.
+
+Mayer:
+Weird. C'mon, where's the problem, officer?
+
+???:
+Mayer! I know you're in there!
+
+???:
+I hear you talking!
+
+Mayer:
+Rooound here?
+
+Mayer:
+Ah-hah~ Gotcha.
+
+Mayer:
+Prime suspect found. We're on Easy Street now.
+
+???:
+Don't make me do it!
+
+Mayer:
+Just need to restore a failed node, and the whole suit should be back up and working again.
+
+Mayer:
+Uh-huh. Optimize charge circuits first. Paint over next. You'll be back to regular service in no time.
+
+Mayer:
+D'you want some extra features while I'm at it? Hmm.
+
+???:
+Ugh. I don't know if Kal'tsit's gonna chew me out for abusing privileges...
+
+???:
+Who cares. Your fault for acting deaf, Mayer.
+
+???:
+Mayer!
+
+Mayer:
+Settled.
+
+Mayer:
+Check over your nodes one more time. Gonna be a pain once the paint gets all in you.
+
+???:
+Working with earphones in? Aren't you worried someone's gonna spook you?
+
+???:
+Mmm...
+
+???:
+Hm-hmm—
+
+???:
+(Claps Mayer's shoulder)
+
+Mayer:
+(Opens mouth and bites)
+
+???:
+Waaagghahagh!!!
+
+???:
+Ow, ow!
+
+???:
+Let go of me, damnit, let go of me!!
+
+???:
+I'm a BAD meal!
+
+???:
+You really blew it, Mayer. I had something good for you, and you wouldn't even open the door for me. Plus, you bit me...
+
+Mayer:
+Sorry, Closure. But, like, you know I bite when someone interrupts my work.
+
+Closure:
+Owwieeee.
+
+Mayer:
+Fine, I'll let you bite me too, then. Fair's fair?
+
+Closure:
+You're applying anti-Originium paint to a suit right now, I see?
+
+Mayer:
+Sure am.
+
+Closure:
+Pass, then. I bite you here and one moment later I'll be in Medical. Not worth it.
+
+Mayer:
+Eh, I guess you're not wrong.
+
+Mayer:
+Mmm...
+
+Mayer:
+Closure?
+
+Closure:
+What's up?
+
+Mayer:
+The door's stuck open.
+
+Mayer:
+I specifically remember setting it up to automatically open and close. Pretty sure I also set it a moment ago to 'do not disturb.'
+
+Mayer:
+Did you just hack my door?
+
+Closure:
+Uhh—
+
+Closure:
+No way~~ It was like that when I walked in.
+
+Closure:
+Your door just wasn't locked.
+
+Mayer:
+Didn't I lock it?
+
+Mayer:
+...Weird.
+
+Mayer:
+Can you gimme a moment? I'll check the tapes.
+
+Closure:
+!
+
+Closure:
+You put a camera up?!
+
+Mayer:
+I got a lotta sensitive Rhine material in here, y'know? It'd be bad news for all of us if I lost something.
+
+Mayer:
+Gotta take basic security measures.
+
+Closure:
+Nah, you should get back to work for now...
+
+Closure:
+R—Remember your health and safety regs. This paint's, uh, pretty dangerous, yeah? Things could go wrong with you trying to multitask!
+
+Mayer:
+It's fine, I've got mechanical arms on it.
+
+Mayer:
+Hmm, which program was it again?
+
+Closure:
+Er, Mayer, don't you think this paint's gonna go volatile soon?
+
+Mayer:
+?
+
+Mayer:
+That paint? It's fine, sheesh. It's inert.
+
+Mayer:
+You could dump it in boiling water and ionize it for three hours, freeze it, and it'd still be good to go the moment it thaws.
+
+Mayer:
+Is this the folder?
+
+Mayer:
+OK, monitor program, on.
+
+Closure:
+!
+
+Mayer:
+Time seek to—
+
+Closure:
+Mayer!
+
+Closure:
+Let's make smart robots together!
+
+Mayer:
+——
+
+Closure:
+Mayer?
+
+Mayer:
+——!
+
+Closure:
+M—Mayer?
+
+Mayer:
+What did you just say?
+
+Mayer:
+Could—Could you repeat that?
+
+Closure:
+Make some smart robots with me?
+
+Mayer:
+Sure!
+
+Closure:
+Then let's work specifics somewh—
+
+Mayer:
+(Presses monitor feed transmission toggle)
+
+Bzzzz—
+
+Monitor Feed:
+(Sound of door opening)
+
+Monitor Feed:
+Ugh. I don't know if Kal'tsit's gonna chew me out for abusing privileges...
+
+Monitor Feed:
+Who cares. Your fault for acting deaf, Mayer.
+
+Mayer:
+......
+
+Closure:
+......
+
+Mayer:
+Meeboos.
+
+Mayer:
+Get her ass.
+
+Meeboos:
+——
+
+Closure:
+AaaaghhI'msorryit'smyfault don't sic the Meeboos on me ow ow ow ow waaaghhhhh!!!
+
+Mayer:
+Yeah, go on. What was it you wanted me for?
+
+Closure:
+Uwaaahh...
+
+Closure:
+I wanted you to help me with an explosive-type thingy...
+
+Closure:
+Underlying machine's a Raythean Challenger Hellcat high-performance operation platform...
+
+Closure:
+Topside already has a custom-ordered full-thermal Arts impact generator...
+
+Closure:
+But it's not working a hundred percent perfect, so I need your help...
+
+Closure:
+Uwaaahh...
+
+Mayer:
+Yeah, okay.
+
+Mayer:
+Just take a sniff of this first.
+
+Closure:
+Okaaaayhhh...
+
+Closure:
+(Inhale)
+
+Closure:
+!
+
+Closure:
+I know this!
+
+Closure:
+(Takes a deep breath)
+
+Mayer:
+You better now?
+
+Closure:
+Hahhhh~~~~
+
+Closure:
+Better!
+
+Closure:
+Eheheheh. Thanks, Mayer.
+
+Mayer:
+We're not gonna get any business done with you bawling your eyes out.
+
+Closure:
+True that, heheh.
+
+Mayer:
+Still dunno why you love sniffing the refined lubricant I have in here...
+
+Closure:
+Well, 'cause it smells good, duh.
+
+Mayer:
+Guess Warfarin wasn't wrong. There's no blood in your veins, just machine oil.
+
+Mayer:
+Enough of that. Let's get real.
+
+Closure:
+Aye-aye.
+
+Mayer:
+You need me to refit the Raythean Challenger. Raise its attack power. Right?
+
+Closure:
+Also, self-defense, damage resist, and evac plans. After all, we're gonna put a smart little guy in there. Can't have it breaking after one use.
+
+Mayer:
+Then you came to the right person.
+
+Mayer:
+Now. My reward?
+
+Closure:
+Remember how there was a little hoard in the hangar? As long as you—
+
+Mayer:
+I'll take the job!
+
+Closure:
+Heheh. Let's get along, partner.
+
+Mayer:
+Gettin' along, gettin' along~
+
+Mayer:
+But, uh.
+
+Closure:
+What?
+
+Mayer:
+See the blackboard over there?
+
+Closure:
+Covered in sticky notes?
+
+Mayer:
+Yeah.
+
+Mayer:
+That's my schedule.
+
+Mayer:
+Even if as a rush job, your commission still lands bottom-right of the very last note.
+
+Closure:
+Uhh—
+
+Closure:
+Any way I can jump the queue?
+
+Mayer:
+No, sirree.
+
+Closure:
+So in other words, two months.
+
+Mayer:
+Work fast, it'll be fifty days.
+
+Closure:
+Huh?
+
+Closure:
+Do you really work that fast?!
+
+Mayer:
+Decently. Sometimes inspiration hits and the work's done.
+
+Closure:
+Er... I'll leave you to it, then...
+
+Closure:
+Good luck with work!
+
+Mayer:
+Hold it!
+
+Closure:
+Huh?
+
+Mayer:
+You format the door for me first. I need to do its settings over.
+
+Mayer:
+Also, strip your sys-op authority off it.
+
+Mayer:
+Right now. Straight away. Giddy up.
+
+Closure:
+Uhh—
+
+Closure:
+Awright...
+
+Two hours later...
+
+Mayer:
+Just the laaast bit—
+
+Ding dong!
+
+Magallan:
+Mayer, it's me.
+
+Magallan:
+Um...
+
+Magallan:
+Did you change the password? Is that why the door's not opening?
+
+Mayer:
+And that should be about done.
+
+Mayer:
+Huh? Someone at the door again?
+
+Magallan:
+It's me!
+
+Mayer:
+Maggy! The door's broken! Push the button on the side and come in!
+
+Magallan:
+Hi, you.
+
+Mayer:
+Heyo.
+
+Mayer:
+I'm still busy with something for Saria here. Can't lay out the carpet for you.
+
+Mayer:
+So, you need something from me?
+
+Magallan:
+I made a reservation.
+
+Magallan:
+Drone plans. Wondering how they're doing?
+
+Mayer:
+Huh... oh!
+
+Mayer:
+That. Already done.
+
+Mayer:
+Listed out some technical essentials, improvement proposals and required materials. Everything's in that file on the table there. You look through, and if it's all good, we can set up a new time to help you make some fitting parts.
+
+Mayer:
+If you've got issues with it, we'll have a meeting about it.
+
+Magallan:
+Rightie. Thanks, Mayer.
+
+Magallan:
+Which file on which table is it?
+
+Mayer:
+That one, that one.
+
+Magallan:
+Your mechanical arms are pointing at at least four different tables. How should I know which one?
+
+Magallan:
+Mayeeer—
+
+Mayer:
+Ahhh don't pull me! I'm still painting here!
+
+Magallan:
+You can leave paint and keep painting later. Help me find the files first, okay?
+
+Magallan:
+Mayeeeer~~
+
+Mayer:
+I get it.
+
+Magallan:
+Mm-hm. Thankies~
+
+Mayer:
+Mmn—it's this one.
+
+Magallan:
+Oh...
+
+Magallan:
+These are your expensed items for last month.
+
+Mayer:
+Oh, sorry. I meant this one.
+
+Magallan:
+Mmm...
+
+Magallan:
+Yep, that's it!
+
+Magallan:
+Thank you, Mayer!
+
+Mayer:
+Ain't no thang. Just what I oughta do.
+
+Magallan:
+Then I'll be heading out now. Bye-bye.
+
+Magallan:
+Ah.
+
+Magallan:
+I almost forgot the most important part!
+
+Magallan:
+Can I ask you what the time is right now?
+
+Mayer:
+Noon, right?
+
+Magallan:
+Afternoon already!
+
+Magallan:
+Mayer, have you eaten yet?
+
+Mayer:
+Huh? You mean me? I eat an energy bar and I'm fine.
+
+Magallan:
+That's no good!
+
+Magallan:
+Here, take this!
+
+Mayer:
+This is?
+
+Magallan:
+I bought it at the cafeteria. They had the freshwater stuff you love today.
+
+Magallan:
+I wanted you to come eat with me, but then I lost track of time myself...
+
+Magallan:
+So after I finished eating, I got a portion bagged up to bring over.
+
+Mayer:
+Ooh, thanks.
+
+Magallan:
+Make sure you eat it.
+
+Mayer:
+Mm-hm, I will.
+
+Magallan:
+......
+
+Mayer:
+Anything else?
+
+Magallan:
+Is this Saria's Charged Suit?
+
+Mayer:
+That it is.
+
+Magallan:
+How much longer will you be working?
+
+Mayer:
+An hour or two-ish.
+
+Magallan:
+Well, that's no good. Let me help you out there.
+
+Mayer:
+It's fine, I can do it.
+
+Magallan:
+Either you let me help you, or I feed you your meal. Pick one.
+
+Mayer:
+Ugh...
+
+Mayer:
+Alright fine I get it! Give me a hand.
+
+Magallan:
+Hehe~
+
+Magallan:
+Then let's get to work~
+
+Mayer:
+Phew. We're done.
+
+Magallan:
+Good work.
+
+Mayer:
+C'mere and wash your hands.
+
+Magallan:
+Alright—
+
+Mayer:
+*Sigh*... It's only times like these I miss all of Rhine's self-cleaning facilities.
+
+Magallan:
+So why don't you go back?
+
+Mayer:
+If I went back, they'd set me up with a mountain of annoying work, and I'd have no time to improve my Meeboos.
+
+Mayer:
+And, like, I had to deal with interpersonal stuff there too.
+
+Magallan:
+Like you don't have to here?
+
+Mayer:
+You're always out on fieldwork. You don't know all the politics and warring between sections.
+
+Mayer:
+Over there, right? You'd make a new friend one day, turn around, and bam, someone tells you 'they're from the blah-blah section, best you stay away from them.'
+
+Mayer:
+And what's worse is even if you're in the same section, sometimes your bosses are competing and you're all trying to drag each other down.
+
+Mayer:
+That's stuff I'm, like, just not good at dealing with.
+
+Mayer:
+So I ended up scarpering here.
+
+Magallan:
+I see...
+
+Magallan:
+Sorry, I shouldn't have asked you about...
+
+Mayer:
+It's okay...
+
+Mayer:
+Alright, let's eat.
+
+Magallan:
+Then I should be on my way.
+
+Magallan:
+Meeboos, can I ask you to keep an eye on her? Otherwise she'll go straight back to work the moment I'm gone.
+
+Mayer:
+My Meeboos don't have voice modules. They won't answer you.
+
+Magallan:
+I still have to nag you.
+
+Magallan:
+Okay then. This time I'm really off. Bye-bye.
+
+Mayer:
+Bye bye.
+
+Mayer:
+Hmm, maybe I should put those part orders through before I eat—
+
+Mayer:
+Whuah! What the hell are you doing, Meeboos?!
+
+Meeboos:
+——
+
+Mayer:
+It's just a little bit of work. I'm not gonna forget to eat.
+
+Meeboos:
+——
+
+Mayer:
+Ugh...
+
+Mayer:
+Fine, I get it, I'm eating, I'm eating now!
+
+Mayer:
+Phew, I'm stuffed. Alright, work!
+
+Mayer:
+Mmm, order parts first or fix some Meeboos first?
+
+Meeboos:
+——
+
+Mayer:
+Meeboos win out, yeah. Meeboos are more important.
+
+Mayer:
+C'mere.
+
+Meeboos:
+——
+
+Mayer:
+Lemme see—
+
+Mayer:
+Touch up paint, inspect wiring, update data, replenish energy.
+
+Mayer:
+That's what Meeboo maintenance is made of...
+
+Mayer:
+......
+
+Mayer:
+Better!
+
+Mayer:
+Still four more on mission duty, and my five reserve ones need servicing too.
+
+Mayer:
+What time is it, again?
+
+Mayer:
+Looks like I can get 'em done today.
+
+Mayer:
+Mmm...
+
+Mayer:
+Probably. Probably can.
+
+Mayer:
+As long as nobody else—
+
+???:
+Mayer! Open up!! Work needs you!
+
+Mayer:
+——————
+
+Mayer:
+Oh, c'mon, for fffff~!@~#!@...
+
+Mayer:
+*Huff*, *huff*.
+
+Mayer:
+Stay cool.
+
+Mayer:
+In—out, in—out.
+
+Mayer:
+Smile~
+
+Mayer:
+Alright.
+
+???:
+Whoa, so you're in.
+
+???:
+What's got you all smiles and rainbows?
+
+Mayer:
+You come here. I'll tell you.
+
+???:
+Sure—
+
+Mayer:
+See? This is a Meeboo.
+
+???:
+I know.
+
+Mayer:
+Stick your hand out. It's got something good for you.
+
+???:
+Huh, don't hear that every day. Wonder what it is?
+
+Mayer:
+Meeboo, get his ass.
+
+Meeboos:
+——!
+
+???:
+Aaaaarggh-don't-bite-me-ow-ow-ow-ow-ow!!!
+
+Late night
+
+Mayer:
+Ahhh—finally.
+
+Mayer:
+All done!
+
+Mayer:
+Everything I planned this morning is all done!
+
+Meeboos:
+——
+
+Mayer:
+Ahh—that doesn't count. I made the executive decision just now to move ordering parts to tomorrow.
+
+Meeboos:
+——
+
+Mayer:
+Lemme see what I gotta do tomorrow.
+
+Mayer:
+Go to the Procurement Department and order parts.
+
+Mayer:
+Need to install test equipment for Medical.
+
+Mayer:
+Oh, gotta debug my workbench again.
+
+Mayer:
+That should settle tomorrow's lineup.
+
+Mayer:
+Time is... 11:36.
+
+Mayer:
+Mm, yeah, I should crash.
+
+Mayer:
+Eat a bowl of instant noodles and then sleep.
+
+Mayer:
+See you tomorrow, Meeboos.
+
+Meeboos:
+——
+
+Mayer:
+Agh—ow, ow!
+
+
+

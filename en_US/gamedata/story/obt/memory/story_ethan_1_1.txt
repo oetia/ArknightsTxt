@@ -1,0 +1,884 @@
+Hoshiguma:
+Oh, here you are.
+
+Ethan:
+Sorry to keep you waiting, Madame Oni.
+
+Hoshiguma:
+When did you get here? Yesterday?
+
+Ethan:
+Yep... I came with the Messenger convoy.
+
+Hoshiguma:
+Rhodes Island's Messengers told me you'd left last month? What took you so long?
+
+Ethan:
+Our convoy ran into a little trouble on the way. We came across a few Infected Creatures. We got lucky, though.
+
+Hoshiguma:
+Well, I'm glad you got here in one piece.
+
+Hoshiguma:
+So you came all the way here just for this?
+
+Hoshiguma:
+Here, this is who you're after.
+
+The tall policewoman hands a thick file to the short Savra.
+
+Ethan:
+Oh, thanks. Let's see here...
+
+Hoshiguma:
+Are you sure he's the one?
+
+Ethan:
+Definitely... no question.
+
+Hoshiguma:
+Looks like we're not the first you've turned to for help. You also asked Lee's Detective Agency, right?
+
+Hoshiguma:
+So who he is?
+
+Ethan:
+......
+
+Ethan:
+A really good friend.
+
+Hoshiguma:
+......
+
+Hoshiguma:
+*Sigh*...
+
+Hoshiguma:
+Let me ask you again. Are you sure it's him?
+
+Ethan:
+My answer's still the same, Officer Hoshiguma. I am pretty sure that's him.
+
+Hoshiguma:
+You still don't know how serious this is, don't you?
+
+Hoshiguma:
+Do you know how much trouble this is going to be if he's actually the 'Kevin' you were talking about?
+
+Ethan:
+Right, I know, I know.
+
+Hoshiguma:
+*Sigh*, Old Ch'en sure knows how to ruin my day.
+
+Hoshiguma:
+Rhodes Island's position in Lungmen is delicate, to say the least, and the one you're looking for there... Well, it's a long story.
+
+Hoshiguma:
+This case is technically being taken on by a civilian agency, but, well...
+
+Hoshiguma:
+If things get out of hand, it's gonna be my head. You get that, right?
+
+Ethan:
+Yeah, I get it, Madame Oni.
+
+Ethan:
+This is personal, though. Nothing to do with Rhodes Island. Relax.
+
+Hoshiguma:
+Kam!
+
+Officer Kam:
+Right here, Inspector Hoshiguma.
+
+Hoshiguma:
+This is Officer Kam. He'll help you look.
+
+Ethan:
+What's up, Officer Kam.
+
+Officer Kam:
+(Nods)
+
+Hoshiguma:
+Report back the instant something happens.
+
+Officer Kam:
+Understood.
+
+Ethan:
+Thanks for the help, Madame Oni.
+
+Hoshiguma:
+Be careful, and don't go looking for trouble, especially not there. Don't stay too long.
+
+Ethan:
+Right, I get it.
+
+Officer Kam:
+Inspector Hoshiguma told me you work as an informant for Rhodes Island?
+
+Ethan:
+Yeah, I do.
+
+Officer Kam:
+Speaking of, how's Ch'en Sir doing?
+
+Officer Kam:
+Oh, don't worry about it if you can't tell me. I just figured I'd ask.
+
+Ethan:
+Um, I don't know Officer Ch'en that well...
+
+Ethan:
+But I guess she's been keeping busy helping everybody out. Seems like she's doing alright.
+
+Officer Kam:
+Well, that's good to hear.
+
+Officer Kam:
+Here we are.
+
+The short Savra takes a look around the area.
+
+The scars of war and the onslaughts the city has suffered are still clearly visible. The walls of the houses here, blown apart by cannon fire, have yet to be repaired. The damaged roads are still covered with fresh cement that has yet to dry.
+
+Nonetheless, the morning streets are bustling, the slum dwellers are making their rounds, and the hawkers' peddling and the construction sounds nearby echo in unison.
+
+The city is slowly recovering.
+
+Officer Kam:
+Do you speak Yan or Lungmenese?
+
+Ethan:
+I get by. Studied a bit.
+
+Officer Kam:
+Don't say anything weird after we get inside. Do as I say.
+
+Officer Kam:
+The people here aren't all that friendly to outsiders.
+
+Officer Kam:
+Secondly, don't go running around, and don't go taking any strolls in the back alleys.
+
+Officer Kam:
+There are still some roads being repaired, and some of the buildings are really badly damaged and haven't been demolished yet.
+
+Ethan:
+Yeah, Ah Sir, I get it. Don't worry.
+
+Soda Hawker:
+Three bucks a bottle! Just three bucks! Ice cold soda! You ain't gonna find soda cheaper than this in Lungmen!
+
+Porter:
+Yo, Ah Hoi, gimme a bottle!
+
+Soda Hawker:
+You got it!
+
+Ethan:
+......
+
+Officer Kam:
+That's him.
+
+Officer Kam:
+Ah Hoi the soda guy. That's what everyone here calls him these days, at least.
+
+Ethan:
+Selling soda, huh? I didn't know he had a brain for business.
+
+Officer Kam:
+I'll wait for you around the corner.
+
+Officer Kam:
+Here's a communicator. If things look like they're about the get hairy, call for help.
+
+Officer Kam:
+It costs an arm and a leg, so don't break it.
+
+Ethan:
+I've known him a long time... I won't need it.
+
+Officer Kam:
+Just take it. Better safe than sorry.
+
+Officer Kam:
+It's almost Sauin. Everyone at the department's got plenty to do.
+
+Officer Kam:
+You're not from here, and the Infected district's situation's complicated. You don't know what it's like.
+
+Officer Kam:
+If things go wrong, the cops around won't get to you in time.
+
+Ethan:
+I get it, I get it. I promise it'll be fine.
+
+Officer Kam:
+*Sigh*... Well, be careful.
+
+Soda Hawker:
+Soda! Three bucks a bottle...
+
+Ethan:
+Yo...
+
+Soda Hawker:
+......
+
+Ethan:
+How's business?
+
+Soda Hawker:
+You...
+
+Ethan:
+Yep, it's me. Never thought I'd see you again.
+
+Soda Hawker:
+*Sigh*...
+
+Soda Hawker:
+So you actually came.
+
+Soda Hawker:
+I knew this would happen one day. I just didn't expect it to happen so soon.
+
+Ethan:
+...?
+
+Ethan:
+This isn't the reaction I was expecting...
+
+Ethan:
+It's been a while, Kevin.
+
+Ethan:
+We haven't seen each other since you went to Chernobog. How long has it been, three years?
+
+Ethan:
+I don't really know what happened to you since.
+
+Ethan:
+Looks like you're holding up pretty well, though.
+
+Kevin:
+I'm getting by...
+
+Ethan:
+That's good.
+
+Kevin:
+......
+
+Ethan:
+......
+
+Kevin:
+......
+
+Ethan:
+Why don't you say something? It feels kinda awkward.
+
+Ethan:
+We didn't use to be like this.
+
+Kevin:
+I've got no last words to say.
+
+Ethan:
+Err, what?
+
+Passerby Old Man:
+*Cough*.
+
+Passerby Old Man:
+Am I interrupting?
+
+Kevin:
+Oh, not at all... Good morning, Master Lin.
+
+Master Lin?:
+Heavens, I am parched. Give me a bottle of your soda.
+
+Kevin:
+Here you go. Three dollars, please.
+
+Master Lin?:
+I'm getting on in years. My legs aren't what they used to be. Would it be a problem if I took a seat here?
+
+Kevin:
+Not at all. Please, go ahead.
+
+Ethan:
+Hah.
+
+Kevin:
+What? What's that for?
+
+Ethan:
+Nothing, I've just never seen you like this.
+
+Ethan:
+I remember when we used to go junk diving together. You'd pick a fight with those wandering bums every day.
+
+Ethan:
+You never this friendly.
+
+Kevin:
+So that's why you're laughing at me?
+
+Ethan:
+Nah, I'm not really trying to make fun of you.
+
+Ethan:
+You live in this hut?
+
+Kevin:
+This is the Lungmen slums. Practically everyone here lives in one of these.
+
+Kevin:
+It's much better than the old days when we lived on the streets. At least I have a roof over my head now.
+
+Ethan:
+That's a good thing.
+
+Ethan:
+Being able to settle down is already pretty great for kids like us.
+
+Ethan:
+So...
+
+Ethan:
+Are you alone? Where are the others?
+
+Ethan:
+What happened after that?
+
+Kevin:
+You really want to know? Still care?
+
+Ethan:
+What happened to the others after that...?
+
+Kevin:
+They're dead.
+
+Ethan:
+......
+
+Kevin:
+Are you surprised? All Infected die sooner or later. If we don't die fighting, we die in some quiet corner, alone.
+
+Kevin:
+If you want to know the gory details, I can lay them on you. They all died in the most undignified way possible. There, happy?
+
+Ethan:
+I...
+
+Ethan:
+*Sigh*...
+
+Kevin:
+Is that all you wanted to say?
+
+Ethan:
+What?
+
+Kevin:
+If you want to fight... let's not do it here.
+
+Ethan:
+Fight? Why would I fight you?
+
+Kevin:
+The folks here live a difficult life. If you kill me here, the L.G.D. will shut the whole place down. It'd be a big pain for my neighbors.
+
+Ethan:
+Hold on...
+
+Ethan:
+I think we've got a misunderstanding.
+
+Kevin:
+You aren't here to kill me?
+
+Ethan:
+No, hold on a second.
+
+Ethan:
+Why would I kill you? What are you talking about?
+
+Kevin:
+You can drop the act. I understand.
+
+Kevin:
+You left Reunion and went somewhere else.
+
+Kevin:
+Going by that trendy getup, it's gotta be a great place, eh?
+
+Kevin:
+Most Infected don't get to live as good of a life as you do.
+
+Kevin:
+But if you want to keep living that high life, you still have one last obstacle.
+
+Kevin:
+That's people like us.
+
+Kevin:
+I know who you are. I know you used to be Reunion.
+
+Kevin:
+Once I'm dead, you won't have anyone to rat you out anymore. No one will ever know you were cut from the same cloth as us lowlifes.
+
+Ethan:
+(Silence)
+
+Kevin:
+I knew this day would come.
+
+Kevin:
+Or should I say I've known for three years this day would come, when you told me you were thinking about leaving Reunion?
+
+Kevin:
+It's not like we get to live all that long anyway. Everyone else's dead, and I don't think all this peace and quiet is going to last that much longer for me either.
+
+Ethan:
+(Silence)
+
+Kevin:
+What's wrong? Lost your tongue?
+
+Ethan:
+A year ago...
+
+Ethan:
+A year ago... I heard there were a few Reunion folks still in Lungmen.
+
+Ethan:
+I spent all my money this year just to ask around, just to find you guys.
+
+Ethan:
+I held out hope that you were doing okay, that you made it through everything alive.
+
+Ethan:
+Looks like I shouldn't have.
+
+Kevin:
+Hold on, you really aren't here to kill me?
+
+Ethan:
+How could I be...?
+
+Ethan:
+I don't know what you've been through these last few years, but I've always thought of you as a brother.
+
+Ethan:
+Back when we were starving in Kazimierz, you stole a few cans of food just for the rest of us, and you got beaten up so bad.
+
+Ethan:
+When we were out in the wilderness, you fought off those bandits with Packy. That's how I'm still alive.
+
+Ethan:
+I'm grateful for you guys. If it wasn't for you, I would've died out there a long time ago.
+
+Ethan:
+That's why I came here to look for you.
+
+Ethan:
+But I kinda regret it now.
+
+Ethan:
+I shouldn't have come.
+
+Kevin:
+......
+
+Ethan:
+Well, how about this? You're alive. That's good enough for me. It's a load off my mind.
+
+Ethan:
+Take this.
+
+Kevin:
+What is it?
+
+Ethan:
+It's Oripathy medicine. Here's the instructions. Follow them.
+
+Kevin:
+What?
+
+Ethan:
+Well, that's it, then. You take care.
+
+Kevin:
+Wait!
+
+Kevin:
+Hold on!
+
+Kevin:
+It's my bad. I got it all wrong.
+
+Kevin:
+I apologize. This is all my fault.
+
+Kevin:
+I didn't mean it. I just thought that...
+
+Kevin:
+*Sigh*...
+
+Kevin:
+A lot has happened these past few years. I've gotten a lot more suspicious.
+
+Passerby Customer:
+Ah Hoi, a bottle for me!
+
+Kevin:
+Right away! Three bucks, please!
+
+Kevin puts on a tattered Industrial Arts casting glove and takes out a few bottles of light yellow soda. He tightly squeezes the glass bottles with both his hands. Before long, the surface of the bottles has begun to frost up.
+
+Ethan:
+When did you learn to use Arts like this...?
+
+Kevin:
+Remember that group of soldiers from up north?
+
+Ethan:
+You mean... the Yetis?
+
+Kevin:
+That's right.
+
+Kevin:
+After you left, I was assigned to the Airborne unit with a few other guys.
+
+Kevin:
+We worked with the Yetis for a very long time.
+
+Kevin:
+They're the ones who taught me this. I don't have much talent for Arts. All I can do is chill a few bottles of soda.
+
+Kevin:
+They were good people. FrostNova, too.
+
+Kevin:
+But they're all dead.
+
+Ethan:
+So what happened to the others...?
+
+Kevin:
+Packy died on our way to Lungmen. You know how serious his Oripathy was.
+
+Kevin:
+Waltz... The Lungmen squads killed him when he tried to shield the others.
+
+Ethan:
+......
+
+Kevin:
+I'm alive only because I got lucky.
+
+Kevin:
+My jetpack broke down midflight. I crash-landed right in the garbage collector.
+
+Kevin:
+By the time I came to, the war was over already.
+
+Kevin:
+You know the most pathetic part? It was the junkmen from the slums here who found me. They dug me up from the mounds of trash, and that's how I'm still here.
+
+Passerby Girl:
+Ah Hoi! A soda, please!
+
+Kevin:
+You got it. Three bucks.
+
+Kevin turns around yet again and takes out a few more bottles of soda.
+
+Kevin:
+Take a look at the people here.
+
+Kevin:
+They're all normal folks. There are some Infected too.
+
+Kevin:
+All of them have their own lives.
+
+Kevin:
+But, back then, that thought never so much as crossed my mind.
+
+Kevin:
+When I took up arms, I really thought I was fighting for all the Infected out there.
+
+Kevin:
+Looking back, I guess I was just some rioter who smashed and burned everything in my tracks.
+
+Kevin:
+In the end, I'm not even sure what I was doing these last couple years.
+
+Kevin:
+In hindsight, I guess you were the one who really tried to figure it all out.
+
+Ethan:
+I don't actually want to figure anything out.
+
+Ethan:
+I'm not as ambitious as you're making me out to be.
+
+Ethan:
+As long as I don't go hungry and I get a place to call home, that's good enough for me.
+
+Ethan:
+But charging into somebody's house, dragging them out, and then beating them up, hurting them...
+
+Ethan:
+I may be an Infected, but to do all that just to get by? No way, not me.
+
+Ethan:
+I'm not one to talk about righteousness, but that just isn't right. I know it.
+
+Ethan:
+And that's why I left Reunion.
+
+Kevin:
+*Sigh*...
+
+Ethan:
+Anyway, I really mean it. It's a good thing you're still alive.
+
+Ethan:
+I'm gonna get going.
+
+Kevin:
+You're leaving already?
+
+Ethan:
+Yeah... I actually sneaked out of work.
+
+Kevin:
+This stuff...
+
+Kevin:
+How much do they cost...?
+
+Ethan:
+Don't worry about it.
+
+Ethan:
+They don't actually sell them out on the market. Just take them yourself, and don't let anybody know.
+
+Kevin:
+Right...
+
+Kevin:
+Hey, hold on...
+
+Ethan:
+Hm?
+
+Kevin:
+Here. Take a few of these sodas. I bottled them myself.
+
+Ethan:
+Thanks.
+
+Kevin:
+This is probably gonna be the last time we get to see each other.
+
+Kevin:
+You take care.
+
+Ethan:
+Yeah... You too.
+
+Officer Kam:
+Back already? That was quick.
+
+Ethan:
+Yeah, I guess.
+
+Officer Kam:
+I don't mind. You can talk to the Inspector more about it.
+
+Master Lin:
+Well, hello, Officer Kam.
+
+Officer Kam:
+!!
+
+Master Lin:
+Hm?
+
+Officer Kam:
+Good morning... Mister Lin.
+
+Master Lin:
+It must be tiring to be on duty so early.
+
+Master Lin:
+Oh, you're the young man who visited Ah Hoi just now.
+
+Ethan:
+R-Right, that's me.
+
+Master Lin:
+I don't know what happened between you, but Ah Hoi's a good man. Try not to make things too hard for him.
+
+Master Lin:
+Well, I'll let you return to your duties now. Please excuse me.
+
+Officer Kam:
+Have a good day, Mister Lin...
+
+Ethan:
+Who's that old man...?
+
+Officer Kam:
+Don't worry about it. Let's go.
+
+The short Savra glances around the area one last time.
+
+The scars and destruction left behind by war are slowly beginning to heal.
+
+As time goes on, these traces will become a part of Lungmen, as a part of its long history.
+
+On its war-torn streets, the citizens of Lungmen keep toiling away, living one day to the next.
+
+Hoshiguma:
+Done already?
+
+Ethan:
+Yep.
+
+Ethan:
+Don't worry. He has nothing to do with Reunion anymore.
+
+Ethan:
+The Kevin of Reunion is gone. He's Ah Hoi the soda guy.
+
+Hoshiguma:
+......
+
+Hoshiguma:
+Well, one less thing for me to worry about.
+
+Hoshiguma:
+Kam!
+
+Officer Kam:
+Right here, Inspector Hoshiguma.
+
+Hoshiguma:
+Close the file, and I'll leave the paperwork to you.
+
+Officer Kam:
+So... what's our conclusion for this case...?
+
+Hoshiguma:
+He's just a normal Infected. Nothing special about him.
+
+Officer Kam:
+Anything else to keep in the files?
+
+Hoshiguma:
+No need. Let's not look for trouble.
+
+Officer Kam:
+Understood... I'll get right to it.
+
+Hoshiguma:
+As for you... Here, take this.
+
+Ethan:
+What's is it...?
+
+Hoshiguma:
+It's our file on you.
+
+Ethan:
+So the L.G.D. investigated me?
+
+Hoshiguma:
+I may not look it, but I'm an L.G.D.'s inspector. I've got to do my job.
+
+Hoshiguma:
+To protect Lungmen's hard-earned peace, I need to investigate everything, and Rhodes Island is no exception.
+
+Hoshiguma:
+But well, this right now is a private matter. It's got nothing to do with the L.G.D., and I'll pretend the report's contents never existed in the first place.
+
+Hoshiguma:
+He's Ah Hoi, a Lungmen citizen, and you're Ethan, a Rhodes Island operator.
+
+Hoshiguma:
+Let's leave it at that.
+
+Ethan:
+Thanks... Madame Oni.
+
+Hoshiguma:
+Oh, and stop calling me that. It's not like we ever rubbed elbows or something.
+
+Ethan:
+Oh, my bad. Thank you, Officer Hoshiguma.
+
+Ethan:
+Uh, sorry, Inspector.
+
+Hoshiguma:
+Right, do you have a way to get back to Rhodes Island?
+
+Ethan:
+Yeah, I'll head back with the branch office convoy next week.
+
+Hoshiguma:
+Sounds good. Have a safe trip back, and tell the Doctor and Ch'en I said hello.
+
+Ethan:
+No problem.
+
+Two weeks later...
+
+Ethan:
+Hm...
+
+Ethan:
+(I'll put it here.)
+
+Midnight:
+Huh? What's this? Soda?
+
+Midnight:
+I didn't know the cafeteria had any today.
+
+Ethan:
+Oh, I brought it here with me. Help yourselves.
+
+Midnight:
+Well, don't mind if I do!
+
+Spot:
+Maybe you should mind a little, grabbing all the freebies the first opportunity you get.
+
+Ethan:
+Don't worry about it. Just a gift from a friend.
+
+Ethan:
+Right, it's just soda...
+
+Ethan:
+...from a friend of mine.
+
+
+

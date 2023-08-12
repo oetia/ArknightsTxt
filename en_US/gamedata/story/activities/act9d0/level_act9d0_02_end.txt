@@ -1,0 +1,694 @@
+To the north of Kazdel lies a birch forest.
+
+There, the progression of life unfolds. From Spring it begins, and in Winter it ceases.
+
+And only death thrives in the long winters. All living things make their exodus in unison, leaving only the Originium crystals speckled along the ground to reflect the somber moonlight.
+
+...Pale, withered tree trunks hang lifelessly, their slender shadows intertwining and stacking upon empty expanses of snow.
+
+That is the scenery I saw.
+
+......
+
+...Ines!
+
+...Ines! Tch!
+
+...Screw you!
+
+W:
+If you're not dead yet, then wake up already.
+
+Ines:
+Huh...?
+
+Ines:
+(My head... what is this pain...?)
+
+Ines:
+What's going on... what happened?
+
+W:
+Nothing happened, but just in case that fall gave you amnesia, I'll give you a quick summary.
+
+W:
+We were ambushed an hour ago. They were quick. Our caster had no time to put up a barrier, and our team got split up. We're the only ones here.
+
+Ines:
+...
+
+Ines:
+And the comms?
+
+W:
+Jammed. I don't know how they're doing it, but we're definitely up against pros. At least more professional than any of our prey before.
+
+W:
+But the good news is they didn't go straight for the convoy. Looks like they got a tip or something, but not the details.
+
+Ines:
+...
+
+W:
+......
+
+Ines:
+...Go ahead. Find a way to meet up with the others.
+
+W:
+Oh? I figured you'd doubt me, at least a little.
+
+W:
+Guess I'll leave you as bait.
+
+Ines:
+Who do you think would survive if we fought?
+
+W:
+Obviously—
+
+W:
+......
+
+W:
+Tsk... You really should do something about that nasty personality of yours. You can tell I'm injured that easy?
+
+Ines:
+Oh... so it hurts that bad, huh?
+
+Ines:
+I figured you had some control over your emotions, like you could fake them. Guess I was being more careful than I needed to be.
+
+W:
+Do you always scan your teammates with Arts as soon as you wake up? Now that's a mark of trust, boss.
+
+Ines:
+Force of habit.
+
+W:
+So that's why, huh? The first thing you do after you open your eyes is surveil your surroundings. What a coward~
+
+W:
+Hey! That hurts...!
+
+Ines:
+You said bait, right? Not a bad idea.
+
+Ines:
+No point in dragging along a merc who can't even stand up straight. You stay here for a sec and I'll call in the enemy.
+
+Ines:
+Hope you guys get along nicely. Can't have you dying on me too quickly.
+
+Ines:
+See you later, W.
+
+Ines:
+Oh, one last thing. I never trusted you.
+
+W:
+Hey, you little—!
+
+W:
+——
+
+Sarkaz Warrior:
+...I found a mercenary. Just one.
+
+Sarkaz Warrior:
+Confirmation. It's W.
+
+W:
+...That was fast.
+
+W:
+Or rather, you've been following us the whole time, huh...?
+
+Sarkaz Warrior:
+Letting a few of them go was well worth it if it means we can get our hands on an HVT like you.
+
+Sarkaz Warrior:
+Hmph. I was gonna follow you back to the rest of your team. Never expected them to just abandon one of their own.
+
+Sarkaz Warrior:
+Tell me everything you know about them and you might get a quick death.
+
+W:
+Well there's the trouble, huh? ...I'd love for us to be honest with each other, but the truth is that I don't know anything.
+
+Sarkaz Warrior:
+You're badly wounded. And we don't have time to waste. You might die if we torture you on the spot, and I'm sure nobody wants that.
+
+W:
+In that case, you should chase down that woman. She knows more than I do.
+
+Sarkaz Warrior:
+...Don't you resent her for using you as bait?
+
+Sarkaz Warrior:
+You'll have a better time if you work with us.
+
+W:
+...Bait, huh?
+
+W:
+Say... Have you ever baited Originium slugs with industrial residue before?
+
+Sarkaz Warrior:
+...What are you talking about?
+
+W:
+It's kind of a Kazdel folk thing. We get Originium slug infestations, you know?
+
+W:
+Wild Originium slugs are pretty dumb, and they like Originium—
+
+W:
+—But setting that aside, do you know what happens to the poor slugs that are lured over?
+
+Sarkaz Warrior:
+Don't mince words with—
+
+W:
+They get blown apart, just like your buddies over there.
+
+Sarkaz Warrior:
+What?! When did you...?!
+
+W:
+Hey, you even said I was bait. Didn't you think that meant a trap?
+
+W:
+Probably should've killed me sooner, or ran off, I guess. Here, I'll give you another chance. Let's take it from the top.
+
+W:
+*cough* *cough*——
+
+W:
+—So fast?! Have you been chasing us this whole time?
+
+Sarkaz Warrior:
+You're insane!!
+
+Sarkaz Warrior:
+Ugh... Who's... behind...
+
+Ines:
+Hush. No sudden movements.
+
+Ines:
+It's kind of a beginner sword, but I'm not so good with a blade. If my hand slips, you die.
+
+Sarkaz Warrior:
+When— When did you get—
+
+Ines:
+I'm pretty close with the shadows. Did you really think you'd be able to catch me without a scout?
+
+Ines:
+Speak up. Who's your master?
+
+Sarkaz Warrior:
+I'll... never—
+
+Sarkaz Warrior:
+Graaaaahhh!!
+
+W:
+Easy there. How's a guy supposed to talk if you turn his organs to mush?
+
+Sarkaz Warrior:
+Kazdel will... never... forgive you...
+
+Ines:
+(Kazdel...)
+
+Ines:
+Mm, thank you.
+
+W:
+You really suck at torture.
+
+Ines:
+...Damn. You're still alive.
+
+W:
+You could've let him kill me first. Too bad you're so impatient.
+
+Ines:
+Hmph. Of course I'd rather kill them first. These insects have taken too much from us.
+
+Ines:
+When the enemy shows you an opening, any merc worth her salt would kill him, no?
+
+W:
+...Hah.
+
+W:
+You really do have a bit of Sarkaz in you, huh?
+
+Ines:
+Rubbed off on me.
+
+W:
+That wasn't exactly quiet. I bet more of them are on the way.
+
+Ines:
+Isn't that what we want? Keep them away from the objective.
+
+Ines:
+He said he let a couple get away... That means the rest are dead.
+
+Ines:
+He wasn't good enough to take down that many of our people. And he was definitely scared. There's... something else out here.
+
+W:
+Whew.
+
+Ines:
+...Were you really faking your injury?
+
+W:
+No no, you can't just fake an open wound away.
+
+W:
+This is all mind over matter.
+
+W:
+But let's talk about you. Did you really know that I had a present ready for them as soon as you woke up?
+
+Ines:
+If I didn't wake up, I would've been the bait.
+
+W:
+I definitely would've waited for you to die before springing the trap.
+
+Ines:
+Hmph...
+
+Ines:
+If one day, you meet someone who actually could read your mind...
+
+Ines:
+You won't be a match for her.
+
+W:
+I guess I'll cross that bridge when I come to it.
+
+W:
+Can you feel around with Arts?
+
+Ines:
+...As if I wasn't going to do that already.
+
+Ines:
+...
+
+Ines:
+No...
+
+W:
+That's the look that usually means we're boned.
+
+Ines:
+You got that right.
+
+Ines:
+But there's no running now. We press on.
+
+W:
+And you suck at fighting, so it's all up to me?
+
+Ines:
+Head west. We might be able to turn this around with Hoederer and his team.
+
+W:
+And if we can't find them?
+
+Ines:
+Then we die.
+
+Sarkaz Warrior?:
+We wiped out half the escort team, but we couldn't stop the convoy before point A5.
+
+Sarkaz Warrior?:
+They threw out a lot of decoys. Some of the most well-guarded ones were fakes.
+
+Sarkaz Warrior?:
+Either Babel's pulling some next-level strats, or... the real one doesn't even need protection.
+
+Sarkaz Warrior?:
+Yeah, we need to end this fast.
+
+Sarkaz Warrior?:
+Thought we could leave mop-up operations to those scum... Didn't think they'd blow that too.
+
+Sarkaz Warrior?:
+Their skills are all over the place. Hoederer's team was a lot tougher than I thought.
+
+Sarkaz Warrior?:
+If Babel didn't score them first, would've been nice to get them for ourselves.
+
+Sarkaz Warrior?:
+Do we keep chasing?
+
+Sarkaz Warrior?:
+We don't know what's up ahead.
+
+Sarkaz Warrior?:
+......
+
+Sarkaz Warrior?:
+Understood, General.
+
+Sarkaz Warrior:
+We lost them?
+
+Sarkaz Warrior:
+Split up. You go east, I'll take the west.
+
+W:
+Phew... phew...
+
+W:
+These guys aren't easy marks.
+
+Ines:
+Duh. Hide.
+
+Ines:
+Pfah...
+
+Ines:
+......
+
+W:
+Knock it off. You've been at it since the beginning. You're gonna go blind. Don't your eyes hurt?
+
+Ines:
+Of course they hurt, dumbass. But we have to find a way out...
+
+Mercenary:
+Aieeeeee! I surrender!
+
+W:
+Ooh, what a nice, clean slash. Did you see that?
+
+W:
+They're dressed up as mercs, but these aren't mercs.
+
+Ines:
+Cut the chatter!
+
+W:
+They don't even need to ambush us. They could take us head on in the ruins and we wouldn't be able to beat them.
+
+Ines:
+What are you thinking?
+
+W:
+Huh...
+
+W:
+Are you still spying on me? At a time like this?
+
+Ines:
+No. I just haven't gone blind yet.
+
+Ines:
+You've got so many... are those grenades? What are you doing?
+
+Ines:
+Are you gonna blow yourself up with them?
+
+W:
+A kill's a kill, no?
+
+Ines:
+Don't throw your life away for nothing.
+
+W:
+For what then?
+
+W:
+What's the point of living? What should I throw my life away for?
+
+Ines:
+...Sarkaz really are crazy.
+
+W:
+That's why I never trusted you. You're not crazy.
+
+Ines:
+Hey, W! Wait!
+
+Ines:
+Gah, come back!
+
+Ines:
+——!
+
+Sarkaz Warrior:
+Yep. Found one. The one and only W.
+
+Sarkaz Warrior:
+The way you toss those Originium grenades around, and such big ones too. That's the kind of crazy that gets my blood pumping.
+
+Sarkaz Warrior:
+How do you do it? All my friends incinerated in a flash, and don't have a scratch on you?
+
+W:
+What can I say? Practice makes perfect.
+
+Sarkaz Warrior:
+The General's gonna like you.
+
+Sarkaz Warrior:
+Just lay it all out for me. What's Babel got you doing? You can do a lot better somewhere else.
+
+W:
+Why should you trust me?
+
+W:
+Why should I trust you?
+
+Sarkaz Warrior:
+Asking the right questions in the right order.
+
+Sarkaz Warrior:
+Mercenaries are a tool of war. If we're gonna fight, we gotta have the right tools at hand.
+
+W:
+Don't you think we're more expendable than that?
+
+Sarkaz Warrior:
+That's your call.
+
+Sarkaz Warrior:
+We got another one hiding 17 meters out, 4 o'clock. The one with the scouting arts. You can think it over too.
+
+Sarkaz Warrior:
+Put the sword down. You can't beat me. Welcome to try though.
+
+Ines:
+......
+
+Ines:
+Hmph...
+
+Ines:
+What do you want?
+
+Sarkaz Warrior:
+Yeah... this fits. We got W and Ines.
+
+Sarkaz Warrior:
+You got maybe 20% of your people left. The scattered remnants can't do much.
+
+Ines:
+What's that you're standing on...?
+
+Sarkaz Warrior:
+Oh? This?
+
+Sarkaz Warrior:
+It used to be a person. I guess it's hard to tell at this point.
+
+Ines:
+——
+
+Sarkaz Warrior:
+You get it now? We're not your regular mercenaries. We're not hitmen either.
+
+Sarkaz Warrior:
+What if we do this? There's the two of you, plus your leader. Only one of you three has to die.
+
+Sarkaz Warrior:
+The other two bring back a head. I don't care whose. We pin all the losses on the head and take in the survivors.
+
+Sarkaz Warrior:
+Not that this is my call. But we have to do something for our fallen men.
+
+Sarkaz Warrior:
+Things could've gone a different way if we weren't meeting on the battlefield.
+
+W:
+That's awful nice of you.
+
+Ines:
+Just my luck. I suck at fighting. I probably can't beat this ugly bitch.
+
+W:
+Now we're so honest all of a sudden.
+
+Ines:
+Yeah, so the only other choice is for us to team up and kill Hoederer.
+
+W:
+Yep. Hoederer.
+
+Sarkaz Warrior:
+So——
+
+Sarkaz Warrior:
+Hm...
+
+Sarkaz Warrior:
+Tell me... why do mercenaries insist on getting killed?
+
+W:
+I'm not gonna stay on the side that's getting played. I'd much rather play with someone else's life.
+
+W:
+Plus, I'm real sick of listening to you. You're boring. And your shitty little attempt at a death game sucks.
+
+Ines:
+......
+
+W:
+Oh, and my poor little lamb here steadily going blind...
+
+W:
+She's not Sarkaz. You noticed, right? You stepped right into her minefield.
+
+Sarkaz Warrior:
+You know how this will end. You've already lost.
+
+W:
+Oh?
+
+W:
+I dunno about that one...
+
+Are you really going? The landship is right here.
+
+Yes, I didn't expect them to spot it so soon. Did intel blow this one?
+
+At least we've got the mercenaries.
+
+We put them in danger. They have no idea what's happening.
+
+They're mercenaries. They live for this. And sooner or later... it will be our burden too.
+
+I can save them. I can save some of the men who would die for our mistakes.
+
+You're right, Theresa, but...
+
+There isn't a single Sarkaz, not a single person, who should die for nothing.
+
+...*Sigh*... Then I'm coming with you.
+
+Good. Thank you——
+
+——Kal'tsit.
+
+Ines:
+......
+
+W:
+Wow, reinforcements, huh...? Who are they...?
+
+W:
+There's a lot of them...
+
+W:
+......
+
+Ines:
+Hey, you stay with me.
+
+W:
+Sorry... I'm just so... sleepy...
+
+Ines:
+Since when do you know the word 'sorry?'
+
+W:
+I had to watch you pass out last time... Now it's your turn...
+
+W:
+C'mon, be a team player... I just need a little... nap...
+
+Ines:
+Tch.
+
+Ines:
+Fourteen, fifteen... Still more...
+
+Ines:
+They're professionals. Look how they move... they know the battlefield even better than we do...
+
+Ines:
+...Kazdel... hmph...
+
+Ines:
+——!
+
+Ine... Come in... someone...
+
+Going... to save you...
+
+Ines:
+Comms are back...?
+
+Ines:
+——!
+
+Ines:
+What... what's this feeling...?
+
+Ines:
+Someone's close...!
+
+Ines:
+...Hoederer.
+
+Hoederer:
+Ines! Where's W? What are your coordinates?
+
+Ines:
+You lived in Kazdel... before the war... didn't you?
+
+Ines:
+There's something I have to ask...
+
+Hoederer:
+Are you wounded? Catch your breath.
+
+Hoederer:
+Find a safe place to hide. The convoy is going to call in reinforcements for us...
+
+Ines:
+Just... listen to me, Hoederer.
+
+Hoederer:
+Okay, I'm listening.
+
+Ines:
+The King of Sarkaz... The one who lost Kazdel... Her Majesty...
+
+Ines:
+Is she... a woman with white hair?
+
+
+

@@ -1,0 +1,167 @@
+Schwarz:
+It's still moving!
+
+Blitz:
+Bomb deployed! Time to go!
+
+Blitz:
+It... looks like it's budding?
+
+Blitz:
+What on earth... is it?
+
+Ash:
+Whatever it is, it doesn't belong in this world.
+
+Blitz:
+We have to evacuate. We need to get out before the bomb goes off.
+
+Schwarz:
+This way!
+
+Tachanka:
+I'm out of ammo.
+
+Tachanka:
+Rangers?
+
+Rangers:
+I'm still here...
+
+Tachanka:
+You don't look so good.
+
+Rangers:
+I'm old, so old... phew...
+
+Tachanka:
+What happened to your hand?
+
+Rangers:
+I couldn't dodge. That's all.
+
+Tachanka:
+What do we do now? Should we go to the shelter?
+
+Rangers:
+No news from the mine?
+
+Tachanka:
+None.
+
+Rangers:
+Hahaha...
+
+Rangers:
+I never thought we'd hold out this long... but we're almost to the end of the road.
+
+Rangers:
+What are you doing?
+
+Tachanka:
+Making a shield. I always wanted to try, actually.
+
+Rangers:
+Hahaha...
+
+Rangers:
+What a trip down memory lane. Back to the glorious good old days.
+
+Rangers:
+The young rangers all gathered at the edge of town.
+
+Rangers:
+Knowing the overwhelming odds stacked against them, knowing most would spill their blood in the wasteland after the war.
+
+Rangers:
+But they laughed and sang war songs, as if they were facing down bugs to be easily squashed.
+
+Rangers:
+War is cruel, and merciless. Some backed down. Many more held the line.
+
+Rangers:
+The fallen became legends. The survivors were tasked with remembering them.
+
+Rangers:
+And the last one standing in that bloodbath, after all that time, started to feel the fear of death set in.
+
+Tachanka:
+Because he doesn't want the dead to be forgotten?
+
+Rangers:
+Hahaha... maybe that's why.
+
+Rangers:
+It's been an honor to fight alongside you, Alexsandr.
+
+Tachanka:
+The honor is mine, Rangers.
+
+Tachanka:
+But don't be so gloomy. I haven't given up the fight.
+
+Tachanka:
+I'll smash a few to death.
+
+Rangers:
+Wait... what's that?
+
+Rangers:
+The cavalry's here! Hahahahahaha! We're saved!
+
+Rangers:
+This technique... Must be that young person.
+
+Stormeye:
+I picked up a Rhodes Island distress signal and figured it was a normal rescue mission.
+
+Stormeye:
+I didn't think I'd run into you.
+
+Stormeye:
+Old Ranger.
+
+Stormeye:
+You're back in business, huh?
+
+Rangers:
+Haha, at my age? You're making fun.
+
+Stormeye:
+What about your sword, Ranger?
+
+Rangers:
+I'm too old. I haven't been able to swing it for years.
+
+Rangers:
+If it weren't for you, today would be the end of these old bones.
+
+Stormeye:
+You sell yourself short, Old Ranger.
+
+Stormeye:
+Listen up, squad. The objective is the Lord's manor.
+
+Stormeye:
+The enemy is an extremely dangerous form of Originium organism.
+
+Stormeye:
+Keep your location updated.
+
+Rangers:
+Be careful. There's many of them. Try not to let your folks fight alone.
+
+Rangers:
+Also, be mindful of the ground. They are good at drilling.
+
+Stormeye:
+Understood.
+
+Stormeye:
+It's an honor to fight beside you.
+
+Stormeye:
+'Scimitar of the Bloody Valley'.
+
+
+

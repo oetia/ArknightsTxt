@@ -1,0 +1,152 @@
+Kal'tsit:
+I understand.
+
+Kal'tsit:
+All right, keep in touch. Let me know if catch wind of anything.
+
+Kal'tsit:
+Just press the third button. Mhm.
+
+Kal'tsit:
+...Hmm? Dr. {@nickname}?
+
+Kal'tsit:
+Where's Amiya?
+
+Kal'tsit:
+...You actually let her go alone.
+
+Kal'tsit:
+...Whatever, at least someone is protecting her.
+
+Kal'tsit:
+I suppose you wouldn't be able to do anything even if you went with her. I'll let you off the hook this time.
+
+Kal'tsit:
+Did you also come back by yourself?
+
+Kal'tsit:
+Oh, Penguin Logistics.
+
+Kal'tsit:
+You also need to take better precautions to stay safe. We won't always have the luxury of reliable local guides.
+
+Kal'tsit:
+Dr. {@nickname}...
+
+Kal'tsit:
+Amiya will not be in Lungmen for a long time, since she has other missions to do.
+
+Kal'tsit:
+You'll have to face her again.
+
+Kal'tsit:
+...If I were you, I'd make sure to tell her the things that I couldn't say before.
+
+Amiya:
+Ah, Doctor?
+
+Amiya:
+Were you waiting for me this whole time...
+
+Amiya:
+Sorry to have kept you waiting.
+
+Amiya:
+Hmm? My complexion looks different from when I left?
+
+Amiya:
+...
+
+Amiya:
+Some things happened.
+
+Amiya:
+I feel like...
+
+Amiya:
+Perhaps Madam Ch'en has her own way of looking at things.
+
+Amiya:
+Even though her words are harsh, and she has done things that I can't accept...
+
+Amiya:
+Maybe... the difference between us isn't that big.
+
+Amiya:
+She has her responsibilities.
+
+Amiya:
+Oh... I understand now...
+
+Amiya:
+She also has her share of burdens to bear.
+
+Amiya:
+Perhaps I also...
+
+Amiya:
+Is that so...
+
+Amiya:
+I... just didn't have other choices.
+
+Amiya:
+...I suppose all these consequences were the results of my persistence.
+
+Amiya:
+Doctor, there's no need... to try to comfort me.
+
+Amiya:
+Actually, I'm well aware of this.
+
+Amiya:
+But what I don't know...
+
+Amiya:
+What I don't know, is how long we have to keep going before this world begins to change.
+
+Amiya:
+But, what I do know for sure...
+
+Amiya:
+Is that I won't give up.
+
+Amiya:
+I'll always bear the consequences of my actions, because... I chose this path.
+
+Amiya:
+Doctor...
+
+Amiya:
+Will you... stay by my side?
+
+Amiya:
+Even though... this guilt will always stay with me...
+
+Amiya:
+The regret of not being able to bring everyone with me. The regret of not being able to save my friends...
+
+Amiya:
+But I must face reality.
+
+Amiya:
+With everyone in Rhodes Island...
+
+Amiya:
+Hmm? A message from Dr. Kal'tsit...
+
+Amiya:
+Dr. Kal'tsit? Did you need something?
+
+Kal'tsit:
+Amiya, I've received communications from a few recon teams.
+
+Kal'tsit:
+The situation has changed for the worse.
+
+Amiya:
+Okay, I'll be right there.
+
+
+

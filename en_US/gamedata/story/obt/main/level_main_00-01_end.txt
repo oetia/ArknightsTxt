@@ -1,0 +1,233 @@
+Reunion Member:
+Ugh...
+
+Reunion Member:
+You bunch... aren't from Ursus...
+
+Guard:
+*gasp* *gasp*...
+
+Dobermann:
+Looks like they didn't have time to notify the others.
+
+Dobermann:
+...Well done, Dr. {@nickname}.
+
+Dobermann:
+I really should review your capabilities more objectively.
+
+Medic:
+Huh? Amiya... she's heading over to them...
+
+Amiya:
+Are you okay?
+
+Female:
+Huh? Oh, thank you...
+
+Amiya:
+No problem. It's our...
+
+Female:
+You... You're also an Infected?
+
+Female:
+What do you want?! Don't hurt my children... I'm begging you, please don't hurt us...
+
+Amiya:
+...
+
+Amiya:
+Find a safe place to hide.
+
+Female:
+*Crying* ... Please have mercy... Let us go...
+
+Medic:
+...
+
+Amiya:
+Has everyone gotten enough rest?
+
+Medic:
+Ah, I'm fine...
+
+Amiya:
+...
+
+Amiya:
+Dr. {@nickname}...
+
+Amiya:
+You've also asked a similar question before.
+
+Amiya:
+Because I... am an Infected.
+
+Amiya:
+Dobermann and I, and most of the members of Rhodes Island, are as well.
+
+Amiya:
+Even those Reunion members who we just fought...
+
+Amiya:
+We've contracted a terrible illness. Something that terrifies most people...
+
+Amiya:
+'Oripathy.'
+
+Dobermann:
+Those who have contracted Oripathy are called the 'Infected.'
+
+Amiya:
+Dobermann...
+
+Dobermann:
+Ursus has always treated the Infected harshly.
+
+Dobermann:
+I mean, who doesn't? Ursus just happens to be particularly cold-blooded about it.
+
+Dobermann:
+Civilians are taught to fear the Infected through propaganda. Nobody even bats an eyelid when the Infected are hunted down, and some even cheer for it.
+
+Dobermann:
+That's why Reunion chose this place...
+
+Amiya:
+However... this time, it's not just a simple protest anymore.
+
+Dobermann:
+They've begun to resort to large-scale violence.
+
+Dobermann:
+When Ursus puts an end to the rioting, the Infected in Chernobog will only face more cruelty.
+
+Dobermann:
+...In contrast, with you here, Dr. {@nickname}, perhaps Rhodes Island's situation will improve.
+
+Dobermann:
+Both Kal'tsit and Amiya have mentioned that you are a cutting-edge Oripathy researcher.
+
+Dobermann:
+...But with your memory loss, I doubt whether you'll be of any use again.
+
+Amiya:
+Ugh... Instructor, that's way too harsh!
+
+Dobermann:
+...Perhaps you'll be able to master the theories again after some reviewing, just like how you relearned your commanding skills?
+
+Dobermann:
+After all, you are our field commander...
+
+Dobermann:
+To be honest, I never thought a neurology doctor could also be a master tactician...
+
+Dobermann:
+But after seeing you, I can somehow understand it.
+
+Dobermann:
+I mean, Rhodes Island itself is very similar to your field of study.
+
+Medic:
+Hey! Damn you! Stop running! It's time for your injection!
+
+Guard:
+Huh? Huh? I told you, I'm fine! I, I don't need treatment yet!
+
+Medic:
+You need to get your regular injection to slow your symptoms!
+
+Medic:
+Didn't you say you were feeling dizzy?
+
+Guard:
+That's not the same condition at all!
+
+Medic:
+What if you start having other issues when you're in battle?
+
+Medic:
+For the sake of everyone's safety, you have to take care of yourself too!
+
+Guard:
+...
+
+Medic:
+Stop right there! I'm giving you the shot!
+
+Guard:
+Aaah! !
+
+Dobermann:
+...
+
+Dobermann:
+...This is what Rhodes Island does. We're looking for a cure to the infection, as well as mitigating the problems associated with the Infected.
+
+Amiya:
+That's right. It is not enough to only conduct research, or only try to resolve conflicts.
+
+Amiya:
+We must address all of the problems surrounded the Infected.
+
+Amiya:
+This is the only way for Rhodes Island to give all the Infected a chance at survival...
+
+Dobermann:
+We understand them better than most others because we, like them, are also Infected.
+
+Dobermann:
+No matter who is involved or what is required, Rhodes Island seeks to put an end to the spread of hatred and disease.
+
+Dobermann:
+Dr. {@nickname}, perhaps this will be your calling as well.
+
+Dobermann:
+...At least, this is my wish.
+
+Dobermann:
+We will give you plenty of time to let all of this sink in.
+
+Dobermann:
+However, the time given to us is scarce.
+
+Dobermann:
+Gather up, everyone. We're leaving!
+
+Dobermann:
+Anything could happen on our way to the meeting point!
+
+Dobermann:
+(Amiya...)
+
+Dobermann:
+(The situation in Chernobog has become very complicated. We can't afford to create extra pressure for the rescue team. But...)
+
+Amiya:
+(How much time... do we have left?)
+
+Dobermann:
+(...Three hours.)
+
+Dobermann:
+(After three hours, this entire city will be consumed by the Catastrophe.)
+
+Dobermann:
+(After that, everything will be over then.)
+
+???:
+......
+
+???:
+We've found some unknown variables.
+
+???:
+Notify the others, now.
+
+???:
+We're going after them.
+
+
+

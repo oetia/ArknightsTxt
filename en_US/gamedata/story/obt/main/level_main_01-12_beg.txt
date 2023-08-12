@@ -1,0 +1,143 @@
+Time - Unknown \ Weather - Unknown \ Visibility - Poor
+
+Chernobog - Operation Squad E0's Location
+
+Dr. {@nickname} Rescue Operation - Final Retreat Phase
+
+Dobermann:
+Damn it!
+
+Dobermann:
+Even though we've already made it to the exit...!
+
+???:
+Did you really think we'd let you just stroll out of Chernobog?
+
+???:
+Don't you think it's about time for someone to wake you from your daydream?
+
+Dobermann:
+Our commmunications have been restored, and I've contact O.P.D. They'll be joining up with us shortly!
+
+Dobermann:
+But, this blasted...
+
+Nearl:
+Watch out, she's holding onto explosives!
+
+Dobermann:
+I still can't get in touch with the recon team!
+
+Amiya:
+... Who exactly are you?
+
+???:
+I don't expect you to know who I am...
+
+???:
+But, I know that person next to you.
+
+Amiya:
+Is Reunion... going to continue fighting us?
+
+???:
+Hey, hey, don't be like that.
+
+???:
+I have no love for that she-dragon, Talulah. I'm not even cut out for this goaltending business. It's a pain to have to rush over here after a long day of work.
+
+???:
+So for the sake of future cooperation, why don't we exchange some pleasantries first?
+
+???:
+You may simply call me... W.
+
+W:
+I've waited a long time to see that person next to you.
+
+Amiya:
+...Doctor?
+
+W:
+Dr.{@Nickname}......
+
+W:
+I have a few little questions I'd like to ask {@Nickname}. Would you be so kind as to give us some... alone time?
+
+Nearl:
+You're wasting your breath.
+
+W:
+--Don't be so hasty. I have some information you might be interested in.
+
+W:
+Actually, we just met some rather slick fellows... Quite skilled, and dressed just like you guys.
+
+W:
+Though their camouflage might have been enough to fool Ursus, I saw right through their little trick~
+
+Amiya:
+Could they be from the recon team?
+
+Amiya:
+I'm glad... that they're safe...
+
+W:
+Little bunny, are you their leader?
+
+Amiya:
+? !
+
+W:
+I'm quite curious, what charm do you hold over them... so that they'd give their lives so enthusiastically and unremorsefully for you?
+
+Amiya:
+What... are you saying...?
+
+W:
+You heard me. None of them... will be returning to you.
+
+W:
+Hey, you...
+
+W:
+Are you really... worth sacrificing their lives over?
+
+Amiya:
+...
+
+W:
+I'm not done talking yet.
+
+W:
+Amiya...
+
+W:
+... Did I make you mad?
+
+Amiya:
+... You've gone too far.
+
+W:
+Good, good... Now that's more like it.
+
+W:
+Come at me.
+
+Amiya:
+W of the Reunion Movement, you've gone too far!
+
+Amiya:
+Every life is precious, each and every one...
+
+Amiya:
+This is something that you'll never tarnish!
+
+Amiya:
+Doctor!!
+
+W:
+Heheh...
+
+
+

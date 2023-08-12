@@ -1,0 +1,128 @@
+Amiya:
+We've arrived.
+
+Amiya:
+...What a depressing place.
+
+Ch'en:
+Any mention of this on the news?
+
+Hoshiguma:
+None.
+
+Hoshiguma:
+By the looks of things, Ursus decided to abandon this place.
+
+Ch'en:
+A deserted city, huh...
+
+Ch'en:
+It this city has already become a Reunion stronghold, it's only going to cause more and more problems for Lungmen.
+
+Hoshiguma:
+It's too close to Lungmen.
+
+Hoshiguma:
+But if Skullshatterer was taking commands from this place, we can't afford to ignore it.
+
+Hoshiguma:
+But... what exactly happened to this part of Chernobog?
+
+Hoshiguma:
+It's impossible for it to have moved this far after being hit by the Catastrophe.
+
+Hoshiguma:
+And why would it appear here?
+
+Amiya:
+From the observation data we've gathered... this happened in the aftermath of the Catastrophe.
+
+Amiya:
+Which means that this subsection was destroyed only after it reached here.
+
+Hoshiguma:
+Hah. Seems like Rhodes Island has some skilled Catastrophe Messengers.
+
+Hoshiguma:
+It's good to be cautious.
+
+Hoshiguma:
+We've been ambushed by poorly-organized thugs our entire way here...
+
+Hoshiguma:
+Like vultures circling overhead, looking for carcasses among the ruins.
+
+Hoshiguma:
+It makes my skin crawl.
+
+Amiya:
+I've confirmed the coordinates. We'll have to continue moving deeper--
+
+Amiya:
+But judging from the terrain, we won't be able to move all our forces together.
+
+Hoshiguma:
+Are we approaching the Originium-dense parts?
+
+Talulah:
+...
+
+Talulah:
+(I didn't expect you to be here.)
+
+Hoshiguma:
+Ch'en, what do you think...
+
+Ch'en:
+...
+
+Hoshiguma:
+Ch'en?
+
+Ch'en:
+How...
+
+Hoshiguma:
+...!
+
+Hoshiguma:
+Ch'en, where are you going?!
+
+Hoshiguma:
+Damn it, she just took off running! Who could that have been...
+
+Amiya:
+...I didn't manage to get a good look either!
+
+Amiya:
+But that silhouette seemed like...
+
+Amiya:
+We have to follow her...
+
+Reunion Member:
+...
+
+Reunion Member:
+Stop!
+
+Hoshiguma:
+What bad timing...!
+
+Hoshiguma:
+That guy is no ordinary henchman...
+
+Hoshiguma:
+And... where did all of those Originium slugs crawl out from?
+
+Amiya:
+Those creatures... look like they might explode!
+
+Hoshiguma:
+Dr. {@nickname}!
+
+Hoshiguma:
+Make sure our operators exercise utmost caution!!
+
+
+

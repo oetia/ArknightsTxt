@@ -1,0 +1,218 @@
+High Priest:
+Waaaaahhhh! Ugh, hold on. I should do a different cry next time, I'm getting rather tired of this one...
+
+Gavial:
+Hey, is he alright?
+
+Eunectes:
+No need to worry, he'll be back in a minute.
+
+Gavial:
+Okay... is he like... a person? I've never heard of anyone like him before.
+
+Eunectes:
+No idea, the High Priest only told me he's lived here for a very long time.
+
+Gavial:
+Alright then. What else can we say...
+
+Gavial:
+Phew, he's really something...
+
+Blaze:
+Gavial, your head is bleeding. Are you okay?
+
+Gavial:
+It's fine, just a scratch. Tomimi, bring me my medical bag here.
+
+Gavial:
+Hm? Where did Tomimi go?
+
+Utage:
+Here's your bag. And Tomimi, I think I saw her running off somewhere right before we won the fight.
+
+Gavial:
+Thanks. She didn't get scared, did she? Anyway, let's patch ourselves up first.
+
+Gavial:
+You go check if anyone's injured, and bring them to me if they are. I'll take care of them.
+
+Ceobe:
+Leave it to me!
+
+Blaze:
+Haha, no problem.
+
+Utage:
+Ugh, what a pain. Fine.
+
+Croissant:
+Quit yer belly-achin'.
+
+Gavial:
+Doctor... hmm?
+
+Eunectes:
+The Big Ugly...
+
+Gavial:
+Sorry, Zumama. We had to take it apart.
+
+Eunectes:
+I know.
+
+Eunectes:
+I checked your engine, I think it's working fine. You can have it back.
+
+Gavial:
+Oh yeah? That's great!
+
+Eunectes:
+You really won't stay, Gavial?
+
+Gavial:
+Yeah, just like you, I've found my calling.
+
+Eunectes:
+To be a doctor?
+
+Gavial:
+That's it.
+
+Eunectes:
+Is doctoring fun?
+
+Gavial:
+Is building machines fun?
+
+Eunectes:
+It is.
+
+Gavial:
+Same here.
+
+Eunectes:
+But you still have to be the Great Chief.
+
+Gavial:
+Huh?
+
+Eunectes:
+Any way you slice it, you beat the Big, Ugly Thing. You won, Gavial.
+
+Eunectes:
+Look, everyone's here again. They're looking to you.
+
+Gavial:
+Tch. Doctor, what do we do?
+
+Gavial:
+You're not giving me anything here!
+
+Gavial:
+Doctor, I know you're awake! I'm a doctor!
+
+Gavial:
+Tch. Doctor, I really want to punch you right now.
+
+Tomimi:
+Gavial, are you hurt?!
+
+Gavial:
+Hm? I'm fine. Where did you run off to?
+
+Tomimi:
+Huh? Oh, that... I had to go pee!
+
+Gavial:
+Okay... Hm?
+
+Tomimi:
+What's wrong, Gavial? Why are you looking at me like that?
+
+Gavial:
+Hm... Haha, I've got it!
+
+Gavial:
+Everyone, listen up!
+
+Gavial:
+I beat the Big Ugly, so I'm going to be the Great Chief.
+
+Gavial:
+And so, my message to you is——
+
+Gavial:
+Your fists are everything!
+
+Tomimi:
+Eh? Gavial, are you staying here to be the Great Chief?
+
+Gavial:
+But!
+
+Gavial:
+I have something very important I must do, so I have to leave.
+
+Gavial:
+Worry not, though! When I'm gone, Tomimi will give orders on my behalf!
+
+Gavial:
+Just treat Tomimi as you would treat me!
+
+Tomimi:
+Eh, w-w-what?
+
+Utage:
+Is that really gonna fly? Don't these people worship strength over everything?
+
+Eunectes:
+Gavial is the Great Chief after all. She defeated everyone, so her word is law.
+
+Gavial:
+Haha. Zumama, machines are pretty cool, but I think I'll stick with my fists after all.
+
+Eunectes:
+Hmph. Don't forget, I still don't recognize you. I'll build an even greater machine and challenge you again.
+
+Gavial:
+Sure, I'll be waiting.
+
+Gavial:
+Oh, right. Before that, you need to come with me for a bit.
+
+Eunectes:
+Why?
+
+Gavial:
+You need to come with me to Rhodes Island to get an Oripathy checkup.
+
+Eunectes:
+Can I refuse? I still have to work on the Big Ugly...
+
+Gavial:
+You don't have a choice this time. Besides, until Tomimi takes over, I'm still the Great Chief. I'll bring you back even if I have to kidnap you.
+
+Eunectes:
+Fine.
+
+Tomimi:
+...Gavial, are you going to leave after all?
+
+Gavial:
+Yep, I'll probably be leaving right as soon as we get the engine back in the aircraft.
+
+Tomimi:
+......
+
+Tomimi:
+No.
+
+Gavial:
+Hm?
+
+Tomimi:
+I-I won't let you leave!
+
+
+

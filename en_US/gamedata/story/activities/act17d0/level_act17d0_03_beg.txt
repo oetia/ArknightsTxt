@@ -1,0 +1,758 @@
+Drudge:
+Guns? Mercenaries?
+
+Drudge:
+What are you babbling about?
+
+Mercenary:
+I'm telling the truth, Boss! They've got huge guns! They killed Jarman!
+
+Drudge:
+Mercenaries with big guns? Are they Sankta?
+
+Drudge:
+Are you telling me you blew your mission over four Sankta?
+
+Mercenary:
+...Erm...
+
+Mercenary:
+I don't think they're Sankta... probably...?
+
+Drudge:
+They're not Sankta but they're mercs carrying around big guns?
+
+Drudge:
+If you're gonna lie to me, at least make it believable.
+
+Sarkaz Mercenary:
+He's telling the truth.
+
+Drudge:
+What do you mean he's telling the truth?
+
+Sarkaz Mercenary:
+He's telling the truth. They were heavily armed, but they really weren't Sankta.
+
+Sarkaz Mercenary:
+Jarman took one in the brain, but I didn't see an arrow or a bolt. Sarkaz aren't that weak.
+
+Sarkaz Mercenary:
+These ones weren't part of your plan.
+
+Sarkaz Mercenary:
+Having to deal with a bunch of fully armed mercenaries was not in the contract, boss, we need a raise.
+
+Drudge:
+And where are they now?
+
+Sarkaz Mercenary:
+They're not in the Infected quarter anymore. Our men are looking for them, but we haven't seen any major movements. They should still be in the area.
+
+Drudge:
+......
+
+Drudge:
+How's the old bastard doing?
+
+Sarkaz Mercenary:
+Your father's people are tough. Especially that little sister of yours.
+
+Sarkaz Mercenary:
+We bumped off some of their fighters, but we haven't been able to breach the manor perimeter.
+
+Sarkaz Mercenary:
+Your scientist's monsters are doing good work out there, but your casters suck. We lost a lot of them already, without getting much for them.
+
+Drudge:
+Those are already the best money can buy.
+
+Drudge:
+Until your boss is willing to send us a caster, you're in no position to complain.
+
+Sarkaz Mercenary:
+Then get your scientist to cook up some more monsters.
+
+Sarkaz Mercenary:
+Or change tactics. That mansion is a fortress, and a direct attack isn't going to work. And it's not like your sister is an easy target either.
+
+Drudge:
+What about the old bastard himself? Is he still holed up in the house?
+
+Sarkaz Mercenary:
+I haven't seen your father yet. No sign of him at all since we showed up.
+
+Drudge:
+Hahaha... I knew it.
+
+Drudge:
+I knew something happened to him!
+
+Drudge:
+Keep watching the manor. Tell me as soon as you've got news.
+
+Sarkaz Mercenary:
+What about the 'change our tactics' part? You're getting ahead of yourself.
+
+Sarkaz Mercenary:
+Call it a Sarkaz mercenary's intuition. The longer you drag things out, the more chances they have to go wrong.
+
+Drudge:
+I have a contingency plan. I just need time to put it together.
+
+Levi:
+Confident as I am in the results of my experiments, the look on your face tells me you don't share my assessment.
+
+Levi:
+Come, tell me, where have things gone wrong this time?
+
+Drudge:
+I need progress from you.
+
+Levi:
+Would you like to offer something a little more constructive? Or is your pointless needling all you have?
+
+Drudge:
+I gave you enough corpses. I need at least twenty monsters.
+
+Levi:
+Originiutants.
+
+Drudge:
+What?
+
+Levi:
+These 'monsters' are Originiutants. They have a name.
+
+Drudge:
+Mutants, Originiutants, why should I care what they're called?
+
+Drudge:
+Give me more monsters.
+
+Levi:
+I gave you so many already. Did you get them all killed so quickly?
+
+Levi:
+I'm curious... How are your minions using the Originiutants? Do they rely on your 'Originium Arts'?
+
+Levi:
+What is it exactly? Super powers? Occult mysticism? Magic? Where does it come from?
+
+Levi:
+Come, satisfy my curiosity. I must speak with your 'casters'.
+
+Drudge:
+Just do your job, egghead.
+
+Drudge:
+You don't need to be thinking about Originium Arts right now.
+
+Drudge:
+Once we're done here, you'll have plenty of time for your own research.
+
+Levi:
+(Russian) I have very little confidence in your project.
+
+Levi:
+But speaking of time, did I not tell you? Yours is, in fact, limited.
+
+Drudge:
+What are you talking about?
+
+Levi:
+The lifespan of these Originiutants won't exceed one week. Whatever it is you have to do, you'll have to do it quickly.
+
+Drudge:
+What are you trying to pull?!
+
+Levi:
+This is the price for your lack of patience.
+
+Levi:
+You want the Originiutants produced quickly, you want them tremendously powerful, and at the same time you want them to have no weaknesses?
+
+Levi:
+Do you truly believe such a thing is possible?
+
+Drudge:
+......
+
+Drudge:
+I told you. No tricks, egghead.
+
+Levi:
+I'm busy. I have no time to joke with you.
+
+Levi:
+If you are so dissatisfied with my work, I suggest you take matters into your own hands. Use your own ingenuity to solve these genetic engineering complications that I, as a professional, can't solve in so little time.
+
+Levi:
+Of course, you could bring me more materials, give me more time, and make your own contributions to this vapid family drama you're putting on.
+
+Levi:
+Science is fair. You always have a choice.
+
+Drudge:
+That's enough of your slippery talking.
+
+Drudge:
+Get back to work, egghead. Don't expect any mercy out of me if you fail.
+
+Drudge:
+The price of failure is a slow and miserable death. I'm a man of my word.
+
+Levi:
+Hah hah hah. When you put it like that, what else can I say?
+
+Levi:
+Good luck, my friend.
+
+Liskarm:
+There's so much smoke and chaos. Don't even need to get close to know what's going on.
+
+Franka:
+Never expected a riot of this scale here...
+
+Liskarm:
+Butting our horns in is sure to cause problems.
+
+Schwarz:
+...I'm back.
+
+Rangers:
+Oh? What's the situation?
+
+Schwarz:
+...It's out of control. There's constant fighting around a mansion on the north side of town. Looks like mercenaries on one side.
+
+Schwarz:
+Things are even worse outside the manor. Bloodstains and collapsing houses everywhere.
+
+Schwarz:
+There's infected sand beasts scurrying through the alleyways, and there's a lot of them.
+
+Liskarm:
+If it's gotten that bad, where's the Sargon military? The Lord Ameer's forces?
+
+Schwarz:
+There are some armed guards in that manor on the north side, but I didn't see any other Sargon soldiers.
+
+Franka:
+So it's been like this for two days? Then I wonder if the watchman at the safehouse is okay...
+
+Liskarm:
+It doesn't look good.
+
+Rangers:
+Let's not jump to conclusions.
+
+Schwarz:
+...In other news, I found the safehouse.
+
+Schwarz:
+Some people have taken up guarding it, but they're not Rhodes Island personnel.
+
+Rangers:
+It's been occupied by the mercenaries?
+
+Schwarz:
+No... not exactly. They don't look like typical mercs.
+
+Schwarz:
+Their defensive positioning is extremely specialized. They have ambush killzones, traps, and decoys all set up.
+
+Schwarz:
+Most importantly, they've got a lot of townsfolk in that safehouse.
+
+Liskarm:
+Townsfolk? Just what kind of people do they have guarding the safehouse?
+
+Schwarz:
+They look pretty much like you. They've got guns.
+
+Liskarm:
+Guns? Blacksteel mercenaries?
+
+Schwarz:
+They don't have any obvious markings on them. I can't say for sure they're Blacksteel.
+
+Franka:
+Armed professionals stripped of any identifying markings... with guns.
+
+Franka:
+Oof... my head hurts.
+
+Rangers:
+There are a lot of forces at work in this town.
+
+Rangers:
+We can rule out a bandit raid.
+
+Rangers:
+And if the Lord Ameer's forces are missing, it's not an act of war.
+
+Rangers:
+The situation here... Far more complicated than I thought.
+
+Liskarm:
+If they're willing to protect civilians in the middle of a riot, they can't exactly be evil.
+
+Franka:
+Maybe we should try to make contact?
+
+Rangers:
+Let's be careful. There are a lot of possibilities here, even if we just look at them protecting the townsfolk.
+
+Rangers:
+I just hope they're the type you can reason with.
+
+Frost:
+What's the situation?
+
+Tachanka:
+No good. I can't make sense of it.
+
+Tachanka:
+This thing looks like a circuit board, but it's totally different from any circuit I've ever seen.
+
+Tachanka:
+If you gave me a month and a technical manual, I'm still not sure I could figure it out.
+
+Tachanka:
+Screw it. I'm going to stand guard upstairs. I've been squatting so long my back is sore.
+
+Frost:
+Good hustle, Lord.
+
+Ash:
+No good?
+
+Frost:
+None of us have ever seen anything like the tech inside this comms equipment.
+
+Frost:
+I don't think we're going to be able to get it working.
+
+Ash:
+You wouldn't know it from the outside. It looks like your typical transmitter.
+
+Frost:
+Just like with the van back there, the energy they use in this world is unique. All their technology is based on this stuff called Originium.
+
+Occphen:
+You're still studying that communicator, huh?
+
+Occphen:
+Originium comms equipment uses some really complicated tech. Rhodes Island always had to send engineering casters out to maintain it. I'm not surprised you can't fix it.
+
+Ash:
+You said before you used this device to send out a distress signal?
+
+Occphen:
+Oh... I'm not sure if the signal actually got through.
+
+Occphen:
+When the rioters attacked the safehouse, I hit the communicator as quick as I could. But they broke in before I got to talk to anyone.
+
+Occphen:
+Everything happened so fast, I could barely speak... It could be the Rhodes Island operator who took the call couldn't even hear me.
+
+Ash:
+So the cavalry isn't coming.
+
+Blitz:
+I was never waiting for the cavalry.
+
+Occphen:
+You don't look worried at all.
+
+Ash:
+You could say we're pretty used to fighting without backup.
+
+Occphen:
+Wow. I'm thinking if you had shown up just a little later, I'd be spending the rest of my life in a wheelchair.
+
+Occphen:
+Or maybe a coffin.
+
+Occphen:
+All I can say is thanks.
+
+Ash:
+Not necessary. You've done a lot to help the civilians yourself.
+
+Occphen:
+Well, I wouldn't make a big deal out of that. Treating the Infected is kind of Rhodes Island's business. Hahaha...
+
+Occphen:
+...Even if I'm just a reserve Logistics Operator serving as a doorman.
+
+Ash:
+Treating...? Does that mean there's medical supplies here?
+
+Ash:
+But what are these weapons for?
+
+Occphen:
+Oh, well...
+
+Occphen:
+Rhodes Island is mainly a pharmaceutical company, but this safehouse doesn't actually offer any treatment services.
+
+Occphen:
+Safehouses are mostly to provide combat operators with supplies, equipment, weapons and stuff when they're out on missions.
+
+Frost:
+Right......
+
+Frost:
+Hold on. What's this?
+
+Blitz:
+Is this a grenade launcher?
+
+Ash:
+Grenade?
+
+Ash:
+Let me see.
+
+Blitz:
+Oh, my. Is this a landmine?
+
+Blitz:
+And you've got all kinds.
+
+Ash:
+...I thought the people here didn't use thermal weapons.
+
+Ash:
+The structure of this grenade launcher is a little strange.
+
+Blitz:
+There's no propellant charge for the grenades. Does it use compressed gas?
+
+Ash:
+Look, here's a model using hydraulic springs.
+
+Occphen:
+Be careful! That box is full of Originium explosives! It's dangerous.
+
+Ash:
+Mr. Occphen, do you have ammunition for small arms here?
+
+Occphen:
+Small arms...? Do you mean guns? Oh, are you asking about etched ammo?
+
+Occphen:
+We wouldn't usually have anything that valuable in a safehouse like this. Rhodes Island combat personnel rarely use guns.
+
+Ash:
+Can we use these explosives?
+
+Occphen:
+...*Sigh*...
+
+Occphen:
+Just be careful. Originium explosives are very dangerous.
+
+Occphen:
+They used to only be for combat operators.
+
+Occphen:
+But you look like you know what you're doing. I won't stop you.
+
+Ash:
+Thank you very much.
+
+Blitz:
+What about these? What are these wild looking parts for?
+
+Occphen:
+Backup casting units. Don't break them.
+
+Ash:
+Casting units...?
+
+Blitz:
+Must be for that 'Originium Arts' stuff.
+
+Ash:
+Originium Arts is the technique that lets them throw those fireballs?
+
+Occphen:
+We're getting into the weeds here. I'm no caster.
+
+Occphen:
+But Originium Arts comes in all kinds of flavors. Every caster has his own specialty.
+
+Ash:
+Would the engineering casters you mentioned before be one of those?
+
+Occphen:
+Huh? Have you never seen Arts before?
+
+Frost:
+Well... we haven't seen much.
+
+Occphen:
+But how? You've got guns. Aren't you casters?
+
+Occphen:
+A gun user who can't use Originium Arts? Now that's rare.
+
+Miarow:
+Oh, Mr. Occphen, your leg hasn't healed yet. I don't want you walking around.
+
+Occphen:
+I'm fine, I've got my crutches. I can walk a few steps.
+
+Ash:
+Doctor, how are the patients doing down there?
+
+Miarow:
+I've got most of the wounded stabilized, thanks to the medical supplies here.
+
+Ash:
+You don't look so hot. Are you okay?
+
+Miarow:
+I just haven't slept at all. I'll be fine.
+
+Ash:
+You need rest. We'll be in big trouble if we lose our only doctor.
+
+Miarow:
+Don't worry, I'll be careful.
+
+Blitz:
+Speaking of Originium Arts.
+
+Blitz:
+Don't they have some kind of magic where you say a spooky incantation and there's a big flash of light and... PRESTO! You're all healed up?
+
+Miarow:
+Erm...
+
+Miarow:
+What are you talking about? Hahaha...
+
+Blitz:
+No, then? What about like a healing potion that you drink it and all your wounds close right up? None of that either?
+
+Occphen:
+That's the stuff of sci-fi novels.
+
+Miarow:
+There are Arts that can heal wounds, but they're a very difficult type of Arts to master.
+
+Miarow:
+Before you can master healing Arts, you first have to have a complete understanding of medical science, you have to know the anatomical structures of all the different races, things like that...
+
+Miarow:
+Also, most healing Arts users can only stop bleeding or speed up wound recovery.
+
+Miarow:
+These Arts are very useful on the operating table, but in my experience they're no substitute for real medical skill.
+
+Occphen:
+Doctor, can you use Arts?
+
+Miarow:
+I have a little knowledge... not very useful though.
+
+Blitz:
+That's boringly realistic... *sigh*.
+
+Blitz:
+To think a world with magic could be so inconvenient.
+
+Blitz:
+Hold up, did you just say 'sci-fi novels'?
+
+Blitz:
+Now I'm extra curious what your world's sci-fi novels talk about.
+
+Blitz:
+Would we find a bookstore in a bigger city? Maybe some history books too? Are books expensive?
+
+Blitz:
+I've gotten myself all worked up now.
+
+Occphen:
+You're a weird bunch.
+
+Occphen:
+Where are you from anyway? Columbia? Victoria?
+
+Occphen:
+You talk like you're Victorians, but like from a couple decades ago...
+
+Blitz:
+Well... I'm not really sure how to answer that one.
+
+Miarow:
+Miss Cohen and her friends came from very far away. From a place where Oripathy doesn't even exist.
+
+Occphen:
+What??
+
+Ash:
+...Yeah, that.
+
+Occphen:
+A country with no Oripathy? Really?
+
+Occphen:
+No Oripathy, no Infected, that means no discrimination? A place with no hatred, where everyone's equal?
+
+Occphen:
+Lordy loo. What kind of paradise is that?
+
+Blitz:
+......
+
+Frost:
+......
+
+Ash:
+*Sigh*...
+
+Occphen:
+...Alright then. Your faces say it all. Just pretend I never asked...
+
+Ash:
+!
+
+Frost:
+We're under attack!
+
+Ash:
+Sitrep!
+
+Tachanka:
+This is just the first wave. They have us surrounded.
+
+Tachanka:
+They were probing us with those earlier strikes.
+
+Frost:
+We've got more incoming!
+
+Ash:
+Your traps?
+
+Frost:
+All good!
+
+Ash:
+Watch your explosives.
+
+Ash:
+Blitz, keep an eye on the left flank. Don't let them get the drop on us.
+
+Blitz:
+Understood.
+
+Ash:
+Lord, conserve your ammo!
+
+Tachanka:
+No problem. Let them come.
+
+Ash:
+Watch for surprise attacks!
+
+Ash:
+Let's see what they've got.
+
+Tachanka:
+Here they come!
+
+Ash:
+Hold your fire... let them get a little closer.
+
+Frost:
+Nine o'clock!
+
+Frost:
+Lord, the enemy's up, dead ahead!
+
+Ash:
+Enemy down!
+
+Ash:
+These big guys with the horns are tough. Go for headshots!
+
+Frost:
+Ash! Over there!
+
+Ash:
+?!
+
+Ash:
+What is that?!
+
+Ash:
+Lord! Be careful!
+
+Tachanka:
+(Russian profanity)!
+
+Ash:
+Alexsandr!!
+
+Tachanka:
+I'm okay!
+
+Tachanka:
+Don't worry about me! Hold the line!
+
+Ash:
+What on earth is this!
+
+Ash:
+Watch out for those mutants! Light cover's no good!!
+
+Rangers:
+That's a proper formation. Those four know what they're doing.
+
+Rangers:
+Sounds like gunfire... No... Those are more intense shots. That's a big, rapid-fire gun.
+
+Schwarz:
+They're surrounded.
+
+Schwarz:
+It's the same mercenaries who were attacking the manor.
+
+Liskarm:
+Those monsters remind me of what we saw in Lungmen.
+
+Franka:
+The 'Host' and the 'Herd.'
+
+Franka:
+But they're not really the same.
+
+Rangers:
+Mercenaries carrying big guns and mercenaries commanding mysterious monsters...
+
+Rangers:
+The situation is changing. And the balance is about to break.
+
+Schwarz:
+...What do we do?
+
+Rangers:
+Don't hestiate. Prepare for battle.
+
+Rangers:
+Those vile beings who drivie this kind of monsters into battles deserve not a single bit of mercy.
+
+Schwarz:
+Roger.
+
+
+

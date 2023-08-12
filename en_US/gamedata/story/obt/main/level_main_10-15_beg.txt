@@ -1,0 +1,583 @@
+Manfred:
+So you're here.
+
+Amiya:
+...Manfred?
+
+Manfred:
+It seems the Sanguinarch will be greatly disappointed. He detests dark, damp places the most, yet went into the rebels' subterranean nest to seize you personally.
+
+Manfred:
+He must surely have caught up to your friends by now. One wonders if the cries from underground will carry so far up this tower—
+
+Feist:
+You wicked... wicked...
+
+Manfred:
+Wicked devil?
+
+Manfred:
+No, I don't admire his methods whatsoever. The rebels who died to my cannon fire are far luckier than the ones suffering his torment.
+
+Feist:
+You're both just the same!
+
+Manfred:
+In your eyes, maybe so. Whenever you use 'devil' and such to refer to us all, it shows that fear and hatred have long clouded your eyes.
+
+Manfred:
+The Victorians regard the Sarkaz as a collective of barbarians reveling in slaughter.
+
+Manfred:
+Those who thought like that are now either kneeling before the throne, or are now pale skeletons dried upon the city walls.
+
+Amiya:
+You, and Theresis... the army you've led has devastated this city.
+
+Amiya:
+No matter how you claim you and the vampire are different, you're both invaders here, hands dripping with blood.
+
+Manfred:
+You seem to misunderstand, Cautus of Rhodes Island.
+
+Manfred:
+I'm not solely drawing lines between myself and the Prince of Blood—yes, in a certain respect, his predilections disgust me.
+
+Manfred:
+But I, like him, do not work the way all the kings of the Court do.
+
+Manfred:
+When they stand in front of you, they see Her Majesty's successor, and they may treat you with skepticism, curiosity or disgust for it.
+
+Amiya:
+You're...
+
+Amiya:
+I can only feel vigilance from you.
+
+Manfred:
+Yes, Cautus. I simply see you—as a dangerous enemy.
+
+Feist:
+—Did he just toss a grenade at us?
+
+Amiya:
+Hold onto the wall!
+
+Amiya:
+It's his Arts... he's using Arts energy to make shockwaves, he's trying to throw us off the city!
+
+Feist:
+Ugh... can't stand straight—it's like every part of the ground's erupting...
+
+Closure:
+The drones can't get near him! Any closer at all and they lose balance—
+
+Amiya:
+Everyone... get behind me!
+
+Amiya:
+Hrrgh––
+
+Closure:
+A—Amiya, are his Arts fusing with yours?
+
+Amiya:
+He's deliberately narrowed and sharpened his attack. He's breaking down the energy layers I form...
+
+Closure:
+What?! You were able to resist a Draco's flames, though!
+
+Amiya:
+......
+
+Manfred:
+I knew full well you'd come. You think I'd just sit here waiting for you?
+
+Feist:
+There—There goes another one! It's not just the ground, it's, it's above us, wherever red flashes by, it explodes in midair—
+
+Feist:
+Miss Amiya, can't... can't you use mental Arts?
+
+Feist:
+Can you try and just cram his head with some kind of rubbish?
+
+Amiya:
+No.
+
+Amiya:
+He's too well-defended, and he's too calm. I can feel the edges of his emotions, but... but right now, his heart only thirsts for victory.
+
+Amiya:
+Yes... his mind isn't set on this battle.
+
+Amiya:
+He's just waiting for the vampire and defense artillery to destroy the resistance!
+
+Manfred:
+Stalling for time? Decent conjecture.
+
+Manfred:
+{@nickname}, I've always been more intrigued by you than that Cautus who lucked into the power of the King.
+
+Manfred:
+You've faced graver circumstances than this on the battlefield—the choices you make always seem to be the ones more beneficial to the whole.
+
+Manfred:
+Please, tell me, what are you about to do next?
+
+Manfred:
+Will you expend all your efforts here to kill me and eliminate a long-term threat, or think of some other way to get around me and save those Victorians below?
+
+Londinium Citizen:
+Uwaaagh!
+
+Heidi:
+Mr. Balin, what's happening up ahead?
+
+Rhodes Island Operator:
+Partial collapse in the passageway! Three fighters couldn't escape in time—
+
+Heidi:
+......
+
+Heidi:
+Route around it! We're pressing on.
+
+Heidi:
+Remember, no matter who we lose on this journey, the rest of us cannot stop.
+
+Self-Salvation Corps Soldier:
+Up, quick, do you see that train?
+
+Self-Salvation Corps Soldier:
+The Sarkaz haven't found us yet, from the looks of it. Let's think of a way to blend in there, and grab the controls—
+
+Rockrock:
+Harmo, watch out!!
+
+Rockrock:
+......
+
+Self-Salvation Corps Soldier:
+Sarkaz Crossbowman! They've ambushed us!
+
+Self-Salvation Corps Soldier:
+Rockrock, one step out and we'll get hit! Best we run back underground!
+
+Rockrock:
+Going back's... riskier still.
+
+Rockrock:
+The Commander says our only chance is to get the train moving before the Sarkaz destroy the space underground.
+
+Self-Salvation Corps Soldier:
+But Harmo...
+
+Rockrock:
+Captain Harmo gave his life.
+
+Rockrock:
+I'm in charge now.
+
+Rockrock:
+Listen. We have to start the train immediately after we interrupt their shelling.
+
+Rockrock:
+If I fall, then it's down to the next one—even if just one man's left in the end, we have to get him out of here!
+
+Morgan:
+I think this door's almost a lost cause, isn't it?
+
+Self-Salvation Corps Soldier:
+Commander, we'll hold them off!
+
+Siege:
+Don't. You can't.
+
+Self-Salvation Corps Soldier:
+Ha, ha... you think we don't know that, Rhodes Islander?
+
+Self-Salvation Corps Soldier:
+Men of the 13th, with me!
+
+Indra:
+Hey, you're running backwards! Don't be daft—
+
+Self-Salvation Corps Soldier:
+The—The door's down!
+
+Self-Salvation Corps Soldier:
+Shoot, shoot! Blow 'em up! Everyone go! We're taking that monster down with us!
+
+Self-Salvation Corps Soldier:
+Ugh... uaargh—!
+
+Siege:
+He's... here.
+
+The smoke clears, and a figure emerges from the end of the jet-black tunnel.
+
+This monster brandishes no claws, has no twisted limbs, bears no sharp fangs nor keen incisors, nor grows any extraneous feelers.
+
+He seems like nothing more than a young noble whose picture could be in the papers, one who'd speak frankly about Londinium's political and economical situation.
+
+If only... the ground below his feet was not soaked in fresh blood.
+
+???:
+What a terrible smell. Your men fight rather too dirty.
+
+Self-Salvation Corps Soldier:
+Monster...
+
+Self-Salvation Corps Soldier:
+Don't... Don't you think of getting near the commander...
+
+Self-Salvation Corps Soldier:
+M—My hand? Nothing even touched—agh!
+
+???:
+Hah... now, this scent's much cozier.
+
+???:
+I wouldn't mind... using the only thing of worth in your bodies to give the floor a wash.
+
+The vampire airily lifts a finger, as if holding up a crystal chalice, or following the pulse of a piece of music.
+
+The shadows leap up from beneath him, latching onto the soldiers' bodies, winding about their limbs.
+
+What chilling screams follow are drowned entirely under the liquid that bursts forth.
+
+The concentrated iron reek boring into nasal cavities. Bright red overflowing wherever one looks.
+
+This is the instant the people stood at the tunnel's other end realize...
+
+What chased them was no shadow at all. It was running blood, as thick as could be.
+
+Indra:
+Is this... how Warfarin and Closure used to look?
+
+Morgan:
+That's the first thing that pops into your mind?!
+
+Indra:
+Well, what the hell do you want me to think? It's better than being stark terrified, innit?
+
+Morgan:
+Run! Run like hell!
+
+???:
+Where is the 'King of Sarkaz?'
+
+Self-Salvation Corps Soldier:
+What are you—
+
+???:
+I come so far, go to all this trouble for an audience with her, and she cowers behind you frail little creatures, not even daring to meet me?
+
+Self-Salvation Corps Soldier:
+Agh—!
+
+Siege:
+...Amiya.
+
+Siege:
+He's here for Amiya.
+
+Morgan:
+You mean that King whatever he said? You're sure that's Amiya? Isn't Amiya a Cautus?
+
+Siege:
+Forget it, it's not important.
+
+Morgan:
+But Amiya's not here...
+
+Siege:
+That's good.
+
+Morgan:
+Um, fair. Even she might not cope best with this monster of a thing.
+
+Morgan:
+Wonder if her and the Doctor've almost won... *sigh* What am I thinking? Even if they can shut the city artillery down, we're about to be torn to scraps here.
+
+Morgan:
+Vina, what's our plan?
+
+Siege:
+Run.
+
+Siege:
+I don't want to... and I CAN'T die here.
+
+Amiya:
+We can't keep this deadlock up anymore.
+
+Amiya:
+Doctor, step back.
+
+Amiya:
+I'm going to condense stronger energy. I have to defeat Manfred as quickly as possible.
+
+Amiya:
+Doctor, please trust me. I've matured a lot since the last time I removed my inhibitors.
+
+Amiya:
+I knew I wouldn't let myself fall, just as we entered Londinium.
+
+Amiya:
+Ugh... his energy is densifying! It's like... like a net, from head, to toe... it's everywhere!
+
+Amiya:
+The air's... full of invisible Originium crystals! He's scattering them as beacons for his attacks!
+
+Feist:
+No wonder! It's like invisible drones are throwing bombs all about!
+
+Amiya:
+Mr. Feist, you and Closure have to get away... if you get caught up, there'll be nowhere to hide!
+
+Manfred:
+You can use more strength than that, Cautus.
+
+Amiya:
+I'm forcing my Arts... against this energy flow...
+
+Manfred:
+Savor it. I formed this cage myself.
+
+Amiya:
+Am I less able to shake it... the more I struggle?
+
+Manfred:
+Cautus, you said my mind wasn't set on this battle with you. You were only half correct.
+
+Manfred:
+I'll deliver you bound before Her Majesty. The Sarkaz in Londinium... are loath to see an outblood flaunting her borrowed power from the King.
+
+Amiya:
+I can't, and I don't want to command them.
+
+Manfred:
+Of course you can't.
+
+Amiya:
+But they shouldn't be commanded by Theresis either.
+
+Amiya:
+When I stayed in Kazdel, I saw so many Sarkaz warriors. Plenty of them were mercenaries. After that, at Chernobog... I met them again.
+
+Amiya:
+Even when they were being exploited by Talulah, at least they knew who their enemy in each battle was, and knew they were giving up their lives for a future.
+
+Amiya:
+But now? You've trapped them inside a foreign city. Ever since the moment I came, I've sensed their frustration, their anxiety, their bewilderment...
+
+Manfred:
+You read my warriors' emotions?
+
+Amiya:
+The net's... tightening? Are you angry?
+
+Manfred:
+Cautus, has anyone ever told you you're too conceited? You're no more than an Infected. You've never experienced for yourself what truly constitutes a Sarkaz life.
+
+Manfred:
+You simply sit on the side and watch. What makes you think you can truly comprehend our pain, our resentment?!
+
+Amiya:
+It's true, I might not be able to comprehend.
+
+Amiya:
+But... the fire that blazes in your hearts, it's burned since the distant past into the present, from the first razing of Kazdel to today in Londinium, and even now, it's still within me.
+
+Amiya:
+It burns. It burns incomparably true, truer than any illusion that words or Arts could conjure.
+
+Manfred:
+Say your piece as you please, Infected.
+
+Manfred:
+I know how this power of yours originates.
+
+Manfred:
+Once a lie is spun, it will not be any less of a lie, no matter how convinced the liar is of it.
+
+Amiya:
+Sarkaz, Infected...
+
+Amiya:
+No matter how you identify each one of us, we're all just ordinary people wanting to live through the unjust circumstances we're put in.
+
+Amiya:
+But Theresis has brought everyone into a hopeless war—look at the Victorian dukes' armies outside the city.
+
+Amiya:
+All it takes is for them to point their lances the same way—it could be Kazdel, it could be Londinium, but all that awaits the Sarkaz then is ruin.
+
+Amiya:
+No matter what you're using to spur them on—bloodlines, authority, renown... it's those that are the total lies!
+
+Manfred:
+When did you reform your energy and make some scant space?
+
+Manfred:
+I was not wrong, Cautus.
+
+Manfred:
+—You are very dangerous.
+
+Manfred:
+Your power, your speech... It may be unable to shake our mightiest soldiers, but it certainly brings our enemies the delusion of hope. I don't want them struggling any further.
+
+Manfred:
+You have no choice but to stop here. I won't ever let you enter this city again—
+
+Amiya:
+But I will crush flat this cage of yours!
+
+???:
+Cage? I'm not even sure it lives up to that.
+
+Amiya:
+Huh...?
+
+Manfred:
+Someone's altering the density of my Arts?
+
+Manfred:
+Wait, it's you again...
+
+Misery:
+Doctor, am I a little late here?
+
+Misery:
+Finding a route through Londinium's city walls, well... that's tough, even for me.
+
+Misery:
+Lucky I found a few outstanding helpers.
+
+Minutes before...
+
+Closure:
+Doctor, I've locked onto Manfred.
+
+Closure:
+Uh, barely anybody's with him...
+
+Closure:
+You think he's overpowered? He looks like he eats fights for breakfast. Maybe Theresis taught him a bunch of moves.
+
+Closure:
+Can we seriously pound him into stopping the artillery like a good boy with just five minutes?
+
+Closure:
+No, scratch that, no I in this we. At this point, you can't count me and Feist as part of your combat force. Throwing Logistics guys into this fray'd be a hell of a way to waste lives.
+
+Closure:
+Amiya, you're all we've got...
+
+Amiya:
+Manfred is a powerful enemy.
+
+Amiya:
+But we've faced powerful enemies to come all this way... and we'll surely face more still.
+
+Manfred:
+Reprising old tricks? Did you really think I'd let you all escape a second time?
+
+A thread of energy comes rushing in, as if it's locked onto some position in the air.
+
+You almost feel the point of that sword slice at the tip of your feet.
+
+Until a shield comes down in front of you all.
+
+???:
+Drop any thoughts of pursuing them, Sarkaz.
+
+???:
+Your fight is right here.
+
+Manfred:
+......
+
+Manfred:
+White Wolf. I didn't imagine you would come face me again.
+
+Manfred:
+So this passage is bidirectional, what a surprise. You sent them away, and brought yourself in at the same time?
+
+Horn:
+It wasn't me... It was us.
+
+Behind Horn, a soldier stands up.
+
+And then a second, and then a third.
+
+And now over a dozen Victorian soldiers block the Sarkaz general's way.
+
+All of them, camouflages dropped.
+
+They wear a dizzying array of different uniforms, the majority scarred in the roiling flames of war, some covered in mud and cobweb, some splattered by the blood of their own comrades.
+
+Their weapons are just as motley, some still holding regulation swords, some instead toting self-fashioned crossbows.
+
+But their faces all bear an identical vigor.
+
+This time, they stand firm or fall once and for all. They will never retreat.
+
+Manfred:
+A gaggle of leftover forces thinks they can beat me?
+
+Horn:
+—
+
+Manfred:
+You aren't fit to fight me, even with a weapon.
+
+Manfred:
+Have you forgotten you owe your last escape from my grasp entirely to that Rhodes Island Sarkaz meddler?
+
+Horn:
+You can stop checking all around, Sarkaz.
+
+Horn:
+When you don't respect your opponent on the battlefield, you're the first to fall.
+
+Manfred:
+Your blabbering may well be more stubborn than your shield.
+
+Horn:
+Hrrgh––
+
+Horn:
+Watch the enemy's attack angle! Assemble behind me!
+
+Manfred:
+I wasn't planning to eliminate you, but I didn't know you would be so eager to hold your own funeral.
+
+Manfred:
+Here I thought you'd have some level of tactical prowess, White Wolf.
+
+Manfred:
+You bring a platoon of wounded men to resist me, and have your soldiers give up their lives one after another? Is this your so-called professional spirit?
+
+Horn:
+Don't... forget where you're stood right now.
+
+Horn:
+This is the city wall of Londinium.
+
+Horn:
+Don't go assuming you've already conquered her, Sarkaz.
+
+Horn:
+—See for yourself.
+
+Horn:
+We're still right here.
+
+
+

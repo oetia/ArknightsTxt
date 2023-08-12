@@ -1,0 +1,305 @@
+Schwarz:
+I'm back.
+
+Rangers:
+No problems, I take it?
+
+Schwarz:
+Nothing of particular note within a thirty kilometer range. The area is safe for now.
+
+Rangers:
+Very good. Let me take a look at the map.
+
+Rangers:
+Hmm...
+
+Rangers:
+We're on the right track. Keep north, and we should see a waypoint the locals called Trumhill before long.
+
+Rangers:
+We'll have an opportunity to rest at its base. From there, we can start moving west, and we'll be at Phecon within two days.
+
+Schwarz:
+Is Phecon our destination?
+
+Rangers:
+Of course not, but it's the most suitable transfer station. Phecon sees a lot of Columbian caravans, which we can follow one to reach Twinriver. There, we have a Rhodes Island branch office.
+
+Rangers:
+If we can get to the branch office, we'll be able to secure ourselves some transportation. From there, the rest will be much easier.
+
+Franka:
+Music to my ears! Can't wait to wrap up this on-foot odyssey. My shoe soles are worn straight flat.
+
+Liskarm:
+You ought to walk outside more. It's good for your health, and you won't need to keep worrying so much about your weight.
+
+Franka:
+Hey!
+
+Schwarz:
+What about the communicator? Any linkable signal nodes?
+
+Liskarm:
+Still no good. The way I see it, we're not going to get any direct contact with the Rhodes Island landship until we reach Phecon.
+
+Liskarm:
+Not unless we can get our hands on a more powerful transmitter...
+
+Franka:
+You can forget about that. There's no other nomadic city to be found around here.
+
+Rangers:
+Quite. That's why I made sure to ask you to bring more than enough food and water. It's a tall order to find any supplies on the way to Phecon.
+
+Rangers:
+I do remember little settlements dotted around here and there, but after all these years, I could hardly say whether any of them are still where they used to be.
+
+Liskarm:
+So you're pretty familiar with this area, Mr. Rangers.
+
+Rangers:
+Hah-hah-hah... I might've been a tad more familiar in my sprightlier days. Truth is, I haven't been around these wastelands in a long, long time.
+
+Liskarm:
+You drew that map yourself, Mr. Rangers?
+
+Rangers:
+Indeed. Any good ranger can draw their own maps, though I never would've guessed this one would still be useful even now. The topography around here hasn't been marred by Catastrophes too badly, so we might count ourselves lucky.
+
+Liskarm:
+I'm sorry for all the bother we've made for you.
+
+Rangers:
+Don't you worry about it. It's this old man's duty to look out for you young'uns.
+
+Rangers:
+I share the responsibility for this mess, anyway. We wouldn't be in such a tight spot now if I had made the proper preparations beforehand.
+
+Liskarm:
+What, the band of mysterious mercenaries that raided the warehouse and by rotten luck just happened to make off with our car?
+
+Liskarm:
+Who's going to believe a story like that? ?
+
+Franka:
+I think it was the trader, actually. Pulled our car apart to sell off the parts, then fed us some random explanation to cover up after the fact.
+
+Liskarm:
+I actually agree with you, for once.
+
+Franka:
+You didn't need the 'for once'.
+
+Liskarm:
+The old me wouldn't have let him off as kindly as that, if we were going by our old Blacksteel mercenary customs.
+
+Rangers:
+But you are Rhodes Island operators now. I'd much rather not see you get into fights with the locals.
+
+Rangers:
+The medical supplies made it safely, and the trader didn't try to cook the books when paying us. We can't really ask for too much more.
+
+Schwarz:
+Carrying a sack of refined Originium Ingots across the barrenlands by foot is incredibly dangerous.
+
+Rangers:
+I won't deny how... perforated their explanations were. We can't count on the local Vouivre mercenaries to be totally honest with us, so I'll keep an eye out for that next time.
+
+Rangers:
+But in the meantime, once we get back, you do have to report the property loss to Logistics.
+
+Liskarm:
+*Sigh*... Yeah, this is just how Vouivre is.
+
+Rangers:
+That said...
+
+Rangers:
+I could likely find our way there even without any maps or Arts, but we'd be taking time we don't have. I worry we're too many for that, and our water and food wouldn't last us.
+
+Schwarz:
+You can navigate the Sargon barrens without any tools? May I ask how?
+
+Rangers:
+If we ever have the time in future, I can teach you a thing or two. It's all nothing more than my experience.
+
+Franka:
+How do I put it...
+
+Franka:
+You're very worthy of the 'Ranger of the Red Valley' title, if I do say so.
+
+Rangers:
+Hah-hah-hah-hah. So you youngsters know how to tell an old tale or two as well, then.
+
+Rangers:
+That's just an exaggerated title.
+
+Franka:
+Aren't those tales all true, though? Like how you rounded up and brought all of the Jenkins Seven to justice in a single day, or how you held off an entire column of Rusthammer Bandits all by yourself...
+
+Liskarm:
+How you struck ten targets with just a single arrow, or how you shot down a Lateranan's bullets while high up in the sky...
+
+Rangers:
+My word. So this is what the stories are like now.
+
+Liskarm:
+My Sargon colleagues at Blacksteel spoke of your tales from time to time, Mr. Rangers. They're all like this, pretty much. Stories not out of place in a theater.
+
+Franka:
+They wouldn't be out of place in a novel either.
+
+Liskarm:
+You've heard them too, right, Miss Schwarz?
+
+Schwarz:
+...Mm...
+
+Schwarz:
+There was a mercenary traveling the breadth of Columbia who told me about one or two of them.
+
+Schwarz:
+I believe they were 'The Scimitar of the Bloody Valley' and 'Tragedy of the Lord Ameer'.
+
+Rangers:
+......
+
+Rangers:
+Mm... A little exaggerated indeed.
+
+Rangers:
+Rangers aren't as all-powerful as they've been portrayed.
+
+Rangers:
+I can't suppose to know what you've all heard, but I can say that the most widespread stories are largely untrue.
+
+Rangers:
+Rangers were not a fighting force. If you want my description, they were more akin to survivors banded together out in the wild.
+
+Rangers:
+They started as just a couple of ordinary folk fallen into times of pain and strife. They stepped forth against the odds, against it all. They protected villages against the scourges that would pillage them.
+
+Rangers:
+They weren't trained warriors, any of them. They were a resistance, born in a time of war that knew no other way, of devastation that took and took and took.
+
+Rangers:
+They brimmed with anger under it. They refused to keel to cruel destiny through the months and years of the war.
+
+Rangers:
+Afterwards, as more and more joined them, they slowly grew from a lone autonomous militia of sorts to a collective of regional organizations, and so they resided across the wastelands, defending settlements while offering medical aid.
+
+Liskarm:
+I've read of that from my time at Blacksteel. From reports of the Sargon region, it wasn't just officials, but the rangers as well who'd pursue wasteland hooligans and mercenary looters to exhaustion, out across the wastelands.
+
+Rangers:
+What those reports refer to is truth, I can say that.
+
+Rangers:
+Back then, a group of rangers certainly... had its heroes, and they certainly caught themselves a fair share of villains. The events you describe happened, but I stress that that wasn't standard fare.
+
+Rangers:
+The vast majority of the time, we rangers simply helped towns fix their wells, fend off wild beasts, gather medicine, that kind of stuff. Just the little things.
+
+Rangers:
+Moreover, this area wasn't even Sargon territory back then...
+
+Franka:
+So, Mr. Rangers, back then, you must've been part of that group of 'heroes,' right?
+
+Rangers:
+Hah-hah-hah. This old man is hardly so prestigious. I was but a normal scout and nothing more.
+
+Schwarz:
+...Normal...?
+
+Schwarz:
+In the end, this organization of rangers ended up disbanding, didn't it?
+
+Rangers:
+That certainly is a long story...
+
+Rangers:
+Many things happened afterwards, to say the least. And once the war concluded, the Lord Ameers were settled, each with all the land they wanted.
+
+Rangers:
+Those Lord Ameers of Sargon would not tolerate an organization that bowed to no-one, and the rangers were one such organization.
+
+Rangers:
+Of course, opinion from the Lord Ameers aside, there were many reasons why the rangers disbanded. But these are past events, and it's been a very, very long time since. The nitty-gritty of it all has fallen out of this old man's head.
+
+Franka:
+So all those wild stories never actually happened?
+
+Rangers:
+The truth is often mundane. So you remedy it by exaggerating how things happened, and you make the story dramatic.
+
+Rangers:
+And only when it's dramatic enough do people pass it down.
+
+Rangers:
+Your stories all picked up layers upon layers of artistry before they reached you.
+
+Rangers:
+Alright, this old man's told plenty enough himself. Let's get ourselves ready to leave.
+
+Franka:
+By the sound of things, we've already reached Sargon territory?
+
+Liskarm:
+We were already in Sargon as of last night. Can you please pay a little attention? When suddenly you're in trouble, I'll be the last one to help you.
+
+Franka:
+I love how much you suck.
+
+Rangers:
+The land we step on now is the jurisdiction of the Lord Ameer of Bayalir, though his provisional capital is still a ways away.
+
+Rangers:
+After that...
+
+Rangers:
+Hold! Stop moving!
+
+Schwarz:
+...You heard that too.
+
+Rangers:
+All of you, stay still. Something's approaching.
+
+Franka & Liskarm:
+! !
+
+Schwarz:
+...It's close...
+
+Rangers:
+It's underneath us! Scatter!
+
+Liskarm:
+Franka! Move!
+
+Hideous Monstrosity:
+(Roars)
+
+Schwarz:
+!
+
+Schwarz:
+What... what are these?
+
+Liskarm:
+Are these... sand beasts?
+
+Franka:
+Since when do sand beasts grow like this?
+
+Liskarm:
+One, two... no, there's just too many.
+
+Rangers:
+Move into formation! Be ready for battle!
+
+
+

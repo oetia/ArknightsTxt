@@ -1,0 +1,361 @@
+Ah, it's you.
+
+It's been a long time since we've last seen each other.
+
+During this time... you've been teetering on the edge of a cliff.
+
+You may have forgotten who you are, but just remembering your name is enough.
+
+...It's time. Don't linger here for too long.
+
+After all, you aren't my guest yet, nor should you even be here.
+
+She still needs you.
+
+December 23rd.
+
+You may not remember what this date means to you.
+
+And this will thrust you into peril.
+
+......
+
+No...
+
+You must try to remember.
+
+Distant Voice:
+...consciousness...
+
+Distant Voice:
+Circulation resumed... vitals stabilized... cardioplegia solution injected...
+
+Distant Voice:
+Body temperature low... administering Hexamethasone 20 c.c., now...
+
+Distant Voice:
+Get the hemostat!
+
+Distant Voice:
+...Conditions stable... beginning resection... be careful of VFib...
+
+Distant Voice:
+...Sorry...
+
+Distant Voice:
+For making you suffer again...
+
+???:
+......
+
+???:
+Doctor...
+
+???:
+...hand!
+
+???:
+Take my...
+
+???:
+Take my hand!!
+
+???:
+......
+
+???:
+Emergency...
+
+???:
+...Help...
+
+???:
+...It's done...!
+
+???:
+Doctor, Doctor!
+
+???:
+Medic, how's Doctor doing?
+
+???:
+But, just a moment ago... we were holding hands...
+
+???:
+So why... why is Doctor still not waking up...?
+
+Medic:
+Amiya! Don't panic, just calm down first!
+
+Amiya:
+Ah... S-sorry.
+
+Medic:
+You always get so flustered when it comes to the doctor.
+
+Medic:
+But, Amiya, if the worst came to pass... what would you do then?
+
+Amiya:
+...I'm already mentally prepared for that. We would continue to follow the plan.
+
+Medic:
+...I understand. Anyway, I'll do what you requested.
+
+Amiya:
+All right... I appreciate it.
+
+Amiya:
+About the Doctor...
+
+Medic:
+Don't worry, Amiya. All the vital signs are stable now.
+
+Medic:
+I'll do one more inspection, just for you.
+
+Amiya:
+Thank you... Thank you very much!
+
+Medic:
+Mhm. Breathing is slightly shallow, but blood pressure is normal. There should be no cause for concern.
+
+Amiya:
+...!
+
+Medic:
+...
+
+Medic:
+Are you awake?
+
+Medic:
+Amiya, it's a success! The Doctor has woken up!
+
+Amiya:
+Doctor...?
+
+Amiya:
+I'm so happy... Doctor...
+
+Medic:
+Ah, careful! You mustn't do that...
+
+Medic:
+Don't try to move yet. Your body still hasn't fully adapted to this.
+
+Amiya:
+Doctor...?
+
+Amiya:
+Ah, Doctor... It's me...
+
+Amiya:
+...
+
+Amiya:
+It's me, Amiya.
+
+Amiya:
+We've come to rescue you.
+
+Amiya:
+You...
+
+Amiya:
+You're a member of Rhodes Island, just like us...
+
+Amiya:
+...as well as my partner.
+
+Amiya:
+...Dr. {@nickname}.
+
+Amiya:
+You're the most important person to me.
+
+Amiya:
+Doctor... you don't remember?
+
+Amiya:
+...
+
+Amiya:
+I understand. I know this is a bit much to take in right now.
+
+Amiya:
+I don't expect you to remember everything right away, and I'm not asking you to trust me right now.
+
+Amiya:
+Dr. {@nickname}, do you really not remember me at all...?
+
+Amiya:
+...
+
+Amiya:
+Even if that's the case... I won't give up.
+
+Amiya:
+We've already sacrificed so much, just to find you...
+
+Amiya:
+Ah, um, hello.
+
+Amiya:
+...
+
+Amiya:
+I, I don't know how to put this, but so many things have changed from before.
+
+Amiya:
+That includes me as well.
+
+Amiya:
+However, you'll always be the most important person to me, Doctor. No matter what happens, this will never change.
+
+Amiya:
+So that's why, please... give me a little more time.
+
+Amiya:
+However little it might be...
+
+Medic:
+Does the doctor... really have amnesia?
+
+Amiya:
+...
+
+Amiya:
+I'm sure everything will be fine if we give Doctor some space...
+
+Amiya:
+It's safe here—
+
+Amiya:
+Huh? What's happening—
+
+Heavily-Armed Man:
+Amiya, we've got a problem!
+
+Heavily-Armed Man:
+Someone broke into the facility!
+
+Heavily-Armed Man:
+The way they're dressed... they don't look like Ursus soldiers!
+
+Reunion Member:
+...
+
+Heavily-Armed Man:
+What's the meaning of this?!
+
+Heavily-Armed Man:
+They're attacking! Amiya, they're heavily equipped with weapons!
+
+Medic:
+Aaaahh!
+
+Amiya:
+Be careful, everyone! Take cover, and protect Doctor!
+
+Amiya:
+These outfits... are they from the Reunion Movement? But how is that possible...
+
+Amiya:
+Guards, prepare for battle!
+
+Guard:
+Roger!
+
+Guard:
+Curses... Are they after the Doctor?!
+
+Amiya:
+No... Nobody else should know about the Doctor being here.
+
+Amiya:
+Are you able to reach Kal'tsit?
+
+Guard:
+I'm not sure why, but the equipment isn't working!
+
+Amiya:
+...Someone has cut off our communications.
+
+Amiya:
+Have we been discovered by the Ursus government?
+
+Guard:
+What do we do now?
+
+Amiya:
+Kal'tsit won't be able to command the battle as we had originally planned.
+
+Amiya:
+...
+
+Amiya:
+...Dr. {@nickname}.
+
+Amiya:
+I hope that... you'll be able to take command.
+
+Medic:
+Isn't that a bit too risky? The Doctor only just came to...
+
+Amiya:
+I'd like... to give it a try.
+
+Amiya:
+Even without memories, Doctor has...
+
+Amiya:
+...fought alongside us before.
+
+???:
+Thank you for all of your guidance...
+
+Amiya:
+...
+
+Amiya:
+We've been through so much together...
+
+Amiya:
+Doctor... I just know that you'll be able to do it.
+
+???:
+I know that you'll lead us to victory.
+
+Amiya:
+I understand that asking you to do this is very sudden and inconsiderate.
+
+Amiya:
+But... Please, lend us your aid.
+
+Amiya:
+We'll be supporting you!
+
+Amiya:
+Mm... I don't want to drag you into this.
+
+Amiya:
+But right now, we need your wisdom more than ever, Dr. {@nickname}.
+
+Amiya:
+I hope that a part of you will reawaken during combat.
+
+Amiya:
+Even though you might have doubts about yourself...
+
+Amiya:
+But I believe in you.
+
+Amiya:
+I know you can do this.
+
+Amiya:
+Please take command... of Rhodes Island!
+
+
+

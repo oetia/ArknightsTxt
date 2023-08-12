@@ -1,0 +1,758 @@
+Hibiscus:
+(According to the map, I shouldn't be far from the Rhodes Island branch office now.)
+
+Hibiscus:
+(Got held up a bit coming into Vyseheim, but if I just hurry up, I can hopefully make it there before I'm late...)
+
+Passionate Infected:
+Hold it right there!
+
+Hibiscus:
+Er... me?
+
+Passionate Infected:
+Yes indeed, you, beautiful Dame! You're an unfamiliar face. Could this be your first time here in the Afterglow?
+
+Hibiscus:
+Yes, I'm a Rhodes Island Operator, here to look into the Serendipitous Infected Prognosis Phenomenon—
+
+Passionate Infected:
+Leave behind your work and duties for now. I cordially invite you here to perform with me in song!
+
+Hibiscus:
+Perform?
+
+Hibiscus:
+But I bought this concert flute as a staff. I couldn't play you a single song...
+
+Passionate Infected:
+No matter! If you can just make it sing, I have faith I can spin your notes into a song to offer to you, Dame. Let's commemorate this fine day!
+
+Hibiscus:
+I have an appointment with someone, and I'm almost late as is.
+
+Passionate Infected:
+Don't worry, don't worry. Anyone would let a little delay go, with weather so fine.
+
+Passionate Infected:
+Come, this won't take long!
+
+Hibiscus:
+I... I just play some random notes then?
+
+Passionate Infected:
+Please!
+
+Hibiscus:
+(Alright, alright, I can make it sound...)
+
+Passionate Infected:
+Do... fa... la.. so... fa... mi...
+
+Passionate Infected:
+Wonderful, a motif full with hope!
+
+Passionate Infected:
+Emma, I'll play. What if you and our visitor dance a tune together?
+
+Hibiscus:
+Together?
+
+Cheerful Infected:
+Come, beautiful Fräulein, let us skip!
+
+Hibiscus:
+But I really don't have the time, and I'm not much of a danc—
+
+Cheerful Infected:
+No worries, we all dance poorly at times. No one will laugh at you.
+
+Passionate Infected:
+Very well, I'll play this in three...
+
+Passionate Infected:
+One-two-three, one-two-three... ready—go!
+
+Hibiscus:
+I'm sorry, I trod on you so many...
+
+Cheerful Infected:
+That's fine, I'm delighted to dance with you! Thank you for joining us!
+
+Passionate Infected:
+Goodbye! Have a beautiful day!
+
+Cheerful Infected:
+Welcome to the Afterglow!
+
+Hibiscus:
+Thank you, thanks.
+
+Woman in Operator Attire:
+Good morning, Hibiscus~
+
+Hibiscus:
+You're... Andante? From the branch?
+
+Andante:
+That's right! Welcome to Vyseheim's Afterglow!
+
+Hibiscus:
+Thank you. This is awkward, you coming out here just to greet me.
+
+Andante:
+I didn't come just to greet you.
+
+Hibiscus:
+Eh?
+
+Andante:
+Word came that before you left for the Afterglow, you were piling pressure on yourself, staying up all hours of every night. You were reading papers right up until you left the landship.
+
+Andante:
+So today, your job is entirely to relax!
+
+Hibiscus:
+I'm actually fine.
+
+Andante:
+No, can't have that! Strings snap when you stretch them that thin!
+
+Andante:
+Besides, you came just at the right time. Herr Czerny's farewell concert is in a week, and it just so happens today's application day.
+
+Andante:
+Apparently, he's performing at the plaza in front of Afterglow Hall! It'll be over if we're a moment too late!
+
+Hibiscus:
+But the mission...
+
+Andante:
+If this chance goes, it's gone! We can talk missions tomorrow! Let's run!
+
+Andante:
+We're here!
+
+Hibiscus:
+......
+
+Andante:
+Afterglow Hall. They say it's this very concert hall the Afterglow gets its name from.
+
+Hibiscus:
+Is... this even a building, or is it a giant instrument...?
+
+Andante:
+Enough, the Hall's not going anywhere, we'll have time to admire it later. Our focus today is Herr Czerny.
+
+Hibiscus:
+I think... I read about Mister, Herr Czerny beforehand. He was born in the Afterglow?
+
+Andante:
+He was. He's still the one and only musician ever to both be Infected and renowned in Leithanien. He's even held minor tours around the country—
+
+Andante:
+I see him, there he is!
+
+The musician stands on the steps outside the hall, a colossal instrument his height upright beside him.
+
+No one stands in the five-meter semicircle around him.
+
+Outside that semicircle, the crowds teem.
+
+Andante:
+Blow me down! Half of the Afterglow's here, at least.
+
+Hibiscus:
+Half?!
+
+Andante:
+Herr Czerny used to constantly perform outdoors here, but he's been ill for half a year, and it's his first time back. You don't know how excited everyone is—
+
+Andante:
+(Whisper) It's starting.
+
+With the sound of a piano, the plaza quickly falls to a hush.
+
+Practically everyone stops talking.
+
+Even the peddler hawking incessantly until now lowers his voice.
+
+The song is short.
+
+The moment Czerny's performance ends, a mountainous applause erupts.
+
+It gradually abates. While Czerny prepares to play the next song, someone neatly dressed squeezes through the crowd, and arrives at his side.
+
+Frivolous Noble:
+Herr Czerny, Dame Gertrude sends her regards.
+
+Czerny:
+Oh. You, I see.
+
+Frivolous Noble:
+She asks me to remind you that be it an applicational affair or the concert day itself, you haven't been booked for an outdoor performance.
+
+Czerny:
+And what does it matter?
+
+Czerny:
+Other places may have their schedules, but you are hard-pressed to stop me performing for all in the Afterglow.
+
+Frivolous Noble:
+Your health isn't the fairest. You'd best not tire yourself too much...
+
+Czerny:
+I know my health best. If I didn't feel better today, I wouldn't be here.
+
+Czerny:
+Go tell Gertrude: mind her own business. Don't come all persnickety at me.
+
+Frivolous Noble:
+Very well.
+
+Hibiscus:
+What was his problem? Why did no one say anything?
+
+Andante:
+He's a retainer of Dame Gertrude Strollo.
+
+Hibiscus:
+Gertrude Strollo... Countess Strollo, the ruler... the Lehnsfrau of Vyseheim?
+
+Andante:
+The very same.
+
+Andante:
+But Herr Czerny sent that man packing in just a few words! What a feel-good sight.
+
+Hibiscus:
+I see.
+
+Andante:
+Let's head into Afterglow Hall in a moment. Application's about to begin.
+
+Seeing the noble's figure disappear into the crowd, Czerny clears his throat.
+
+Czerny:
+Thank you all for your support.
+
+Czerny:
+Today, I came not just to play you all a passage or two, long while that it's been, but to warm up for the concert next week.
+
+Czerny:
+I invite you all to be enthusiastic in this application. Prove your love for music on the stage. I'll be here, supporting you all.
+
+Czerny:
+I'll be at the selections tomorrow too, casting my own discerning eye.
+
+Czerny:
+Now, let me play a few more pieces for you all. I welcome you to bring out whatever instruments you're good with. Whether you accompany me or play by your own tune, I welcome it all.
+
+Czerny:
+Thank you, everyone!
+
+Czerny bows, the heavy silence finally lifts, and the crowd erupts into even more fervorous applause.
+
+Food Stall Owner:
+Hey. You set up shop here too?
+
+Coffee Shop Owner:
+Damn near everyone's here at the Hall. Where else am I going to do business if not here?
+
+Food Stall Owner:
+Sure, but I don't think anyone's willing to drink your coffee.
+
+Coffee Shop Owner:
+Easy for you to say—
+
+Infected:
+Excuse me, I'll take a tub of sauerkraut. A big one!
+
+Food Stall Owner:
+Coming up!
+
+Coffee Shop Owner:
+......
+
+Coffee Shop Owner:
+A crowd full of anticipation, a musician forcing his ailing body along, a noble given the cold shoulder...
+
+Coffee Shop Owner:
+(Whisper) Touches my heart.
+
+Disgruntled Old Man:
+Kreide. You still insist on applying to that concert?
+
+Kreide:
+Yes, I do want to go...
+
+Disgruntled Old Man:
+Fine. Don't often see you turning a deaf ear like this. You want to go, go.
+
+Kreide:
+Thank you, Grandpa!
+
+Grandpa:
+You sign up and come straight back, don't linger outside.
+
+Kreide:
+I'll try.
+
+Grandpa:
+Try?
+
+Kreide:
+Apparently, entrants have to perform onstage for this application, so they can prove their skill...
+
+Grandpa:
+But your cello's been wrecked forever. You only have the one string to play. What are you doing about that?
+
+Kreide:
+It's alright, they'll provide a loaner instrument.
+
+Grandpa:
+*sigh* Very, very thoughtful of them. Why did nobody tell me, hm?
+
+Kreide:
+Grandpa, are you... mad?
+
+Grandpa:
+What? No, I'm just a little uneasy about it.
+
+Kreide:
+I promise, I'll be back as soon as the application's over. I won't run off anywhere!
+
+Grandpa:
+Fine, fine, I hear you.
+
+Kreide:
+I'll put the tea by the stove, now. Remember to drink it soon, don't let it get cold!
+
+Mature Noble:
+Application's beginning soon. It's about time you went.
+
+Young Noble:
+I still can't swallow this. You called me here, all the way from Urtica, specifically to have me apply to this concert full of Infected?
+
+Mature Noble:
+Such a level of interaction with Infected won't pose any risk.
+
+Young Noble:
+You don't have to tell me. I know.
+
+Young Noble:
+What I mean to say is, I don't understand why you invited me here just for some run-of-the-mill concert.
+
+Mature Noble:
+You've always wanted to breathe the air of freedom, haven't you?
+
+Young Noble:
+I can't deny that, but—
+
+Mature Noble:
+Don't let doubts overtake you now. Enjoy the commoners' festive atmosphere.
+
+Young Noble:
+(Shrug)
+
+Mature Noble:
+The car is ready for you. There's some way to travel from the Cliffy Patio to the Afterglow; I recommend you not go on foot, so as not to affect your performance at application.
+
+Young Noble:
+I appreciate your kindness. Farewell, Strollo—
+
+Mature Noble:
+You're forgetting. I prefer my given name, not my surname.
+
+Young Noble:
+I apologize, Dame Gertrude.
+
+Hibiscus:
+What a queue!
+
+Andante:
+That's the line for application. We're just going with the crowds, so come this way~
+
+Kreide:
+Hello, can I ask...?
+
+Worn-out Infected:
+Here to apply, right? End of the line's there. Head over and queue up.
+
+Kreide:
+—It's so long!
+
+Worn-out Infected:
+Plenty of folk started queueing before the sun came up.
+
+Kreide:
+But I'm really in a rush to get my application over with. I'm still caring for my grandpa back home.
+
+Worn-out Infected:
+No can do. Look, we're all Afterglowers. Who hasn't got someone to care for at home?
+
+Kreide:
+Well... but...
+
+Worn-out Infected:
+Get in line, quick. It'll be even longer soon enough.
+
+Young Noble:
+Can you really not accommodate, just this once?
+
+Worn-out Infected:
+I said no. That's just—
+
+Worn-out Infected:
+Wait, y—you're a noble, aren't you? You're here to apply to our concert?!
+
+Young Noble:
+If you see as much, then could you oblige myself and my friend here?
+
+Worn-out Infected:
+But we've got rules...
+
+Young Noble:
+Or do you plan to refuse a noble's sincerest request?
+
+Worn-out Infected:
+I wouldn't dare.
+
+Young Noble:
+Thank you for your understanding.
+
+Young Noble:
+Come, now.
+
+Kreide:
+......
+
+Young Noble:
+Didn't you hear me? They're letting us through.
+
+Kreide:
+A... Alright!
+
+Kreide:
+But—
+
+Kreide:
+Er, where'd he go?
+
+Mannered Infected:
+Next, please.
+
+Mannered Infected:
+Can I have your name, please?
+
+Kreide:
+People call me Kreide.
+
+Mannered Infected:
+What instruments are you proficient in?
+
+Kreide:
+The cello.
+
+Mannered Infected:
+Did you come without your own cello?
+
+Kreide:
+I don't have one...
+
+Mannered Infected:
+That's fine, we provide common-use instruments to musicians. You can access them at your leisure.
+
+Mannered Infected:
+Alright, you may begin. Be careful not to go over one minute.
+
+Kreide:
+......
+
+Mannered Infected:
+Is there a problem?
+
+Kreide:
+I didn't get to ask just now, but how do you determine pay for participation?
+
+Mannered Infected:
+Pay?
+
+Kreide:
+Eh?
+
+Kreide:
+The person who told me about the concert said that so long as I was chosen, I'd get ample pay.
+
+Kreide:
+My grandpa's gravely ill, and I need money for his treatment.
+
+Mannered Infected:
+I sympathize with your plight, but there is no material reward for this concert.
+
+Kreide:
+There's no pay at all?!
+
+Mannered Infected:
+I believe the vast majority feel that the ultimate honorarium comes from performing with Herr Czerny at his farewell concert.
+
+Kreide:
+How could this be...?
+
+Mannered Infected:
+It's your decision to perform or not. However, if you do decide to leave, I hope for you to at least leave us with a fine melody before you do.
+
+Kreide:
+......
+
+Kreide:
+I... alright.
+
+Kreide, somewhat dejectedly, bows.
+
+He slowly takes a seat, and steadies the cello between his knees.
+
+With a hand on his bow, and the other on the strings, the dismay is all but swept from his face, leaving only concentration.
+
+From the cello's strings flows an ornate melody, gradually filling the whole hall.
+
+After a number of bars, Kreide's performance reaches its sweetest point, when a concert flute joins from below the stage out of nowhere.
+
+The noble in black plays the flute, accompanying Kreide's cello, and he paces his way onto the stage.
+
+Kreide is briefly startled, but nevertheless concludes the passage with his own cadence, while the noble follows the cello's ending with his own, briefest cadenza.
+
+Mannered Infected:
+And that's one minute.
+
+Mannered Infected:
+That was the most beautiful performance I've heard today.
+
+Mannered Infected:
+I feel we should pay our respects to both you young men.
+
+Mannered Infected:
+Are you here to apply to this concert too?
+
+Young Noble:
+The very same.
+
+Young Noble:
+I was planning to do so alone, but professedly, Herr Kreide's performance struck me deep, and I did happen to meet him earlier.
+
+Young Noble:
+I was loath to miss a chance to perform with such a superb instrumentalist.
+
+Mannered Infected:
+Understood. May I have your name?
+
+Young Noble:
+......
+
+Young Noble:
+Ebenholz.
+
+Mannered Infected:
+To have someone like y... Ebenholz?
+
+Mannered Infected:
+Are you certain? Your real name is Ebenholz? That's not an alias you just came up with after staring at the piano?
+
+Ebenholz:
+You really are too mistrustful.
+
+Ebenholz:
+Besides, a piano isn't the only thing with keys. Does a flute not have them too?
+
+Mannered Infected:
+Even so, your lineage and estate—
+
+Ebenholz:
+I'll say again, my name is Ebenholz. Do you have any other questions?
+
+Mannered Infected:
+Very well.
+
+Mannered Infected:
+That said, since you and Herr Kreide brought no agreement on whether to apply as an ensemble, the decision lies with him.
+
+Mannered Infected:
+Herr Kreide, what do you feel?
+
+Kreide:
+I was only applying to this concert... for my grandpa's medical fees...
+
+Ebenholz:
+Should Kreide assent to an ensemble, I'd be very willing to provide him and his grandfather economic assistance.
+
+Kreide:
+—Really?
+
+Mannered Infected:
+That kind of aid doesn't come without strings attached. Make sure you're completely clear about this.
+
+Mannered Infected:
+We saw a musician swindled last year. He signed an extremely unfair contract...
+
+Ebenholz:
+Please, I ask for some respect.
+
+Mannered Infected:
+......
+
+Kreide:
+I'll do it!
+
+Mannered Infected:
+Then I'll leave it at that.
+
+Mannered Infected:
+If the two of you are entering the selections as flute and cello, then the one choice you have is 'Morgen und Abend.'
+
+Mannered Infected:
+It's a duet for flute and cello with piano accompaniment, and one of Herr Czerny's signature works. Are you okay with that?
+
+Ebenholz:
+Said piece marked a turning point in my learning flute. I'm extraordinarily honored that I may perform it on Herr Czerny's stage.
+
+Kreide:
+I'm fine with it, too!
+
+Hibiscus:
+Why is that noble helping Kreide?
+
+Andante:
+A lot of musicians have nobles as backers. Nothing strange about it.
+
+Andante:
+Some do it because they're not good enough themselves, so they see a really skilled musician and leap for them. They like how it makes them look better all around.
+
+Andante:
+I can't figure out this Ebenholz either, though. Maybe he is just appreciating a fellow maestro.
+
+Hibiscus:
+Something still doesn't sit too well with me.
+
+Hibiscus:
+Oh, we could treat Kreide's grandpa—
+
+Andante:
+Hibiscus, you were here to investigate the Serendipitous Infected Prognosis Phenomenon, weren't you?
+
+Hibiscus:
+Erk.
+
+Andante:
+And our branch is too small. We don't have what it takes to admit patients like a hospital.
+
+Andante:
+Examinations, diagnoses, prescriptions for milder cases, getting patients in touch with other organizations when they need hospitalization—that's our limit.
+
+Hibiscus:
+But I'm still a little worried.
+
+Andante:
+In that case... Kreide's application is over, anyhow. Let's go catch up and ask him, see if we can offer him any help, okay?
+
+Andante:
+Test results are in. Cell-Originium Assimilation is 8%, Blood Originium-Crystal Density is 0.23u/L... I can't say it's too severe, but it's not good by any stretch.
+
+Andante:
+Typically, any patient should receive standard treatment with indicators at this level, no matter how they feel themselves. I suggest hospitalized recovery.
+
+Grandpa:
+Standard treatment, hospitalized recovery...
+
+Grandpa:
+I hear Rhodes Island is just as much a business. You might be pitying me, giving me the test with no charge, but there's no such thing as a free lunch for me, eh?
+
+Andante:
+We're partnered with some organizations in Vyseheim. We can refer patients to them.
+
+Andante:
+They have collaborative protocols in place with Rhodes Island. The prices will be cheaper compared to anywhere else.
+
+Andante:
+Given your present circumstances, I can try to talk down their fees further, or I could help offset expenses on both sides...
+
+Grandpa:
+No need.
+
+Grandpa:
+If I knew Kreide was only going for my sake, I wouldn't have let him go, no matter what.
+
+Grandpa:
+Kreide. I'll say it again. You return every last cent to that noble. We're going.
+
+Grandpa:
+What could possibly be happening behind you when an aristocrat gives you money for no good reason?
+
+Kreide:
+But Ebenholz just wants me to perform with him.
+
+Grandpa:
+Even if he means no harm, he—
+
+Grandpa:
+*sigh* He might mean no harm, and an old man like me totting about without any grand standing or friend in power won't be worth much to exploit.
+
+Grandpa:
+The hospitals still wouldn't be angels to me, even if they do admit me. I don't want my life depending on their whimsy.
+
+Grandpa:
+If you see a heart of gold in that little lord, then use that money for your own sake. Do some business that lets you get on with your life.
+
+Kreide:
+No. I already agreed with Ebenholz. The money he gives me is for treating your sickness!
+
+Grandpa:
+You're tired of me. Throwing me into hospital so you can never look back, isn't that right?
+
+Kreide:
+What? How could I...
+
+Hibiscus:
+How about he convalesces here, instead of going to any partners?
+
+Andante:
+Hibiscus, I understand how you feel... but we don't have beds here, and our medication stores are for emergency response.
+
+Hibiscus:
+If we can have him recovering here, we'll be able to monitor his health condition more tightly. I'm sure it'd be of help to our investigation too.
+
+Hibiscus:
+I can clear my own guest bed for him to take. Medication-wise, we'll sell at our partners' prices. I'll write a report after the fact explaining the situation.
+
+Hibiscus:
+That should all be watertight under procedure, right?
+
+Andante:
+I think... that works out.
+
+Hibiscus:
+Then we're all good to go on our end. Sir, how about you? Are you able to accept that?
+
+Grandpa:
+......
+
+Hibiscus:
+I guarantee, your treatment will be highest priority for us. All research propositions will hinge on informed consent, and we'll never commit to anything harmful to your health.
+
+Kreide:
+I agree!
+
+Kreide:
+And I have to rehearse with Ebenholz soon, too. I might not have too much time to look after you.
+
+Kreide:
+Besides, conditions here are so much better than at home. If you're here, I can put my heart at ease too... please, Grandpa!
+
+Grandpa:
+*sigh*.
+
+Grandpa:
+I'll go home this evening to pack some things. I'll be back tomorrow morning. You'll let me have that much, won't you?
+
+
+

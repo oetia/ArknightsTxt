@@ -1,0 +1,830 @@
+Heidi:
+This way, through the smoke! Follow the light of the fire!
+
+Londinium Citizen:
+Devil...!
+
+W:
+What's this? An egg mixer?
+
+W:
+Did you think you could hurt a Sarkaz mercenary with a toy like this?
+
+Londinium Citizen:
+S-Stay back!
+
+Heidi:
+Calm down. Over here, behind me.
+
+Heidi:
+This one's on our side... for now.
+
+W:
+Your side? Better not be too sure of yourself on that one.
+
+Heidi:
+W... it would be wise if you made an effort to be easier to work with. That is, if you hope to get any information out of me.
+
+W:
+That's a pretty roundabout threat there...
+
+W:
+Say... you wouldn't happen to be Kal'tsit's illegitimate daughter, would you?
+
+Heidi:
+What are you—
+
+W:
+Nah, you two look nothing alike. Plus, how could that icy old hag have any kids?
+
+W:
+Screw it. No way I could ever get buddy buddy with a lady like you.
+
+Heidi:
+Suits me just fine.
+
+W:
+Don't you worry, I won't be here long. I know how much my head's worth in merc circles, and I'm not in a generous mood.
+
+W:
+Alright, there.
+
+Heidi:
+Bombs... you buried more bombs. Did you blow up the other paths?
+
+Heidi:
+Where are your men? Aren't they still fighting the Sarkaz in the plant?
+
+W:
+Do you really want to know?
+
+Heidi:
+......
+
+W:
+Explaining the whole deal would be a huge pain. Let's skip right to the good part.
+
+W:
+They're all dead.
+
+Heidi:
+Dead?
+
+W:
+Did you think it would be easy to scoop you out of there? I lost most of the Londinium recruits I picked up the past few months in that nasty old factory.
+
+W:
+So this had better be worth it. Can we go now?
+
+Heidi:
+Let me do a head count...
+
+Heidi:
+Alright, everyone in the southern plant escaped.
+
+W:
+I was hired to snag you, not an entire congregation. Tell Kal'tsit I'm charging double for this mess.
+
+W:
+Bring your hooded monster and let's—what are you standing around for?
+
+Amiya:
+......
+
+Amiya:
+W, was it you who blew up this path?
+
+W:
+Duh. Not about to give our pursuers any chances.
+
+Amiya:
+But Feist and his team just left.
+
+W:
+Oh, come on... getting lost like this, at your age?
+
+Horn:
+What's the situation, Blake?
+
+Victorian Soldier:
+They're down.
+
+Horn:
+Good. Keep moving.
+
+Victorian Soldier:
+Horn, to your left!
+
+Sarkaz Warrior:
+Dublinn... I'll have your head!
+
+Horn:
+Not Dublinn here. Not that you'll get the chance to wallow in your disappointment.
+
+Victorian Soldier:
+Another? How many Sarkaz bodies have we seen?
+
+Horn:
+26.
+
+Victorian Soldier:
+All Dublinn?
+
+Horn:
+Looks like it.
+
+Victorian Soldier:
+Horn, I don't know how to put this, but...
+
+Horn:
+Dublinn saved us a lot of effort.
+
+Horn:
+There's no shame in admitting it. How long have you been with me here in Sudean? We need to use every means at our disposal if we want to survive.
+
+Horn:
+Come on, left door here.
+
+Horn:
+Ready?
+
+Victorian Soldier:
+—
+
+Victorian Soldier:
+Clear.
+
+Horn:
+Good. Now the right side.
+
+Horn:
+Watch the corners, Robben. I don't want any surprises.
+
+Robben:
+Roger.
+
+Horn:
+Go!
+
+Prisoner:
+*Cough* G-Go away, devil! We're not talking!
+
+Horn:
+Found them.
+
+Prisoner:
+Y-You're...
+
+Horn:
+Friends.
+
+Prisoner:
+I never thought... we heard sounds of fighting, saw the flicker of Arts... I thought it was some new devil torture method.
+
+Horn:
+Sorry we couldn't get here earlier.
+
+Horn:
+Can you stand, soldier?
+
+Prisoner:
+Soldier... haven't heard that in a long time.
+
+Prisoner:
+You an officer? You've got nerve to come here—
+
+Horn:
+—
+
+Robben:
+What are you doing? We're here to save you!
+
+Prisoner:
+Save me? Why? So I can get tricked again? So I can die in your next plot with the foreigners?
+
+Prisoner:
+In your dreams, 'sir'! We'd rather die here!
+
+Horn:
+Very well.
+
+Horn:
+Robben, your crossbow.
+
+Robben:
+Horn? What are you—
+
+Horn:
+Ammo is precious and not to be wasted.
+
+Horn:
+But these are compatriots, loyal soldiers of Victoria.
+
+Horn:
+If their last wish is to die here, then we'll grant it.
+
+Prisoner:
+......
+
+Horn:
+......
+
+Prisoner:
+You'll really kill me?
+
+Horn:
+Yes.
+
+Horn:
+You'll die as you wish in this dark room, forgotten by Londinium.
+
+Horn:
+You'll turn to bleached bones in this old abandoned factory, until the dust and dirt bury you.
+
+Prisoner:
+......
+
+Horn:
+Or, you could do something different with this crossbow.
+
+Horn:
+You could take it, come with us, and fight your way out.
+
+Horn:
+Perhaps you'll still get your wish and die trying.
+
+Horn:
+But you'll have a chance to see the night sky, breathe the air full with the smell of rust and oil—
+
+Horn:
+And think about your loved ones, breathing that same air.
+
+Horn:
+I swear on my life that they'll remember what you gave.
+
+Prisoner:
+......
+
+Prisoner:
+Yes... they... they could still be alive...
+
+Prisoner:
+I...
+
+Horn:
+Have you made your choice? Time's flying.
+
+Prisoner:
+......
+
+Prisoner:
+I'll go with you. Give me a weapon.
+
+Horn:
+What about the others? Are you coming too?
+
+Horn:
+Good. Blake, you have seven... nine new men.
+
+Horn:
+Tell me your names before we move out, soldiers.
+
+Amiya:
+Closure, have you made contact with the Self-Salvation Corps team?
+
+Drone:
+Hold on... I just got this drone restarted... it's different from the other one...
+
+Amiya:
+This isn't good.
+
+Amiya:
+Heidi, lead the other civilians out of here. The 3rd regiment will be waiting—
+
+Amiya:
+W?
+
+W:
+Hey, all the mines I left behind got blown up! Do you know what that means? Means a lotta guys are chasing us right now.
+
+W:
+Using up my men wasn't enough for you, huh? You gotta use up my bombs too?
+
+Amiya:
+Alright, five minutes it is.
+
+Amiya:
+Closure, get in touch with Feist and tell him that he and Rockrock need to be back within 5 minutes.
+
+Amiya:
+Doctor, we'll have to join the battle.
+
+Feist:
+Bill, be honest with me... have you put on weight? You're heavier than I thought...
+
+Bill:
+Hehe... how about this?
+
+Feist:
+Hey, that's better.
+
+Feist:
+What did you do? Some magic trick?
+
+Bill:
+Ha, just a change of posture... *cough*
+
+Feist:
+A-Alright, just stay put, don't open your wounds.
+
+Feist:
+When I saw you lying in that pool of blood, I thought...
+
+Bill:
+Thought I was dead?
+
+Bill:
+Ha... those devils don't got the skills... it's just... ouch...
+
+Feist:
+Take a break, don't talk anymore.
+
+Feist:
+Have you found an exit, Rockrock? The Sarkaz must have done something with these rooms... I feel like we're going around in circles.
+
+Rockrock:
+I heard the sound of fighting a few minutes ago.
+
+Rockrock:
+The exit should be around here...
+
+Bill:
+Nrgh...
+
+Feist:
+Never mind what I just said, Bill. Keep talking so you don't fall asleep.
+
+Feist:
+Remember the reward you asked for? After that last win?
+
+Bill:
+Er... a fruit can?
+
+Feist:
+A FRUIT CAN? You said you wanted a mechanical metal crab to give to your niece in the City!
+
+Bill:
+Yeah, I was hungry... lucky you've got a good memory.
+
+Feist:
+Good memory? I didn't sleep at all the next few days, working on that thing between missions...
+
+Feist:
+You'd better hang in there after all the effort I put in!
+
+Bill:
+*Cough* Alright, boss... whatever you say.
+
+Rockrock:
+Footsteps!
+
+Rockrock:
+Oh no! Sarkaz—
+
+Sarkaz Warrior:
+Where did they go?
+
+Sarkaz Warrior:
+There's a blood trail. They can't have gone far.
+
+Rockrock:
+We should hurry.
+
+Feist:
+Er...
+
+Rockrock:
+Come on, Captain, I'll take the other side.
+
+Bill:
+Sigh... look at me, can't even walk without two people helping me.
+
+Rockrock:
+Don't say that. We're family, and we look out for each other.
+
+Self-Salvation Corps Soldier:
+Captain, they're catching up!
+
+Feist:
+Hold them off, Johnny! Gabby, you've got the grenades, right? Give us some cover!
+
+Self-Salvation Corps Soldier:
+Roger!
+
+Feist:
+Rockrock, has Rock-17 found a way out? We're counting on it!
+
+Rock-17:
+Right-turn here!
+
+Feist:
+Alright, to the right!
+
+Feist:
+Wait... who's talking? Rock-17? Y-You can talk?
+
+Rock-17:
+What's that, some dumb engineering joke?
+
+Rock-17:
+Took me ages to hack this drone's system... I didn't change anything, ok? The system was too simple.
+
+Feist:
+......
+
+Rockrock:
+...Closure?
+
+Rock-17:
+Yes, it's me. I didn't have a chance to install voice data onto your drone, so I have to synthesize it... not cute enough?
+
+Rockrock:
+Well... it actually sounds rather like you.
+
+Rockrock:
+Where do we go from here?
+
+Rock-17:
+Left-turn... wait, no, there are Sarkaz there. I mean enemy Sarkaz! Go back—
+
+Rockrock:
+There are even more enemies to the rear.
+
+Rock-17:
+Well then... let me think...
+
+Rock-17:
+Right, let's go upwards!
+
+Rockrock:
+Huh?
+
+Rock-17:
+Don't you have that flying gear? Er, I mean grappling hook! There's a vent above you that should allow a man to pass through...
+
+Feist:
+Should?
+
+Feist:
+We have wounded here. Gotta be sure.
+
+Rock-17:
+Well... I'll need Rockrock to take control of the drone for a moment...
+
+Rockrock:
+Alright.
+
+Rockrock:
+What do we do?
+
+Feist:
+Rockrock... do you really trust her?
+
+Rockrock:
+Do you have a better plan?
+
+Feist:
+......
+
+Self-Salvation Corps Soldier:
+Captain, they're coming! I can see their leader!
+
+Feist:
+Quick, open the vent!
+
+Rock-17:
+Gotcha! Rockrock, aim!
+
+Rockrock:
+Rock-17—
+
+Feist:
+Is it open?
+
+Rockrock:
+Almost.
+
+Feist:
+Again!
+
+Rockrock:
+Rock...
+
+Rockrock:
+It missed! H-How did that sword...
+
+???:
+Finally found a way out? Isn't it a little late?
+
+Self-Salvation Corps Soldier:
+I'll hold him off! Quick—
+
+???:
+Blind courage isn't worth much in battle.
+
+Feist:
+Johnny!
+
+Feist:
+Rockrock, the vent!
+
+Rockrock:
+I... I can't...
+
+Self-Salvation Corps Soldier:
+I've got two grenades left. Even the Sarkaz can't—
+
+Self-Salvation Corps Soldier:
+What the... the grenade got cut in half?!
+
+Self-Salvation Corps Soldier:
+Captain, this is no ordinary Sarkaz—
+
+Feist:
+Gabby!
+
+Hoederer:
+I'm just an ordinary mercenary.
+
+Hoederer:
+Did you really think you could beat Manfred or Theresis?
+
+Hoederer:
+Pretty naive.
+
+Feist:
+Sarkaz... did you think all I had was grenades?
+
+Hoederer:
+Grenades? Smoke bombs is more like it.
+
+Hoederer:
+Bombs that can hurt a Sarkaz don't look like that.
+
+Feist:
+......
+
+Rock-17:
+Feist, Rockrock, you hear me? I've recalibrated... but you only have one chance. Hold on tight!
+
+Feist:
+Rockrock—
+
+Rockrock:
+—
+
+Rockrock:
+It worked! We can go up now!
+
+Feist:
+You first!
+
+Rockrock:
+No, you're with BIll, you go first—
+
+Feist:
+Alright.
+
+Rockrock:
+You're not getting through, Sarkaz!
+
+Rockrock:
+I'll protect my family... you won't hurt them again!
+
+Rockrock:
+Rock-17!
+
+Hoederer:
+Self-destruct drone?
+
+Hoederer:
+Pathetic...
+
+Rockrock:
+Captain... go...
+
+Hoederer:
+Tell me, Feline... was it really worth it? Losing that many to save one?
+
+Hoederer:
+Every one of them called out for their captain with their last breaths.
+
+Hoederer:
+Will you take responsibility for their sacrifice?
+
+Feist:
+...I would rather none of them died.
+
+Feist:
+Hold on, Rockrock!
+
+Rockrock:
+Huh?
+
+Hoederer:
+......
+
+Hoederer:
+The grappling hook again? Smart, but not smart enough.
+
+Hoederer:
+You need better tricks to survive in battle.
+
+Hoederer:
+We'll meet again, children... you don't know it, but there's no way you'll leave this inferno.
+
+Amiya:
+Are they here, Closure?
+
+W:
+Four minutes, fifty seconds.
+
+W:
+Countdown?
+
+Amiya:
+......
+
+Amiya:
+We...
+
+Feist:
+Amiya!
+
+Amiya:
+They're here!
+
+Amiya:
+Feist? Just the three of you? The other two...
+
+Rockrock:
+......
+
+Feist:
+They won't be back.
+
+Feist:
+We need to get out of here, now!
+
+Feist:
+There's a really dangerous Sarkaz after us, and there are a lot of them... it's an ambush!
+
+Feist:
+None of us would have made it, if not for Closure...
+
+Feist:
+They knew we'd go there, and they know you're here. They're just waiting... it's a trap! We have to go, before it's too late!
+
+W:
+It's too late.
+
+W:
+Damn it, this is my last mine, and the biggest one.
+
+W:
+Stop bothering me, {@nickname}. Yes, I have one bomb left. Guess who it's for?
+
+W:
+You didn't notice the explosion sounded kinda weird? I guess there's really nothing under that tin head of yours.
+
+W:
+The guy didn't fall into my trap at all. He avoided it and disabled the Originium circuits.
+
+W:
+Need me to say it even clearer? No, it didn't take me too much effort to set up the mines...
+
+W:
+But the dragon lady was the last one to put all my mines out of commission.
+
+W:
+Talulah can't be here, can she? There's no way...
+
+W:
+Hey, what's with the face, bunny? You've got her all locked up in...
+
+W:
+Damn it, {@nickname}... damn you and damn that Kal'tsit!
+
+W:
+Congratulations, {@nickname}, you're now second on my list of people to bomb.
+
+Amiya:
+W, there's a lot of intel that we haven't shared. We need to get out of here...
+
+W:
+Get out? Easy for you to say.
+
+W:
+Be glad it's not Talulah here. I don't smell the arrogant stench of Draco fire. But...
+
+Sarkaz Mercenary:
+Surround the place!
+
+Sarkaz Mercenary:
+Theta, Iota, block the path on the other side!
+
+Amiya:
+They got so many men in so little time?
+
+Amiya:
+Oh no! Doctor, Lady Heidi and the others are still inside!
+
+Feist:
+Sorry, Amiya...
+
+Amiya:
+Save that for when we get out.
+
+Feist:
+Very well.
+
+Amiya:
+Doctor, let me... W? Why are you grabbing me like that?
+
+W:
+Save your strength, bunny. Look at the gang you've got here. Artificer, wounded, garbage... who can fight?
+
+Feist:
+Y-You're right, but we'll do our best...
+
+Rockrock:
+W-We won't be a burden.
+
+W:
+Save your strength for running. You'll wanna be fast.
+
+W:
+Sigh... I didn't want to say this. It's really not my style.
+
+W:
+But I need Heidi alive. There's something I need to ask the old woman.
+
+Amiya:
+W...
+
+W:
+Go. Take your people, and pick up your trash.
+
+Amiya:
+......
+
+Amiya:
+W!
+
+W:
+Huh?
+
+Amiya:
+Good luck. We'll be waiting.
+
+W:
+You're still here? Need me to blow you up?
+
+W:
+Finally. Some peace.
+
+W:
+She talks like we're actually friends.
+
+W:
+As for you...
+
+W:
+Wanna keep blasting? At this rate, there won't be much left to bomb.
+
+W:
+What's this? A rock? Some kind of lame joke?
+
+W:
+Congratulations, you've pissed me off.
+
+W:
+I was hoping to be a little frugal today.
+
+W:
+Why don't you come out? I promise I'll leave something of you that's recognizable.
+
+W:
+Well, that was close. Only two bombs away from hitting me.
+
+???:
+You've grown again, W.
+
+W:
+Wait, what—
+
+W:
+You?!
+
+
+

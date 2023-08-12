@@ -1,0 +1,276 @@
+Ch'en:
+Medics, former South Paci Plaza, exit 12. One injured, a senior L.G.D. inspector. Get here quickly.
+
+Ch'en:
+Has the bleeding stopped?
+
+Hoshiguma:
+You should know me by now. The wound has closed, but I won't be able to lift my shield for a while.
+
+Hoshiguma:
+How are our colleages doing?
+
+Ch'en:
+We were the only ones who fell. I consider that a small win.
+
+Hoshiguma:
+You're really not bringing me with you? Reunion's commander may well be hiding inside the L.G.D. Headquarters. It's going to be a brutal fight.
+
+Ch'en:
+I'm aware. But considering your condition, it's for the best. Wouldn't you agree?
+
+Hoshiguma:
+Hearing you say that stings a bit, but it's fine. I know better.
+
+Hoshiguma:
+Remember, be careful out there.
+
+Ch'en:
+I know.
+
+Hoshiguma:
+No matter how you look at it, Reunion is weaker than we expected. Despite that, they still managed to take Chernobog.
+
+Hoshiguma:
+Also, you have a weak point. I can't stress this enough, but never let your thoughts consume you. Ever.
+
+Hoshiguma:
+Don't be so obsessed with something that you neglect the other possibilities. There is nothing out there worth going off to battle for, except for your continued existence.
+
+Ch'en:
+I'll treat this as your advice to me. I'll take it to heart.
+
+Ch'en:
+Hurry up and get better. I'll be waiting for your return after this mission is finished.
+
+Hoshiguma:
+I'll protect the medic team. You should get going.
+
+Ch'en:
+Sure.
+
+Radio Operator:
+...
+
+Radio Operator:
+Reunion has already passed the Causeway Bell.
+
+Radio Operator:
+Report from AU7: Reunion is also assembling in Ha Wan. I repeat, Reunion is currently assembling. This is AU7's mission briefing.
+
+Radio Operator:
+Squad AO3 has eliminated the Reunion forces in Front Bay as planned. They are now pushing the remnants back towards the L.G.D. Headquarters.
+
+Radio Operator:
+All enemies in front of Scorpio Palace have been annihilated. Now retreating towards Charles Avenue to head to the rally point. This is Squad AL1's report, over.
+
+Radio Operator:
+...
+
+Radio Operator:
+These are the updates on Reunion's movements and each squad's progress.
+
+Radio Operator:
+Over.
+
+Ch'en:
+Understood.
+
+Ch'en:
+Continue the operation. Our objective is to drive all Reunion forces into the designated area.
+
+Ch'en:
+If small groups of stragglers are seen in other districts, you are authorized to eliminate them.
+
+Ch'en:
+Try to draw them out if possible. Focus on avoiding casualties. We'll need to preserve our strength.
+
+Radio Operator:
+Yes ma'am.
+
+Ch'en:
+Phew...
+
+Ch'en:
+Hmm? Another call?
+
+Swire:
+Hello, hello? Is this Ah Ch'en? Are you still there?
+
+Ch'en:
+What did you call me?!
+
+Swire:
+Ah Ch'en. You're done for! You're so dead for what happened at Paci Plaza. I heard it myself - you were the one who gave those orders!
+
+Ch'en:
+Is that all you wanted to say?
+
+Swire:
+Look, why did you reject Rhodes Island's help? Was it because you felt guilty?
+
+Ch'en:
+I don't recall you being a psychologist.
+
+Swire:
+Don't worry, I'll help you make reparations.
+
+Ch'en:
+Reparations?
+
+Swire:
+Hehe, I can't tell you yet.
+
+Swire:
+But, you're so done for because of what you did!
+
+Ch'en:
+By the way, do you still remember that one restaurant in Sheung Wan?
+
+Swire:
+Huh? Which one? Well, whichever one it is, they're all closed now!
+
+Swire:
+Wait... are you trying to change the subject?!
+
+Ch'en:
+The one with that absolutely divine steak sandwich.
+
+Swire:
+Huh? Oh... OHH! I just remembered! The restaurant with a steak burger as big as your palms put side by side!
+
+Ch'en:
+That's the one.
+
+Swire:
+I used to go there quite often while on my patrols... Get down! Who said you could stand up?!
+
+???:
+Aaah!!
+
+Swire:
+What was that place called again? Goodie Foodie?
+
+Ch'en:
+Sounds about right.
+
+Swire:
+Aha, now I get it. You're going to treat me to a meal, aren't you? But why don't we go to some place a bit more high-class?
+
+Ch'en:
+Your idea of 'high-class' is very different from mine.
+
+Swire:
+Come on, I can foot the bill.
+
+Ch'en:
+Miss S, do you really think I'm that kind of person?
+
+Swire:
+Do you want to try calling me that again?
+
+Ch'en:
+Sorry, I bit my tongue.
+
+Swire:
+You clearly did that on purpose!
+
+Ch'en:
+Swire, I was just thinking... If we don't do a better job this time, we won't be able to face the locals.
+
+Ch'en:
+Our businesses depend on Lungmen, and Lungmen also depends on them.
+
+Swire:
+If you feel that way, you should stop running your mouth. The sooner we take down Reunion, the sooner you can treat me to brunch.
+
+Ch'en:
+Seems like the fighting is pretty intense on your end as well?
+
+Swire:
+Ah, it's fine. I can handle it.
+
+???:
+Quick! They're about to get away!
+
+Swire:
+How annoying! Hey, hurry it up! We don't have all day!
+
+Swire:
+Ah Ch'en! I want a steak, tomato, and egg burger!
+
+Ch'en:
+No problem.
+
+Ch'en:
+Sorry for accidentally locking you up in the vault that other time.
+
+Swire:
+You call that an accident? ! I know you did that on purpose! Whatever, it felt cathartic splashing water all over you this morning, so I guess we're even.
+
+Swire:
+Hey, Ah Ch'en.
+
+Ch'en:
+Hmm?
+
+Swire:
+Safety first. Don't throw your life away for the sake of what's immediately in front of you. Remember that there are lots of people who are counting on you.
+
+Ch'en:
+Hmph, is that so. Thanks for your advice.
+
+Swire:
+Now that you're in front of the restaurant, that means you're almost at the L.G.D. Headquarters, right?
+
+Ch'en:
+That's right.
+
+Swire:
+Good luck.
+
+7:40 P.M. \ Overcast
+
+670m east of L.G.D. Headquarters, Upper Factor St., Upper Lungmen
+
+L.G.D. Agent:
+Madam Ch'en, Fourth Mobile Squad reporting in.
+
+Ch'en:
+Good work.
+
+Ch'en:
+All of you assembled here are the cream of the crop. As we speak, many of our colleagues are still out there fighting. But we have our own mission.
+
+Ch'en:
+The building in front of us used to be the symbol of Lungmen's safety — the embodiment of law and order, the heart of the L.G.D.
+
+Ch'en:
+But now, it has fallen into Reunion's hands, and has been tainted by conspiracy and warfare.
+
+Ch'en:
+Some of you might see this as just another job. Some of you might be saddened, while others might be enraged.
+
+Ch'en:
+No matter how you feel, we are the L.G.D. We aren't rioters, nor are we criminals.
+
+Ch'en:
+We will take back our headquarters, not necessarily for the sake of pride or justice.
+
+Ch'en:
+We will do it because we are the L.G.D., and we will take back what belongs to us. That's the only reason we need.
+
+Ch'en:
+Do not make Lungmen worry about us. Do I make myself clear?! Obedience, diligence, and perseverance!
+
+Ch'en:
+It's time. Let us rid the L.G.D. Headquarters of every last Reunion member!
+
+L.G.D. Agent:
+Yes ma'am!
+
+Ch'en:
+Let's go.
+
+
+

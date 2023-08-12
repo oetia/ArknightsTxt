@@ -1,0 +1,242 @@
+Bison:
+The shots are coming from above? Are they up on the overpass?
+
+Bison:
+How high is the angle of attack? Where could they be shooting from?
+
+Bison:
+Doesn't matter. First I've got to——!
+
+Bison:
+Nng——!
+
+Bison:
+Oof!
+
+Bison:
+I- I'm okay. What's this...? It's sticky...
+
+Bison:
+A Sauin candle? Real lucky these were here...
+
+???:
+You got one stuck in your horn too.
+
+Bison:
+Huh? Oh, thanks. I guess I better yank it... out——!
+
+???:
+Don't move, candle boy.
+
+???:
+Quiet. Take cover behind that crate.
+
+Mafioso:
+We lost Fronzo's signal. Oughta be around here somewhere!
+
+Mafioso:
+Penguin Logistics is here too. Tell the boss as soon as you spot the target.
+
+???:
+You can come out.
+
+Bison:
+Oh, okay...
+
+Bison:
+I appreciate your help, but you really don't wanna get mixed up in this. You better go somewhere safe.
+
+???:
+I'd love to. It's been a while since I had a trip to Lungmen. But a job's a job...
+
+???:
+Considering how I found you, I'm guessing your deal with Penguin Logistics isn't going so well?
+
+Bison:
+...you could say that.
+
+Bison:
+Err, who are you, exactly? I get the feeling you're not a typical passer-by.
+
+???:
+Calm down. Let's just say I'm not your enemy.
+
+???:
+Whoops, they're coming back. Hide.
+
+Mafioso A:
+Mamma mia! Those Penguin bastards got Fronzo! What're we gonna do?
+
+Mafioso B:
+That Bison kid's all alone. This could be our big break.
+
+Mafioso A:
+Can we really just yoink him in the middle of downtown Lungmen?
+
+Mafioso B:
+Mr. Capone says as long as we do it nice and quiet-like, hold off on the guns and bombs, Lungmen won't make a fuss.
+
+Mafioso B:
+Nobody's gonna go looking in those filthy old alleyways, eh?
+
+Mafioso A:
+Then we'll be the backup, you find the kid. Capiche?
+
+???:
+Well, we can't stay here. Let's get going.
+
+???:
+Let's see... over there. Let's say hello.
+
+Croissant:
+Ya find Bison yet, baws?
+
+Emperor:
+I'm wearin' shades, not binoculars. Gimme some space!
+
+Emperor:
+Aight... I see 'im. Waving at me.
+
+Exusiai:
+Well let's go get him, then come back and ask this guy what they're up to.
+
+Mafioso:
+Mmmf—— Mmmh——
+
+Emperor:
+Nah.
+
+Emperor:
+Looks like our lucky little Bison had a smooth landing. He can get hisself back here.
+
+Croissant:
+Um... he took a forty-foot drop onto a smooth landin'? How's that?
+
+Exusiai:
+And the bad guys are kinda hunting for him. You sure we shouldn't go get him?
+
+Emperor:
+She's got him.
+
+Exusiai:
+...She's back?
+
+Texas:
+Exusiai, stay focused.
+
+Mafioso:
+There they are! We gotta spring Fronzo!
+
+Exusiai:
+Sigh. There's just no end to you people.
+
+???:
+I think we lost them.
+
+???:
+So what's Texas and the girls gotten themselves into this time? Who are they fighting now?
+
+Bison:
+Can I really trust you?
+
+???:
+I guess I better introduce myself. I'm Mostima. A Messenger for Penguin Logistics.
+
+Mostima:
+I think that makes me your colleague, for now. I usually work alone though.
+
+Bison:
+...Mostima. I've heard that name from my father before.
+
+Bison:
+(Not to mention a Sankta with black horns... the rumors were true. Better not ask about them though...)
+
+Mostima:
+Oh...? Good things I hope?
+
+Bison:
+Erm... how should I say...? Just baseless rumors...
+
+Bison:
+And after you saved me like that, I have no reason to doubt you. Sorry.
+
+Mostima:
+Don't worry about it. You got nothing to apologize for.
+
+Bison:
+Thanks... Now we should share our intelligence... although I'm still pretty confused.
+
+Bison:
+Basically, Penguin Logistics is in some kind of conflict with an arm of the Siracusan mafia.
+
+Mostima:
+Right. Got it.
+
+Bison:
+Huh? You got it already?
+
+Mostima:
+I don't need any more. You need to stop thinking so much. Trust your instincts. That's the Penguin Logistics way.
+
+Bison:
+Oh. So the trick is to just stop thinking, huh...?
+
+Mostima:
+They're a very special bunch. Common sense doesn't really work here.
+
+Bison:
+...What about you, Mostima?
+
+Mostima:
+Are you always this direct with people?
+
+Bison:
+I- I think so.
+
+Mostima:
+We need to get moving.
+
+Mostima:
+Follow me.
+
+Mafioso:
+Eyo, you found the target yet?
+
+Mafioso:
+There's too many people. Hey, I'm walkin' here!
+
+Mafioso:
+C'mon, let's check somewhere else.
+
+Bison:
+...I don't think they saw us.
+
+Mostima:
+Just keep going like this, and we'll figure out a way to meet back up with the others.
+
+Bison:
+Right.
+
+Mostima:
+Hm.
+
+Bison:
+Wh- what is it?
+
+Mostima:
+If we keep going like this, we'll end up...
+
+Bison:
+G- getting caught by the mob?!
+
+Mostima:
+So that's where it was. It's been so many years since I've been back to Lungmen. All the signs are different.
+
+Mostima:
+Right... are you hungry? I'm trying to decide between matcha and chocolate.
+
+Bison:
+......
+
+
+

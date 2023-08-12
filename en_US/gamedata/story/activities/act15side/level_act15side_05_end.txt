@@ -1,0 +1,464 @@
+Pole-Carrier:
+One noon tea.
+
+Teahouse Assistant:
+Alright! Take a seat, Master Shang!
+
+Teahouse Assistant:
+Why so late to work today?
+
+Pole-Carrier:
+Met an old acquaintance in the morning.
+
+Lee:
+Which acquaintance?
+
+Pole-Carrier:
+Lungmenite.
+
+Lee:
+Fine day. Fancy meeting you again, Master.
+
+Pole-Carrier:
+What, still looking for that pavilion?
+
+Lee:
+You helped me considerably by narrowing things down, but I'm still meant to find a person and not just a pavilion, so there's yet more to do.
+
+Pole-Carrier:
+Is that your sweetheart, sitting over there?
+
+Miss Du:
+What...?!
+
+Lee:
+Ahem. No, I'm not that brave...
+
+Pole-Carrier:
+Oh, your daughter, then?
+
+Lee:
+I hardly seem the fathering kind, don't I?
+
+Pole-Carrier:
+That's true.
+
+Miss Du:
+Hey, what did you just say?! Me and that Lungmenite conman are what?!
+
+Pole-Carrier:
+A man and woman going up the mountains at this hour, in early spring. Nothing else to do, probably.
+
+Miss Du:
+I—
+
+Teahouse Assistant:
+Master Shang, your noon tea.
+
+Pole-Carrier:
+Thank you.
+
+Lee:
+Noon tea? Not sure if it's noon yet.
+
+Pole-Carrier:
+Every Shangshu pole-carrier gets two free servings of tea in the mountain teahouses. A noon tea in the morning, a sunset tea in the afternoon, each with some small sides.
+
+Lee:
+The taste of a free tea is always fine.
+
+Pole-Carrier:
+It's tea, nothing more.
+
+Lee:
+But it's in the mountains, see. Mountain tea's always a bit more expensive. And if it's complimentary, you've made out like a bandit.
+
+Pole-Carrier:
+You manage your books well.
+
+Lee:
+Are the shopkeepers really that kind, though? Is it all out of benevolence?
+
+Miss Du:
+The authorities subsidize it, duh.
+
+Pole-Carrier:
+...And you'd know?
+
+Miss Du:
+My home happens to be a food service establishment too. Of course I've got some idea.
+
+Pole-Carrier:
+...I see.
+
+Lee:
+Are you close with the Shangshu authorities?
+
+Miss Du:
+Have been since Mr. Liang took up office.
+
+Miss Du:
+The last few Shangshu governors were about construction, civil projects, developing the mountains and forests—not just recovering the city from all its troubles, but breathing even more life into it.
+
+Miss Du:
+Maybe Governor Liang Xun thought the city was renewed enough when he came in, because his agenda was peace and love for the citizens instead... Whatever you think of this, you've seen nothing yet.
+
+Lee:
+......
+
+Pole-Carrier:
+You're wise, for your young age.
+
+Miss Du:
+My dad does business. It's all just osmosis.
+
+Pole-Carrier:
+You have a fine father.
+
+Pole-Carrier:
+I've finished my tea. I should be on my way now.
+
+Lee:
+See you again, Master Shang.
+
+Pole-Carrier:
+See you again.
+
+Miss Du:
+—Hey! Lee, what's he doing with the goblet?!
+
+Lee:
+Not sure. But he's got no motive to hide, hanging it off his belt for anyone to see. It's like...
+
+Miss Du:
+He's asking for someone to come at him?
+
+Lee:
+Ignore it. Let's have some tea ourselves, and see how this plays out.
+
+Lee:
+Waiter! Two pots of tea, and two of the shredded meat noodles.
+
+Miss Du:
+I'm not having anything.
+
+Lee:
+I'll be eating them both.
+
+Teahouse Assistant:
+Your two pots of tea, sir. The noodles will be a bit longer; we're busy today.
+
+Lee:
+Thank you...
+
+Strange Object:
+Ao?
+
+Lee:
+Why follow us all the way here?
+
+Strange Object:
+Phhh... ao!
+
+Miss Du:
+Hey. Lee. I'm going to ask you something, and you can't laugh.
+
+Miss Du:
+Did that teapot—just move by itself...?
+
+Teahouse Assistant:
+Shredded meat noodles—
+
+Teahouse Assistant:
+Whoa! Mind it, sir, I'm carrying your noodles here!
+
+Strange Object:
+Aoww?
+
+Teahouse Assistant:
+What the hell is this?!
+
+Lee:
+Careful!
+
+Miss Du:
+Huh?
+
+Lee:
+Urgh!
+
+Miss Du:
+—Hey, are you okay there?
+
+Miss Du:
+The stuff in the kitchen, the cloth and the brushwork... they're all... jumping out!
+
+Startled Customer:
+Yaaagh! What is that?!
+
+Teahouse Assistant:
+Fire! Fire, this monster's on fire!
+
+Lee:
+They're charging at us.
+
+Miss Du:
+Hey, Lee! Tell me what the hell's going on?!
+
+Lee:
+So the rumors about that goblet were true... There's too many people in here, let's move!
+
+Boatman:
+How do we reach young Lee?
+
+Kroos:
+He told us in the letter he left. After we meet up, we find him at the summit of Qujiang Peak. If he's not there yet, we wait until sundown.
+
+Boatman:
+Good. We'll stick to it. We can't let the goblet fall into anyone else's hands.
+
+Mr. Nothing:
+Benefactor, how should we respond to those Ink Spirit-esque manifestations from earlier?
+
+Kroos:
+Chances are it's linked to the cup... We'll rendezvous with Mr. Lee first.
+
+Kroos:
+Oh!
+
+Strange Object:
+Aoww—
+
+Mr. Nothing:
+Benefactor, would you say they've—er—proliferated?
+
+Boatman:
+Hm? What breed of beast is this? Why have they been everywhere for the last two days?
+
+Kroos:
+We've been surrounded, haven't we...
+
+Strange Object:
+Ao!
+
+Boatman:
+Oh, you're feisty ones.
+
+Mr. Nothing:
+—There's no other way! Benefactor, you and Master Shen take your leave for now, and I'll handle these miscreants!
+
+Kroos:
+—You alright with that?
+
+Mr. Nothing:
+They act more or less as the Ink Spirits do. Reason says I should cope.
+
+Kroos:
+Master Shen! This way!
+
+Liang Xun:
+......
+
+Miss Ning:
+What troubles you? You seem so ill at ease.
+
+Liang Xun:
+Nothing.
+
+Miss Ning:
+Your brows always wrinkle when you worry for people.
+
+Liang Xun:
+Do they?
+
+Miss Ning:
+They do. Who garners such concern from you, my Lord?
+
+Liang Xun:
+I'm worried for that friend of mine.
+
+Miss Ning:
+What has become of him?
+
+Liang Xun:
+He's gotten into a gamble.
+
+Miss Ning:
+One you asked him to take.
+
+Liang Xun:
+...True.
+
+Miss Ning:
+Are you now remorseful?
+
+Liang Xun:
+I still believe this was the best option.
+
+Liang Xun:
+I'm simply not sure...
+
+Miss Ning:
+You are very clever, my Lord.
+
+Liang Xun:
+I wouldn't claim to be.
+
+Liang Xun:
+I just chose a stupid method.
+
+Blacknight:
+Is every beast in Yan like this?
+
+Strange Object:
+......
+
+Blacknight:
+......
+
+Strange Object:
+Ao?
+
+Blacknight:
+Hm? Light? Oh, don't worry... mm, I'm happy as long as I have you all with me.
+
+Blacknight:
+Still, though...
+
+Strange Object:
+...?!
+
+Blacknight:
+Drill! Keep a hold on it, now!
+
+Blacknight:
+Completely new Yanese beasts... you might just make for some unexpected traps!
+
+Mr. Nothing:
+Dear me! What's going on? Did I offend some horror in recent times? Why are my days filled with contesting these menageries of creatures?!
+
+Mr. Nothing:
+—Oho?!
+
+Strange Object:
+Wrrao!
+
+Mr. Nothing:
+...On closer inspection, these things are...
+
+Strange Object:
+Wrr—
+
+Mr. Nothing:
+(Damned—)
+
+Zuo Le:
+Close call.
+
+Zuo Le:
+Are you hurt, sir?
+
+Mr. Nothing:
+You must be... from the other day—
+
+Taihe:
+Don't ask.
+
+Mr. Nothing:
+......!
+
+Zuo Le:
+No need to be so cold, Uncle Taihe...
+
+Strange Object:
+—!
+
+Mr. Nothing:
+Would you know where these things arose from?
+
+Zuo Le:
+Wherever the goblet goes, Waregeists spring up. Ironically, it's proving the Sui Regulator's conjectures.
+
+Zuo Le:
+Does this mean...
+
+Taihe:
+Mind your words, young man.
+
+Zuo Le:
+As you instruct, Uncle Taihe.
+
+Strange Object:
+Wrrao—wrr!
+
+Mr. Nothing:
+(These sprites—er, Waregeists... are they scared of these two? No, is it specifically the boy that cowers them...?)
+
+Zuo Le:
+*Sigh*...
+
+Zuo Le:
+Take a look at these Waregeists. How many incidents like this have we had?
+
+Taihe:
+Ten, twenty-five, and a full sixty years ago, with several more still.
+
+Zuo Le:
+While we have wrongdoers wreaking havoc with Originium Arts on occasion, things really don't come any better than this.
+
+Zuo Le:
+But Sui in the end is Sui, and a beast in the end is a beast. If your people carry intent to harm the realm, then Heaven knows how great the disaster will be.
+
+Waregeist:
+Ao—
+
+Zuo Le:
+The Sui Regulator has no desire to see such things come to pass.
+
+Zuo Le:
+Which is why we need to settle this millennium-long mess swiftly and cleanly.
+
+Waregeist:
+—
+
+Zuo Le:
+...No more than detritus.
+
+Mr. Nothing:
+Those things... reverted back into common wares...
+
+Zuo Le:
+Mr. Nothing.
+
+Mr. Nothing:
+...Hmm.
+
+Zuo Le:
+Please, convey this to Ms. Kroos for me. I want her to reconsider what I've said.
+
+Zuo Le:
+We can be on good terms regardless. Even if she should ultimately have her own considerations, my side still has a matter it wishes to entrust to Rhodes Island irrespective of position.
+
+Mr. Nothing:
+I can assent to passing it on, but why didn't you convey this to her yourself when the moment was ripe?
+
+Zuo Le:
+Haha... well, at that moment...
+
+Zuo Le:
+I was a little tensed up. I didn't get everything out.
+
+Taihe:
+Lord Zuo.
+
+Zuo Le:
+Well, then... It seems we can't delay any longer. Mr. Nothing, we bid you farewell.
+
+Mr. Nothing:
+Seems tense?
+
+Mr. Nothing:
+So a young nobleman who scampers about with the Deputy Imperial Censor in tow has a case of the nerves?
+
+
+

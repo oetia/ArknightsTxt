@@ -1,0 +1,458 @@
+Soldier on Guard:
+I know what you're thinking, but none of your caterwauling will distract us.
+
+Selmon:
+Really? Sounds to me like they're putting up a fight over their end. Sure you shouldn't give them a hand?
+
+Soldier on Guard:
+Quiet.
+
+Selmon:
+Hah. You've got some balls to be giving me lip, Viccy!
+
+Selmon:
+Gugh—!
+
+Soldier on Guard:
+Quiet, or I'll split your skull open.
+
+Selmon:
+You—Victorians... what gives you the right?
+
+Soldier on Guard:
+Don't oversell yourself, Taran. I've no prejudice or hate against your lot. At most, I think you're just sad.
+
+Soldier on Guard:
+You're a political force to be used. A piece on the Dukes' board.
+
+Soldier on Guard:
+We've been as friendly as we can be to you, since that's just common courtesy, but you should know a band of refugees dying here won't be any skin off our backs.
+
+Soldier on Guard:
+...Have we got orders?
+
+Soldier on Guard:
+If they want backup, we'll do as the captain told us and deal with the ones here first.
+
+Special Forces Soldier:
+Target fleeing, inbound towards Team 1. Teams 1 and 2, continue the pursuit. All other units, retreat.
+
+Special Forces Soldier:
+Give them the opportunity to regroup. We'll take them in all at once.
+
+Bagpipe:
+Reed, how'd you shake that investigator? Chenchen and I were just goin' to rescue you!
+
+Reed:
+......
+
+Bagpipe:
+Hey, come on. Terra to Reed, let's go.
+
+Bagpipe:
+There's fewer this way. Let's take this chance and break through!
+
+Reed:
+Where are the others... Are they still by the forest?
+
+Bagpipe:
+I'd think so. We'll find a way out first, then we can save them!
+
+Ch'en:
+—Crossbowmen?
+
+Special Forces Soldier:
+You thought you could waltz on out of here?
+
+Ch'en:
+These crossbowmen didn't attack before.
+
+Ch'en:
+Some of them are lying in ambush. There's no telling how many of them we're dealing with.
+
+Ch'en:
+They must think really highly of us to greet us with so many elite troops.
+
+Bagpipe:
+Doesn't matter how many of them we're dealin' with. We've no choice but to fight past them one by one!
+
+Reed:
+No... wait, Bagpipe.
+
+Reed:
+We aren't the only ones they're targeting...
+
+Bagpipe:
+Ugh, you're right. They're reorganizing their forces.
+
+Ch'en:
+In which case... they're very quick at it. They must've planned this in advance. The opening they're giving us may well be intentional.
+
+Bagpipe:
+Would anyone more really come out to these barrens, though...?
+
+Special Forces Soldier:
+Hostiles sighted!
+
+Special Forces Soldier:
+Prepare grenades. Alert the decoy team.
+
+Bagpipe:
+......
+
+The squadron emerges from the dark, like the ghosts that appeared on the County Hillock streets.
+
+Bagpipe's grip tightens on her fortcracker.
+
+Bagpipe:
+...Dublinn.
+
+Special Forces Soldier:
+We've confirmed the enemy commander's identity. It's exactly who you said it would be.
+
+Fischer:
+The Redsteel Guard Captain... He came to rescue the Draco as a Dublinn member?
+
+Fischer:
+Just as I thought.
+
+Fischer:
+This might turn into an open confrontation between two dukes. The Iron Duke is seeking to turn County Trent into a battlefield. They won't act too rashly just yet.
+
+Fischer:
+Let's keep waiting for the most opportune moment.
+
+Dublinn Soldier:
+Target sighted. Prioritize capturing her...
+
+Dublinn Soldier:
+Ugh...!
+
+Bagpipe:
+Out of the way.
+
+Dublinn Soldier:
+Your weapon... You're a Victorian soldier? She's got a Victorian soldier by her side?
+
+Bagpipe:
+Huh? Is that so strange? There's Victorian soldiers everywhere here.
+
+Dublinn Soldier:
+Split the three of them apart! Don't waste time on anyone who isn't the target!
+
+Dublinn Soldier:
+—We've secured the target! Team 3, evacuate with the target!
+
+Bagpipe:
+Target... You mean... Reed?
+
+Reed:
+Urgh...!
+
+Harmonie:
+Long time no see, Loughshinny... Say, we're old friends, aren't we?
+
+Harmonie:
+Don't be too nervous, now. And no getting worked up, either. Such a touching reunion—I can't imagine you'd approve of greeting your old friend with violence, hm?
+
+Reed:
+......
+
+Harmonie:
+It really is such a shame. You know, you were always open to leave.
+
+Harmonie:
+In fact, the Leader's acquiesced to your little runaway act.
+
+Reed:
+Are you... taking me back?
+
+Reed:
+But I can't go back. There'd be no place for me there anymore.
+
+Reed:
+No... there never was... any place for me.
+
+Harmonie:
+No, I understand. Not fond of your status as a shadow. Untrusting of the men recruited by your own lies.
+
+Harmonie:
+But where else could you go, if not Dublinn? Where would you make your home, as a Draco?
+
+Reed:
+I...
+
+Harmonie:
+Loughshinny. Oh, poor Loughshinny... To tell the truth, I have some genuine sympathy for you.
+
+Harmonie:
+You see, you only ever spare a few more words for me when it comes to all that fictional poetry, all that made-up flowery language. It makes us feel like we really are old friends.
+
+Harmonie:
+If you had your own life to live, you'd be roaming the ancient moors like the bards do, or whiling the day away reading, cozied up in a nice little hut, making a living for yourself by writing copies... Wonderful, wonderful dreams, I can say that.
+
+Harmonie:
+So living aboard the ship must've been oh-so satisfying for you. Why didn't you keep laying low, I wonder?
+
+Reed:
+The Leader... knows, doesn't she?
+
+Reed:
+In County Hillock. So many innocent civilians, killed in the scheming and the plotting. She... She knew for the longest time, didn't she?
+
+Harmonie:
+Well, you know her best. Why double-check with me?
+
+Harmonie:
+If they hadn't perished in the County Hillock melee, the Leader would've done it herself.
+
+Harmonie:
+Truly, a series of shames. If 'The Elocutionist' and his merry men went about County Hillock following their orders instead of getting up to their little tricks, they could've lived out a few more days by the Leader's side.
+
+Harmonie:
+If Mandragora had done what she was told in Londinium and brought 'The Spy' back, she wouldn't have needed to die that horrible death down in the sewers.
+
+Harmonie:
+...And if you'd just kept on staying in hiding out of fate's way, I wouldn't be so inclined to fetch you back for Dublinn, either.
+
+Reed:
+......
+
+Harmonie:
+You should feel lucky, honestly, that I found you first. I'm sparing you the time you need.
+
+Harmonie:
+If it was 'The Brigadier' who came across you, he would have murdered you the moment you'd hesitated.
+
+Reed:
+No... They want me no more than a shadow. I won't live a life like that again...
+
+Taking a spear to the ashes—has to be so much easier... than tearing clean through bodies of flesh and blood.
+
+Bagpipe:
+Hunf—! Alright, this'll keep you lot lyin' down!
+
+Bagpipe:
+Reed, how are you—
+
+Reed:
+...Don't look.
+
+Every time she casts her Arts, Reed closes her eyes.
+
+But not Bagpipe. Bagpipe sees a flame light atop the apex of her spear.
+
+Right. Didn't she meet her in County Hillock? She was the Dublinn Caster stood under the statue in the square, staring coldly out at the burning streets, at the deaths of countless people.
+
+She trusts Outcast, and Rhodes Island... and it makes her not want to believe her own impression, her sole single glance.
+
+Bagpipe:
+You're...
+
+Ch'en:
+Bagpipe, how is it going over there? Can you lure Dublinn's side and the Intelligence Service muscle together?
+
+Bagpipe:
+Och, you're not layin' hands on Reed! Out of the way!
+
+Bagpipe:
+......
+
+In the brief breath she catches between stance and attack, she reflexively looks behind herself again.
+
+A mist sweeps across her view, crossing between her and Reed.
+
+Fischer:
+All units, use the fog as cover. Penetrate the battlefield.
+
+Dublinn Soldier:
+Originium Arts! Stay alert! Gather up!
+
+Reed:
+......
+
+She has to run. The fog is giving her a chance. She knows the strategy of turning a battle into an uncontrolled brawl well. All she has to do is take her spear up and spur on the flames.
+
+But what comes after?
+
+She is Dublinn's '<i>Leader</i>.'
+
+She stands for Dublinn's flames. She set light to the land in swaths. She took lives upon lives.
+
+She made illusory promises, all in her own voice. She proclaimed, time and again, she would bring about a new age, one belonging to the Tarans.
+
+Special Forces Soldier:
+Team 1, attack straightaway. Do not be concerned about hurting the target!
+
+Special Forces Soldier:
+Dracos have excellent physical resilience! A few wounds won't kill her!
+
+She is a Draco.
+
+Her parents died on the snowiest of festival nights for this bloodline. She and her sister traveled to one city after another, living the childhoods that ambitious politicians who aimed to restore the monarchy had in mind for them.
+
+She was born with her flames. Even now, her veins and organs can feel that scorching pain.
+
+Where must she run to escape from that fate?
+
+Once, she woke up on a sickbed aboard Rhodes Island. There, she laid on the bed and read. In the books were descriptions of Victoria's exquisite peace, of Tara's gentle, melodious madrigals.
+
+But past her window, there outside, her injured allies would walk.
+
+Even when she shuts her eyes, she can see the city in ruins. She was saved, but so many others died there.
+
+Soldier on Guard:
+Do it. Captain's given the order.
+
+Soldier on Guard:
+Take care of them first, then we'll deal with Dublinn's lot.
+
+Soldier on Guard:
+Don't worry, Taran. The blade works fast.
+
+Selmon:
+—
+
+Fionn:
+Whoof... That was close...
+
+Selmon:
+Hah, Fionn! I knew it!
+
+Soldier on Guard:
+—Where'd you come from?
+
+Fionn:
+Ugh...!
+
+Fionn:
+...H-Help me! Help!
+
+Selmon:
+Up! All of you who can stand, get up!
+
+Selmon:
+They haven't bound more than our hands! We've got the numbers! It's just three of them and one more who's hurt! We can take them!
+
+Excited Taran Refugee:
+Right, right! Let's do it!
+
+Angry Taran Refugee:
+We ran down that Viccy patrol in the village the other day! We can more than run this lot down!
+
+Selmon:
+Hey, Fionn, how'd you slip free?
+
+Fionn:
+I... I was squatting over there to check on Reed. Nobody saw me, so I sneaked a rock and cut through the rope...
+
+Fionn:
+...*sigh*. Just thinking about it scares me. What if I'd been just that little bit late back?
+
+Selmon:
+Don't think about it, then. Unbind me, and we'll help the others. Hurry.
+
+Selmon:
+I'll teach that stuck-up Viccy a lesson.
+
+Selmon:
+We're sad? We're just being used? My arse.
+
+Selmon:
+I just know there's nothing more real than the scars on my body, all the blood and tears I've shed.
+
+Selmon:
+What gives you—any right in hell to take the piss out of us?!
+
+Moran:
+—Did I take him out? Sorry, I can't see very well.
+
+Selmon:
+Hah, pretty strong there, you are!
+
+Selmon:
+Anyone else still tied up? I'll nab the Viccy's knife and cut you free.
+
+Selmon:
+Quick. He just sent word out.
+
+Selmon:
+Fergal, keep an ear out, see if there's any soldiers coming from that side. Fionn, get here and help up anyone who's hurt.
+
+Selmon:
+Move! Anyone who's got the legs, get going!
+
+The refugee Tarans stumble frantically, running ever deeper into the woods.
+
+They fled their homeland, those marshy soils, yet none are truly sure how fast they must run to leave the flames of war and death behind them.
+
+If they can just escape this dark night, will that mean they can rebuild their homeland, free and peaceful?
+
+Taran Refugee:
+Oi, Fionn, you know how to write. When we get out, write me a letter to send back home. Need to let them know I'm still alive.
+
+Fionn:
+Right, I hear you...
+
+Taran Refugee:
+I'll do you some elderflower liqueur, true to my word. Get me a good set of all the brewing stuff from the market.
+
+Fionn:
+Right. Noted, noted. Don't even need my account book.
+
+And then, all at once, they elect to stop in their tracks.
+
+Someone lightly begins to whistle.
+
+The Tarans have many things they cannot put into words. When they cannot find the words to express themselves, they simply sing.
+
+They sing of glasses empty of alcohol, and loved ones who aren't there.
+
+Fionn:
+...Selmon.
+
+Selmon:
+I know.
+
+Fionn:
+I saw them fighting. Dublinn's in it, too. They're all looking to capture Reed.
+
+Fionn:
+Bagpipe and Ch'en are helping her, but it's just the three of them. Will they be fine?
+
+Moran:
+I can smell smoke. There must still be firewood burning that way, it's so thick.
+
+Taran Refugee:
+We might just be able to sneak ourselves inside, say, Selmon?
+
+Selmon:
+Let's go. Grab the Viccies' sabers and stuff. See any weapons on the way? We take them.
+
+Taran Refugee:
+We just took out those guards! Nothing to be afraid of!
+
+Taran Refugee:
+We're not fighting a war. We don't need to do them all in. We just need to rescue Reed, and we're good!
+
+Selmon:
+Moran, can you see? If the fire's not bright enough, take my hand and I'll guide you!
+
+The smoke thickens. The waves of heat inch closer.
+
+The woods are burning. Life is fading away.
+
+Never has a soul called their names.
+
+Never has a soul asked them their ideals, asked if the run they make is counter to the life they dream of living.
+
+They bound ahead for the firelight, the one and only.
+
+Reed:
+......
+
+Reed:
+...'Reed.' Are they calling to me?
+
+
+

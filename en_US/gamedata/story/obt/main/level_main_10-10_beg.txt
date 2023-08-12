@@ -1,0 +1,383 @@
+Manfred:
+So you mean to say that Hoederer has failed?
+
+Sarkaz Warrior:
+Yes, General. I saw it with my own eyes. He was gravely wounded in the battle just now.
+
+Manfred:
+And he was in contact with another Sarkaz woman, aside from his longtime mercenary acquaintance?
+
+Sarkaz Warrior:
+Right. But she's... highly skilled at concealment, and moves too quickly.
+
+Sarkaz Warrior:
+I was anxious about getting too close. Couldn't shake the feeling she'd notice me with one wrong step.
+
+Manfred:
+Wise choice. You wouldn't have made it back alive otherwise.
+
+Manfred:
+That said, I'm surprised the Confessarius let Babel's assassin go free. Was that an oversight, or their intent?
+
+Manfred:
+...No matter.
+
+Manfred:
+Tell me about Hoederer. Where is he?
+
+Sarkaz Warrior:
+He's still marshaling the remaining mercenaries, and about to resume pursuing the escaped convicts.
+
+Manfred:
+Have him return. Those convicts will not stay free forever.
+
+Sarkaz Warrior:
+General?
+
+Manfred:
+As you said, his wounds are no laughing matter.
+
+Sarkaz Warrior:
+Forgive me, but why do you still trust Hoederer so much?
+
+Manfred:
+I've had you with him this whole time.
+
+Manfred:
+Correct me if I'm wrong, but you've never once reported any misdeeds from him.
+
+Sarkaz Warrior:
+But he used to work for Babel!
+
+Sarkaz Warrior:
+It was the mercenaries under his watch that screwed up, and it was his old friend that incited them! Don't you think it's too risky to keep him in such a key position, General?
+
+Manfred:
+You've seen for yourself today. How does one Victorian regard another?
+
+Sarkaz Warrior:
+Urgh...
+
+Manfred:
+And how much more difficult do you think it is for one Sarkaz to trust another?
+
+Manfred:
+We've had everything stolen from us, been forced to grow accustomed to fighting each other for the right to survive.
+
+Manfred:
+And now, we've obtained a new opportunity.
+
+Manfred:
+You tell me, do you want to go back to monitoring a possible Sarkaz spy, or will you accompany me in eliminating the remaining Victorian threats?
+
+Sarkaz Warrior:
+......
+
+Sarkaz Warrior:
+General, we choose to go with you.
+
+Feist:
+*pant*... *pant*... Did we shake them?
+
+Amiya:
+We can't let our guards down yet, Mr. Feist.
+
+Feist:
+I know... *huff*... I know.
+
+Rockrock:
+...Captain.
+
+Feist:
+What is it?
+
+Rockrock:
+Your face is splattered in blood.
+
+Feist:
+Blood?! Hey, Bill... Bill?
+
+Bill:
+Nrgh...
+
+Feist:
+...Oh, it's just my own blood. No need to panic, then.
+
+Feist:
+Come on, Bill, you could breathe a little louder! I don't want to have spent all this effort porting a dead man back.
+
+Bill:
+Then think about... swinging your spanner gentler.
+
+Bill:
+You're always... hitting me... in the head...
+
+Feist:
+I hear you. You're the boss today.
+
+Feist:
+Hold on a little longer... we'll be right back home soon. Right? I'm not going blind, am I?
+
+Feist:
+Eugh, this blood from my forehead's getting in my eyes a little... Rockrock, eyes out. How much left to our target rendezvous?
+
+Rockrock:
+A little over 300 meters and we're there.
+
+Feist:
+It's Team 6 on guard here, right? I could really use a hand from them. Bill, old bud, you're getting harder to carry by the second.
+
+Siege:
+...How long have we gone without a signal from the surface team?
+
+Indra:
+Didn't the Doctor say they'd only contact us after they reach that last RDV?
+
+Siege:
+No, I mean the Self-Salvation Corps, at the one before that.
+
+Siege:
+We had an agreement that they'd keep us up to date with the surface situation every half hour.
+
+Indra:
+Shit, I wasn't tracking the time! How long's it been?
+
+Siege:
+...We need to go up and see.
+
+Indra:
+No!
+
+Siege:
+If the Sarkaz have already discovered our last rendezvous, then the Doctor's squad is in danger. You're clearly worried sick about Morgan and Dagda too.
+
+Indra:
+A... And you too!
+
+Indra:
+Worst comes to worst, Vina, I go peek, and you stay here. Suppose somehow something's happened, you scarper further in...
+
+Siege:
+Indra, I can't always keep cowering behind you all. First our mentor, then you and the Glasgow Gang, now the Doctor—
+
+Siege:
+—I've cowered for far too long, and I know it. Dagda wasn't talking nonsense. If you're always tucked away in the shadows, you gradually lose the courage to directly face the sun.
+
+Indra:
+She's trying to nark you! You know what she's dying for? You, taking her to storm the Palace, and finding that what's-his-gent to do him in!
+
+Siege:
+And you're itching to go back to the Glasgow Gang. Don't you understand her point of view?
+
+Indra:
+I... Like hell I don't, but that's the bloody thing. I understand, and that's why...
+
+Siege:
+You're scared she'll end up killing herself, the way she rushes it.
+
+Indra:
+You can bloody imagine, can't you? She's got a death wish in my eyes, the way she acts!
+
+Siege:
+...You need to trust her.
+
+Siege:
+She'll be willing to live for our sake... and the sake of so many, even if it comes with enormous pain.
+
+Siege:
+She's an outstanding knight, and a warrior of Victoria. She has everything in common with the countless others who struggle to live, and fight on for Victoria.
+
+Siege:
+And I... I have to fight with them. Not because I'm in some special position, but because we're all 'native' to this land.
+
+Indra:
+Vina...
+
+Siege:
+Think of that commander, Lady Clovisia. Would she abandon her soldiers, run off just to keep herself safe?
+
+Indra:
+I'm not familiar with her... but I don't imagine she would. Those soldiers really trust in her.
+
+Siege:
+Then in your eyes, how much do I pale in comparison?
+
+Indra:
+Like bloody hell you pale at all!
+
+Siege:
+Then follow me. Together, we'll make sure that our comrades-in-arms have a safe trip home.
+
+Mandragora:
+We finally get to leave this stinking place soon.
+
+Mandragora:
+Are you alright, 'Spy'?
+
+Taran Secret Agent:
+...Whoof... *huff*... I'm fine, Mandragora.
+
+Taran Secret Agent:
+The last few times I've heard the word 'spy' it's been from a Sarkaz thinking up some fresh new punishment. I almost forgot it was my codename.
+
+Mandragora:
+Then pick a more tasteful one next time, if you have the chance. 'The Elocutionist' and all that lot had good ones, and they kicked the bucket without leaving so much as a smear.
+
+Taran Secret Agent:
+Haha...
+
+Mandragora:
+Save your strength for now. The Leader still needs the Sarkaz intel you found.
+
+Taran Secret Agent:
+You mean... The Shard...
+
+Mandragora:
+No, don't say it.
+
+Mandragora:
+Not like I don't want to hear, but... we need the Leader's approval. Our soldiers are all clean sorts. Don't go giving them too big a burden to carry.
+
+Taran Secret Agent:
+I understand... Mandragora... you've always been such a good girl.
+
+Mandragora:
+Don't sweet-talk me like 'The Bandit' did. Sick of it. They're all gone and now I'm stuck here alone in this shithole having to worry about the Leader.
+
+Mandragora:
+At least you got back quick. While you were gone, that Harmonie bastard was glued to the Leader's side day and night, and I was terrified that... that...
+
+Taran Secret Agent:
+Terrified... that what?
+
+Mandragora:
+That the Leader would get too close to those noble sorts, and that someday, she'd have no more use for us.
+
+Taran Secret Agent:
+The Leader, eh... *sigh*...
+
+Dublinn Soldier:
+Ma'am, I've ascertained the others' positions. They're still in the same place, watching the door for the Sarkaz. Are we linking up with them right now?
+
+Mandragora:
+Mm. Get the paramedics going. 'The Spy' needs immediate treatment.
+
+Mandragora:
+Right, one more thing. Find a Messenger and notify Count Mourning outside the city immediately. We have to ensure 'The Spy' meets the Leader as soon as possible.
+
+Taran Secret Agent:
+Count Mourning? You... involved him for the Leader?
+
+Mandragora:
+Tch. Times like these, we have no choice but to hope the nobles do something to help. Funny kind of joke, isn't it?
+
+Taran Secret Agent:
+*cough* *cough*... You... You've grown well...
+
+Mandragora:
+That's not like you, 'Spy'. You're speaking too much rubbish. Save the rest for when you're not ragged enough to drop dead at a stiff breeze.
+
+Horn:
+...Hold it.
+
+Robben:
+What is it, Horn? We have a visual on the exit already.
+
+Horn:
+Mind the perimeter.
+
+Robben:
+......
+
+Horn:
+Three o'clock!
+
+Robben:
+Horn, it's Sarkaz!
+
+Horn:
+—
+
+Horn:
+Robben, are you still fine for ammo?
+
+Robben:
+Ha... haha... sorry, Horn. Truth is, I've been hiding an explosive shell on me.
+
+Robben:
+All this time, I've had it in my head that if I fall into the enemy's hands at some point again... I'll be taking this shell with me to my last stand.
+
+Horn:
+...Shame, we improvised that shell ourselves.
+
+Robben:
+How's that got anything to do with—
+
+Horn:
+And I'm very sorry, but I'm not inclined to give you that opportunity.
+
+Robben:
+Eh? My shell—
+
+Horn:
+Looks like the power of a homemade one falls a bit short after all.
+
+Robben:
+But... but he's unscathed, how?
+
+Robben:
+That Sarkaz...
+
+Horn:
+That Sarkaz is their beloved General.
+
+Manfred:
+We finally meet. An improvised shell is hardly a suitable greeting though.
+
+Horn:
+I know you've met your share of Victorian soldiers, Sarkaz. After all, a great deal of them died by your hands. I imagine their spirits are practically lining up to crowd your dreams.
+
+Manfred:
+No need to be so self-effacing, White Wolf of Victoria.
+
+Horn:
+......
+
+Manfred:
+Even to the Sarkaz, you qualify as a heroic warrior.
+
+Manfred:
+As I recall, the captain who rendered Kazdel a sea of flames once more, two hundred years ago, was your ancestor.
+
+Horn:
+Are you some monster who's lived for centuries too?
+
+Manfred:
+I had no chance to witness that war.
+
+Horn:
+But listen to the way you talk about it. It's no different from your kin who feed on others' lives to prolong their own.
+
+Manfred:
+'Those stained in Sarkaz blood must pay that blood back, thousands of times over.'
+
+Manfred:
+Where do you think we came from, Victorian? Just who runs in fear at the restless souls circling Londinium's skies day and night, murmuring their blood feuds?
+
+Horn:
+Did you know? I became a professional soldier precisely because I was fed up with justifying this war we're in.
+
+Horn:
+Come, Sarkaz.
+
+Horn:
+The words of the deceased lingering about my ears are more than you'll ever hear.
+
+Horn:
+And I promised them... I promised them this.
+
+Horn:
+I will not fall until I see my people out of this place alive.
+
+
+

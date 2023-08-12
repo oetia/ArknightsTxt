@@ -1,0 +1,765 @@
+To Młynar Nearl,
+
+I haven't heard back in some time. It may be you're too busy with life in Kawalerielki to exchange letters with an old friend. I respect your choice, and I hope all is going well for you.
+
+I've heard many anecdotes from the knightclub. Should we have another opportunity to convene, I'd be happy to tell you in person. My affairs are still a far cry from my ideal, but I've no regrets.
+
+I only intend to waste so much ink on civilities. Let me be candid. I write to you for this reason:
+
+Celina has been arrested, and sent to the Grand Knight Territory.
+
+She is the most devout, refined knight I have ever met, a companion-in-arms, and my true love. I needn't say more.
+
+You must remember her. Red of hair and signal flare, laughter that could smooth any furrowed brow.
+
+So many a time she has led us out alive from places of death. I could never accept her being the first to leave us.
+
+I swear on my knight's honor that Celina is innocent. Indeed it is her upstanding nature that has so bristled the murky-hearted politicians and merchants.
+
+It is <i>not</i> right that a knight like her be a sacrifice to the petty stunts of such authorities.
+
+Were we facing a foreign foe, be they the Shieldguards of Ursus or the Künsteritter of Leithanien, I'd be charging headlong at their ranks. Fighting until my armor is shattered, and my lance is in twain.
+
+But against the National Council, against the General Chamber of Commerce, I am powerless.
+
+Młynar, it pains me greatly to disturb your life of peace. Still, I have tried all else, and now I can only beg your help.
+
+I beseech you. While I cannot do this myself, pass on this evidence in my place, and thereby clear her name.
+
+For you are my friend, and you are a Nearl.
+
+This is no lovesick entreaty, Młynar. That is not why I beg.
+
+I simply ask that one worthy knight save another.
+
+Sincerely, your old friend Czcibor
+
+The letter had been opened and placed back inside its envelope.
+
+It sat in a sea of so many other papers, stowed away in a jumbled drawer.
+
+TV Broadcast:
+We interrupt with breaking news from the city.
+
+TV Broadcast:
+Zeno Shelvin, ringleader of multiple Infected incidents, including the riot that took place days ago in the new district as well as the assault and clash with guards at the city entrance, has given himself up today.
+
+TV Broadcast:
+The suspect was a worker recruited from Gale Industries' 'Infected Help-Up Program.' He claims to have long been dissatisfied with his life, which led to him planning the recent riots...
+
+TV Broadcast:
+Gale Industries, the firm in charge of principal construction of the new district, stated they would work as fast as humanly possible to repair any damage to the buildings, alongside making reparations to residents.
+
+TV Broadcast:
+In addition, they plan to tighten up security administration and put an end to any similar incidents.
+
+TV Broadcast:
+We remind all residents that you are urged to take proper safety measures in the event you need to leave the city.
+
+TV Broadcast:
+We would like everyone to remain calm...
+
+Onlooking Passersby:
+Giving Infected work, my ass. It's just trouble for normal folk in the end.
+
+Onlooking Passersby:
+Wouldn't they all be wild gloompincer chow by now if Gale never gave them a chance? He's got some nerve being 'dissatisfied' with life!
+
+Onlooking Passersby:
+Never should've let them in in the first place. Not one good thing about the Infected.
+
+Onlooking Passersby:
+But now they're here, and they try and bring all their friends in too. Look at the recent news! They don't even give two shits about the guards!
+
+Flametail:
+News says he turned himself in.
+
+Ashlock:
+...He wouldn't do that.
+
+Flametail:
+I don't wanna believe it either, but what gives?
+
+Two days ago
+
+November 27th, 2:00 P.M.
+
+New District, Dzwonek, construction area
+
+Flametail:
+Dead-end ahead!
+
+Ashlock:
+Could probably... pile more against this door...
+
+Ashlock:
+It's a swarm of people out there. I can't hold for too long...
+
+Flametail:
+I still don't get it. Why are they attacking us? Did I say something wrong just now?
+
+Ashlock:
+No... they didn't even give you a chance to. It's more like they're indiscriminately lashing out...
+
+Flametail:
+If I remember right, and I'm pretty sure I do, the task we got was to 'make contact with all the Infected orgs forming along the Kazimierz border towns,' not 'pacify local Infected mobs.'
+
+Ashlock:
+I'm guessing our intel's a little old.
+
+Flametail:
+This is our first real, formal mission since we hit Rhodes Island. Do they always handle problems this tricky?
+
+Ashlock:
+It was bound to be more complex, compared to taking down single opponents in the arena.
+
+Flametail:
+What now? Think we should fight our way out if we gotta?
+
+Ashlock:
+Rhodes Island employee regulations say our first priority when facing sudden conflict with Infected in the field is to maintain basic self-control...
+
+Flametail:
+Well, this sure as heck isn't the time to start reciting the handbook!
+
+???:
+You two! This way, come with me!
+
+Enthusiastic Infected:
+...This should be far enough. Most people won't know about this passage—it's not fully built yet.
+
+Flametail:
+Phew... tha... thanks.
+
+Ashlock:
+Can I ask, why did you—
+
+Enthusiastic Infected:
+You're Ashlock Knight and Flametail Knight, right?!
+
+Flametail:
+Huh?
+
+Ashlock:
+Wha?
+
+Enthusiastic Infected:
+Ashlock Knight! I'm a diehard fan of yours! I've seen every single match you're in!
+
+Enthusiastic Infected:
+Wait, you have the cannon! That's the one you had when you beat Brassrust!
+
+Enthusiastic Infected:
+I still remember how that went. You spared 'Brassrust' Ingra right at the end, and then fired a shot into the air, right?
+
+Enthusiastic Infected:
+That was so so so cool! It looks just like on TV—no, wait, it looks a little bigger, even, when you see the real thing. Ca—Can I touch it?
+
+Flametail:
+Wow, Ashley, figures we'd still find fans of yours this far out from the GKT!
+
+Enthusiastic Infected:
+Oh yeah! I'm super into you too, Flametail Knight!
+
+Flametail:
+Hahaha... you don't gotta give me special treatment. I'm not the jealous type.
+
+Ashlock:
+So... can I ask who you are?
+
+Enthusiastic Infected:
+Sorry, sorry, I got too excited. Forgot to introduce myself.
+
+Enthusiastic Infected:
+I'm Zeno, one of the Infected here to work in Dzwonek. I guess I <i>am</i> a foreman, to be exact...
+
+Flametail:
+We heard there were Infected in Dzwonek setting up a mutual aid group. Are you part of it too?
+
+Zeno:
+How I should put this... Well, you see, the Infected here weren't originally allowed to live in the cities.
+
+Zeno:
+Gale Industries started constructing a new sector here some time ago, and they needed a lot of hands on deck for that, so they hired a few Infected and brought them in to work.
+
+Zeno:
+At first, everyone felt like they'd gotten a once in a lifetime chance for some honest work.
+
+Zeno:
+But gradually, you heard more and more complaining. A lot of people got the sense they were paying us way too little compared to regular folk.
+
+Zeno:
+It's not like we were ever going to get as much as they do, but some things are worth trying. Just like how the Blood Knight fought for a new path for Infected.
+
+Zeno:
+So, I was really in support of us organizing to protest against Gale Industries.
+
+Zeno:
+But after that... well, you've seen what it's like outside.
+
+Flametail:
+So, the rioting, the raids... that was all Infected hired by Gale?
+
+Zeno:
+No, not anymore, not all of them. I've got no idea where all those people came from...
+
+Zeno:
+I don't even know... how they can think of so many ways to commit violence.
+
+Ashlock:
+...We're getting nowhere like this. It's only going to make the situation worse and worse for Infected.
+
+Flametail:
+Ashley, from the sound of it, do you think someone deliberately went and lit the fuse?
+
+Ashlock:
+......
+
+Zeno:
+Hey, it's almost over, though. Just watch out for a few days and you two'll be fine.
+
+Flametail:
+(...'Almost over'?)
+
+Zeno:
+Oh, yeah, what are you two doing in Dzwonek? Sightseeing? Maybe an exhibition match?
+
+Ashlock:
+Actually, we're not even competition knights anymore.
+
+Flametail:
+Now we're partnered up with a drug company dedicated to curing Oripathy. Our work's different, but our ideal of helping more Infected sure isn't changing any time soon!
+
+Flametail:
+And we're here precisely to bone up on what living conditions are like for the Infected in these parts.
+
+Flametail:
+Though, y'know, the situation sure is a little more than we bargained for...
+
+Ashlock:
+If you're a knight sports fan, then I'm afraid what we're here to do is going to disappoint you.
+
+Zeno:
+Excuse me? Who cares about those fancypants money-knights with their sponsored gear and their dumb show-fights?
+
+Zeno:
+I love the Pinus Sylvestris Knightclub! I love when you guys make those nobles remember the taste of dirt, and channel the fury of all us Infected!
+
+Zeno:
+But since they already know our might thanks to you guys, it's not like you've got to stick to arena bloodsports forever.
+
+Zeno:
+The fact you get to help the Infected even more now is like... I'm more happy for you than it's even possible to be in a single moment.
+
+Zeno:
+If you really do have a medical organization working to treat Infected, then that's just... that's just... man! How do I even imagine it?
+
+Zeno:
+Anyway, can I just, I know it's a little awkward, but like I'll ever get this chance again... Ashlock Knight, can I get your autograph?!
+
+Ashlock:
+O... Of course! J-J-Just hold on a moment. Uh... sorry, I don't think I've got a pen or paper on me right now.
+
+Ashlock:
+Oh, but I do have a signature from the Radiant Knight with me. And I may as well give it to you; you'd probably appreciate it more.
+
+Ashlock:
+It's okay, I've got more chances to meet her in future—
+
+Zeno:
+You're so kind, thank you, but, um, if it's okay, I'd actually prefer <i>your</i> signature.
+
+Ashlock:
+Huh...? Why?
+
+Zeno:
+The Radiant Knight's really great and all, strong and upstanding and everything...
+
+Zeno:
+But for us regular Infected, seeing knights like you standing in the arena is even more of an inspiration.
+
+Ashlock:
+Sona, lend me your sword for a sec.
+
+Flametail:
+Sure, but what are you gonna do—
+
+Flametail:
+—Carve your name on a helmet? Jeez, leave it to you, Ashley!
+
+Ashlock:
+It's not too good an autograph, but I'd say you can make it out... Take this, if you don't mind it.
+
+Zeno:
+I—!
+
+Zeno:
+(Gaze of disbelief)
+
+Zeno:
+Thank you so so so much... but this is just <i>too</i> precious of a gift. I can't accept this!
+
+Zeno:
+It's okay! I'm over the moons just getting to meet you two today.
+
+Zeno:
+And sorry, but I've got some work I need to do now. I've got just one request. If possible, could neither of you tell anyone you saw me?
+
+Flametail:
+Wait—
+
+Zeno:
+I've got to go. I hope we can meet again!
+
+Ashlock:
+He was right there with us when the riot broke out. There's no way he took part in it. But...
+
+Flametail:
+You're kind of worried too, right? What if Zeno really was the guy who set it all up?
+
+Ashlock:
+The big corps have always had an iron grip on what the news reports. They could suppress a single person's voice without lifting a finger... There's too much suspicious about this.
+
+Ashlock:
+But on the other hand, I feel like I can't really say anything's off the table for an Infected, no matter how extreme. I mean, after you've gone through so much...
+
+Ashlock:
+I just... don't want this to be the sort of person he is.
+
+Flametail:
+Mm... my intuition's telling me the same thing. This isn't the kinda thing he would do.
+
+Flametail:
+Well, if we care this much, then forget Rhodes employee regulations for now. Let's get to the bottom of this, Pinus Sylvestris-style!
+
+Flametail:
+We just need to pick up the pace a little, and we won't get caught. I bet the Doctor would understand!
+
+Ashlock:
+...And? How do we do this?
+
+Flametail:
+Suppose Zeno <i>is</i> the prime suspect in this whole outlash. How'd they be dealing with him right about now?
+
+Ashlock:
+With an incident of this level, they'd probably ship him off to the Grand Knight Territory for the National Council to handle.
+
+Flametail:
+So, if Zeno <i>hasn't</i> been sent to the GKT, and he's hiding somewhere else, doesn't that mean something else brought on this whole shebang?
+
+Ashlock:
+I mean, obviously, Dzwonek is smaller than Kawalerielki, but it's still going to be hard finding someone who doesn't want to be found.
+
+Flametail:
+Not necessarily. Let's do it just like we used to. First we test the waters... If what Toland said before is still valid, then maybe we can find a bounty hunter and start our inquiries there.
+
+Flametail:
+And then—
+
+Ashlock:
+Sona?
+
+Flametail:
+...No, I think my eyes just went funny. Felt like I recognized someone just now.
+
+Flametail:
+—Y'know what, let's get a move-on!
+
+TV Broadcast:
+Built to stand testament to Kazimierz and Leithanien's friendly diplomatic ties, the 'Voice of the Knights' is now nearing completion. The cutting of the ribbon is anticipated to take place on the 1st of December.
+
+TV Broadcast:
+Count Dierolf, representative of the visiting Leithanian delegation, will be personally attending, and is expected to give a speech.
+
+TV Broadcast:
+Sadly, the Leithanian-born celebrity knight, 'The Candle Knight' Viviana, is unable to attend the ceremony.
+
+TV Broadcast:
+However, she will be giving her blessings to the friendship between the two nations through an external connection...
+
+Młynar:
+......
+
+Resplendently Dressed Noble:
+You're quite transfixed by this statue, aren't you?
+
+Młynar:
+Pardon...?
+
+Resplendently Dressed Noble:
+Sorry to accost you so suddenly; I'm just a tourist here on my travels. Seeing you stood before this statue for so long, I couldn't help but try and strike up a conversation.
+
+Resplendently Dressed Noble:
+Personally, I greatly admire this work of art. Its creator is one of Leithanien's most distinguished sculptors.
+
+Resplendently Dressed Noble:
+The shield transfiguring into a music staff, while the gunblade and wand form notes—a beautiful message imparted through an exquisite design. What are your thoughts?
+
+Młynar:
+So a knight's arms and armor can do more than be consumed as ornaments, they can serve as instruments to sing ode to a brief peace. What relentlessly convenient things.
+
+Resplendently Dressed Noble:
+You seem to opine that it's not for a knight's sword and shield to perform such mild, elegant passages.
+
+Młynar:
+They can't even give voice, let alone sing.
+
+Resplendently Dressed Noble:
+And yet, better peace and cultural exchange than war and hostilities, correct?
+
+Młynar:
+If only people could see the cost and the value of our current peace.
+
+Resplendently Dressed Noble:
+If you'd let me be so bold once more, were you perhaps once military? No, I suppose in Kazimierz parlance, you would be—a campaign knight?
+
+Młynar:
+...Why do you ask?
+
+Resplendently Dressed Noble:
+Leithanians have a special regard for this city.
+
+Resplendently Dressed Noble:
+Dzwonek, 'the Caravan Bells' Terminus.' Kazimierz's fortress upon the southern frontier.
+
+Resplendently Dressed Noble:
+Even after so many years of peace, the bones of sentry towers and turrets lie hidden in its corners.
+
+Resplendently Dressed Noble:
+But even back then... even at the height of Leithanien's arrogance, when its war ambitions were most tumultuous, its military has never attempted to outright take this strategic town.
+
+Resplendently Dressed Noble:
+The spire casters' elite were forced to infiltrate through roundabout means, and that expedition left no survivors.
+
+Resplendently Dressed Noble:
+—That was thirty years ago, perhaps even longer. Most today would never even touch upon its scars.
+
+Młynar:
+......
+
+Resplendently Dressed Noble:
+—So I'm very curious as to your view.
+
+Młynar:
+Mine?
+
+Młynar:
+...If every tourist here is as prudent as you, then I fear Dzwonek city hall will need to redouble its efforts to put up this facade.
+
+Młynar:
+But you're wrong.
+
+Młynar:
+Like you, I'm also a mere passing tourist.
+
+Młynar:
+And as for my thoughts... they went and placed it in Kazimierz. As if the sheer comedy of it wasn't biting enough.
+
+Zeno:
+Flametail Knight? Ashlock Knight? What are you doing here?
+
+Flametail:
+So we <i>did</i> guess right!
+
+Flametail:
+You've got a bunch of plain-clothed goons standing around guarding an out-of-the-way building with no roof on it yet, in the middle of a Gale Industries construction district. A little too obvious, don't you think?
+
+Flametail:
+But hey, you need more than a few goons to stop us!
+
+Zeno:
+It's dangerous as hell here... Whoever you saw along the way, that was only a tiny fraction of the guards.
+
+Zeno:
+A giant group of them could be here any moment! Get out of here, quick!
+
+Flametail:
+We're here to take you with us!
+
+Flametail:
+I don't know what kinda tricks Gale Industries is up to, but if they really want to catch whoever started the riots, they're gonna have to do it by the book.
+
+Flametail:
+We're not gonna sit on our asses and let them play judge, jury, and executioner.
+
+Ashlock:
+You didn't incite that riot, did you?
+
+Zeno:
+......
+
+Zeno:
+Ashlock, Flametail... I'm really grateful you'd go so far for someone you've only met once.
+
+Zeno:
+But I can't go.
+
+Ashlock:
+Why not?!
+
+Flametail:
+Shh... Ashley, footsteps.
+
+Ashlock:
+...Whatever the case, we're getting ourselves out from under their thumbs first. Follow us, Zeno.
+
+Ashlock:
+We know full well how cities make Infected disappear. You can't remain in their hands.
+
+Ashlock:
+This is probably just the beginning.
+
+Zeno:
+I truly do respect you two, and I'm more grateful than you know for everything you do for the Infected.
+
+Zeno:
+But I'm sorry. All my life I could never become a knight like you have, fighting in the spotlight for the Infected.
+
+Zeno:
+The most my life is worth is making my family's lives a bit better...
+
+Ashlock:
+Can you get to the point—
+
+Flametail:
+Ashley, time's up!
+
+Ashlock:
+...Mark my words, we'll meet again.
+
+Flametail:
+Phew. Anyone still following? ...Should be in the clear for now.
+
+Ashlock:
+Sorry. I got a little rash just now.
+
+Flametail:
+I don't blame you or anything, just calm down a little. Before anything else, we need to take this from the top.
+
+Flametail:
+—Who's there?!
+
+Flametail's sword comes quick as a flash. The instant she hears a footstep, she thrusts her rapier behind her like a shooting star, but it fails to make it far.
+
+Its blade is firmly in the grasp of a gauntlet-wreathed hand, rendering her unable to even pull it back.
+
+Until the figure in the shadows lets it go.
+
+Młynar:
+...So this is the sort of 'knight' that farce of the arena nurtures?
+
+Młynar:
+Drawing your blade with no forethought is tantamount to throwing your life away.
+
+Flametail:
+Hahaha... I guess my eyes <i>weren't</i> playing tricks on me, back near the plaza.
+
+Flametail:
+I recognize you. You're the head of the Nearls. The Radiant Knight's uncle, right?
+
+Flametail:
+Never got to talk to you back in Kawalerielki, but we heard from the Rhodes Island people how you did your part to protect the Infected back then. We really appreciate that!
+
+Młynar:
+...I hardly did a thing.
+
+Flametail:
+I also heard from the Radiant Knight how your swordsmanship's totally on par with hers, but you only ever go at 'em when you're angry, so I guess we don't get to ask if you can give us some pointers...
+
+Młynar:
+...'Pinus Sylvestris.'
+
+Flametail:
+Mm... hmm?
+
+Młynar:
+Why are you in an under-construction district?
+
+Flametail:
+Oh, we came on commission from Rhodes Island. We're aiding the Infected here.
+
+Flametail:
+After all, that's pretty much why we founded the knightclub too.
+
+Flametail:
+We thought it'd be a cinch at first, actually.
+
+Flametail:
+...But we only found out once we got here that things were a little... tanglier than we believed.
+
+Flametail:
+And that's the rundown.
+
+Młynar:
+...Gale Industries?
+
+Flametail:
+You know 'em too?
+
+Młynar:
+Only from a few scant exchanges. They're nothing special.
+
+Flametail:
+Haha, from the angle of pushing Infected around, yeah, they're nothing special at all.
+
+Flametail:
+Oh, yeah, so why are <i>you</i> here?
+
+Młynar:
+...Just to see what was happening in this city.
+
+Flametail:
+Ohh, don't tell me you're here about the Infected riots too? Could you help us out with this one, then?
+
+Młynar:
+I never said—
+
+Flametail:
+No, I get what you're worried about. We're not planning to butt heads with Gale's army of rent-a-cops.
+
+Flametail:
+Our goal might be to rescue Mr. Zeno, but now that it's reached this point, his hidden motive for refusing to escape might just be the key to this whole Infected riot conundrum.
+
+Flametail:
+...At least, I hope so! Out of all the Infected here, he's the one most willing to link up with us, after all.
+
+Młynar:
+...I never said that I supported the Infected.
+
+Ashlock:
+But even if this had nothing to do with the Infected, it's still a blatant false charge.
+
+Ashlock:
+We can't let more innocents become sacrifices to the cheap stunts of the politicians and tycoons!
+
+Młynar:
+......
+
+Młynar suddenly turns to look behind him.
+
+The Pinus Sylvestris knights follow his gaze, but the end of the alley is empty. The only thing to be seen is the decorative dome of a faraway skyscraper, its neon lights twinkling a romantic wine-red in the dark of night.
+
+It hits Flametail that she doesn't know what this Nearl is here to do. He isn't even armed—but if he needs it, she'd totally be willing to lend him her own sword.
+
+Młynar:
+There will always be more sacrifices... You and I might already be ones.
+
+Młynar:
+...I'll go confirm a few matters. Then, 'Pinus Sylvestris,' I have some questions I'll need to ask you.
+
+Zeno:
+You two...
+
+Ashlock:
+I told you we'd meet again.
+
+Zeno:
+I'm sorry... no, thank you...
+
+Flametail:
+You're thanking the wrong folks this time. Mr. Młynar here's the one who talked Gale Industries into dropping all charges against you.
+
+Zeno:
+Thank you... Er, wh-which company are you from? Or are you a lord noble?
+
+Młynar:
+...No, I'm merely an average office worker.
+
+Młynar:
+I simply happened to cross paths with someone from Gale recently, and heard talk of the direction they were taking their business.
+
+Flametail:
+(Huh... Who knew the Nearls had a guy with this sorta talent too?)
+
+Zeno:
+But I can't make heads or tails of it. How is an ordinary Infected like me possibly worth all this effort?
+
+Flametail:
+In the face of justice, worth doesn't even come into it.
+
+Flametail:
+As long as it's in our power, we'll stride forth to meet any unrighteousness! That's Pinus Sylvestris's creed!
+
+Ashlock:
+Since when?
+
+Flametail:
+Since just now!
+
+Ashlock:
+...Alright. True enough.
+
+Ashlock:
+Zeno, what did you mean by 'using yourself to give your family better lives'? And before that, why did you want us to pretend we'd never seen you?
+
+Ashlock:
+Did Gale Industries threaten you into taking all the blame for the riot?
+
+Zeno:
+I can't tell you...
+
+Flametail:
+Mr. Młynar just talked over your circumstances with Gale. That means they don't plan to give you any more trouble. No need to worry.
+
+Zeno:
+O-Okay then...
+
+Zeno:
+You guessed right. Gale Industries was under pressure from all sides with the recent Infected riot, and they had to come up with an explanation that'd satisfy everyone. And my family really needed the reward they were offering.
+
+Zeno:
+As for why they weren't willing to give the workers a proper investigation, I've got as little clue as you do.
+
+Flametail:
+...If I remember right, Gale's got a subsidiary in the Oripathy protective gear business.
+
+Flametail:
+Though after joining Rhodes Island, seeing their ads again is honestly just kind of hilarious.
+
+Ashlock:
+Who discussed all this with you? Would you still be able to pick them out?
+
+Zeno:
+......
+
+Zeno:
+Actually, it was a campaign knight who came to me.
+
+Młynar:
+What did you say?
+
+Zeno:
+I...
+
+Młynar:
+You, come with me.
+
+Zeno:
+O-Okay... Where are you taking me...?
+
+Młynar:
+Somewhere you'll be safe.
+
+Kazimierzian City-Dweller?:
+...Yes, our application to allot a team to enter Dzwonek and aid with local law enforcement has been approved.
+
+Kazimierzian City-Dweller?:
+Additionally, we can presume he's already noticed someone is monitoring his tracks.
+
+Kazimierzian City-Dweller?:
+After he stepped in to negotiate, Gale Industries released the Infected Zeno Shelvin of their own accord.
+
+Kazimierzian City-Dweller?:
+I've already checked with them. They have the capacity to cope with the current pressure from public opinion. The next step is to shift the masses' attention to the illegally immigrated Infected in the city.
+
+A Voice from the Phone:
+It doesn't matter. Those affairs are theirs to handle as they wish. Our goal has always laid elsewhere.
+
+A Voice from the Phone:
+As for Nearl...
+
+A Voice from the Phone:
+...So <i>now</i> you're willing to step forward for the justice you believe in? Then why not then?
+
+
+

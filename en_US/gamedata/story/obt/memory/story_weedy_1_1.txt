@@ -1,0 +1,657 @@
+Rhodes Island Bioengineering Lab
+
+10:00 A.M. \ Sunny, clear
+
+???:
+Weedy?
+
+Closure:
+Oh, sorry, sorry.
+
+Closure:
+I used the disinfectant spray at the door... and I wasn't doing any experiments before I came...
+
+Closure:
+I'm coming in, okay? I don't wanna hear any whining that I smell like machine oil this time.
+
+Closure:
+Anyway, your contract's almost up, and they make us do an interview before we can renew it. I brought the draft for the new one.
+
+Closure:
+Not much has changed, really; just trying to get HR off my back.
+
+Closure:
+......
+
+Closure:
+Hello? Anybody home?
+
+Closure:
+Dang, I forgot. Weedy and Blaze always do physical training at this hour. Guess I'm off to the training grounds.
+
+Weedy:
+Over here, Luli.
+
+Luli:
+Sorry I'm late. I almost didn't recognize you.
+
+Weedy:
+Is that so? Speaking of which, if I didn't know any better I'd think you were born and raised in Columbia.
+
+Luli:
+I have spent an awful long time in Trimounts, after all. We haven't seen each other since Iberia, have we?
+
+Weedy:
+I was in the audience when you gave Rhine Lab's presentation at the last Trimounts Bioengineering Frontier Conference.
+
+Luli:
+Really?
+
+Weedy:
+I was going to meet you after the session, but I had to leave for an emergency call from the Medical Department.
+
+Luli:
+So <i>you</i> were the Rhodes Island representative who had to withdraw?
+
+Weedy:
+We'd just taken in a batch of patients in critical condition, and they needed my expertise.
+
+Luli:
+You do realize how competitive that conference is, don't you? There are so many universities and tech companies fighting for those slots.
+
+Blaze:
+Spike the temperature to herd the enemy where you want them, then finish 'em off with the chainsaw.
+
+Blaze:
+Hyah!
+
+Closure:
+Blaze! Got a moment?
+
+Blaze:
+Hey, Closure. How'd you like my move just now?
+
+Closure:
+Spicy. It's just you here, though? Where's Weedy?
+
+Blaze:
+We cancelled today's training.
+
+Closure:
+Huh? Why?
+
+Blaze:
+I thought it was about yesterday at first.
+
+Closure:
+Yesterday, huh...?
+
+Blaze:
+Careful!
+
+Blaze:
+At these temperatures—
+
+Weedy:
+No need to hold back. I want to test the limits of the water cannon post-modification.
+
+Blaze:
+Can you take the recoil though?
+
+Weedy:
+Should be fine. It's a chance to put that physical training to the test.
+
+Blaze:
+Alright then.
+
+Weedy:
+Get ready, Leaf!
+
+Closure:
+What...? Did you... knock her out?!
+
+Blaze:
+No! Nothing to do with that! She cancelled to go see an old friend.
+
+Closure:
+Oh yeah?
+
+Blaze:
+A Rhine Lab employee, apparently.
+
+Closure:
+She never told me about that...
+
+Closure:
+Wait, Rhine Lab?! And that didn't raise any alarm bells for you?!
+
+Blaze:
+(Shakes head)
+
+Closure:
+Weedy was one of the first to join Rhodes Island, her contract's about to expire, and I've been trying in vain to track her down these past few days.
+
+Closure:
+And now she's meeting with an old buddy from Rhine Lab.
+
+Closure:
+On <i>top</i> of all that, just the other day she got injured while training with a certain someone.
+
+Blaze:
+Hey, she wasn't injured! I know it looked bad, but I took her to Medical for a full checkup.
+
+Closure:
+Either way, all signs point to...
+
+Blaze:
+No way.
+
+Closure:
+I sure hope not.
+
+Closure:
+Seriously, why would you swing for the fences in training? Don't you know how strong you are?
+
+Blaze:
+Weedy knocked me back too, you know... She's gotten a lot stronger and more skilled.
+
+Waiter:
+Excuse me, miss.
+
+Waiter:
+Could you please move this, er... gun? It's blocking the passageway.
+
+Weedy:
+Oh, sorry about that.
+
+Waiter:
+Thank you.
+
+Luli:
+What's that, Weedy?
+
+Weedy:
+It's a water cannon that can shoot water at various pressures, or even as high-temperature steam jets.
+
+Weedy:
+It can be used as a portable energy source, which is useful for localized testing of the landship's automation upgrades.
+
+Luli:
+Looks more like a weapon to me. That shoots people with high-pressure water jets. Or steam, apparently.
+
+Weedy:
+Well, yes, combat was another application it was designed for.
+
+Weedy:
+Researchers need weapons too.
+
+Luli:
+Why on Terra would the head of Rhodes Island's bioengineering lab ever have to fight? Do they not assign security forces for their researchers?
+
+Weedy:
+That's not what I meant.
+
+Weedy:
+I had the idea of building a water cannon back when I was still in Iberia.
+
+Weedy:
+I would sometimes wonder, could I have blasted them out of his lab if I'd had a weapon like this back then?
+
+Luli:
+You'd need more than a water cannon to deal with the Inquisition.
+
+Weedy:
+Yes, it was just the fancy of a child. That's why I mostly use it for construction and development.
+
+Luli:
+......
+
+Weedy:
+Oops, I almost forgot we had business to attend to.
+
+Assistant Operator:
+You were looking for me, Closure?
+
+Closure:
+Is your boss back yet?
+
+Assistant Operator:
+No. Weedy went—
+
+Closure:
+Yeah, I know. I didn't see her at the lab.
+
+Assistant Operator:
+The bioengineering lab is out of service right now.
+
+Closure:
+Huh?
+
+Assistant Operator:
+Don't you remember? You came in without disinfecting last time, causing the contamination detection alarm to go off and—
+
+Closure:
+Hey, I cleaned up right away, didn't I?
+
+Assistant Operator:
+Yes, you used one of the hand-wash stations, putting the entire water sanitation system out of commission.
+
+Closure:
+It's not <i>my</i> fault Weedy turned the detection AI's sensitivity all the way up!
+
+Assistant Operator:
+Regardless, she decided to fully disinfect the lab and let it idle for a week before reopening it.
+
+Closure:
+Someday we'll need to have a talk about how her mysophobia intersects with laboratory regulations.
+
+Assistant Operator:
+......
+
+Closure:
+Wait, but won't that delay your latest project?
+
+Closure:
+Didn't Weedy submit a bunch of reports and funding applications just last week?
+
+Closure:
+Oh, crap, I think I forgot to approve them...
+
+Closure:
+Weapon upgrades for the training grounds... procurement for the Logistics Department... bridge repairs...
+
+Closure:
+I could swear I left them right here.
+
+Closure:
+Crap, don't tell me I misplaced her applications.
+
+Assistant Operator:
+......
+
+Closure:
+Lab out of service, new projects not getting approved... She must be tearing her hair out by now. Do you know what she's been up to lately?
+
+Assistant Operator:
+She received a package that seemed to contain some kind of research materials from an old friend. She's been going over them in her quarters.
+
+Closure:
+An old friend? The same one who works for Rhine Lab? The one she's meeting today?
+
+Assistant Operator:
+Yes, that one.
+
+Closure:
+......
+
+Closure:
+So she's already helping other companies with their projects.
+
+Assistant Operator:
+Huh?
+
+Closure:
+She's already made up her mind then...
+
+Closure:
+Oh jeez, how am I going to explain this to Kal'tsit and Amiya?
+
+Closure:
+Come to think of it, she's had a hand in half of Rhodes Island's automation projects...
+
+Closure:
+She's one of our oldest employees, but never gets the attention she deserves. Can't blame her for keeping her resume up-to-date.
+
+Closure:
+Heck, the only reason she came here in the first place is that we were the first to make an offer.
+
+Closure:
+I've failed her as both a supervisor and a colleague...
+
+Assistant Operator:
+What are you talking about, Closure?
+
+Closure:
+Do you know where Weedy is meeting her friend?
+
+Assistant Operator:
+A bar, I think.
+
+Weedy:
+Oops, I almost forgot we had business to attend to.
+
+Weedy:
+I've looked through the documents you sent me.
+
+Weedy:
+Specifically, I made some corrections to the section on beachfront engineering based on Ægir technology, referencing the models and theories from Abuelo's manuscripts.
+
+Luli:
+Thanks, Weedy. You're the only one I could think of when it comes to this stuff.
+
+Luli:
+Rhine Lab has experts on all sorts of things, but not on the ocean or the Ægir.
+
+Weedy:
+No problem, it was nothing.
+
+Weedy:
+I've been away from Iberia for a while, though, so there might be new variables I haven't taken into account. I can't guarantee 100% accuracy.
+
+Luli:
+That's fine, I'll cross-check them in the field. I just wanted to gather all the materials I could pertaining to the current state of research, before I go back to Iberia.
+
+Weedy:
+......
+
+Weedy:
+You're going back to Iberia?!
+
+Weedy:
+Why so suddenly?
+
+Luli:
+I was visited by a Messenger from the Inquisition last month.
+
+Weedy:
+The Inquisition...
+
+Luli:
+They brought a research proposal on maritime engineering, a handwritten letter from an Inquisitor, and an entrance permit into Iberia issued by the Inquisition.
+
+Luli:
+The documents you went over were part of that research.
+
+Weedy:
+So they're opening up research into the ocean to outsiders...
+
+Luli:
+Yes. Iberia is seeking change.
+
+Weedy:
+Have you made up your mind?
+
+Luli:
+Yes, that one.
+
+Weedy:
+But you've spent so much time at Rhine Lab.
+
+Luli:
+I'll be turning in my resignation. There's a lot of red tape involved, though. Project handovers, non-compete clauses, etc. Exactly what you'd expect from a big company.
+
+Luli:
+But Iberia is in my blood. No matter how far away I go, I'll always smell the scent of brine in the air, and follow it back to Iberia.
+
+Luli:
+There were two reasons I came here. The first was to hand over the responsibilities of the Rhine Lab liaison. The second was to seek you out.
+
+Weedy:
+......
+
+Weedy:
+You want me to come back to Iberia with you.
+
+Luli:
+Yes.
+
+Weedy:
+I'm sorry, Luli, but I can't.
+
+Luli:
+Because of Rhodes Island?
+
+Luli:
+Forgive me for being frank, but Rhodes Island is hardly the ideal employer.
+
+Luli:
+Due to their focus on clinical application, and involvement in crises across Terra, the resources they can offer for your research are limited.
+
+Luli:
+And not only did they make you pull out of the Trimounts Bioengineering Frontier Conference, apparently you have to fill in for armed personnel?
+
+Weedy:
+Well, as I've already explained—
+
+Luli:
+Your contract with them is about to expire, too.
+
+Weedy:
+Rhodes Island isn't what you think it is, Luli.
+
+Luli:
+You still have chip on your shoulder about Iberia, don't you? Because of what happened to your grandfather?
+
+Weedy:
+......
+
+Luli:
+Didn't you used to say that 'limitations on science are always set by <i>people</i>'?
+
+Weedy:
+Those were Abuelo's words. I tried very hard to convince him to leave Iberia, but he never did.
+
+Luli:
+Science is the exploration of the unknown, but those who passionately throw themselves into it will find many locked drawers in front of them. The ocean, the Ægir, the Profound Silence...
+
+Luli:
+No researcher could possibly enjoy an Iberia like that.
+
+Luli:
+But Weedy, the tide has come ashore, reaching up to Iberia's ankles, and threatens to drown all of it.
+
+Weedy:
+So I've heard from our newer Iberian operators.
+
+Luli:
+We can demand that the Inquisition release your grandfather's research. After all, it's closely linked to the maritime engineering project they sent over.
+
+Luli:
+Iberia needs to seek change. The locks on those drawers are opening up, one by one.
+
+Weedy:
+I know.
+
+Weedy:
+But I can't go back with you right now.
+
+Luli:
+Why not?
+
+Weedy:
+For the reason you brought up before tossing it aside: I need to stay at Rhodes Island.
+
+Weedy:
+Abuelo hated Iberia, and he hated the Inquisition, for laying waste to his life's work in an instant.
+
+Weedy:
+But he wouldn't leave the country, even after his research license was revoked.
+
+Weedy:
+I thought it was because he was old and didn't feel like going through the effort of starting over.
+
+Weedy:
+But there's no such thing as a utopia for scientific freedom. Far too many scientists have died in exile.
+
+Weedy:
+Later, I began to understand that he simply wanted to keep defending what he loved doing. He was waiting for the locks to open, to pick his research back up.
+
+Closure:
+Congratulations. You passed our tests. Welcome to the team.
+
+Weedy:
+You say tests... It was one interview.
+
+Closure:
+Eh, we're a start-up. We need all the talent we can get.
+
+Closure:
+It took a lot of convincing to get Amiya to set up a bioengineering lab. You're the only member right now, so we're counting on you to make something of it! No pressure.
+
+Weedy:
+......
+
+Closure:
+Of course, we'll give you all the support we can, in terms of funding, equipment, experiments... Anything you need, just say the word.
+
+Medic Operator:
+The operation went well.
+
+Weedy:
+Great.
+
+Medic Operator:
+It's all thanks to your help fixing the sickbay's automation equipment.
+
+Medic Operator:
+I'm really sorry we had to call you back like this. That was an important conference, wasn't it? You spent so much time on that thesis.
+
+Weedy:
+It's okay. All five Infected are out of danger, right?
+
+Medic Operator:
+Yes.
+
+Weedy:
+Good.
+
+Medic Operator:
+By the way, there's a child who wants to chat with your bionic seadragon. She says you promised her before the operation.
+
+Weedy:
+Right. I'll head in now.
+
+Medic Operator:
+Are you sure? You must be tired.
+
+Blaze:
+Sorry, I should've been more careful. You hurt anywhere?
+
+Weedy:
+I'm fine.
+
+Blaze:
+You could just focus on your experiments, you know.
+
+Weedy:
+Weren't you the one who said I needed to build up my constitution?
+
+Blaze:
+What I mean is you don't have to fight.
+
+Weedy:
+Surgery and experiments can solve only a small part of the Oripathy problem, as—
+
+Blaze:
+Enough lectures, sheesh. Just stay behind me, alright? The battlefield can be chaotic, but I'll take out all the enemies before you're in any danger.
+
+Weedy:
+Don't underestimate an industrial water cannon.
+
+Weedy:
+I'm staying at Rhodes Island for the same reason that Abuelo wouldn't leave his lab, and the same reason you've chosen to return to Iberia.
+
+Weedy:
+It's not because I'm afraid of restrictions in a far-away land, but because there's something here that I'm passionate about, which I feel is important to carry on.
+
+Luli:
+......
+
+Waiter:
+Excuse me, miss...
+
+Weedy:
+Closure?!
+
+Closure:
+Please Weedy, won't you reconsider?
+
+Weedy:
+Reconsider... what?
+
+Closure:
+You know how excited Blaze gets in battle. She didn't mean it.
+
+Closure:
+And you know I get a little hare-brained when things get busy.
+
+Closure:
+I didn't reject those funding applications you sent last week, I just misplaced them!
+
+Closure:
+Heck, I still remember the titles! 'Connecting Heterogenous Arts Units,' 'Reengineering Ægir Maritime Technology Through Lighthouse Components'... they have a lot of potential.
+
+Luli:
+(Maritime technology...)
+
+Weedy:
+Misplaced?
+
+Weedy:
+You signed them on the spot and handed them back to me. Did you forget?
+
+Closure:
+Oh... Well, anyway, I want you to give serious consideration to staying at Rhodes Island.
+
+Weedy:
+......
+
+Weedy:
+Er... did you think I was going to leave?
+
+Closure:
+HR was pressing me to get your contract renewal done, but I just couldn't find you. You weren't at the lab, either.
+
+Weedy:
+Luli's going back to Iberia, so I came to see her off. Oh, I forgot. This is Luli, from Rhine Lab.
+
+Luli:
+About to resign from Rhine Lab, actually. I'm Luli. Let's just say Weedy and I are fellow countrymen.
+
+Closure:
+Resign? So you're not...?
+
+Closure:
+Ahem. I'm Closure, head of Rhodes Island's Engineering Department, and Weedy's supervisor and friend.
+
+Luli:
+......
+
+Closure:
+I'm not interrupting anything, am I?
+
+Luli:
+No, we were just about done.
+
+Luli:
+I think I understand your choice, Weedy. I'll respect it.
+
+Luli:
+And it looks like you do plan to...
+
+Weedy:
+Right, just not now. Thanks for coming to see me. Have a safe trip.
+
+Luli:
+Bye bye.
+
+Weedy:
+Bye.
+
+Weedy:
+Wait, you said you went into the bioengineering lab today?
+
+Closure:
+...Er, yeah.
+
+Weedy:
+Didn't you know it needed to be put into idle cycle for a week after being disinfected?
+
+Closure:
+......
+
+Weedy:
+Closure!
+
+
+

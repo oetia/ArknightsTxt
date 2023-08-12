@@ -1,0 +1,601 @@
+???:
+......
+
+???:
+Perhaps my understanding is flawed, but does the handling method Rhodes Island has chosen fall under the... cooperation you mentioned?
+
+Kal'tsit:
+Our liaison was precisely to discuss that, but it seems you've arrived a few hours ahead of schedule.
+
+???:
+I would imagine that even on dry land, arriving earlier than the designated time ought not undermine trust.
+
+Kal'tsit:
+And even in Ægir, traipsing through the entryway of another's home without so much as a greeting ought not constitute etiquette.
+
+???:
+You remain quite eloquent, but I have no intention of apologizing. Moreover...
+
+Before the Ægir's voice reaches, she has already reappeared over ten meters away, standing before the door at corridor's end as if she had been there all along.
+
+Only her voice, left to linger in the hallway, attests to her movement.
+
+She presses her lance lightly against the solitary door, covered in pale blue stickers. Her expression communicates both disgust and indignation, yet her breathing is calm and unperturbed.
+
+Gladiia:
+Forgive me for asking, but what purpose could compel you to allow a room of this kind, Dame Kal'tsit?
+
+Kal'tsit:
+As I described in my letter, those living quarters belong to another partner of Rhodes Island.
+
+Gladiia:
+Do I mishear you? It is my solemn hope that you have not been drawing inspiration from that school of lunatics and their revolting technology.
+
+Kal'tsit:
+Rest assured that we will not attempt to contend with a menace threatening to engulf this land by making use of a different one.
+
+Gladiia:
+That is a relief above any other.
+
+An oblique notch is abruptly slashed into the tough alloy of the doorway, and in one audible movement the Ægir's foot elegantly pries it apart into two clean halves.
+
+She disappears through it, sweeps across the room as if searching, and reappears with nothing to show, all in the blink of an eye.
+
+Gladiia:
+How bizarre. I've somehow managed to mistake the scent of those dregs.
+
+Gladiia:
+Or perhaps I should have realized that when you never lifted a finger to stop me, it was not out of acquiescence.
+
+Kal'tsit:
+Setting aside your combat skills, I fear the Abyssal Hunters must also learn to control their emotions when faced with their old enemy.
+
+Kal'tsit:
+Although their present evolution is but the fruit of selective pressures, unguided by intellect, there may always come a day when they reach that milestone.
+
+Gladiia:
+Keh. Assume they do. Perhaps, one day, I will indeed try and resist the urge to mangle those filthy beings just long enough to understand their intent.
+
+Gladiia:
+Tell me, then. Does Rhodes Island house these things simply to teach me that valuable lesson?
+
+Kal'tsit:
+I had no intention of playing games with you. My confidence in the Abyssal Hunters' remarkable drive to action simply meant I couldn't let this conversation end before it began.
+
+Gladiia:
+And for whose sake does your firm believe my Hunters so carefully and cautiously interact with you all? Keeping far from the landship, daring not to be wounded or shed blood?
+
+Kal'tsit:
+The information we can obtain from the subject's physiology is worth far more than the brutal death of a single Sea Terror. As a designer of warfare yourself, you should understand this.
+
+Kal'tsit:
+I've transferred the cooperating subject known as 'Mizuki' elsewhere for the time being. I hope we can now have an even-tempered discussion and reach an equally rational conclusion.
+
+Several months ago
+
+City of Dossoles, Bolívar
+
+Impatient Mercenary:
+Alright, looks like the Singas guys took the bait! Quick, tell our men to follow the plan!
+
+Cowardly Mercenary:
+Uh, got it.
+
+Impatient Mercenary:
+When this is all over, our brothers will finally be... truly free!
+
+Ernesto:
+The explosion didn't alert Ms. Candela, did it?
+
+Bolívarian Serviceman A:
+Reporting in, no. Our informants have been shadowing her the whole time. She's never left the room, and hasn't sent out any instructions.
+
+Ernesto:
+Excellent. It's still a few hours until sunrise. That's plenty of time for a cover-up.
+
+Ernesto:
+We can't let her catch wind of our explosives. The only thing she won't ignore is anything that risks her city plates getting destroyed and scaring the bastards living it up here.
+
+Ernesto:
+Have we found out who was responsible for the warehouse yet?
+
+Bolívarian Serviceman B:
+Reporting in, it was two mercenaries from True Bolívarians.
+
+Bolívarian Serviceman B:
+But we can't link to their comm terminals, and they're not in their hideout. Our guys are on their trail right now.
+
+Ernesto:
+Any moves from the Singas side? With the Championship coming up, they should be asking Ms. Candela what the hell's going on, after their guys got hurt in an explosion.
+
+Bolívarian Serviceman B:
+Apparently they're looking for someone. Based on what little we've overheard, they're calling whoever it is 'those kids'.
+
+Ernesto:
+Wasn't there a Leithanian youth choir staying at a pub near the warehouse recently?
+
+Ernesto:
+Were any of the pub's employees caught in the explosion?
+
+Bolívarian Serviceman B:
+Reporting in. We've checked everyone's IDs. Practically all of them were pub security. And simultaneously Singas government soldiers, of course.
+
+Ernesto:
+Haha, looks like those two mercenaries got both us and the Singas guys good.
+
+Ernesto:
+If the Singas people aren't complaining to Ms. Candela, then maybe they were planning to buy the explosives from them...
+
+Ernesto:
+And the True Bolívarians side used the deal as a trap to lure in and blow up the Singases in the pub. Taking the opportunity to kidnap the VIPs too—the 'kids'.
+
+Bolívarian Serviceman B:
+What? That takes some balls... What's the plan, then?
+
+Ernesto:
+Prioritize staging it to look like a fire, just your everyday accident. Ms. Candela needs to believe that.
+
+Ernesto:
+Maybe if we can find the kids first, we'll have even more room to bargain with the Singases...
+
+Bolívarian Serviceman A:
+Reporting in! We just intercepted an anonymous message on its way to the police terminals.
+
+Bolívarian Serviceman A:
+It's got info on True Bolívarians kidnapping the Leithanian choir, as well as some coordinates.
+
+Bolívarian Serviceman A:
+Right now we're the only ones with the tip-off. What's our next move?
+
+Ernesto:
+Wipe all traces of it immediately! We can't let Ms. Candela's people find out.
+
+Ernesto:
+The coordinates are probably fake. Don't jump the gun. Just seal all routes out of the city, and focus on making it look like a fire.
+
+Bolívarian Serviceman A:
+On it!
+
+Ernesto:
+What the hell's going on...? Who's behind this? Who would it even benefit?
+
+Ernesto:
+...Who's there?
+
+???:
+Shoot, he's really sharp. But he'll have to try a little harder if he wants to find me.
+
+???:
+Hm... I can't just ignore it when bad guys are doing bad things to children.
+
+???:
+Come to think of it, they arrived from Leithanien on the same merchant ship I was on, only a couple days ago. It's like fate, kinda.
+
+???:
+I haven't even heard them sing on the big stage yet. Can't waste the ticket I bought.
+
+Impatient Mercenary:
+Tch. How can a pub have so many guards? We dealt with every last one we drew out, and there were still all those guys left.
+
+Cowardly Mercenary:
+But, uh, our brothers more or less dealt with them, so it worked out...
+
+Impatient Mercenary:
+Hmph, goddamn Singas tools. Why guard those kids with all those men in the middle of the night?
+
+Cowardly Mercenary:
+It feels like they're... guarding the kids themselves? Or else their people will run? Weird...
+
+Impatient Mercenary:
+You might just be onto something. Could really be what's happening.
+
+Cowardly Mercenary:
+Huh?
+
+Impatient Mercenary:
+Think. None of our brothers actually want to get into this random shit with those True Bolívarians, do they? Maybe we're all planning to make a run for it?
+
+Cowardly Mercenary:
+Yeah... Yeah, but I always thought Pancho's ideas made some sense...
+
+Impatient Mercenary:
+Hey. Who gives a shit what makes sense? It can be the biggest no-brainer and it's still useless if he can't take the city with it.
+
+Impatient Mercenary:
+And well, even if he does, all you can do with this city is skim dirty money off the top. It doesn't even have a single proper workyard.
+
+Impatient Mercenary:
+He wants to fund the Bolívarian nation? Without support from the Columbians and Leithanians, I doubt he can fund even a single decent weapon.
+
+Cowardly Mercenary:
+But...
+
+Impatient Mercenary:
+No buts. Even if there's a way, it's not for us guys under the hood to figure out.
+
+Impatient Mercenary:
+Just listen to me, okay? Once this is over, we're all off to live the good life.
+
+???:
+*Sigh*...
+
+Impatient Mercenary:
+What are you sighing for?
+
+Cowardly Mercenary:
+Huh? Did I make a noise?
+
+???:
+Maybe YOU can go live the good life, but who knows where the children you sold will end up?
+
+Impatient Mercenary:
+Conchetumare, what carajo business is it to you?! Where did you even come from, pendejo? I'll sell you with the rest of 'em!
+
+Cowardly Mercenary:
+Yeek!
+
+Impatient Mercenary:
+What're you so scared of?
+
+Cowardly Mercenary:
+My knife... I was gonna slash him, y'know, show some blood to freak him out, but the knife just kinda rolled up!
+
+Impatient Mercenary:
+Useless garbage! What'd I just say about these crappy weapons? They wouldn't do shit to a baby.
+
+Impatient Mercenary:
+Also, watch the kid's skin. Soft and smooth sells. No cutting, just follow my lead...
+
+Impatient Mercenary:
+Urk...
+
+Cowardly Mercenary:
+Why are you lying down? Let's catch him... guh? The room's tilting! I can't stand!
+
+Cowardly Mercenary:
+Urgh...
+
+Impatient Mercenary:
+Tch. Pendejo. What goddamn evil shit are you? You got cups on your shoes or something? How are you standing on this steep-ass...
+
+???:
+Huh? You're the ones standing crooked to me. Must be why you think everything else is wonky, and you're the only ones standing straight, huh?
+
+Impatient Mercenary:
+Tch! Who sent you? What kinda Leithanian black magic is this? What the hell are you, kid?!
+
+Kal'tsit:
+I'm very sorry, Dr. {@nickname}, but I still believe it's not yet time to give you the whole explanation.
+
+Kal'tsit:
+Full elucidation would only serve to add to your current worries, and therefore impact your judgment in many areas.
+
+Kal'tsit:
+Regardless of whether you see yourself as a commander, or as a guide.
+
+Kal'tsit:
+Which is why I haven't concealed the Medical Department's plans for, and stance towards, the subject. Moreover, we invited you into this discussion as early as possible.
+
+Kal'tsit:
+As for your proposal to exempt the subject from some of the agreed upon restrictions, you will be briefed on the various risks this poses to you.
+
+Kal'tsit:
+While it may not address all of your doubts, I would still like for you to listen to the staff and I's opinions at the meeting.
+
+Kal'tsit:
+They'll be here soon.
+
+Impatient Mercenary:
+Our brothers will be here soon! Don't get so full of yourself!
+
+???:
+I wasn't planning to. But I doubt your friends can make it, because they all went lights out before you did. Just like the guy next to you.
+
+???:
+But the kids you took should be waking up right about now.
+
+???:
+An underground cellar is no place for a dozen children to be sleeping. They should be at home, in bed.
+
+Impatient Mercenary:
+You...!
+
+Impatient Mercenary:
+Tch, listen to yourself. 'Home'.
+
+Impatient Mercenary:
+What home, huh? What home are they ever gonna have?
+
+Impatient Mercenary:
+Like hell a spoiled Leithanian brat who dresses like a freak would know how those kids live!
+
+???:
+Huh? I'm not Leithanian. My name's 'Mizuki'. Even you can tell that sounds Higashinese, right?
+
+Mizuki:
+Oh, and if we're talking about 'homes', I think I've got a little right to speak, at least.
+
+Mizuki:
+After all, my home was destroyed by bad guys when I was really young. A bunch of criminal scum who robbed others. Just like you, how about that?
+
+Impatient Mercenary:
+Hff...
+
+Impatient Mercenary:
+What the hell do you understand, brat? I-It's not like I wasn't trying to help those kids too!
+
+Impatient Mercenary:
+You don't even know why the Singases sent those kids here!
+
+Mizuki:
+So they could perform, duh? Make Bolívarians familiar with Leithanian culture?
+
+Mizuki:
+'The people here eat, sleep and breathe what the Columbians do, yet all their influence comes from Leithanian culture.'
+
+Mizuki:
+I've been sick of your True Bolívarians pretexts since forever ago.
+
+Impatient Mercenary:
+Heheh, hahahahahah! True Bolívarians...
+
+Impatient Mercenary:
+The people who chose this city never identified with Bolívar in the first place. Even if they did, it'd get rubbed outta them sooner or later.
+
+Impatient Mercenary:
+The people who come here, whether Bolívarian, Columbian, or Leithanian, are all here for goddamn son-of-a-bitch money!
+
+Impatient Mercenary:
+You think they're here to watch Leithanian musicals and poems?
+
+Impatient Mercenary:
+They're just looking for good performers with nice voices and pretty faces to amuse them at their dinner parties!
+
+Impatient Mercenary:
+But the Leithanian bastards knew that from the start. They used these kids as goddamn props to make their goddamn deals.
+
+Mizuki:
+......
+
+Mizuki:
+Guess you've got it all figured out.
+
+Impatient Mercenary:
+I do. How could I not? Our line of business ain't nothing more than fighting in a rich man's world.
+
+Impatient Mercenary:
+All they gotta do is cough up some cash and we're behind them, babysitting their goddamn pets! Of course we all eventually see through that rotten bullshit.
+
+Impatient Mercenary:
+And those kids... they're no different.
+
+Mizuki:
+Sure, you're both struggling, but you can't deny that you're using them as tools for your own profit too.
+
+Impatient Mercenary:
+And these 'children' weren't using the bigshots of Dossoles either? They never exploited them for any goddamn benefit?!
+
+Mizuki:
+Must be nice to still be able to nitpick this stuff while crawling around on the ground. The children never kidnapped anyone to use as chips in their deals.
+
+Impatient Mercenary:
+Wha... What the hell is...? Don't you come any closer!
+
+Impatient Mercenary:
+Goddamn bastard, why can't I move? You little bitch...
+
+Mizuki:
+And bad guys beyond cure, like you, should just—
+
+Kal'tsit:
+As described in the meeting, he's already become an entirely different form of life, a type of organism that transforms and reconstructs itself to seek a way forward.
+
+Kal'tsit:
+I assume you understand that life depends on finite resources for survival. Moreover, these organisms must consume vast quantities to achieve their transformations.
+
+Kal'tsit:
+Simply put, they are currently caged by their finite environment, actively reducing their own consumption in order to continue their race. Hibernating beneath the tides.
+
+Kal'tsit:
+But there may come a day when we must compete with them, over all that is required to survive.
+
+Kal'tsit:
+Just as we hunt the vermin that ruin our village stores, so too will we snatch their lives away. Or, perhaps, we will instead become the nutrients stowed in their folds.
+
+Kal'tsit:
+I imagine you've already noticed. Unlike the rest of his kin, the subject has drifted beyond identifying with his race. He has his own thoughts and bewilderments.
+
+Kal'tsit:
+If not, we might not be having this discussion at all.
+
+Kal'tsit:
+These creatures' transformations and evolutions were originally meant to propel their race's development.
+
+Kal'tsit:
+But perhaps the subject cannot truly be called the same. Not the same as one of those lifeforms, nor as you or I.
+
+Choir Member:
+Stop it!
+
+Choir Member:
+He's... He's the same as us!
+
+Mizuki:
+......
+
+Impatient Mercenary:
+H-How did you get here?
+
+Choir Member:
+...I planned all of this.
+
+Choir Member:
+I slipped out a few nights ago, and used my singing to transmit mental suggestions with Originium Arts, getting all the dead-drunk Bolívarian mercenaries to take the bait.
+
+Choir Member:
+The pub's guards were obsessed with buying the explosives thanks to the information I leaked, too.
+
+Mizuki:
+So, even if I didn't come save you...
+
+Choir Member:
+I wrote a message for the police ahead of time, set to send by terminal on a timer.
+
+Choir Member:
+If they try him... then I'm an accomplice.
+
+Impatient Mercenary:
+Tch, stupid little choir kid... You trying to sympathize with me? Is this a joke?
+
+Mizuki:
+Man, this is turning into a real headache. I just wanted to get you all back so I wouldn't waste the ticket I ordered for that upcoming music program.
+
+Mizuki:
+So... in this situation, do you still count as a bad guy, mister?
+
+Impatient Mercenary:
+Heh, cut the bullshit, Leithanian dog. Kill me or whatever, that's up to you.
+
+Impatient Mercenary:
+But if you Leithanian shits dare touch those kids or snatch them back, then even death ain't gonna stop me from being your worst nightmare!
+
+Mizuki:
+I told you, I wasn't sent by the Leithanians.
+
+Choir Member:
+By now, these people must be fed up with life in this city and all the endless fighting.
+
+Choir Member:
+I'm so sorry I used them in my own selfish escape plan...
+
+Choir Member:
+But maybe they're the same as me... We all just want to escape this city, to escape our own homes.
+
+Mizuki:
+Augh, seriously...?
+
+Mizuki:
+Fine, I'll back off and stop meddling. Otherwise, I'll start to seem like the bad guy.
+
+Mizuki:
+But I don't think your plan would've worked without these people's greed.
+
+Mizuki:
+So just to be safe, I'll let them nap for a little longer, while you guys get away.
+
+Mizuki:
+I'll be watching him.
+
+Kal'tsit:
+I have never called your ability into question, Dr. {@nickname}.
+
+Kal'tsit:
+I have complete faith that you can guide his transformation and reconstruction in a direction we would consider 'good'.
+
+Kal'tsit:
+But is it appropriate for us to transform a person like this? Simply because we can? Simply because we maintain that one specific form of survival is the proper one?
+
+Kal'tsit:
+Is it at all different from altering the subject's personhood in pursuit what we maintain is a finer form of life?
+
+Kal'tsit:
+This isn't an interrogation, Dr. {@nickname}. I simply want to know if you've ever had the notion that 'our own form of life is superior'.
+
+Kal'tsit:
+This may sound somewhat arrogant, but even possessing choice is often a luxury we don't have, let alone bestowing it.
+
+Kal'tsit:
+But it is indeed an improvement over interfering with others simply because you can.
+
+Kal'tsit:
+Mere interaction necessarily gives rise to interference, even if it is not one's intent. Even if it is not through spoken language.
+
+Kal'tsit:
+When you decided you'd treat the subject as an Operator and communicated with him as such, you were already bound to influence one another.
+
+Kal'tsit:
+That's the answer I most wanted to hear, yet also the one that most concerns me.
+
+Kal'tsit:
+The operators trust, love, and respect you, and entrust their lives to you on missions, all because of your willingness to step forth. Because only you can do that.
+
+Kal'tsit:
+I have not the slightest doubt that you can bear your ever-increasing responsibilities. But there may come a day when they contradict each other, conflict with each other, and drive you to make an unwilling choice.
+
+Kal'tsit:
+However, as you've resolved yourself to do so, I will not stand in your way.
+
+Kal'tsit:
+I often warn the operators you command that, should they approve of you, they ought not harbor too many misgivings about you.
+
+Kal'tsit:
+Not just because it would hinder effectiveness in combat, and numerous other projects. But because for many people, this place is their home.
+
+Kal'tsit:
+Goodbye then, Dr. {@nickname}. Don't keep those who trust you waiting outside for too long.
+
+Mizuki:
+Ah...
+
+Kal'tsit:
+......
+
+Mizuki:
+Doctor, Dr. Kal'tsit said I'd be officially under your command starting today!
+
+Mizuki:
+It's a pity I still can't be a formal Operator, but as long as you need my help, I'll do whatever I can.
+
+Mizuki:
+That feels like a kinda half-hearted reply.
+
+Mizuki:
+Are you still chewing over all that complicated stuff? Or am I just worrying too much?
+
+Mizuki:
+What's wrong, Doctor? Something on your mind?
+
+Mizuki:
+Whatever troubles you, you can always talk to me, you know.
+
+Mizuki:
+Huh? Is that what you want?
+
+Mizuki:
+I don't really care what status I have, as long as I'm with you.
+
+Mizuki:
+Speaking of which, you really don't have to worry about me...
+
+Mizuki:
+I agreed to all of Dr. Kal'tsit's strict limitations to protect both my info and my safety.
+
+Mizuki:
+Really, Doctor...
+
+Mizuki:
+We're all responsible for our choices, right?
+
+Gladiia:
+You may be of the mistaken belief that such an argument would produce some kind of... compassion.
+
+Kal'tsit:
+Of course not.
+
+Kal'tsit:
+Your investigation of dry land will sooner or later require support from dry land. And resisting the underwater enemy may also sooner or later become the task of those on dry land.
+
+Kal'tsit:
+So long as you do not interfere with Rhodes Island's singular foray into this field, I can discuss the terms with you.
+
+Kal'tsit:
+I will exhaust all possibilities in supporting your pursuit of that group's traces on dry land, with our existing intelligence-sharing agreement as the foundation.
+
+Gladiia:
+All for the sake of shielding an ignorant individual transformed into an abomination?
+
+Kal'tsit:
+All for the sake of having another possibility in the future.
+
+
+

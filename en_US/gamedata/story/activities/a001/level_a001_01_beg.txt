@@ -1,0 +1,267 @@
+???:
+......
+
+???:
+(...It burns...)
+
+???:
+(...It hurts...)
+
+Bounty Hunter:
+So, the wench still won't speak up?
+
+???:
+(So thirsty... My throat feels like it's on fire...)
+
+???:
+( ...How long have I been here...?)
+
+Bounty Hunter:
+Hah, what a trooper... She's been dangling here for more than a day, but still won't crack.
+
+Violent Bounty Hunter:
+Oi, don't kill her off just yet. She still hasn't told us where the treasure is!
+
+Carol:
+...I'm not... telling you anything...
+
+Bounty Hunter:
+Have it your way then. Don't give her any water until she decides to cooperate!
+
+Carol:
+(Am I... going to die?)
+
+???:
+......
+
+???:
+So, even in Kazimierz...
+
+???:
+...the ruffians run amok everywhere.
+
+Bounty Hunter:
+Hmm? Huh? Who the hell are you? You got a death wish?
+
+Violent Bounty Hunter:
+Oi, kiddo, hurry and scram before...
+
+Violent Bounty Hunter:
+Gaaah! That... that hurt...!
+
+Violent Bounty Hunter:
+That outfit of his... He's not from these parts.
+
+Bounty Hunter:
+Who the hell cares where he's from! The moron sure doesn't value his life if he wants to fight us all by himself!
+
+???:
+So, I'm guessing the diplomatic approach isn't going to work?
+
+Violent Bounty Hunter:
+Unngh!
+
+Bounty Hunter:
+Guhh...
+
+???:
+Good. They won't be bothering us for a while. Let's leave while we still can.
+
+Carol:
+Who... are you...?
+
+???:
+Don't be afraid, nobody's going to hurt you anymore. I'll get you out of here.
+
+Carol:
+...
+
+Carol:
+I'm sorry... My head is... still spinning...
+
+???:
+You look pretty pale. Don't worry, let me carry you then.
+
+???:
+Hold on tight.
+
+Carol:
+Mm...
+
+Clear \ Visibility: 14 km
+
+Nearby Village
+
+Bounty Hunter:
+Have any of you seen a kid with a spear?
+
+Villager:
+I was inside the whole time. I didn't see what was going on outside.
+
+Bounty Hunter:
+You're gonna be real damn sorry if I find out you've been hiding them!
+
+Villager:
+...
+
+Villager:
+They've left, Miss Grani. It's safe for you two to come out now.
+
+Grani:
+Hup~!
+
+Grani:
+Looks like I owe you another one, Mister!
+
+Villager:
+Are you okay, Carol? I'm sorry you had to go through that.
+
+Carol:
+Thank you, Luke. I'm doing much better now.
+
+Grani:
+I wouldn't have been able to rescue you without everyone's help.
+
+Villager:
+Don't worry, Carol!
+
+Villager:
+We've been helping out this young knight here! She promised that she'd save our village!
+
+Carol:
+Huh? She?
+
+Grani:
+Ah, that's right. I'm a girl.
+
+Carol:
+Huh?
+
+Grani:
+Aww, come on! I might not look it, but I'm a proper maiden on the inside!
+
+Carol:
+Ah, um, sorry...
+
+Carol:
+...
+
+Carol:
+It's hard to tell from your outfit, but...
+
+Carol:
+Excuse me, are you... the knight from Kazimierz... who was recently anointed?
+
+Carol:
+After you save our village... Will you make us pay tribute?
+
+Grani:
+No, no. I'm not actually a knight, nor am I even from Kazimierz.
+
+Grani:
+Even though Victoria does have knights, I was actually just a member of the Mounted Police!
+
+Grani:
+Unlike the knights, our only job is to maintain public security. We don't ask for any payment in our line of duty, so of course we wouldn't tax you!
+
+Carol:
+Victoria?
+
+Grani:
+It's the land that lies beyond Kazimierz. My ancestors were actually all Kurantas who moved there from Kazimierz.
+
+Grani:
+I came after receiving your village's request for aid. I also wanted to see what my parents' homeland was like, but... I didn't expect the situation to be so dire.
+
+Carol:
+...Sending those pleas for help... felt like leaving messages in the bottle.
+
+Carol:
+We're used to most non-governmental organizations ignoring us because we're in such a remote location...
+
+Grani:
+I wonder, why didn't the Kazimierz government send out any assistance?
+
+Carol:
+Hmph... Why would those high-and-mighty knights even bother coming all the way out here?
+
+Carol:
+Even without their help, we've lived here peacefully for many years. The hustle and bustle of the city simply has no appeal for us.
+
+Carol:
+For generations, the people of Dewville have lived by these mountains.
+
+Carol:
+We might not be wealthy, but we do have a self-sufficient way of life.
+
+Carol:
+And though we've sometimes had to evacuate to escape from Catastrophes, this is still our home.
+
+Carol:
+That's why... we can't give up this land...
+
+Grani:
+But now, the bounty hunters have brought destruction in their wake...
+
+Carol:
+...All because of those 'Knights' Treasures.'
+
+Carol:
+Over the last few years, the villages around here have become the bounty hunters' stomping grounds.
+
+Carol:
+I heard that a region in the northern part of Kazimierz has been in turmoil, and that has attracted hordes of bounty hunters looking to strike it rich. Apparently, the only way to get up north runs right by our village.
+
+Carol:
+In the past, plenty of bounty hunters used to pass through, but they never caused any problems.
+
+Carol:
+But about a month ago, some bounty hunters dug up a knight's sarcophagus from these mountains. They even found a small chest of gold coins...
+
+Grani:
+Gold coins with the Kazimierz crest on them, like these?
+
+Grani:
+Those bounty hunters tried to pick a fight with me as soon as I arrived. I relieved them of these coins as compensation for their rudeness.
+
+Carol:
+Mhm... these are the same coins. Our troubles began when a certain saying began to circulate among the bounty hunters.
+
+Carol:
+'The ancient Knights of Kazimierz were all buried with their riches near the lands they once called home. Their souls protect these unmarked graves for all of eternity.'
+
+Carol:
+'Only those who fear not sacrifice and possess the true, dauntless bloodline of Kazimierz may open the path.'
+
+Carol:
+Rumors such as these keep spreading, and more and more bounty hunters have been drawn here.
+
+Carol:
+At first, all they used to do was discuss where to look for the next big find. But for some reason, they soon started spreading the idea that the villagers knew where the treasures were buried...
+
+Grani:
+—Shh! Everyone, quiet!
+
+Bounty Hunter:
+What do you mean, you couldn't find them? Double back and search harder this time!
+
+Grani:
+It's not safe to stay here. We can't let any more innocents get dragged into this.
+
+Grani:
+Anyway, let's get out of here first.
+
+Villager:
+Stay safe out there, Miss Knight... I mean, Officer! Please take care of our Chief!
+
+Grani:
+Don't worry, Mister. I'll be sure to protect—
+
+Grani:
+Huh? Chief?
+
+Carol:
+...I've only been on the job for about half a year, but that'd be me... I might not look it, but I'm a proper chief on the inside~
+
+
+

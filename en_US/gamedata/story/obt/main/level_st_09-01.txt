@@ -1,0 +1,382 @@
+Horn:
+We've entered the warehouse. Investigation team, report status.
+
+Triangle:
+Leader. Vital signs to the southeast. Seven shelves away from you, moving within one meter.
+
+Horn:
+Number of heads?
+
+Triangle:
+One.
+
+Horn:
+Any Originium response?
+
+Triangle:
+None for the time being.
+
+Horn:
+Good. Hold your positions.
+
+Horn:
+Bagpipe?
+
+Bagpipe:
+Got it!
+
+Horn:
+What are you looking for?
+
+Bagpipe:
+Doesn't it sound like someone's singin'?
+
+Horn:
+Don't get distracted. This means our target's guard is down.
+
+Horn:
+Keep to the plan. Wait for my signal, then you charge. For now, keep moving in.
+
+Horn:
+Five, four, three...
+
+Horn:
+Ready—
+
+Bagpipe:
+Bunker destroyed!
+
+Panicked Youth:
+Ack—
+
+Panicked Youth:
+*cough* *cough* *hack*... Wh—what's going on? All this smoke out of nowhere!
+
+Horn:
+Don't move! Stay where you are, raise both your hands up!
+
+Panicked Youth:
+I—I... you're... Victorian soldiers?
+
+Bagpipe:
+What do you mean by that? Aren't you Victorian too?
+
+Panicked Youth:
+Er...
+
+Horn:
+He's looking to run. Cello, watch to intercept!
+
+Bagpipe:
+Leader, he's not headin' for the exit, he's turned back—
+
+Horn:
+!!
+
+Horn:
+Triangle! Target heading for the back shelves! If you pick up any Originium response, open fire immediately!
+
+Horn:
+Everyone else, form behind my shield!
+
+Horn:
+Quick!!!
+
+Horn:
+Bagpipe, what are you doing?!
+
+Bagpipe:
+—
+
+Bagpipe:
+I'm coverin' it! Everyone, run!
+
+Horn:
+You—
+
+Bagpipe:
+...!
+
+Triangle:
+Leader, no Originium response. That's not a bomb under Bagpipe.
+
+Bagpipe:
+Oh! False alarm.
+
+Horn:
+And the target...?
+
+Bagpipe:
+Sorry, I knocked him a little hard. He won't be standin' for a while.
+
+Horn:
+And what of the boxes?
+
+Bagpipe:
+I'll take a peek. All potatoes and carrots, and cauliflowers too! I squashed 'em flat. Shame, they seemed just fine for eatin'.
+
+Horn:
+......
+
+Horn:
+Stay alert.
+
+Bagpipe:
+This one, this one, and this one... they're all the same. Leader, it's all produce and grains in here.
+
+Horn:
+Triangle, watch for anyone else nearing our perimeter.
+
+Horn:
+Oboe, you search the warehouse with Bagpipe. Signal on any discovery.
+
+Horn:
+Cello, take this man stuck on the floor and tie him up.
+
+Panicked Youth:
+Urgh...
+
+Horn:
+Right now, sir, we're going to need you to answer a few questions.
+
+Panicked Youth:
+I—I don't know anything. I'm here for sorting the potatoes.
+
+Horn:
+Are you from County Hillock?
+
+Panicked Youth:
+Yes...
+
+Horn:
+Have you heard of any spectre force?
+
+Panicked Youth:
+Spectre... what? *cough*, *cough* *cough*... Doesn't force mean people like you lot, all the soldiers?
+
+Panicked Youth:
+They took Lowry, Julia and Chris away... is it—is it my turn now?
+
+Horn:
+I want you to calm down.
+
+Horn:
+Listen. We have people who saw a batch of Originium goods enter this warehouse late last night. And now, those goods aren't here. You need to give me an explanation.
+
+Panicked Youth:
+Explanation? That's what you're looking for? You're not going to just hang me? I—I... *pteuch*.
+
+Bagpipe:
+Hey! What are you spittin' around for? You've gotta care about hygiene!
+
+Horn:
+Any leads?
+
+Bagpipe:
+None, it's potatoes everywhere. If our information wasn't wrong, then they must work a sight fast.
+
+Horn:
+Alright.
+
+Horn:
+Bring him. He definitely knows something, he's just not willing to open up.
+
+Panicked Youth:
+There it is... you're all the same! Dying to find faults in all of us, torturing us... you Victorian oppressor beasts!
+
+Bagpipe:
+Eh? Again? He thinks callin' another Victorian 'Victorian' counts as an insult? It's flyin' over my head.
+
+Triangle:
+Leader, incoming.
+
+Horn:
+How many?
+
+Horn:
+(Prepare to break up.)
+
+Bagpipe:
+(Yes, Leader.)
+
+Triangle:
+Update, Leader, they seem to be our own.
+
+???:
+They're in here.
+
+Victorian Soldier:
+......
+
+Bagpipe:
+(Leader, we're surrounded.)
+
+Horn:
+(Going by the numbers, yes.)
+
+Bagpipe:
+(If you listen to the voices, there don't seem to be too many left outside. If I crack the wall by me, then we've got our chance!)
+
+Horn:
+(Don't get hasty.)
+
+???:
+I see you've had a very fierce confrontation in here.
+
+Horn:
+Rita Skamandros, 7th Frontline Infantry Battalion, 2nd Tempest Platoon Leader.
+
+???:
+Nice to meet you, Lieutenant Skamm... Skamandros.
+
+Horn:
+My name isn't too easy to remember. You can call me Horn, Captain.
+
+???:
+Very well, Horn. I'm Kelly, Louis Kelly. I'm sorry, codenames aren't our style.
+
+Horn:
+Captain Kelly, you and your troops are presumably also here to investigate this warehouse.
+
+Captain Kelly:
+Correct, we've received the tip-off too.
+
+Horn:
+Then you ought to understand how grave this situation is. A great deal of illicit Originium goods were stolen off a military transport a couple months ago, and ultimately came to vanish in this region.
+
+Captain Kelly:
+Ahem...
+
+Horn:
+I need not remind you, Captain, with this much ordnance, coupled with recent thefts in surrounding counties—if fallen into felonious hands, the menace posed will reach far beyond County Hillock.
+
+Captain Kelly:
+Good, thank you for the run-down. I understand.
+
+Horn:
+And we're very thankful for your cooperation.
+
+Captain Kelly:
+Hill!
+
+Adjutant Hill:
+Sir.
+
+Captain Kelly:
+Take this young man... this suspect back to camp.
+
+Bagpipe:
+What? It was mad for us gettin' this man as our lead!
+
+Adjutant Hill:
+Sir, her spear is obstructing fulfillment of my duty.
+
+Captain Kelly:
+Er...
+
+Horn:
+......
+
+Horn:
+Bagpipe, let it go.
+
+Bagpipe:
+But our mission—
+
+Horn:
+—We're on Hillock land right now.
+
+Captain Kelly pulls a handkerchief from his pocket, and wipes the sweat on his forehead.
+
+Captain Kelly:
+Very glad we could persuade you, Lieutenant. You and this young Vouivre lady, and all others present...
+
+Captain Kelly:
+Ahem—you must be certainly worn out by your hard journey, dashing here from Londinium.
+
+Horn:
+It's our duty as soldiers of Victoria.
+
+Captain Kelly:
+Yes, quite right. Now, if you still have intention to operate in County Hillock...
+
+Horn:
+We're obliged to continue tracking the thieved Originium goods. This is an order from Londinium. I imagine Colonel Hamilton would see sense too.
+
+Captain Kelly:
+Of course, of course. You may accompany me back to camp.
+
+Bagpipe:
+Leader, do we really have to give him up to them? They have to be doin' this on purpose! Ever since we touched foot on the outskirt plate, they've been followin' right behind!
+
+Bagpipe:
+Right until now, just as we caught him—
+
+Horn:
+'Stationed troops of the Empire have a responsibility to address any threat to public safety that arises within their station.'
+
+Horn:
+They haven't violated any code.
+
+Bagpipe:
+Ugh... alright.
+
+Horn:
+Captain, he's yours. As per code, we may also take part in the interrogation—we hope you recall.
+
+Captain Kelly:
+Ha, hahah... yes, quite in line with code.
+
+Panicked Youth:
+N—No... let me go! Don't take me!
+
+Adjutant Hill:
+Heh...
+
+Panicked Youth:
+Help me... save my soul! I haven't done anything... I don't know...
+
+Panicked Youth:
+Aaarghhh!
+
+Captain Kelly:
+Hill...
+
+Adjutant Hill:
+Tara rabble like him always do make a scene like this.
+
+Captain Kelly:
+Take him away.
+
+Bagpipe:
+Ugh, really! What gives them the right!
+
+Bagpipe:
+(Leader, I think... that wee Feline wants us to help him. He's scared to death of goin' with them.)
+
+Horn:
+(......)
+
+Horn:
+(Triangle?)
+
+Triangle:
+Here, Leader. Still in position, outside in the same tree. They haven't noticed me.
+
+Horn:
+(Good. Take the reconnaissance group, and keep investigating along nearby transport routes. If you find any leads, immediately report back.)
+
+Triangle:
+Understood. Are we notifying their barracks?
+
+Horn:
+......
+
+Horn:
+No need.
+
+Horn:
+Be sure to defend yourselves.
+
+
+

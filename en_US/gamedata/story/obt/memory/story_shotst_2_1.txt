@@ -1,0 +1,718 @@
+Meteor:
+Good hustle these past few days, everybody. Let's break a bit early today—we're still twenty-five klicks out from the objective. If we make good time tomorrow morning, I think we'll get there by the afternoon.
+
+Field Operator A:
+Thanks, Meteor. I thought we'd be gnawing on rations in the field. I didn't expect we'd get proper hot meals.
+
+Field Operator B:
+Yeah, never knew you were such a good cook.
+
+Field Operator A:
+So what's stewing today? It smells great, I caught a whiff of it while I was pegging the tents.
+
+Meteor:
+It's a hometown specialty.
+
+Field Operator B:
+A secret family recipe?
+
+Meteor:
+Nah, I lost my parents when I was very young. It was a village household by the mountains that helped me grow. They're all good and kind people.
+
+Meteor:
+This soup is something they taught me. It's simple to make, and good for cooking out in the wilds.
+
+Field Operator B:
+Ah... sorry I brought it up.
+
+Meteor:
+What's to be sorry for? It's alright.
+
+Field Operator B:
+Oh, it smells amazing. Can I ask for the recipe?
+
+Meteor:
+Of course. It's not complicated.
+
+Meteor:
+You need spinach roots and wild gingerflax I just took the chance to dig up, the striped scalecis we caught this afternoon, and I used some pickled jerky and salt I brought along to season, then let it stew for fifteen minutes. Then you're good to go.
+
+Field Operator B:
+So this is what everyone meant when they said we wouldn't regret going with you.
+
+Meteor:
+Hardly, I just know a few simple country dishes. I could never compare to a chef like Matterhorn.
+
+Meteor:
+Phew. Though, if I could, adding a pinch of staricitron seeds would've made it even better. There's a little spicy kick to them. Drinking some hot meat soup peppered with them can really brush the cold away on days like these.
+
+Field Operator B:
+Staricitron...? It rings a bell, I've heard of a rare tree with the same name. I think it's a wood that a lot of nobles love for furniture.
+
+Field Operator A:
+Ah, and I remember it's a species unique to Kazimierz.
+
+Meteor:
+*Sigh*...
+
+Field Operator A:
+Meteor, your home is in Kazimierz. If you've seen them before, why not tell us a little about them.
+
+Field Operator B:
+Right, we really want to know more about where you came from.
+
+Meteor:
+......
+
+Field Operator A:
+Meteor? Meteor, why are you so quiet?
+
+Meteor:
+Hm?! Ah, my home...
+
+Meteor:
+I've been away for so long. Just what were they like...
+
+Meteor:
+It's not coming to me straight away.
+
+Field Operator A:
+Aw, that's a shame—hey! What are you hitting me for?
+
+Field Operator B:
+Eat up, kiddo, or you won't grow any taller.
+
+Field Operator A:
+Do you see this, Meteor?!
+
+Meteor:
+Alright, alright, it's getting late. Pour another bowl. I brought some of Matterhorn's crackers too. You can all share them.
+
+Field Operator A:
+Wow, that's incredible! Thanks, Meteor.
+
+Meteor:
+Turn in as soon as you're done. I'm a little tired. I'll be going to sleep first.
+
+Meteor:
+Where am I? It's so dark.
+
+???:
+Meteor, Meteor.
+
+Meteor:
+Who is it?
+
+???:
+Come quick, Meteor. I've been waiting for you forever.
+
+Meteor:
+Who are you?
+
+???:
+Meteor, come with me. There's going to be a moonshadow in the sky tonight. We can climb the staricitron tree and see the twin moons.
+
+Meteor:
+Lana? What are you doing here?
+
+???:
+I've been waiting for you here all this time.
+
+???:
+Listen. The wind passing through the damp leaves. It's been pushing me on.
+
+Meteor:
+Wind? There's no wind here, Lana. Come here, quick. Don't leave this place.
+
+???:
+I'm going, Meteor. Quick, follow me...
+
+Meteor:
+Come back, Lana! Where are you going?
+
+???:
+Come quick, Meteor. You know I'm waiting for you.
+
+Meteor:
+She's... gone.
+
+???:
+Meteor! Meteor!
+
+Meteor:
+Um... Uncle, why are you here...?
+
+Meteor:
+No, never mind. That's right, have you seen Lana? She just came by, and I don't know where she ran off to.
+
+???:
+You're mixed up. Lana's been sick for a month now. How's she going outside?
+
+Meteor:
+She's sick?! But just now, I swear she was... this is strange... um, how is she, then? Is she any better?
+
+???:
+*Sigh* Not much to cheer for. Barely gets her porridge down her in the morning, and she sicks up half a bowl of pink.
+
+Meteor:
+How could that be! What about a doctor, then, Uncle? Has a doctor seen her?!
+
+???:
+Meteor, it's... why I came to see you today. We've got no real options left now. This winter's gone on too long, autumn was too short. Not a thing left over.
+
+???:
+Whole host of the village children are already beyond sickly. If we can't get any more medicine for Lana, she won't be able to make it through the winter.
+
+Meteor:
+I still have a bit of savings! I'll give you all of—
+
+???:
+...Meteor, it's not enough... there's a man who passed by and said, he wants some staricitron wood. He gets the timber, he'll leave us some money and supplies. We can pull through the winter with those.
+
+Meteor:
+Does he have to have those staricitron trees? Countless generations of my family's looked after that forest.
+
+Meteor:
+What about other trees, will other trees do? I'm begging you. Just wait a little longer, and we might have some other way. We will...
+
+???:
+No, Meteor, we... don't. We love them just as much as you do, but...
+
+Sorrowful Voice:
+Help me, Meteor—*cough* *cough*—we've got no other way.
+
+Immature Voice:
+Meteor, save me!
+
+Wizened Voice:
+Meteor—save an old girl!
+
+Anxious Voice:
+Meteor, Meteor!
+
+Meteor:
+Ah—ahh, ahh! I'll save you all, I will—*huff* *huff*—*urk*—
+
+Field Operator A:
+Meteor, what's wrong? It was a nightmare, wasn't it? It's okay, it's okay, we're all here.
+
+Field Operator B:
+We are. Meteor, want some water? I'll pour you a cup.
+
+Meteor:
+Haagh—it's you. I thought...
+
+Field Operator A:
+The pressure of the rescue mission probably got too much. Here, Meteor, wipe that sweat off.
+
+Meteor:
+It's alright. Thank you both. My nerves must be taut, running all this way for days. I'm a little worn out.
+
+Field Operator B:
+Meteor, if you want to tell us anything, feel free. We'll help however we can.
+
+Meteor:
+It really is alright. We all still need to be on our way. Let's get our things packed and go. I'll be fine.
+
+Field Operator A:
+Meteor!
+
+Field Operator B:
+(Shaking head) Leave it, Keira. Don't ask.
+
+Meteor:
+Ah Fêng, how far are we from the objective?
+
+Field Operator B:
+Not far now. Less than three kilometers left—
+
+Field Operator A:
+Oh, crap. Meteor, look. In the direction of the objective.
+
+Field Operator B:
+That's intensely thick smoke. The report didn't mention anything about a fire.
+
+Meteor:
+Keira, go look for survivors in the neighboring villages, and band them together to put the fire out! Ah Fêng, get the medicals ready! People have to be hurt with a fire this big! Quick!
+
+Field Operator A:
+On it. Meteor, what about you?
+
+Meteor:
+I'll look closer to the scene, and see if I can find any other survivors!
+
+Field Operator A:
+You be careful, then, Meteor!
+
+Meteor:
+I will! Keep yourselves safe too!
+
+Meteor:
+(The fire's burning too intensely. I can't tell if there's still anyone inside.)
+
+Meteor:
+Is anyone there? If you can hear me, please answer me! Is anyone there!
+
+Meteor:
+Is anyone there? If you can hear me, please answer me! Is anyone there!
+
+Collapsed Villager:
+Is-Is that you, Meteor? Get away!
+
+Meteor:
+What's going on? Uncle, I just heard a massive explosion come from here, and I ran right over.
+
+Collapsed Villager:
+Run, quick! Don't come near. Those tree-felling Originium engines the knight-lord brought in exploded. There's Originium dust scattered all over here.
+
+Meteor:
+Uncle, just save your voice for now. I'll bind the wound for you. Who else is here?
+
+Collapsed Villager:
+No, no, you listen to me, Meteor. Get away, quick. You don't go, you won't make it. Those machines might explode again at any time. You... you'll catch ill! Quick, get away from here!
+
+Meteor:
+Uncle, I—I can't leave you all behind. Hang in there. I'll bring you out now.
+
+Wounded Villager:
+Argh! My eyes—it hurts!
+
+Howling Villager:
+My leg! My leg's gone! Urgh—save me, save my soul!
+
+Meteor:
+(What do I do, what do I do, what do I do? Dammit, what should I be doing?!)
+
+Collapsed Villager:
+What are you still gazing off for? Get out of here. It's dangerous!
+
+Meteor:
+Huh—?
+
+Meteor:
+*cough* *cough* *cough*—my throat... ghaagh—*cough* *cough* *cough*...
+
+Meteor:
+(The back of my hand's... bloody. Did I cut it?)
+
+Meteor:
+Uncle! Uncle, are you still alright? Un... cle... are you all...
+
+Meteor:
+Answer me! Agh—*cough* *cough*—answer me... *urk*.
+
+Collapsed Villager:
+Me... teor... come here...
+
+Meteor:
+Oh, Uncle! Go on, I'm listening!
+
+Collapsed Villager:
+We're—*cough* *cough*... all so sorry for you... but Lana... she asked you...
+
+Meteor:
+Uncle! Uncle!
+
+............
+
+Meteor:
+How could this happen?
+
+Meteor:
+How is everything I do wrong? How is everything I do useless...?
+
+Meteor:
+How...
+
+By all rights, her face should be scorched dry by the blistering air, yet Meteor feels wet droplets, rolling down.
+
+Meteor:
+(Rubs back of hand against cheek)
+
+Meteor:
+Ugh—dammit, I can't believe I'm remembering that at a time like this.
+
+???:
+Ohhhh, my child...
+
+Meteor:
+(What's that noise? Is there someone crying?)
+
+Mournful Woman:
+Ohhh, my child! You wretch, why save me? You should've left me to die, how could you not save our child?!
+
+Anguished Man:
+Darling, it's my fault, I couldn't save our girl... ohh, my precious baby, Daddy's so sorry... *sobbing*
+
+Meteor:
+Why are you still here? Get out of here, quick!
+
+Mournful Woman:
+Go? How? We can't go a step more. Our whole lives are ruined here... ohhh...
+
+Anguished Man:
+Miss. My leg's hurt. I can't walk. Get my wife out of here, forget about me. Quick, move!
+
+Mournful Woman:
+I'm not going—*sobbing*—We're together as a family, and we'll die as a family. Ohhh, my child.
+
+Meteor:
+What's happening? Is there still someone inside?
+
+Anguished Man:
+Yes—*sobbing*—my girl's still in there. We were in a rush, and I—I was only in time to rescue my wife, and I left—the disgrace I am, I left my child in there... *sobbing*
+
+Meteor:
+Okay, sir. Save your breath. Do you still remember which part of the house your child was in?
+
+Anguished Man:
+You won't be time—the fire's too big. Get my wife out of here. It's all hopeless.
+
+Meteor:
+(Grasps the man's collar) Where is she?!
+
+Anguished Man:
+In her bedroom—s—southmost part of the attic.
+
+Meteor:
+Got it. Look after your lady.
+
+Anguished Man:
+Watch out—
+
+Mournful Woman:
+*cough* *cough*...
+
+Anguished Man:
+Darling? Darling, what's wrong? Someone, anyone! Save her!
+
+Meteor:
+(It's all burning too fast. My eyes hurt so much.)
+
+Meteor:
+Little girl, can you hear me? *cough* *cough* *cough*....
+
+Meteor:
+(South of the attic... oh, there!)
+
+Meteor:
+Agh, hot—*cough* *cough*.
+
+Meteor:
+(Can only kick it open.)
+
+Meteor:
+(I can't see anything clear. Dammit, all this thick smoke.)
+
+Meteor:
+Is anyone there? *cough* *cough*—
+
+???:
+Save... help me...
+
+Meteor:
+(That voice came from the wardrobe!)
+
+Meteor:
+I've found you. Oh, thank goodness.
+
+Semiconscious Girl:
+Daddy... mo...
+
+Meteor:
+She's losing consciousness already. Hold on, I'll take you away from here.
+
+Meteor:
+(Lifts up the girl)
+
+Only when Meteor looks back does she realize the way she came has now been engulfed by the inferno.
+
+The scarlet blaze trails along the walls, stairs and doorframe as it spreads, the searing licks roiling and twisting without end, attempting to charge for the two in the room, lapping at their clothes and skin.
+
+Meteor:
+(Agh, now what do I do?!)
+
+Meteor:
+Dammit—it's collapsing!
+
+Meteor:
+*cough* *cough* *cough*—*hiss*, *huff*—
+
+Meteor:
+(I think my back got struck. It hurts. Right, the child!)
+
+Meteor:
+(Phew... wonderful, she's alright. No, I need to think of a way to get out fast, I need to get up.)
+
+Meteor:
+Argh, it really does hurt.
+
+Semiconscious Girl:
+H-Help... me...
+
+Meteor:
+I'll help you, I'll help you, I absolutely will.
+
+Meteor:
+(Looks all around)
+
+Meteor:
+(There's a gap there. I think I can climb through. It should be from when the wall fell in the collapse just now.)
+
+Meteor:
+(This hole is too small, I can't make it in. I can only get the child through first.)
+
+Field Operator A:
+Meteor, are you there?! *cough* *cough* *cough* Where are you?
+
+Meteor:
+Keira!!
+
+Meteor:
+Is that Keira?! I'm in here, I'm in here! South, there's a small hole here!
+
+Field Operator A:
+Meteor! Ah, I see you! How'll we get through a hole this small? What now? *whimper*
+
+Meteor:
+Don't cry, don't mind me for now. The child, get the child away!
+
+Field Operator A:
+Meteor!
+
+Meteor:
+Grab onto the child, careful of any splinters.
+
+Field Operator A:
+What about you then, Meteor?! I'll go find Fêng, you wait for me, hold on—
+
+Meteor:
+Listen, forget about me, you won't make it. Get the child away quick. Go.
+
+Field Operator A:
+Meteor, no, I can't do that, I'll find some way. We can definitely make it back together. Eargh—
+
+Meteor:
+Eek—no, it's too heavy, Keira, we can't push it apart!
+
+Field Operator A:
+We'll try again! Hold onto my hand, and don't let go, Meteor!
+
+Meteor:
+Quickly, go! Or else you'll be in danger too!
+
+Meteor:
+Damn it all, get the child out of here!!
+
+Field Operator A:
+Meteor!!!!
+
+Lana:
+Meteor...
+
+Meteor:
+Lana... I've been waiting for so long...
+
+Lana:
+(Shakes head)
+
+Meteor:
+I'm sorry.
+
+Lana:
+Why?
+
+Meteor:
+I couldn't save you, and I couldn't save everyone. In the end... I couldn't protect a single thing...
+
+Lana:
+No, you've already done so well. It's enough, now... it's enough.
+
+Meteor:
+Were you waiting for me to go with you?
+
+Lana:
+No. I came to say goodbye.
+
+Meteor:
+Goodbye?
+
+Lana:
+(Hugging) I'm leaving, Meteor. Don't come with me.
+
+Meteor:
+You're going, in the end?
+
+Lana:
+Yes. Don't cry. You're the bravest little hunter. You've still got such a long road to walk, and still so many people who need you.
+
+Meteor:
+I miss you, so much. I really do.
+
+Lana:
+I miss you too, but it's time now. Go on, let me go.
+
+Meteor:
+......
+
+Lana:
+See you...
+
+Medic Operator:
+Meteor, you're awake. How do you feel?
+
+Meteor:
+Mi...
+
+Medic Operator:
+Making it out alive with injuries as serious as that, it's nothing short of a miracle.
+
+Meteor:
+...na.
+
+Medic Operator:
+You'd better not pull this next time, heading on missions without any regard for your own safety. Both me and Gianna were worried sick about you.
+
+Meteor:
+Pfffheh.
+
+Meteor:
+Agh! That hurts.
+
+Medic Operator:
+What are you laughing about?! You've got burns all over your back, your windpipe's burnt, you have a fracture in your spinal column... do you want me to keep tallying for you?
+
+Meteor:
+I thought... you'd be crying your... eyes out over me—*cough* *cough*!
+
+Medic Operator:
+What, is that the kind of person I am to you?
+
+Meteor:
+Oof... *huff*. Sorry, Mina, for causing you and all of the Medical such hassle.
+
+Medic Operator:
+What are you being guilty for? We're just doing our jobs.
+
+Meteor:
+Hfff—Well, I'm sorry, but I'm powerless to promise you that.
+
+Medic Operator:
+You—
+
+Medic Operator:
+Medical gave everything they had to pull you from the cold hands of death this time, but IF there's a next time, we'll all be powerless to promise anything.
+
+Meteor:
+I... couldn't just look on as it all happened. I... don't ever want to see people stuck in those circumstances again, truly.
+
+Meteor:
+Between a rock and a hard place.
+
+Meteor:
+Not one person should ever be forced to make such a choice, forced to part, forced through... loss.
+
+Meteor:
+I can't do it, it's just... I can't.
+
+Medic Operator:
+Meteor, are you still brooding on the past?
+
+Meteor:
+I knew it, I can't hide anything from you.
+
+Meteor:
+At the time, I believed if I just sacrificed the forest I always protected, I'd get to have Lana back, have everyone in the village living peacefully again.
+
+Meteor:
+But fate really was too voracious. What it wanted wasn't just my concession.
+
+Meteor:
+I gave it an inch, and it wanted a mile, until it stripped my pockets bare of anything left.
+
+Medic Operator:
+We've chatted about this before. Holding onto the past without letting go doesn't solve anything.
+
+Meteor:
+You're right. And it's not like I don't understand.
+
+Meteor:
+After Lana passed from illness, I took up her bow, and left the forest together with the other Oripathy sufferers.
+
+Meteor:
+In those days wandering, I spent ages in a muddle. I hated that noble who refused to shoulder any blame, and left with nothing but a pat on the buttocks.
+
+Meteor:
+And I hated myself, powerless to protect my loved ones, the things I cherished.
+
+Medic Operator:
+But when I first met you, you were nothing like that. What happened?
+
+Meteor:
+I suppose I saw more, and my outlook changed.
+
+Meteor:
+The people who once went with me walked, scattered, and I was left alone aimlessly drifting.
+
+Meteor:
+I only gradually came to realize, there's so many people across this land who've been through the same things I have, who all struggled painfully through such desperate dilemmas.
+
+Meteor:
+Having personally experienced that stress, how could I just stand and watch as others go through the same torture? That's why I'm willing and ready, regardless of the danger.
+
+Meteor:
+Because those smiles, lost then found again, make me feel like my heart is filled full once more.
+
+Medic Operator:
+Fine.
+
+Medic Operator:
+Seeing as... this is how you think, I don't have much more I can say. While you've been unconscious these past few days, Gianna's been watching your bedside the whole time. You remember to give her a proper thanks.
+
+Medic Operator:
+I've got matters to attend to, so I'll be heading off now. Rest up well.
+
+Field Operator A:
+Gianna, Meteor just woke up. When we see her in a moment, make sure you don't throw yourself on her.
+
+Gianna:
+I know, Keira. I folded Meteor a whole vase of roses, and on every single one I wrote a well wishing thing. If she has this, she'll get better real soon.
+
+Meteor:
+(Smiles and shakes head) This little rascal.
+
+Field Operator A:
+Meteor, I heard from Mina you were awake. How are you?
+
+Gianna:
+Meteor, you... you... waaahh—you're finally awake! I was so scared!
+
+Meteor:
+Gianna, don't cry. I'll be all better before you know it.
+
+Gianna:
+...Um, this vase is for you.
+
+Meteor:
+What's this?
+
+Field Operator A:
+Don't ask, Gianna spent ages folding it. While you were out, Mina caught the little mite awake at night over and over, just folding roses.
+
+Meteor:
+I'm sorry, Gianna, for making you worry.
+
+Gianna:
+I don't want you to be sorry. Can you promise me you won't get hurt anymore? I get really scared I won't see you again.
+
+Meteor:
+I won't, Gianna, I won't.
+
+Gianna:
+Waaahhhh, Meteooor!!!
+
+Field Operator A:
+Gianna, stop crying!
+
+
+

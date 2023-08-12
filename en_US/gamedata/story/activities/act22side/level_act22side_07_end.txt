@@ -1,0 +1,388 @@
+'The Brigadier':
+Wait a moment, Harmonie.
+
+'The Brigadier':
+Something is unusual about the amount of stationed troops ahead at the carriageway checkpoint.
+
+Fischer:
+You noticed? I had coincidentally asked them to look out... on the premise of possible incidents that might damage relationships between the Dukes.
+
+'The Brigadier':
+Hence your rounding them up before they left County Trent territory, so that your backup plan would be at all effective.
+
+'The Brigadier':
+Not a surprise, in whole.
+
+Fischer:
+Subordinate of Duke Wellington. Commanding officer of the Redsteel Guard. An identity that will cease to threaten you very soon, of course.
+
+Fischer:
+That said, you understand at the very least that any further pursuit would become a territorial dispute of Duke against Duke. Given Victoria's present situation, I can only say no one would want to see such a clash happen.
+
+Harmonie:
+My, oh, my, why do you never leave me any room to choose?
+
+Harmonie:
+Still, it's more than enough for me. My mission is complete as is.
+
+Fischer:
+You own these repercussions. Your blunder caused them. You have no need to keep your bluff up so dutifully, being the exposed spy you are.
+
+Harmonie:
+Really? You know, I was hoping from my heart of hearts that we'd strive in common minds to work together someday—
+
+'The Brigadier':
+Harmonie.
+
+'The Brigadier':
+You've spoken enough.
+
+Harmonie:
+Ahem...
+
+Fischer:
+......
+
+'The Brigadier':
+All forces, pull back.
+
+'The Brigadier':
+This was a losing battle to begin with. We'll let them go.
+
+Fischer:
+Unf...
+
+Special Forces Captain:
+I warned you, Fischer... Once your Oripathy progresses past a certain degree, the painkillers don't work anymore.
+
+Special Forces Captain:
+You're in this state because of your own extended use of Arts.
+
+Fischer:
+I am patently aware.
+
+Fischer:
+......
+
+Special Forces Captain:
+Alright... I apologize if I went too far.
+
+Fischer:
+No, I was just thinking...
+
+Fischer:
+I didn't expect the venerable Duke of Caster would send a 'Trilby Asher' here.
+
+Fischer:
+I haven't even a clue... at which point the Duke's emissary replaced my men.
+
+Fionn:
+Phew... haah... D-Did we make it out?
+
+Ch'en:
+Yeah, I don't see anyone giving chase.
+
+Ch'en:
+Let's stop here and check on everyone's injuries. Best to take care of them ASAP.
+
+Reed:
+We lost... some of our companions.
+
+Ch'en:
+We'll wait here a moment. Some of them got lost in the smoke. Maybe they're still hiding in the woods.
+
+Ch'en:
+You told them you were headed in this direction. If they still remember, they'll come looking.
+
+Reed:
+Mm. We'll only be stopped for a short while here. It'll be daybreak soon. I won't delay your travels.
+
+Reed:
+You can all set your weapons down, and rest for the moment...
+
+Bagpipe:
+......
+
+Reed:
+Bagpipe...?
+
+Bagpipe:
+'Reed.'
+
+Bagpipe:
+So <i>you</i> were that Caster in County Hillock.
+
+Bagpipe:
+You were the one controllin' that fire. I recognize your Arts. You turned an entire street to ashes.
+
+Bagpipe:
+You had Outcast sacrifice herself for you.
+
+Bagpipe:
+...You're 'The Leader' of Dublinn, aren't you?
+
+Reed:
+......
+
+Everyone looks at her, awaiting a response.
+
+She's been asked this question many a time in the past. Each time, she has to try so, so hard, just to hold back the urge to shake her head.
+
+But now she remembers the feel of the hay, and the taste of the evening breeze.
+
+She remembers the campfire flickering in front of the tents, how it was all its own, nothing like the fire that danced at her spear's tip.
+
+She remembers the thick smoke afar that has yet to clear, and the shouts and the cries unrelenting, almost still echoing.
+
+Reed:
+I am.
+
+Reed:
+In County Hillock, I hoped that through death, I'd forever escape my identity. That's why I didn't hide when the Originium bombs came falling.
+
+Reed:
+Since being rescued by Rhodes Island, I've tried for the sake of my own fate to recover something. That's why I came on this journey—in an attempt to heal some of the scars left by the violence of Dublinn.
+
+Bagpipe:
+The people who died... who died because of Dublinn. The Tarans.
+
+Bagpipe:
+Didn't... Dublinn deceive them?
+
+Reed:
+I would've... once said that their lives—were no more than fuel for Dublinn's fire.
+
+Reed:
+That for the greater good—to rebel against the injustice all Tarans face—the fire must burn hot and bright.
+
+Reed:
+But after... Outcast saved me—and I retraced the paths I walked... I haven't been able to say that anymore.
+
+Reed:
+In reality—some of those deaths... had to have been avoidable.
+
+Reed:
+I cannot say that every sacrifice—was a martyr for Dublinn's cause... The Tarans are all people, each of them living, each of them alive.
+
+Reed:
+I remember the mistakes Dublinn's made... especially the ones by my own hands. I'll make no attempt to conceal these ugly scars.
+
+Bagpipe:
+There's also... the 'Redsteel Guard.'
+
+Bagpipe:
+The Dublinn soldiers tryin' to take you away here, they're the Duke of Wellington's men.
+
+Bagpipe:
+Are you just... the Duke's private army?
+
+Reed:
+No. Dublinn is manipulated by no power... nor should we be.
+
+Reed:
+If anything, it'll be... the Tarans, who want a peaceful home, a land they can walk freely, one and all.
+
+Bagpipe:
+But you're terrified of Dublinn.
+
+Bagpipe:
+If Dublinn truly is what you say, if it fights for the Tarans, then what is it you're scared of?
+
+Reed:
+......
+
+Reed:
+What am I... scared of?
+
+Bagpipe:
+Your imagination of Dublinn is all well and good, but fact is, it's filled to the brim with rioters, conspirators, people you can't hold control over. They even threw you of all people away for dead, didn't they?
+
+Reed:
+I won't deny—that what many see in Dublinn's firelight is not a path for the Tarans, but their own future.
+
+Reed:
+I'm sure... that as the Victorians laid each brick and stone to build their homeland, they wouldn't have thought it was for Victoria as a whole, either.
+
+Reed:
+But in the end—the Victorians have a homeland. They can build and tend their lands in peace. Yet when the Tarans want to live, they bleed rivers for it.
+
+Reed:
+I don't want to see anyone bleeding. Yes, I'm afraid. I'm afraid of the bleeding. I'm afraid of death... That's why I always wanted to hide.
+
+Reed:
+Unthinking, unfeeling, just like... a shadow.
+
+Reed:
+But does that make things good enough? Why is blood still shed... where I cannot see?
+
+Bagpipe:
+Reed...
+
+Reed:
+...Bagpipe. You've been asking me, time and again—where I'm taking these Tarans.
+
+Reed:
+Let me ask you now. Is Dublinn's dream an unachievable one?
+
+Bagpipe:
+......
+
+Bagpipe rarely ever feels disappointment.
+
+It's crossed her mind how her reports will never make it to the right person, and how her friends in arms died meaningless deaths in conflicts long premeditated.
+
+It's crossed her mind, should she ever come across Dublinn again, how she'd dismantle their plot, and protect the innocent citizenry within their grasp.
+
+But now, she sees how the County Hillock incident was nothing more than two Dukes testing one another, and she sees how lost and stricken the eyes of the Tarans are, there behind Reed, emerging from the flames of war.
+
+She can't say for sure who it is she's disappointed in.
+
+She doesn't know if she can still get any answers from Reed, for much the same reason she can't give Reed's question any reply.
+
+Bagpipe:
+...Let's go, Ch'en.
+
+Ch'en:
+Huh?
+
+Bagpipe:
+My mission's to investigate the truth behind Dublinn, and now I've heard it from Dublinn's 'Leader' herself.
+
+Bagpipe:
+And from what it sounds like, Operator Reed won't be comin' back with us to Rhodes Island for the moment.
+
+Reed:
+......
+
+Bagpipe:
+She's got her own business to take care of, and so do we.
+
+Ch'en:
+...Alright.
+
+Fionn:
+B-Bagpipe!
+
+Bagpipe:
+Fionn...?
+
+Fionn:
+This... This is for you.
+
+Bagpipe:
+The radio?
+
+Fionn:
+You'll be making through the barrens, won't you? Take this radio with you, you might catch some useful news...
+
+Bagpipe:
+You don't need it any more?
+
+Fionn:
+I... haha, the news is always same old for the Tarans, isn't it?
+
+Fionn:
+Bagpipe, we really are thankful to you, and Ch'en, and the, um... the Rhodes Island. Thank you for your tents, and your assistance all along the way.
+
+Fionn:
+And, well... farewell.
+
+Bagpipe:
+......
+
+Bagpipe:
+Slán leat, Fionn.
+
+The old radio buzzes in Bagpipe's hand. Unconsciously, her grip relaxes ever so slightly.
+
+Bagpipe:
+Take care.
+
+Fionn:
+...Caireann, Fergal, you and me. Just the eight of us left now.
+
+Fionn:
+I suppose it's easier to run with fewer of us, haha...
+
+Fionn:
+......
+
+Reed:
+...Please check for me—if there's any more clean gauze in the box.
+
+Reed:
+I'll remove the gauze on your wound now. This will hurt...
+
+Taran Refugee:
+Unf...
+
+Taran Refugee:
+Hey... Fionn, not so afraid of blood no more?
+
+Fionn:
+Huh? O-Oh, no, yeah... I've seen so much blood lately. Pointless being scared any more.
+
+Fionn:
+Say. Reed... Is Bagpipe really just going now? Aren't you two friends?
+
+Reed:
+Perhaps, come a day we will be, but not for now.
+
+Fionn:
+...*sigh*. I suppose.
+
+Fionn:
+I was just thinking, I know we were bound to go our separate ways, but you should've had a proper goodbye with them.
+
+Fionn:
+Everyone... should have a proper goodbye.
+
+Fionn:
+—Hey, it's Moran!
+
+Reed:
+......
+
+They see Moran, eyes grasping on the faint light of daybreak, limping in their direction.
+
+Held tight in her grip is a broken sword, and a blood-soaked bandana.
+
+Reed:
+Is that... Selmon's?
+
+Reed:
+Moran, what... happened to her?
+
+Moran:
+(Shakes head in silence)
+
+Reed:
+I'm sorry. I know—you can't have seen.
+
+Far away in the woods, remnant fumes from the flames of war still rise gently for the sky.
+
+All those who did not come back now lay in the woods, just as Selmon does. No one in time to see them, in their final moments.
+
+The survivors stare in silence at the drifting smoke.
+
+Reed:
+They all just—don't know... which way to go.
+
+Reed:
+In the Scáthanna Fields, in Hillock, in Oak Grove...
+
+She has seen fire, great and profuse. Be it anywhere, there are those who scheme of war and disaster, vying for power and prestige.
+
+She has seen the ordinary soul struggling amidst it all, only to die without rhyme or reason.
+
+She raises her hand, and from a Draco's flame, a faintest flower is born.
+
+The feel of holding a flame still makes her tremble, pains her insides to no end, but no more does she shut her eyes.
+
+Reed:
+For all those... who pull themselves up from this land of mud.
+
+And the flower floats down, and sinks into the wetlands, there to wither without a sound in the mire.
+
+
+

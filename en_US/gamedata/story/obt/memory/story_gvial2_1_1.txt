@@ -1,0 +1,1193 @@
+Inam:
+I'll leave Acahualla and the Durins from Zeruertza to you guys.
+
+Gavial:
+Inam, you sure you have to go?
+
+Tomimi:
+Don't go!
+
+Inam:
+Don't be silly. I have to go.
+
+Tomimi:
+*whimper*... Inam... I'll miss you...
+
+Inam:
+What's with you two? You're making it sound like I'm never coming back!
+
+Tomimi:
+But you said you'll be gone for a long time...
+
+Inam:
+This lord ameer candidacy is even more of a mess than that whole ruckus with the Big, Ugly Thing Zumama caused. Of course I can't promise to be back tomorrow!
+
+Tomimi:
+*whimpers*...
+
+Inam:
+*sigh*
+
+Inam:
+More and more, I'm thinking I made the right choice to become the lord ameer myself.
+
+Inam:
+Anyway, Gavial, I'm counting on you to lead the Acahualla and the Zeruertza Durins while I'm gone.
+
+Gavial:
+What do you need me to do, exactly?
+
+Inam:
+Nothing.
+
+Gavial:
+You mean, keep the status quo?
+
+Inam:
+That's right.
+
+Inam:
+This is how Acahualla's always been. As for the Durins, they've been in a hurry to build their settlement. To the point they even voted to prohibit alcohol to improve efficiency.
+
+Tomimi:
+Prohibit alcohol? The Durins?!
+
+Inam:
+Right, I was surprised too.
+
+Inam:
+But that's what they decided on. Looks like they have a sense of urgency, too.
+
+Inam:
+And going by their speed, they'll probably be finished by the time I get back.
+
+Inam:
+Your job is to make sure everything stays the same, as if I never left. That's very important to everyone here.
+
+Gavial:
+I get it. The Durins' settlement comes first, right?
+
+Inam:
+That's right.
+
+Gavial:
+You can count on me!
+
+Inam:
+(Doubtful glare)
+
+Inam:
+By the way, I hid the Durins' brewing equipment in... (whispers).
+
+Inam:
+Do <i>not</i> let them find it. Understand?
+
+Gavial:
+Whoa, that's some hiding spot.
+
+Tomimi:
+Huh? Where did she hide it? I wanna know!
+
+Inam:
+You've seen how crazy the Durins get whenever alcohol's involved. If I told you, it wouldn't take them long to squeeze that information out of you.
+
+Tomimi:
+*whimpers*...
+
+Gavial:
+But in that case, wouldn't it be better to keep me out of this too?
+
+Inam:
+...I'm leaving to rub shoulders with those guys from the Court of Sargon, after all. I have to be prepared for anything.
+
+Inam:
+If it turns out it'll be a while till I get back, the Durins will have to forgo their taste of home for just as long. And I wouldn't want to be the one to blame.
+
+Inam:
+Alright, now let me go over the other things you need to keep an eye out for...
+
+Tomimi:
+Is this really okay, Gavial?
+
+Gavial:
+Hm? We're just helping the Durins look for some suitable timber. What's not okay about it?
+
+Tomimi:
+But Inam told us not to do anything...
+
+Gavial:
+Oh, I was wondering what you were going to say.
+
+Gavial:
+What she meant was we aren't supposed to change the rules she set, not that we shouldn't do anything.
+
+Gavial:
+Besides, did you see how the Durins were at it under the blazing sun? I'd feel bad not helping them out somehow—
+
+Astute Durin:
+Gavial, is that you?
+
+Gavial:
+Are you a Zeruertza Durin?
+
+Astute Durin:
+That's right.
+
+Tomimi:
+You lost like Stitch was before? How about I walk you back?
+
+Astute Durin:
+No need.
+
+Astute Durin:
+I'm here because I have something to talk to you about.
+
+Gavial:
+Whatever it is, let's talk after we get back. This rainforest isn't all that safe.
+
+Astute Durin:
+No, no, no. There's nowhere safer than here.
+
+Tomimi:
+?
+
+Astute Durin:
+You see, I'm from the mead fan club...
+
+Gavial:
+So it's about the prohibition, huh?
+
+Astute Durin:
+It's a good thing you're such a reasonable woman—
+
+Gavial:
+Hold on, no dice.
+
+Astute Durin:
+No room for negotiation at all?
+
+Gavial:
+You guys are the ones who voted to forbid all alcohol. You got a problem with that, talk to your own people.
+
+Astute Durin:
+But Inam kept all our equipment.
+
+Gavial:
+Uh, she never told me where she stored it—
+
+Astute Durin:
+Really? Only she knows?
+
+Gavial:
+......
+
+Astute Durin:
+How could she do that? What if she forgets where she hid it? We'll never again get to taste Zeruertza's fine mead again. How irresponsible of her...
+
+Tomimi:
+She's not irresponsible at all! She told Gavial where she kept the mead brewing equipment!
+
+Gavial:
+Oh my lord.
+
+Astute Durin:
+Hah, I knew it. There's no way Inam wouldn't leave a back-up plan.
+
+Tomimi:
+Yeah, yeah—
+
+Tomimi:
+Ow!
+
+Gavial:
+Not like I'll ever tell you guys.
+
+Astute Durin:
+Alright, fine, looks like we won't get our mead today.
+
+Astute Durin:
+But we'll never give up!
+
+Astute Durin:
+Just as a city is laid brick by brick, I'll <i>taste</i> the whereabouts of our brewing equipment, bit by bit!
+
+Clear-headed Durin:
+Good afternoon, Gavial.
+
+Gavial:
+Heyas, what's up?
+
+Clear-headed Durin:
+We have a bit of an urgent matter on our hands, so I have no choice but to visit you here.
+
+Clear-headed Durin:
+We're lacking some... necessities, and my fellows are all... fairly low in <i>spirits</i>. They're tormented, unable to sleep, and in pain.
+
+Tomimi:
+Poor fellas...
+
+Clear-headed Durin:
+I want to soothe their pain, which is why I've come to request your help, our most respected Gavial.
+
+Tomimi:
+We should help them, Gavial!
+
+Gavial:
+First off, don't you stick some weird adjective in front of my name.
+
+Gavial:
+Secondly, the necessities you guys are out of have gotta be mead, right?
+
+Clear-headed Durin:
+What a load of rubbish!
+
+Gavial:
+Oh?
+
+Clear-headed Durin:
+How could you possibly compare that kids' drink to our noble No. 7 Whiskey?
+
+Gavial:
+Well, whatever it is, you guys ain't getting a sip, so why does it matter?
+
+Clear-headed Durin:
+Oh, cruel Gavial. How could you be so merciless?
+
+Gavial:
+Before you accuse me of being merciless, can't you do something about the way you talk? It's weird.
+
+Clear-headed Durin:
+Huh? Is it weird?
+
+Clear-headed Durin:
+And here I thought it would be easier to talk to surface-dwellers if I imitated Avdotya's characters.
+
+Gavial:
+Yeah, no, it doesn't work that way. Talk normal.
+
+Clear-headed Durin:
+I'll die if I don't get any whiskey!
+
+Gavial:
+Bear with it!
+
+Courteous Durin:
+Gavial, would you please tell us where Inam hid the brewing tools?
+
+Stubborn Durin:
+Gavial, where did she hide our distilling equipment?
+
+Chatty Durin:
+Gavial, our brewing equipment...
+
+Eunectes:
+Hey, Gavial.
+
+Gavial:
+Zumama? Good to see you. Finally, someone who'll talk about something other than alcohol.
+
+Eunectes:
+(Freezes)
+
+Gavial:
+Urgh...
+
+Gavial:
+I have a bad feeling about this.
+
+Eunectes:
+(Deep breath)
+
+Eunectes:
+It's about the Durins' brewing and distilling equipment...
+
+Gavial:
+Why are you of all people asking about that?
+
+Eunectes:
+They promised me that the moment they get their equipment back, they'll send their mechanics to help me test my robots with their technology.
+
+Gavial:
+Give it up.
+
+Eunectes:
+Nnuuh...
+
+Gavial:
+That said, I really didn't expect <i>you</i> on their side.
+
+Gavial:
+Who else have they talked to?
+
+Eunectes:
+Let's see...
+
+Eunectes:
+They tried Tomimi, but they got blasted out.
+
+Eunectes:
+They've also talked to their Great Chief Edge Eartheart and others from Zeruertza.
+
+Eunectes:
+They said it themselves. Aside from Avdotya, everyone's been either somewhat lax about it or at least... ambiguous.
+
+Gavial:
+Ambiguous?
+
+Eunectes:
+Supposedly, they've even managed to persuade Chief Edge despite how strict he was with the ban at first. And we've both seen in Zeruertza how the alcohol there flew right off the shelves.
+
+Gavial:
+This can't continue!
+
+Gavial:
+We can't waste any more time with these fellas. They're the ones who banned all the booze, so of course they can unban it, too.
+
+Gavial:
+But if it comes to that, they'll never finish their settlement... I don't want Acahualla to have nothing but a bunch of incomplete buildings waiting for Inam when she gets back!
+
+Eunectes:
+...Wow.
+
+Gavial:
+You wouldn't want to see that either, right?
+
+Eunectes:
+It doesn't really matter to me, but... I'll follow your lead.
+
+Gavial:
+Bring Tomimi here. Time for a war council.
+
+Tomimi:
+Huh???
+
+Tomimi:
+What do we do, Gavial?!
+
+Gavial:
+Calm down, Tomimi.
+
+Tomimi:
+I'll go talk to Master Edge and ask him not to change his mind!
+
+Gavial:
+Stop. Stop! Come back!
+
+Eunectes:
+I just talked to Gavial. It's not like Edge doesn't drink himself. It probably wouldn't be a good idea to talk to him now.
+
+Gavial:
+Avdotya might just be the only one who'll follow through with the ban, but since this involves the Durins' immediate benefit, she might be powerless herself.
+
+Tomimi:
+*whine*...
+
+Gavial:
+Actually, I have an idea.
+
+Tomimi:
+Really? I knew you'd know what to do!
+
+Gavial:
+Don't get ahead of yourself. I can't do this on my own. I need your help.
+
+Gavial:
+Tomimi, send the word out to all the tribes and ask them to keep an eye on the Durins.
+
+Tomimi:
+Huh? What are they gonna do?
+
+Gavial:
+That depends on Zumama and her mission...
+
+Clear-headed Durin:
+How many days has it been since we last had a sip?
+
+Astute Durin:
+Yeah, I haven't been keeping count, you whiskey idiot. Couldn't be bothered to. All I remember is that all the men you guys sent to persuade her came back empty-handed. You guys are even more pathetic than Originium slugs.
+
+Clear-headed Durin:
+What did you just say, you mead wimp?!
+
+Astute Durin:
+...Let me warn you. You can insult us, but you can't insult Old Karl Mead!
+
+Astute Durin:
+The way I see it, you guys got brain damage from all that stinking foot odor you guys got with your whiskey!
+
+Courteous Durin:
+You know...
+
+Astute Durin:
+What?
+
+Courteous Durin:
+I've always advocated for both sides to peacefully coexist.
+
+Clear-headed Durin:
+Get to the point, you berry tomato wine freak.
+
+Courteous Durin:
+Actually, my guys have almost persuaded Master Edge. We just need to wait a couple more days. Just a few more days—
+
+Gavial:
+Hey there, my conspirators. Nice to see you guys.
+
+Booze-loving Durins:
+Gavial?!
+
+Gavial:
+I'm here to talk conditions.
+
+Clear-headed Durin:
+What conditions?
+
+Gavial:
+I know you guys want your booze making tools, and you can't wait to get your hands on them, right?
+
+Astute Durin:
+True enough.
+
+Gavial:
+I'll give you guys a way out, then.
+
+Gavial:
+If you guys manage to beat me, I'll give you your tools back.
+
+Astute Durin:
+Really? Get her, boys—
+
+Gavial:
+Just like that?
+
+Astute Durin:
+Uhh... I guess we'll need to make some preparations first.
+
+Gavial:
+Good call.
+
+Gavial:
+I'll say this again. If one of you manages to defeat me, I'll give that person the tools back.
+
+Gavial:
+Hey, you there. That's right. You.
+
+Clear-headed Durin:
+—?!
+
+Gavial:
+An ambush isn't gonna work on me.
+
+Gavial:
+Anyone who tries might just end up having to give up drinking for the rest of their life.
+
+Clear-headed Durin:
+Eek!
+
+Gavial:
+Besides, ambushes are kinda underhanded, wouldn't you agree?
+
+Courteous Durin:
+W-We aren't going to bow down to you!
+
+Gavial:
+Good, you've got some backbone. I'd expect no less from the newest residents of Acahualla.
+
+Gavial:
+Now hurry up with your preparations. I'm ready when you are!
+
+Gavial:
+Zumama, how are things going on your end?
+
+Eunectes:
+Very well.
+
+Eunectes:
+At first, they thought they could take you on just by working a little harder and putting some gear together. Clearly they underestimated you.
+
+Eunectes:
+But after you handed their asses to them every single time, they started looking for another way, and it didn't take much work for me to divert their attention to robotics.
+
+Eunectes:
+I lent them the blueprints for the Big, Ugly Thing and had a bit of a technological exchange with them. I have to say, the Durins' technology is really interesting.
+
+Eunectes:
+Their self-driving carts may act like they might as well be blind, but the technology behind them is nothing to scoff at. Once deployed, we'll be in for quite a show.
+
+Gavial:
+That's not a bad thing... but what I'm worried about is them putting together a self-driving Big, Ugly Thing.
+
+Eunectes:
+Well...
+
+Eunectes:
+I think that's exactly what they have in mind.
+
+Gavial:
+(Shrugs)
+
+Gavial:
+Alright, fine. We were going to take this chance to see if the Durins would put together some kind of machine they could use in construction anyway.
+
+Gavial:
+And I mean, they haven't really been putting up much of a fight the last few days. Getting to fight something like the Big, Ugly Thing again isn't so bad.
+
+Tomimi:
+Bad news, Gavial!
+
+Gavial:
+Huh? What's the matter? Did the Durins start fighting among themselves over their booze?
+
+Tomimi:
+Yeah, the mead fan club almost had an all-out brawl with the No. 7 Whiskey fans—
+
+Tomimi:
+No, that's not what I'm here about!
+
+Tomimi:
+They put together a robot just as awesome as the Big, Ugly Thing, and they're testing out its weapons right now!
+
+Gavial:
+Oh.
+
+Gavial:
+That's exactly what Zumama's mission was. Don't you remember?
+
+Tomimi:
+Oh... I guess I worried too much.
+
+Tomimi:
+Alright, I'll keep watching them test their weapons, then! It's like, kaboom! It looks really amazing!
+
+Gavial:
+Alright. Let me know if something seems off—
+
+Gavial:
+Hold up, where are they doing this testing?
+
+Tomimi:
+At a cave not far north of the Eunectes tribe. There's nothing but trees there.
+
+Gavial:
+A cave north of... the Eunectes tribe—
+
+Gavial:
+Dammit!
+
+Tomimi:
+Huh?
+
+Gavial:
+Tomimi, hurry up and stop them. Zumama and I will be there soon!
+
+Eunectes:
+They're just testing weapons. Why are you so worried about it all of a sudden?
+
+Gavial:
+That's the cave where Inam hid all their alcohol making equipment!
+
+Not Very Clear-headed Durin:
+Hah—*yawn*.
+
+Not Very Astute Durin:
+G-Gavial?!
+
+Gavial:
+Hey, fellas. Mind testing your weapons somewhere else?
+
+Not Very Clear-headed Durin:
+Why should we?
+
+Gavial:
+Well...
+
+Not Very Clear-headed Durin:
+You're the one who told us you'll give us back our tools if we defeat you!
+
+Gavial:
+That I did say.
+
+Not Very Astute Durin:
+Then why are you trying to stop us?
+
+Gavial:
+Well—That's not what I'm here for. I just want you guys to go someplace else to test your... your...
+
+Not Very Courteous Durin:
+Giant, Ultimate Ugly Thing Mk. 3!
+
+Gavial:
+Right. I just wanted you guys to test out the Giant, Ultimate Ugly Thing Mk. 3 somewhere else, that's all.
+
+Not Very Clear-headed Durin:
+This is the most suitable place we found.
+
+Not Very Clear-headed Durin:
+Besides, we've already paid such a heavy price just to defeat you!
+
+Gavial:
+What price?
+
+Not Very Clear-headed Durin:
+We've toiled through three whole days and nights, but that's not even important.
+
+Not Very Clear-headed Durin:
+What's important is we're reduced to working with these mead wimps!
+
+Not Very Astute Durin:
+That's right! We're even working with these whiskey idiots!
+
+Gavial:
+Oh... so that's the most important part, huh?
+
+Not Very Astute Durin:
+Anyway, we've already sacrificed so much. There's no way we're going to give up just because of what you said!
+
+Gavial:
+All I'm asking is for you to find someplace else.
+
+Not Very Astute Durin:
+No means no!
+
+Gavial:
+Why's that?
+
+Tomimi:
+(Whispers) You can't blame them, Gavial.
+
+Tomimi:
+(Whispers) Avdotya asked them to find somewhere they wouldn't bother anyone. She even threatened to not write ads for their drinks anymore if they disturbed anyone.
+
+Tomimi:
+(Whispers) That's how they ended up here.
+
+Tomimi:
+(Whispers) And I saw lots of equipment and machinery already mounted in place. They can't take them away anymore.
+
+Gavial:
+(Whispers) What a headache...
+
+Tomimi:
+(Whispers) How about I ask them not to hit the cave when they test fire their weapons...?
+
+Gavial:
+That's basically giving it away that there's something there!
+
+Tomimi:
+*whine*...
+
+Not Very Courteous Durin:
+Now, please leave. Stop bothering us here!
+
+Not Very Courteous Durin:
+Or are you trying to interfere because you think you're no match for the Giant, Ultimate Ugly Thing Mk. 3?!
+
+Gavial:
+Now <i>that</i>, I can't pretend I didn't hear.
+
+Not Very Courteous Durin:
+A-Anyway, just leave already!
+
+Gavial:
+I'll say this again. I'm asking you guys to move somewhere else for your own benefit.
+
+Not Very Courteous Durin:
+We aren't going anywhere!
+
+Gavial:
+Ugh—What a pain.
+
+Gavial:
+How about this. We'll fight here and now. How's that?
+
+Tomimi:
+(Whispers) What are you thinking?
+
+Gavial:
+(Whispers) Instead of letting them stay and blow up the cave, I might as well take the situation into my own hands. Don't worry.
+
+Not Very Courteous Durin:
+But we haven't properly tuned our weapons yet...
+
+Gavial:
+If I lose, I'll give you all your tools back. If I win, you guys still get to fight me again later. You've got nothing to lose.
+
+Not Very Courteous Durin:
+I... I suppose?
+
+Gavial quickly runs to the south of the enormous machine.
+
+Not Very Courteous Durin:
+Hey, why did you come over here?!
+
+Gavial:
+That's a cave and a cliff over there. I gotta give myself some room, right?
+
+Not Very Courteous Durin:
+Alright, makes sense.
+
+Gavial:
+How about we get started, then?
+
+Not Very Courteous Durin:
+W-We aren't gonna hold back!
+
+Gavial:
+Well, that thing sure packs some firepower. I can barely get any closer.
+
+Not Very Courteous Durin:
+That's not all! Durin Tree Trunk Saw, activate!
+
+Gavial:
+Hell yeah!
+
+Gavial:
+But not enough!
+
+Not Very Courteous Durin:
+What?! She stopped the maximum turbo engine all by herself?!
+
+Not Very Courteous Durin:
+Shit! Parry! Parry immediately!
+
+Gavial:
+They dodged it?
+
+Gavial:
+That's quite an agile design. You ever thought about using that to build your settlement?
+
+Not Very Courteous Durin:
+Let's hear you say that after this!
+
+Not Very Courteous Durin:
+Take this!
+
+Gavial:
+Ohh!
+
+Not Very Courteous Durin:
+She blocked an artillery shell with her axe?!
+
+Gavial:
+Zumama forged this for me. A couple of artillery shells? Piece of cake.
+
+Gavial:
+Now it's my turn!
+
+Not Very Courteous Durin:
+Crap! Fall back! Fall back right now!
+
+Gavial:
+Not happening! Here comes the saw!
+
+Not Very Clear-headed Durin:
+Why are we falling back? We should be parrying to the side!
+
+Not Very Astute Durin:
+No, we should push forward. That's the only way we can dodge her saw's attacks!
+
+Not Very Courteous Durin:
+Stop! Stop trying to take the controller—
+
+Gavial:
+??
+
+Gavial:
+What a strange movement pattern... Why did it get behind me?!
+
+Not Very Courteous Durin:
+Settle down, you two! We almost lost right there!
+
+Not Very Courteous Durin:
+You have nowhere to run, Gavial! Take my ultimate attack—
+
+Not Very Courteous Durin:
+Durin Out-of-Control Guided Missiles Omnidirectional Bombardment!!!
+
+Gavial:
+Crap! The cave!
+
+Gavial:
+Why an omnidirectional bombardment, now of all times?!
+
+Gavial takes a deep breath, relaxes her tail, and drops her saw on the ground.
+
+She grips the large axe with both hands.
+
+Gavial:
+Haah!
+
+Not Very Clear-headed Durin:
+What?! H-How high did she jump?!
+
+Gavial leaps into the air and hops onto gigantic machine's leg, then its chest.
+
+With the robot's surface as a stepping stone, Gavial once again springs up and curls her tail around its raised robotic arm, swinging towards the cave's entrance on the other side.
+
+*Brrrr*–
+
+Gavial looks at the artillery shells all over the ground and raises the giant axe in her hand.
+
+Gavial:
+Hah... hah...
+
+Gavial:
+Good thing that was omnidirectional, and none of them headed this way...
+
+Gavial:
+And I also gotta thank you guys for not putting any explosives in the missiles... At least you knew to hold back there...
+
+Gavial:
+*belch*
+
+Gavial:
+Huh?
+
+Not Very Courteous Durin:
+I have no idea why you care about that cave so much, but now that you've had a taste of our missiles, there's no way you can stand anymore!
+
+Not Very Courteous Durin:
+The missiles are filled with Archosaurian booze. Even those with the highest tolerance amongst us can't stay on their feet after getting blasted by one of these!
+
+Gavial:
+Urgh...
+
+Gavial:
+So... Does it look like I'm lying on the ground right now?
+
+Not Very Courteous Durin:
+No way...
+
+Not Very Courteous Durin:
+How come the missile didn't work on you?
+
+Gavial:
+I mean, how much booze did you put in the missiles anyway? It's not like I drank any. Breathing in that little bit just makes you tipsy at most. Why would anyone fall down and not be able to get up?
+
+Not Very Courteous Durin:
+But none of us could...
+
+Gavial:
+That just goes to show what a bunch of lightweights you guys are.
+
+Not Very Courteous Durin:
+(Facepalms)
+
+Not Very Courteous Durin:
+Set that aside for now! Why are you so worried about the cave, Gavial?! Are you hiding something in there that's stopping us from getting our tools back?!
+
+Gavial:
+......
+
+Gavial:
+Whatever, now that it's come to this. I'll tell you.
+
+Gavial:
+Inam hid all your tools inside.
+
+Booze-loving Durins:
+What???
+
+Gavial:
+If you don't believe me, go check it out yourself. Of course, until you defeat me, I'm not going to let you take them.
+
+Starting-to-be-Courteous Durin:
+So... That's why you leapt up there? To keep our tools from getting hit by the missiles?
+
+Starting-to-be-Astute Durin:
+So that's why you ran behind the Giant, Ultimate Ugly Thing Mk. 3? Because you were scared of the cave getting caught in the battle?
+
+Starting-to-be-Clear-headed Durin:
+That's why you tried to chase us away? Because you were afraid our tools would be caught in the weapons test?
+
+Gavial:
+Didn't I tell you? I asked you guys to go somewhere else for your own benefit.
+
+Booze-loving Durins:
+......
+
+Courteous Durin:
+Gavial... Your tail looks like it's bleeding.
+
+Gavial:
+It's no big deal.
+
+Gavial:
+I use my tail to pull myself up the machine. Maybe something sharp gave me a cut or something.
+
+Astute Durin:
+Your face is hurt, too.
+
+Gavial:
+It's been a while since I've had such a great fight. Would be weird to not be hurt somewhere.
+
+Clear-headed Durin:
+Do you want to keep going...?
+
+Gavial:
+Up to you.
+
+Gavial:
+If you guys are up to it, I'm all for it.
+
+Courteous Durin:
+Maybe... in a few days.
+
+Gavial:
+Yeah, that's probably for the better. I mean, your ultimate attacks didn't seem to work on me at all.
+
+Gavial:
+Of course, I'll post guards here to keep a close eye on the cave. Don't you even think about getting your stuff back without defeating me!
+
+Gavial:
+You guys are here.
+
+Gavial:
+Oh, looks like you brought your Giant, Ultimate Ugly Thing Mk. 3 too.
+
+Courteous Durin:
+This is the Mk. 4.
+
+Gavial:
+Good. Looks like technology evolves fast.
+
+Gavial:
+Should we get started, then?
+
+Courteous Durin:
+Hold on.
+
+Holding the remote controller in his hand, the Durin looks at neither Gavial nor the large robot. Instead, he looks to the sky and starts mumbling.
+
+Courteous Durin:
+If Gavial does this, then I'll...
+
+Courteous Durin:
+I do this, and Gavial will...
+
+Courteous Durin:
+Gavial does that, I'll—
+
+Courteous Durin:
+I'll...
+
+The Durin freezes for a moment before drooping his head.
+
+Courteous Durin:
+Should we get started now?
+
+Gavial:
+Alright, let's do this!
+
+Gavial assumes her stance and waits for the giant machine's attack.
+
+At that very moment, the Durin presses down on the remote in his hand.
+
+A large explosion occurs, but Gavial finds herself unscathed.
+
+She gapes at the robot, now nothing but a pile of scrap metal.
+
+Gavial:
+Wha... What the hell is this about?
+
+Courteous Durin:
+We made lots of improvements after the last battle, but our careful tests show that the Giant, Ultimate Ugly Thing series is no match for you even after all our upgrades.
+
+Courteous Durin:
+That's why I came up with one last trick: have the Giant, Ultimate Ugly Thing Mk. 4 blow itself up.
+
+Gavial:
+But you didn't have to self-destruct the minute we start, right?
+
+Courteous Durin:
+...I did that because I was working out what you'd do.
+
+Courteous Durin:
+And I figured that we were never going to win even if with the self-destruct.
+
+Courteous Durin:
+It's to show that we're accepting our defeat. I had no other choice!
+
+Gavial:
+But I was waiting for Zumama to turn it into an industrial robot!
+
+Gavial:
+Welcome back, Inam.
+
+Tomimi:
+Welcome back!
+
+Inam:
+You two look quite cheerful.
+
+Tomimi:
+You came back quick. I bet everything must have gone really well!
+
+Inam:
+Couldn't have been better. Thanks to the preparations we made beforehand, the Court of Sargon was absolutely not interested in Acahualla.
+
+Inam:
+So how were things here? Everything running as usual?
+
+Tomimi:
+Yup, super normal! Gavial's keeping the Durins' alcohol ban going just fine!
+
+Inam:
+Sounds like you've done well, Gavial.
+
+Inam:
+So how did it feel like, having to deal with the Durins?
+
+Gavial:
+Pretty good.
+
+Gavial:
+They may look like a stubborn bunch that likes to fool around, but they actually aren't so bad.
+
+Inam:
+How did you stop the ones that keep clamoring for booze, then?
+
+Gavial:
+Mostly with my fists.
+
+Inam:
+You beat them up?!
+
+Tomimi:
+Gavial didn't do that! They made a promise. Anyone who manages to defeat Gavial gets their tools back, but none of them ever won!
+
+Inam:
+Oh, so that's how it was.
+
+Inam:
+...Isn't that kind of the same thing as beating them up?
+
+Inam:
+Why don't we head back first?
+
+Clear-headed Durin:
+Inam, you're back!
+
+Inam:
+Hello.
+
+Clear-headed Durin:
+Come, take a look at this! This is a list of events in our competition.
+
+Inam:
+A competition...?
+
+Clear-headed Durin:
+That's right! A competition!
+
+Clear-headed Durin:
+I still have a business meeting with my buddies at the mead fan club, so I'll get going now. See you later!
+
+Inam:
+The Third... Giant, Ultimate Ugly Thing Cup... Self-Driving Robots Competition Preliminaries...
+
+Inam:
+The victor's creation will fight against Gavial... and defeating Gavial will result in the return of all alcohol making tools and equipment...
+
+Tomimi:
+Inam, you don't look too well. Got a headache or something?
+
+Inam:
+To tell the truth, yes.
+
+Inam:
+......
+
+Inam:
+Never mind, I more or less expected something like this with Gavial in charge.
+
+Inam:
+Let's head to the Durins' settlement. If they're having so much fun, surely they must already be done with all the construction?
+
+Inam:
+Hey, isn't that Zeruertza's weather forecast chief? Is he joining in on this?
+
+Edge Eartheart:
+Like I said, Avdotya, I've already made it to the semifinals. I just need one more round! One more round!
+
+Avdotya:
+Inam? Is that you?
+
+Avdotya:
+Finally, you are back! Please, help me talk some sense into Chief Edge. Ask him to get everyone to stop all this self-driving robot nonsense!
+
+Inam:
+Gavial?
+
+Gavial:
+Uh, something the matter?
+
+Inam:
+Don't tell me you came up with these competitions to keep the Durins from drinking.
+
+Gavial:
+Er... More or less?
+
+Inam:
+Then what about the Durins' settlement?!
+
+Gavial:
+Look.
+
+A gigantic machine pulls into the area.
+
+A few Durins, keeping a safe distance from the robot, pilot it remotely as it passes by the two of them.
+
+Inam:
+What's this abomination that looks like the bastard child of the Big, Ugly Thing and their self-drivers...?
+
+Gavial:
+If memory serves, they call it the 'Giant, Ultimate Ugly Thing Mk. 5.'
+
+Inam:
+......
+
+Gavial:
+It's no match for me, but thanks to Zumama and Deculture Silvermint, it makes for a passable industrial robot.
+
+Gavial:
+If only your trip took a couple more days. We could've finished the settlement before you got back!
+
+Inam:
+......
+
+Inam:
+I must be dreaming.
+
+Inam:
+Gavial, punch me.
+
+Inam:
+Ow!
+
+Inam:
+......
+
+Inam:
+This is real?
+
+Tomimi:
+Gavial! Gavial!
+
+Gavial:
+What's up?
+
+Tomimi:
+The preliminaries' winner has been decided, and the Durins are clamoring for you to fight their champion!
+
+Gavial:
+So, Inam, it's been a while since Acahualla last had a duel. Wanna come watch?
+
+Inam:
+......
+
+Inam:
+My pleasure.
+
+
+

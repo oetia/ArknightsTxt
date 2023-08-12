@@ -1,0 +1,921 @@
+Aloof Noble:
+Graf Urtica, Your Excellency, Vyseheim will come to a stop tomorrow at noon. I shall then accompany you to the capital on behalf of Stadtrat Vyseheim.
+
+Aloof Noble:
+I will assist you in investigating this incident.
+
+Aloof Noble:
+Furthermore, per protocol, you will be granted freedom of movement within Vyseheim until sundown to make it easier for you to pack your bags and express your goodbyes to those of importance to you.
+
+Aloof Noble:
+Of course, considering your special status, as well as the seriousness of this incident, I will personally attend to you throughout your activities in Vyseheim.
+
+Ebenholz:
+Attend me? I expected you to directly say that you're 'surveilling' me.
+
+Aloof Noble:
+(Shrugs)
+
+Aloof Noble:
+So, where are you planning on going? If possible, please let us know in advance so that––
+
+Ebenholz:
+And if I don't feel like telling you?
+
+Aloof Noble:
+Just a friendly reminder - I will be keeping tabs on your every word and action, and my records will greatly affect the outcome of these procedures.
+
+Ebenholz:
+Sure, sure. At this point, I'd rather hear that from some spy or agent. There's a lot more humanity to those types than the likes of you.
+
+Afterglow Hall stands as always, only now, it has fallen silent.
+
+The plaza has thinned out. Only a few casually-dressed people still remain milling about, their eyes full of suspicion.
+
+Ebenholz:
+......
+
+Despondent Infected:
+Please, go easy on me this one time...
+
+Plainclothes Guard:
+No.
+
+Despondent Infected:
+This is where Gelais drew his last breath... I just wanted to sing a song he used to enjoy, 'die Melodie für Morgen'...
+
+Plainclothes Guard:
+No, get out of here! Music is strictly prohibited in this jurisdiction at the moment. Are you trying to violate the order?!
+
+Despondent Infected:
+But I'm only going to sing a song. I don't know any Originium Arts...
+
+Plainclothes Guard:
+Get out of here right now, or you'll regret it!
+
+Aloof Noble:
+Where are you going?
+
+Ebenholz:
+The guard said commoners aren't allowed in, right? Since I'm a noble, I'll vouch for him.
+
+Ebenholz:
+What is it?
+
+Aloof Noble:
+Have you forgotten what happened the last time you brought a commoner into a music store?
+
+Aloof Noble:
+The incident may not have had serious consequences, nor did anyone pursue the matter. Still, one time can be written off as a young man being ignorant and selfish. Two times, and the same can't be said again.
+
+Aloof Noble:
+If you ask me, you've already blurred the line between commoners and nobles in your heart, a line which one must never cross.
+
+Ebenholz:
+......
+
+Aloof Noble:
+Seems like you've calmed down.
+
+Aloof Noble:
+I will make it known in my records that Graf Urtica has come to realize his excessive contact with commoners is one of the main reasons behind the tragedy––
+
+Aloof Noble:
+Your Excellency?!
+
+Ebenholz:
+Hello.
+
+Despondent Infected:
+Ebenholz?
+
+Despondent Infected:
+Err, I mean, Graf Urtica... My apologies, I was too sad to think straight...
+
+Ebenholz:
+Please, don't call me that.
+
+Ebenholz:
+About Gelais...
+
+Despondent Infected:
+Say no more, I get it. I'm very grateful for your consideration.
+
+Despondent Infected:
+But please, don't finish that sentence. They're all watching, listening.
+
+Ebenholz:
+......
+
+Despondent Infected:
+......
+
+Despondent Infected:
+Oh, right, Herr Czerny is leaving the Afterglow tomorrow. Would you like to go see him?
+
+Ebenholz:
+Czerny? Leaving the Afterglow?
+
+Despondent Infected:
+You didn't know? He's not doing well, so Hibiscus wants to take him to Rhodes Island for treatment.
+
+Ebenholz:
+Thanks for telling me. I'll go to him right away.
+
+Ebenholz:
+And... my condolences.
+
+Despondent Infected:
+Thank you for your kindness...
+
+Aloof Noble:
+(Sighs audibly)
+
+Aloof Noble:
+Let's get going. And don't make trouble.
+
+Ebenholz:
+I'll make trouble for you any day of the week.
+
+Aloof Noble:
+You really think you're not making life harder for those Infected? If you really cared about them, you'd keep your distance.
+
+Ebenholz:
+......
+
+Hibiscus:
+Ebenholz?!
+
+Hibiscus:
+Where've you been all this time? Mr. Czerny and I have been worried half to death about you––
+
+Czerny:
+Don't waste your breath, Hibiscus.
+
+Czerny frowns at the figure standing behind Ebenholz. The noble remains there, motionless.
+
+Ebenholz:
+I heard Czerny was going to leave the Afterglow.
+
+Hibiscus:
+It's true.
+
+Ebenholz:
+That... isn't something I'd expect of the Czerny I know.
+
+Czerny:
+Such is the great Graf Urtica, brandishing his razor wit the moment he steps through the door.
+
+Ebenholz:
+That wasn't meant as an insult.
+
+Czerny:
+I know. Since you're here, I'd like to hear what you've been up to since they put you under house arrest––
+
+Aloof Noble:
+Watch your mouth, uncouth peasant.
+
+Czerny:
+...I'll keep that in mind. Now, might we continue our conversation, o highest of noble lords?
+
+Czerny:
+Now then, I'm leaving the Afterglow for three reasons.
+
+Czerny:
+First, my body is in bad shape. Hibiscus was right - my life isn't forfeited yet, and I shouldn't give up my hope for a future just yet.
+
+Ebenholz:
+Is this the same Czerny who used to compose until he vomited blood? Those are some words worth recording.
+
+Czerny:
+I don't think those words are very much like me either. Hibiscus is primarily to blame, as she has been forcing these ideas upon me.
+
+Czerny:
+Second, I can no longer do anything for the Afterglow as it is now.
+
+Ebenholz:
+What do you mean by that?
+
+Czerny:
+The Stadtrat has taken over the entire district. They...
+
+Aloof Noble:
+Ahem–– Ahem.
+
+Czerny:
+...have been very considerate of us.
+
+Czerny:
+The day after the incident, they placed a ban on playing music in public, claiming it was to 'prevent criminal activity.'
+
+Aloof Noble:
+Hmph.
+
+Czerny:
+Music stores throughout the Afterglow have been subject to frequent investigation lately, with many of them closing permanently.
+
+Czerny:
+I intended to go to have a word with the Stadtrat, but even playing piano in my own home saw them 'politely' breaking into my house. They nearly attacked Ursula last time.
+
+Ebenholz:
+Have they gone mad?!
+
+Czerny:
+If you ask me, they're afraid of––
+
+Aloof Noble:
+Halt your baseless speculation.
+
+Aloof Noble:
+Your Excellency, this is not something that should be discussed with commoners.
+
+Ebenholz:
+Then, I trust you'll explain the situation in private, good sir.
+
+Aloof Noble:
+......
+
+Ebenholz:
+Ignore him, Czerny. What's your third reason?
+
+Czerny:
+That would be the most one. My creative process requires something a bit... different.
+
+Czerny:
+After the incident, I found myself harboring some... more difficult-to-express feelings in my chest.
+
+Czerny:
+I need to connect with something different... something brand new, to expand the vocabulary of my music. Perhaps then, I will be able to give voice to a part of those feelings.
+
+Ebenholz:
+That's the first bit of good news I've heard all day.
+
+Ebenholz:
+I wish you the best.
+
+Hibiscus:
+Ebenholz, what are you planning to do next?
+
+Aloof Noble:
+Fräulein, I advise you to change the subject.
+
+Hibiscus:
+Um, is there any place you'd like to go?
+
+Ebenholz:
+An interesting question. How can I go anywhere? Once this city comes to a stop tomorrow...
+
+Aloof Noble:
+Disclosing that is a serious crime.
+
+Ebenholz:
+Well, there you have it.
+
+Hibiscus:
+I'll come up with something.
+
+Ebenholz:
+With what? There is nothing to come up with.
+
+Ebenholz:
+Leaking secrets is a serious crime indeed, and there are thousands of laws in Leithanien. It's a single law I'm managing to not break here.
+
+Ebenholz:
+My verdict hasn't been handed down yet, so all I can do is wait––
+
+Aloof Noble:
+This is your last warning, Graf Urtica.
+
+Ebenholz:
+So, this pretty much sums up the situation.
+
+Hibiscus:
+There must be a way... I'm sure of it.
+
+Hibiscus:
+Once I'm back at Rhodes Island, I'll go see the Doctor. We'll come up with something, for sure.
+
+Ebenholz:
+Your Doctor is so incredibly capable?
+
+Hibiscus:
+Absolutely.
+
+Ebenholz:
+Why would such an incredible Doctor make such efforts for me?
+
+Hibiscus:
+Don't sell yourself short.
+
+Hibiscus:
+If you weren't the focus of this whole mess, if it was someone else, I can't even imagine what would have become of Vyseheim.
+
+Hibiscus:
+You saw the truth. You stood up to fight. And most importantly, many people... myself included, would have died without your efforts.
+
+Ebenholz:
+Thank you. I truly appreciate your kindness, Hibiscus, but––
+
+Hibiscus:
+After your situation settles down, you should come with us to Rhodes Island too.
+
+Ebenholz:
+Me? Go to Rhodes Island?
+
+Hibiscus:
+Don't forget, you're Infected now. You'll need treatment, just like me and Mr. Czerny.
+
+Hibiscus:
+Rhodes Island is a landship. It won't stay in one place for too long, and it doesn't stay on a fixed track. It will cross through many countries, and may even sail to the end of the earth.
+
+Hibiscus:
+Plus, Rhodes Island is huge and has a lot of people onboard.
+
+Hibiscus:
+Remember my sister, Lava? She hates the health food I make just as much, so I'm sure the two of you will have a lot of common ground.
+
+Hibiscus:
+So... When this is all over, Ebenholz, come to Rhodes Island.
+
+Ebenholz:
+...If I can.
+
+Hibiscus:
+C'mon, cheer up. Don't start moping already.
+
+Hibiscus:
+Remember what Kreide said to you.
+
+Ebenholz:
+?!
+
+Hibiscus:
+Even with how hoarse his voice was––
+
+Hibiscus:
+You can't forget what he asked of you.
+
+Ebenholz:
+No, I didn't forget... How could I ever forget?!
+
+Hibiscus:
+Then... Try your best to honor his wishes, okay?
+
+Kreide unsteadily shambles to the center of the plaza.
+
+With each step he takes, Originium crystals erupt from his body, his flesh and blood beginning to churn.
+
+A strange melody lingers over the plaza.
+
+The crystals rapidly envelop Kreide's body, transforming into armor, transforming into instruments.
+
+In a heartbeat, the being once known as Kreide is swallowed up, and in his place stands...
+
+Ebenholz:
+(Breathes raggedly)
+
+Ebenholz:
+I... passed out again?
+
+Ebenholz:
+Hibiscus? Hibiscus!
+
+Ebenholz:
+Czerny? Ursula? Where are you?
+
+Aloof Noble:
+You're awake, Graf Urtica?
+
+Ebenholz:
+Where's Hibiscus? And Czerny?
+
+Aloof Noble:
+That commoner and his servant have been taken away, along with the Sarkaz woman.
+
+Ebenholz:
+But this is Czerny's house!!
+
+Aloof Noble:
+Nay, it is 'a house that shelters them from the wind and rain, by the grace of Their Majesties.'
+
+Ebenholz:
+......
+
+Aloof Noble:
+This is for everyone's good. If you had continued your discussion, there's no guarantee that they'd be able to leave Vyseheim tomorrow morning.
+
+Ebenholz:
+You despicable–
+
+Aloof Noble:
+Was there something else you wanted to say?
+
+Ebenholz:
+Nothing I'd say to you.
+
+Ebenholz:
+Actually, we came to an agreement earlier. I nearly forgot.
+
+Ebenholz:
+Why isn't the Stadtrat allowing music in the Afterglow?
+
+Aloof Noble:
+It's an edict they decided to issue, nothing more.
+
+Ebenholz:
+I didn't think they'd fly off the handle and pass something like that. Besides, the Afterglow has always paid taxes to Vyseheim. Why would they cut their own revenue like that?
+
+Aloof Noble:
+Naturally, to prevent someone from imitating that crime.
+
+Ebenholz:
+If that was true, you wouldn't have snorted in satisfaction earlier when Czerny gave this same excuse.
+
+Ebenholz:
+You'd only feel that way if you knew he had bought into your lies.
+
+Aloof Noble:
+Tch.
+
+Ebenholz:
+Let me guess... The Empresses' Voice, right?
+
+Aloof Noble:
+I'd watch myself, if I were you.
+
+Ebenholz:
+Seems like I'm right on the mark.
+
+Ebenholz:
+Then, I'm assuming some Kurfürsten, like Lehnsfrau Gertrude––
+
+Aloof Noble:
+You... You presumptuous little––!
+
+Ebenholz:
+You're not the best at keeping secrets either, my good sir.
+
+Aloof Noble:
+......
+
+Ebenholz:
+By the looks of things, he's put a lot of pressure on you. Tell me, what does he think of all this?
+
+Ebenholz:
+Did you come up with this despicable plan because you wanted to exterminate the Infected of the Afterglow without causing a fuss and catching the attention of the Empresses' forces?
+
+Aloof Noble:
+Show some restraint! And, I have no idea!
+
+Ebenholz:
+That's true. Each regional Stadtrat only acts in accordance with what they're told. How would they possibly be able to see through the Kurfürsten's plans?
+
+Aloof Noble:
+Are you done yet?
+
+Ebenholz:
+I am.
+
+Aloof Noble:
+Then allow me to say something.
+
+Aloof Noble:
+Please return to your residence in the Cliffy Patio immediately.
+
+Aloof Noble:
+You tried to break into a restricted area, take advantage of a commoner to sow confusion, and discuss confidential information with unauthorized individuals. None of these things will reflect well in your record.
+
+Ebenholz:
+I can't imagine you're doing this with my best interest in mind.
+
+Ebenholz:
+Let me guess... Could it be that if your report doesn't look good, it also reflects negatively upon you?
+
+Aloof Noble:
+......
+
+Ebenholz:
+Don't pretend like you didn't hear me. I know everything in your bag of tricks by now.
+
+Ebenholz:
+Back in Urtica, whenever I got into trouble, I was always most afraid of my own 'agents' and 'attendants.'
+
+Ebenholz:
+So tell me, how do you people want me to spend the rest of my life? What's the bottom line? Be honest with me, it'll make things easier for both of us.
+
+Aloof Noble:
+(Sighs)
+
+Aloof Noble:
+Just go home. That's the only thing I ask of you.
+
+Ebenholz:
+But you said I'm free to go where I please until sunset. Your own words.
+
+Aloof Noble:
+Those may be the rules.
+
+Aloof Noble:
+But, those who truly understand the push and pull of these matters will do as I say. They follow the arrangements I lay out for them, and prove that they truly have remorse...
+
+Aloof Noble:
+And yet you, and that repulsive, unrepentant air you put on like a delusional commoner – nay, like a beast that refuses to be tamed...
+
+Aloof Noble:
+Get a grip already, Graf Urtica.
+
+Aloof Noble:
+Listen to me and return to your residence. I'll try to put in a few good words for you in my report.
+
+Ebenholz:
+And if I don't?
+
+Ebenholz:
+Will your report curse me up and down? Will it reveal the terrible job you've been doing?
+
+Aloof Noble:
+(Clicks tongue in anger)
+
+Aloof Noble:
+They say you're related by blood to the one whose name we dare not speak, and it's clear to me now that the same madness runs in your veins.
+
+Ebenholz:
+So you're finally starting to be honest about me.
+
+Aloof Noble:
+Don't get too uppity, boy.
+
+Aloof Noble:
+You think I'm afraid of you? You're nothing more than a puppet - what could you possibly know about the art of recording?
+
+Aloof Noble:
+I have a hundred ways to absolve you of responsibility while still keeping you in chains, understand? If you've gotten it through that thick skull of yours, return to your cell!
+
+Ebenholz:
+......
+
+Ebenholz:
+Sorry, but the sun isn't down yet. I'm free to go wherever I want.
+
+Ebenholz:
+So keep following me, my cowardly friend. Not that you dare to throw your weight around with an audience.
+
+Ebenholz breaks into a sprint in a narrow alley.
+
+He isn't even thinking about trying to shake off his pursuer.
+
+If he manages to lose him, a new 'tail' will grow back in no time.
+
+If he manages to shake them all, he still has nowhere to go...
+
+Nowhere to go?
+
+Before he knows it, his feet bring him to that place.
+
+Looking at the familiar door and the unfamiliar barricades surrounding it, Ebenholz hesitates.
+
+His 'tail' pants heavily, glaring at him viciously from not too far away. Ebenholz crosses the line of barricades and pushes open the door to the house.
+
+Seeing him disappear through the door, the 'tail' follows him, gasping for breath.
+
+Everything is the same as it was before that performance.
+
+The cups, the dishes, the kettle.
+
+The dirty stovetop, worn furniture, a crude bed, and... a shakedown mat.
+
+Ebenholz suddenly wants to know what it feels like to sleep on it, so he lies down.
+
+Pain. It hurts all over.
+
+The hard ground seems to reject him, putting pressure on every bone in his back.
+
+Just a few seconds makes him feel as if his spine is ready to snap.
+
+The 'tail' glares at him contemptuously as if looking down at a beast, and he returns the same amount of malice.
+
+He's right, anyway. He probably will end up back in chains.
+
+But he's not particularly scared.
+
+He isn't even that curious anymore.
+
+If he were to be honest, he probably has already accepted the vicissitudes of fate.
+
+While other children frolicked beneath the sunlight, he and Kreide learned to remain calm in the face of death.
+
+After struggling to survive through a crazed experiment, one of them became a caged fowlbeast. The other ended up worse-off than an Originium slug in the sewers.
+
+He sought freedom amidst fear, but Kreide was powerless to seek anything beyond food and clothing.
+
+After many years, they finally reunited here.
+
+They decided to work together to put on a concert.
+
+Shouldn't their misfortune have ended here?
+
+After the conclusion of the story, he was supposed to return to his post as a puppet graf, and Kreide was supposed to earn enough money and renown to treat his grandfather.
+
+They were supposed to learn that nobody is ever alone.
+
+But then, they stood upon that stage.
+
+They were ready to give everything for each other.
+
+Generally speaking, such a story should have ended with two earning a new lease on life after making it through all that suffering.
+
+Or, even if fate was meant to torment them, they at least should have perished together, right?
+
+But fate wanted Kreide to die for him. Fate wanted Kreide to die at the hands of the person he intended to give his life for.
+
+Fate wanted Kreide to die, and fate wanted Kreide's death to be meaningless.
+
+Czerny has to leave the Afterglow to seek treatment.
+
+He continues to survive, but will soon go to the capital to face his judgment.
+
+The people of the Afterglow are being strangled, not even permitted to sing a lamentation for their deceased loved ones.
+
+Hibiscus:
+Don't forget what Kreide said to you.
+
+Hibiscus:
+You can't forget what he asked of you.
+
+Ebenholz:
+Kreide's words––
+
+Ebenholz:
+Have I... forgotten them?
+
+Kreide:
+Live on, Ebenholz, and walk through the long night.
+
+Kreide:
+Fight injustice, and treat others with generosity and charity.
+
+Kreide:
+Only by doing so will I live on in your memory.
+
+Kreide:
+I'll ask you, how did your day go, Ebenholz?
+
+Kreide:
+And you'll tell me proudly that you had a good and productive day.
+
+Kreide:
+You'll tell me about the challenges you face while doing good, and complain about how fate is a miser.
+
+Kreide:
+And it will be okay, because I'll be listening.
+
+Kreide:
+It's alright to complain a little, when you've worked so hard.
+
+Kreide:
+Only by doing so will you rise above pain and suffering, and find peace in your heart.
+
+Kreide:
+Remember that we've fought together against cruel fate and won.
+
+Kreide:
+When you think of me, laugh. Don't cry.
+
+Kreide:
+So, don't...
+
+Ebenholz:
+Don't go, don't go––
+
+Ebenholz:
+Wait!!
+
+Aloof Noble:
+Enough!
+
+Aloof Noble:
+Huh? You're crying?
+
+Aloof Noble:
+Looks like you finally understand the situation you're in.
+
+Ebenholz pulls back a drawer within the room, revealing a solitary cello bow. It is a memento left by Kreide's previous teacher.
+
+Ebenholz carefully wraps up the bow, and takes it with him.
+
+Ebenholz:
+Good sir, do you remember when you first arrived at the scene of the incident? You confiscated my cello. Where is it?
+
+Aloof Noble:
+We're holding on to it, it is an important piece of evidence––
+
+Ebenholz:
+Then how come I remember you taking it into Afterglow Hall, dawdling around for a good long while, then coming out empty-handed?
+
+Aloof Noble:
+Nonsense. You––
+
+Aloof Noble:
+Get back here! The sun's about to go down! Where do you think you're going?!
+
+The Infected is still there, but he has stopped trying to approach Afterglow Hall.
+
+He stands in the plaza in despair, as if about to be blown away by the wind.
+
+He doesn't even notice Ebenholz's arrival.
+
+Aloof Noble:
+How dare you cross the cordon?! The situation has changed! This is the Empresses' Voice we're talking about now––
+
+Ebenholz:
+You talk too much for a 'tail.'
+
+Aloof Noble:
+You dare draw your wand on me?!
+
+Ebenholz:
+Unfortunately, I don't know any silencing Arts. I'll admit, I'm not as skilled as you in this regard.
+
+Ebenholz:
+But, I can get you to stay put for a while.
+
+Ebenholz:
+Oh, the plainclothes guard is here too?
+
+Ebenholz:
+Good, now nobody will get in the way.
+
+Ebenholz:
+Tell me, Herr Tail, you wouldn't have happened to hide the cello in Afterglow Hall, would you?
+
+Aloof Noble:
+Entry to that area is strictly prohibited. If you think you can get away with––
+
+Ebenholz:
+Unfortunately, there's a cello behind the entrance to Afterglow Hall, quite similar to the one I gave to Kreide.
+
+Ebenholz:
+Hidden in plain view, Herr Tail. I must say, you're quite smart.
+
+Aloof Noble:
+Put that cello down right now!
+
+Ebenholz:
+Please forgive me.
+
+Ebenholz:
+I don't know what you did with the bow, but... I happen to have a spare.
+
+Ebenholz:
+Alright. This 'die Melodie für Morgen' is for you out there––
+
+Ebenholz:
+Err, no, it's for each and every one of you.
+
+Ebenholz:
+(*whispers*) And you too... Kreide.
+
+Ebenholz:
+(*whispers*) I'm not waiting for tomorrow. I'll be complaining to you, just for tonight.
+
+Ebenholz:
+(*whispers*) I'm going to complain so much you'll grow sick of my annoying voice.
+
+Despondent Infected:
+Is this... 'die Melodie für Morgen'?!
+
+Aloof Noble:
+You're committing a crime, Graf Urtica! Do you want to bring even more ruin upon Vyseheim with your Originium Arts?!
+
+Ebenholz:
+On the contrary, Herr Tail. This is just an ordinary piece of music with no Arts involved.
+
+Ebenholz:
+I will continue to play. I will play the songs of the Infected that you don't want to hear, one by one.
+
+Ebenholz:
+If you don't want to listen, just plug your own ears. Why hold down somebody else's strings?
+
+Dispirited Infected:
+Is that... Graf Urtica? He's performing?!
+
+Despondent Infected:
+Graf... Err, Ebenholz!
+
+Despondent Infected:
+Ebenholz, thank you! Thank you for your music!
+
+Emotional Infected:
+You're amazing, Ebenholz! We're listening; we're all going to keep listening! I'll accompany you––
+
+Ebenholz:
+Wait, you over there, put your instrument down!
+
+Emotional Infected:
+Me?
+
+Ebenholz:
+Now that the Stadtrat has explicitly banned non-approved music, I'd recommend you refrain from joining me.
+
+Emotional Infected:
+But...
+
+Ebenholz:
+This today is just something I decided to do on my own. There's no need to get yourself involved, so just sit back and listen, alright?
+
+Czerny:
+Ebenholz?!
+
+Czerny:
+The one who brought music back to the Afterglow... was you?!
+
+Czerny:
+On behalf of the entire Afterglow, thank you... But please, stop that right now! Your situation is already dire!
+
+Ebenholz:
+I appreciate the concern, but I'm not going to stop.
+
+Ebenholz:
+This is my performance, and I'm not letting you steal my spotlight!
+
+Hibiscus:
+Calm down and think this through, Ebenholz!
+
+Ebenholz:
+You misunderstand me, Hibiscus.
+
+Ebenholz:
+Didn't you remind me not to forget Kreide's words? It's thanks to you that I finally remembered.
+
+Ebenholz:
+Fate is cruel and unjust, but I was so stricken by grief that I forgot to fight back.
+
+Ebenholz:
+But now, I've remembered.
+
+Ebenholz:
+If there are those seeking to silence the people, then I shall give them a voice.
+
+Ebenholz:
+If it becomes a crime to pay homage, then I shall offer up a bouquet of fresh flowers.
+
+Ebenholz:
+And if anyone tries to lock me up in a so-called noble spire, then I'll blow the damned thing to smithereens!
+
+Aloof Noble:
+You... You've gone too far this time!
+
+Ebenholz:
+Ah, perfect timing, Herr Tail. Please remember to include this in your report!
+
+Ebenholz:
+Unless your verdict is to get rid of me altogether, I'm done with this place!
+
+Ebenholz:
+And, most importantly, I hereby renounce my noble status!
+
+Ebenholz:
+Nobility is a shame that I can no longer tolerate for even a single day!
+
+Aloof Noble:
+You've gone mad! This is unprecedented! You––
+
+Ebenholz:
+Then call me mad! Say I chose the path of madness after long and careful deliberation!
+
+Ebenholz:
+But now, 'die Melodie für Morgen' is coming to an end, my beloved Infected brothers and sisters!
+
+Ebenholz:
+Let me see your faces, and consider your tastes...
+
+Ebenholz:
+'Goldenpokal und Silberbesteck.' If I remember properly, the bearded man in the back liked to hum that song. That'll be the next piece I play.
+
+Ebenholz:
+Then, the third song, 'Winter Wanderlust,' will be dedicated to our tough tailor lady.
+
+Familiar Voice:
+The fourth piece, 'Piano Sonata in F-Major, Opus 81, 'An die Freiheit,' is dedicated to you.
+
+Ebenholz:
+Biegler––?!
+
+Ebenholz:
+Alright. As long as I have the skills to adapt that piece for cello, then it'll be the fourth!
+
+Ebenholz:
+Next up is, 'Goldenpokal und Silberbesteck'! Listen well!
+
+............
+
+Using his unpolished cello skills, he continues to perform one piece after another.
+
+As if in a frenzy, the gathered Infected begin to weep, laugh, and mourn in the plaza until the Stadtrat rushes to the scene.
+
+He is just like them.
+
+With tears in his eyes, he smiles.
+
+
+

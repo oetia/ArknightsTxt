@@ -1,0 +1,812 @@
+Silence:
+Ptilopsis, you're back.
+
+Ptilopsis:
+Yes.
+
+Silence:
+Thanks for going on that site inspection for me. I'm almost done with this experiment, so I'll be able to do the next one myself.
+
+Ptilopsis:
+It's okay.
+
+Ptilopsis:
+I can go next time too.
+
+Silence:
+...Oh?
+
+Silence:
+Did something happen?
+
+Ptilopsis:
+Yes. I'm going to my room now.
+
+Silence:
+...Okay.
+
+Ptilopsis:
+I think it should be in this diary...
+
+Ptilopsis:
+No, this one was written at Rhine Lab. So, it should be this one...
+
+Ptilopsis:
+Yes, this one. This diary is from after I came to Rhodes Island with Silence.
+
+Ptilopsis:
+Let me see.
+
+Diary:
+March 21 \ Overcast
+
+Diary:
+Today, two new operators came to the Island. One named Hung and one named Aak. They seem to be from the same place as Waai Fu.
+
+Diary:
+It is significant that Aak, who looks very young, is said to be a very famous back-alley doctor in Lungmen. But it seems he will not join the medical section.
+
+Diary:
+April 2 \ Cloudy
+
+Diary:
+Ever since he found out that Warfarin is 'Mr. Blood,' he has been visiting the medical section regularly.
+
+Diary:
+But most of the medical section does not like him. This is because he does nothing to conceal his disrespect for us as his peers.
+
+Diary:
+He is clearly highly skilled at healing Arts. Why...?
+
+Diary:
+April 15 \ Sunny
+
+Diary:
+...Speaking of Aak, Hung came to take him away after his latest competition with Warfarin. He has since curbed his behavior somewhat.
+
+Diary:
+And the medical team is growing accustomed to his personality——at least outwardly.
+
+Ptilopsis:
+This diary must be from the time of his second 'duel' with Warfarin.
+
+Aak:
+Hey, 'Mr. Blood,' how about a little contest of skill?
+
+Warfarin:
+Wow, what an obnoxious little wretch you are. Didn't you realize the power differential at work the last time you lost to me?
+
+Aak:
+Are you serious? You think I lost that?
+
+Aak:
+Hey, Miss Feathers, you were there too. Who won that?
+
+Silence:
+........
+
+Ptilopsis:
+Silence, he means you.
+
+Silence:
+I'm Miss Feathers?
+
+Ptilopsis:
+Analysis determines a 50% chance he is calling me. However, my logic functions have determined I do not want to respond to this form of address.
+
+Silence:
+Neither do I.
+
+Aak:
+What are you whispering about? Come on, I didn't lose the last one, did I?
+
+Silence:
+...Aak, we're busy. Please don't interrupt our work.
+
+Aak:
+Sure, sure. I'm just asking a question. Give me an answer and I'll leave you to your noble 'work.'
+
+Ptilopsis:
+Very well. Accessing system records...
+
+Ptilopsis:
+According to the records, it is true that, objectively speaking, the winner of the last contest was difficult to determine, due to the unexpected circumstances arising at the end.
+
+Aak:
+Well, how about that!
+
+Warfarin:
+Pfft, fine. Let's give you a loss to remember today!
+
+Chatty Medic Operator:
+*Sigh*. It's been like this every day since that Aak showed up. I really don't understand why the Doctor would hire someone like that...
+
+Ptilopsis:
+Despite his abrasive personality, there is no denying that his clinical expertise, as well as his natural talent, is impressive.
+
+Chatty Medic Operator:
+I know what you mean. But I think he looks down on us.
+
+Lively Medic Operator:
+Yeah, yeah, that last surgery really impressed a lot of people, and I was kind of sold on him myself. I figured I'd try to make friends. He ended up treating me like garbage.
+
+Lively Medic Operator:
+I hate that guy!
+
+Gossipy Medic Operator:
+Only big boss Warfarin could get along with him.
+
+Chilly Medic Operator:
+Is that what getting along looks like...? What do you think, Ptilopsis?
+
+Ptilopsis:
+Searching dictionary database.... Result: birds of a feather flock together.
+
+Lively Medic Operator:
+Hahaha, that works on a couple levels!
+
+Ansel:
+What's going on in here? Looks like you're having a good time.
+
+Gossipy Medic Operator:
+Ah, Dr. Ansel, we were talking about Aak.
+
+Ansel:
+Oh.... I don't connect well with his personality, but it's nice to have a fresh face as skilled as him.
+
+Lively Medic Operator:
+Leave it to Dr. Ansel to have nice things to say about Aak....
+
+Silence:
+All right, even if we didn't have work to do, you can't be chatting it up during work hours. Back to your stations.
+
+Medic Operator:
+Right——
+
+Silence:
+You have something, Ansel?
+
+Ansel:
+Well, I have the report. The results aren't exactly stellar.
+
+Silence:
+That's more or less what we expected, though. Let's start preparing the next experiment right away.
+
+Silence:
+Ptilopsis, you go too.
+
+Ptilopsis:
+Zzzzzzz.... Oh? Yes, understood.
+
+Diary:
+Aak joining the medical section was a major upset to the order of things. And while there was some unpleasantness, I somehow did not dislike it...
+
+Ptilopsis:
+Oh, I wrote, 'I did not dislike it' in this one.
+
+Ptilopsis:
+If I recall correctly, there should be more....
+
+Ptilopsis:
+Right, here it is.
+
+Diary:
+June 10 \ Light rain
+
+Diary:
+The reconnaissance operators appear to have discovered a vein of Originium ore in a nearby mountain range, and Dr. Kal'tsit has sent a team to investigate.
+
+Diary:
+To be safe, Silence and a few medic operators went along.
+
+Diary:
+Nothing else to do today but wait for test results.
+
+Diary:
+May 15 \ Sunny
+
+Diary:
+Gavial came back from an operation and told us at dinner that she grew so annoyed with the enemy scurrying around that she personally waded into battle and cut them all down.
+
+Diary:
+She seems to have forgotten that she is a medic operator. But she did make it sound appealing.
+
+Diary:
+May 1 \ Cloudy
+
+Diary:
+Today, after interviewing a new medic operator, I talked with Ansel about what we were doing before coming to Rhodes Island.
+
+Diary:
+I couldn't reveal much of the inner workings of Rhine Lab to him due to confidentiality agreements, but it was a meaningful conversation.
+
+Ptilopsis:
+Yes, this is it.
+
+Ansel:
+In other words, you were also half patient and half researcher at Rhine Lab?
+
+Ptilopsis:
+Yes, Silence has had me on a customized course of treatment from then until now.
+
+Ptilopsis:
+And Silence herself is Infected, and she has her own course.
+
+Ptilopsis:
+Such things are not uncommon at Rhine Lab.
+
+Ansel:
+So Rhine Lab does a few things just like Rhodes Island. I always thought of Rhine Lab as a technology company.
+
+Ptilopsis:
+Well, it's not a proactive approach to outreach like Rhodes Island's. I can't say more.
+
+Ptilopsis:
+But it is safe to assume that Rhine Lab cooperates with Rhodes Island in this area due to a shared outlook.
+
+Ansel:
+Indeed.
+
+Ansel:
+Then I guess it's my turn.
+
+Ansel:
+Hmmm.... There's not much to say. My hometown is in Rim Billiton, and since my family was poor, I never had much access to technology, or really anything new.
+
+Ansel:
+After bouncing around a bit, I stumbled on a job listing for Rhodes Island. I put in a resume just to see what would happen, and here I am.
+
+Ansel:
+It blew me away when I first got here. I never thought I'd ever get to work in a place like this.
+
+Ptilopsis:
+Indeed. I did not think of Rhodes Island as a small land cruiser when Silence first discussed the cooperation agreement.
+
+Ansel:
+But I've certainly learned a lot since coming here, and the remuneration is pretty good.
+
+Ansel:
+It's a bit of a shame I can't get home to see my family more often though.
+
+Ptilopsis:
+Family....
+
+Ansel:
+Um, did I say something I shouldn't have?
+
+Ptilopsis:
+No. I'm just recalling my family from the database.
+
+Ptilopsis:
+Load successful. So that's them. I had forgotten.
+
+Ansel:
+...It's hard, not seeing your family.
+
+Ptilopsis:
+It isn't.
+
+Ansel:
+Huh? It's not?
+
+Ptilopsis:
+It's not.
+
+Ptilopsis:
+Never mind. Please, continue with your story, Ansel.
+
+Ansel:
+Oh, um, okay, I guess I can tell you about Rim Billiton.
+
+Ptilopsis:
+Okay.
+
+Diary:
+Ansel spoke a lot about his homeland: the look of the mining town, his family, his sister, why he chose to become a doctor, and other such things.
+
+Diary:
+I don't know why, but it felt a bit distant to me, like a memory of what my parents looked like...
+
+Ptilopsis:
+Yes, everyone in the medical section talks about themselves on a regular basis. I am familiar with everyone's past. But for me, it is always a very distant thing.
+
+Ptilopsis:
+Until then, I had thought it a very normal feeling.
+
+Ptilopsis:
+However, this is a problem that does exist.
+
+Ptilopsis:
+Now then, it's time to write today's entry. It may be longer than usual this time.
+
+Diary:
+MM DD \ Overcast
+
+Diary:
+I finally returned to Rhodes Island after a rather long trip.
+
+Diary:
+Although I occasionally travel with small teams, this time there were some additional circumstances that caused some difficulties.
+
+Diary:
+Yes. Difficulties.
+
+Ptilopsis:
+Zzzzz....
+
+???:
+........Excuse me, Ptilopsis?
+
+Ptilopsis:
+.......! Was I sleeping?
+
+Guard Operator:
+Yes, I just need to tell you that we ran into a bit of a situation with the extraction and we need to recalibrate our tools.
+
+Ptilopsis:
+Do you need my help?
+
+Guard Operator:
+No, thanks. You've been a great help so far, Ptilopsis. It's a purely manual recalibration. No need to bother you.
+
+Guard Operator:
+The captain just wanted you to know that the calibration may not be done today. If you're bored, there's a Kazimierz village not far from here, you could go for a stroll.
+
+Guard Operator:
+It's the only mobile village in the area. It's not that small, and the scouts say there's a fair on today that might have some fun things.
+
+Guard Operator:
+Of course, if you want to keep resting here, that's fine too.
+
+Ptilopsis:
+...Yes. I want to see it.
+
+Guard Operator:
+Sure. Here's a map, and some petty cash for you.
+
+Guard Operator:
+Sorry, we didn't really plan for this situation, so that's all the Kazimierz coinage we have.
+
+Ptilopsis:
+Kazimierz... coinage?
+
+Guard Operator:
+Ah, well, while most places accept Lungmen dollars, they're not universal. Especially these villages outside of nomadic cities. They usually only take local currency.
+
+Ptilopsis:
+...Yes, that sounds correct. There is some corroborating information in the database.
+
+Guard Operator:
+All right, let's get going.
+
+Ptilopsis:
+Oh. Are you going too?
+
+Guard Operator:
+Well, yes. This is a small operation, so we didn't establish a base camp, the main point being we can't use our communications equipment.
+
+Guard Operator:
+That means, when somebody without combat capability wants to head out, she'll need an escort.
+
+Guard Operator:
+Not to mention, we all know your physical condition. You definitely can't be allowed out alone, for your own safety.
+
+Ptilopsis:
+This is the first time I have encountered this base camp information. Database update required.
+
+Guard Operator:
+Oh, you didn't know that?
+
+Ptilopsis:
+No, I rarely go out.
+
+Guard Operator:
+Oh, err, right. I shouldn't have brought it up, sorry...
+
+Ptilopsis:
+Why are you apologizing?
+
+Guard Operator:
+Nothing. Never mind. Let's move out.
+
+Ptilopsis:
+In retrospect, he apologized to me because he felt he hadn't properly considered my health and had said something that could have hurt me.
+
+Ptilopsis:
+In fact, I didn't think of that at all at the time.
+
+Ptilopsis:
+And....
+
+Diary:
+Here, I encountered my first problem——It seems I do not know many things that others take for granted.
+
+Ptilopsis:
+No, it's not that I don't know, exactly. These things are in my database, but I have forgotten them because I haven't used them for so long.
+
+Ptilopsis:
+Yes. I should adjust the wording.
+
+Ptilopsis:
+Then, my second problem.
+
+Diary:
+Kazimierz's scenery is quite different from Columbia's, or the view from the bridge of Rhodes Island. The air is clean, and vegetation plentiful.
+
+Diary:
+Most of the villagers were Kuranta, but there were some of other races as well.
+
+Diary:
+The village fair was much busier than I expected.
+
+Diary:
+After a meeting with a logistics operator in charge of procurement, he showed me around and asked if I would like to buy anything.
+
+Diary:
+I thought perhaps I could bring gifts for everyone in the medical section.
+
+Shopkeeper:
+What can I get you, Miss?
+
+Ptilopsis:
+........
+
+Shopkeeper:
+Hello, Miss?
+
+Ptilopsis:
+...I don't know.
+
+Shopkeeper:
+Huh? You want to buy something but you don't know what it is?
+
+Ptilopsis:
+........
+
+Guard Operator:
+Ah, sorry, my companion is easily distracted.
+
+Guard Operator:
+We want some local Kazimierz's goods.
+
+Diary:
+At that point, I realized my second problem. I do not know what everyone in the medical section enjoys.
+
+Diary:
+That isn't to say we don't have a good relationship. On the contrary, Dr. Silence and I should be good friends, according to the broad definition of the term.
+
+Diary:
+We've worked together extensively since our time at Rhine Lab, and she's the one who invited me to Rhodes Island.
+
+Ptilopsis:
+My relationships with the rest of the medic operators are amicable as well.
+
+Diary:
+But I don't know what they like.
+
+Diary:
+I never thought about it.
+
+Diary:
+After that, we headed back to camp, and the rest of the expedition proceeded without incident.
+
+Diary:
+But on the way back, I began to think about something I had never realized was wrong.
+
+Ptilopsis:
+Well.... Of course, I actually slept about half the trip.
+
+Ptilopsis:
+On the way to the village, I even fell asleep in the middle of the road.
+
+Ptilopsis:
+But to make for an easier read, I will omit those details.
+
+Diary:
+Since joining Rhine Lab and transferring to Rhodes Island...?
+
+???:
+Ptilopsis, open up!
+
+Ptilopsis:
+Ifrit, what are you doing here?
+
+Ifrit:
+Silence is busy in the lab. I heard you were back so I came to see you.
+
+Ifrit:
+It's like, since you're pretty much always here, it was a lot weirder to have you gone. I'm used to Silence being out.
+
+Ifrit:
+I'm so glad you're back!
+
+Ptilopsis:
+Indeed, I rarely go out.
+
+Ptilopsis:
+...Indeed, I rarely go out.
+
+Ifrit:
+Why'd you say that twice, Ptilopsis?
+
+Ptilopsis:
+It just occurred to me that I don't actually go outside very often.
+
+Ifrit:
+Huh? Did you hit your head out there?
+
+Ptilopsis:
+No, it was just some unknown error in the system. It has been fixed.
+
+Ptilopsis:
+I bought some Kazimierz goods. They're over there.
+
+Ifrit:
+Really! Let's see....
+
+Ifrit:
+Wow, this is a cool wooden sword.
+
+Ifrit:
+Hya! Whew! Shwing!
+
+Ifrit:
+Check it out. Don't I look like one of those flippy Kurantas?
+
+Ptilopsis:
+No.
+
+Ifrit:
+Eh.... Whatever. I still want it!
+
+Ptilopsis:
+Good.
+
+Ptilopsis:
+There is a storybook on the shelf. You can read it over there. I'm going to write something.
+
+Ifrit:
+Sweet!
+
+Ptilopsis:
+Phew.... Now then.
+
+Diary:
+It's been a long time since I joined Rhine Lab and moved to Rhodes Island.
+
+Diary:
+I'm completely used to the way things are now and subconsciously consider it normal.
+
+Diary:
+But this trip made me realize that's not the case.
+
+Diary:
+Not that I reject the life I lead. I have just suddenly become aware of this problem.
+
+Diary:
+That is, I am myself quite far from normal.
+
+Ptilopsis:
+Is 'normal' the correct word here? Is it my life that is abnormal?
+
+Ptilopsis:
+...Broadly speaking, I suppose it is.
+
+Diary:
+And I simply forget.
+
+Diary:
+Even I have a hard time describing what Oripathy has taken from me and given to me.
+
+Diary:
+I can manage that once Silence worked out a treatment plan for me at Rhine Lab, research and sleep gradually took over my entire life.
+
+Ptilopsis:
+My body doesn't allow me to do time-consuming work, let alone leave the facility.
+
+Ptilopsis:
+I am self-conscious about my condition, so even on the rare occasions that I do go outside, I do not move about so freely.
+
+Diary:
+For as long as I can remember, all my knowledge of the outside world has come almost entirely from the descriptions of my colleagues, various documents, and the unchanging view outside my window.
+
+Diary:
+Now that I think about it, it's only natural that I would aspire to be like Gavial and Ansel.
+
+Diary:
+But before today, I did not realize why.
+
+Diary:
+Because I can't help but compartmentalize myself when people discuss their lives.
+
+Diary:
+I can engage with their topics, but I subconsciously think I don't belong in them.
+
+Ifrit:
+Ptilopsis, what are you writing? Doesn't look like a report to me.
+
+Ptilopsis:
+A diary.
+
+Ifrit:
+A diary? Oh, Silence told me to keep one, but it was a huge pain!
+
+Ptilopsis:
+True, it is a lot of work to write every day, but it is necessary for me.
+
+Ifrit:
+Why?
+
+Ptilopsis:
+To keep myself from forgetting.
+
+Ifrit:
+Why do you forget?
+
+Ptilopsis:
+Because I am forgetful.
+
+Ifrit:
+Um.... Don't get it.
+
+Ptilopsis:
+It is better if you don't.
+
+Ifrit:
+Oh.... Can I see it?
+
+Ptilopsis:
+You can. But it is all text. I don't think you will like it.
+
+Ifrit:
+Yeah, screw it. I'll go back to my storybook.
+
+Ptilopsis:
+Right.
+
+Ptilopsis:
+Now then, where was I...?
+
+Silence:
+........
+
+Ptilopsis:
+Silence, what's the matter? Something wrong in the lab?
+
+Silence:
+Huh? Ah, no.
+
+Silence:
+I'm just trying to figure out what to get Ifrit for her birthday. It's coming up.
+
+Ptilopsis:
+A birthday present?
+
+Silence:
+Yes. It needs to be fireproof, and it needs to be something she likes. Ugh, a child's mind is so unpredictable.
+
+Silence:
+I should just make something myself.
+
+Ptilopsis:
+........
+
+Silence:
+What?
+
+Ptilopsis:
+Nothing. I was just pondering how even Silence thinks about such things.
+
+Silence:
+Is it that strange? Well... maybe it's a bit unlike me.
+
+Silence:
+But since I decided to take Ifrit with me, these things are my responsibility.
+
+Ptilopsis:
+Even Silence, who can bury herself in her work for days on end, has such a side to her.
+
+Diary:
+I understand that this is my own problem.
+
+Diary:
+Or should I say, it was not a problem to begin with.
+
+Diary:
+I don't feel so bad, because I do not dislike this researcher's life.
+
+Ptilopsis:
+On the other hand, if I hated research, I wouldn't have joined Rhine Lab at all.
+
+Diary:
+Whether at Rhine Lab or Rhodes Island, I have seen countless people more miserable than I. And I'm lucky compared to them.
+
+Diary:
+And I believe that the research I'm doing is something meaningful.
+
+Ptilopsis:
+So, I'm not writing this as a lamentation, or to say that I've suddenly realized that I've been living the wrong kind of life.
+
+Diary:
+I just remembered the purpose of my diary.
+
+Diary:
+I hear strange noises from time to time, metal scraping, crashing, shouting, explosions.
+
+Diary:
+It's like these voices are coming from deep inside me, haunting me.
+
+Diary:
+Sometimes when I wake up, I find myself in a sort of trance and I forget where I am and what I'm doing.
+
+Diary:
+Of course, I don't really forget, but there's no denying that I'll need more time and energy to remember than a normal person would.
+
+Diary:
+I started this diary just to ensure I did not forget something important.
+
+Ptilopsis:
+Something important....
+
+Ifrit:
+Ptilopsis, why are you staring at me? And what have you been mumbling to yourself all this time?
+
+Ptilopsis:
+Nothing.
+
+Ifrit:
+Did you get yourself into trouble? Do you need me to talk to Silence for you?
+
+Ifrit:
+I'll help you once, 'cause we're friends. You better not have done anything too bad. I don't need a spanking from Silence.
+
+Ptilopsis:
+Hehe, don't worry.
+
+Diary:
+Today's encounter made me realize something.
+
+Diary:
+When it comes to the important things, just trying not to forget them isn't enough.
+
+Diary:
+Rather, I wish I could do more to understand the people I care about.
+
+Ptilopsis:
+I don't want to regret anything.
+
+???:
+Ptilopsis, is Ifrit with you?
+
+Ifrit:
+Hey, it's Silence!
+
+Silence:
+Ifrit didn't give you any trouble, did she?
+
+Ptilopsis:
+No, she was very good.
+
+Ifrit:
+Hehehe.
+
+Silence:
+I'm glad. And are you okay? You seemed a bit off when you came back today.
+
+Ptilopsis:
+I'm fine.... But, yes, I was just about to go looking for you.
+
+Silence:
+For me?
+
+Ptilopsis:
+Yes, I'd like to talk to you.
+
+Silence:
+Talk? Don't we always talk?
+
+Ptilopsis:
+I'd like to... discuss a few things I've never thought about before.
+
+
+

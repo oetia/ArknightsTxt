@@ -1,0 +1,164 @@
+Franka:
+Amiya! Hurry!
+
+Amiya:
+Miss Misha! Please follow us!
+
+Misha:
+...How... can this be...
+
+Texas:
+This way, hurry!
+
+Franka:
+This area is clear! Be careful, they're still after us!
+
+Misha:
+...
+
+Misha:
+Are they also...?
+
+Amiya:
+Yes...
+
+Amiya:
+Reunion...
+
+Amiya:
+They're also... Infected.
+
+Misha:
+...
+
+Misha:
+Why?
+
+Misha:
+Why are the Infected fighting each other...
+
+Skullshatterer:
+...
+
+Reunion Member:
+Skullshatterer...
+
+Reunion Member:
+You... let them go?
+
+Skullshatterer:
+Don't worry...
+
+Skullshatterer:
+They can't run.
+
+Skullshatterer:
+But I've finally found her-- No, no...
+
+Skullshatterer:
+She's finally... come to me...
+
+Reunion Member:
+...
+
+Texas:
+We've arrived.
+
+Franka:
+...Are you serious?
+
+Texas:
+That's what the markings say.
+
+Franka:
+But... this route is heading up, isn't it?
+
+Franka:
+How's that going to help us?
+
+Exusiai:
+Amiya, Amiya! Up here, that's right, come up here!
+
+Amiya:
+--Exusiai!
+
+Amiya:
+Are you certain...?
+
+Exusiai:
+Trust me, I wouldn't mess up~
+
+Exusiai:
+I know Lungmen's roads like the back of my hand!
+
+Amiya:
+Aha...
+
+Texas:
+Let's head up.
+
+Franka:
+Wouldn't that be... waiting for the enemy to surround us?
+
+Exusiai:
+If you don't hurry and Reunion finds us, maybe!
+
+Franka:
+Tch... Wait, you guys go first...
+
+Franka:
+I'll go weld the gate's entrance so Reunion can't get in.
+
+Amiya:
+There's a penguin logo on the staircase here. Is this the place?
+
+Exusiai:
+Sure is. Head forward and take a left, then take the stairs up.
+
+Amiya:
+That will take us inside the building...
+
+Amiya:
+Weren't we going to go underground?
+
+Exusiai:
+No, no, I just said we were heading upstairs.
+
+Liskarm:
+...Upstairs?
+
+Liskarm:
+Are you sure... she's trustworthy?
+
+Texas:
+'As long as we get to the destination, any route can be taken.' That's one of our mottos here at Penguin Logistics.
+
+Texas:
+Just try our service once. You'll love it.
+
+Liskarm:
+...
+
+Amiya:
+*gasp*... *gasp*...
+
+Amiya:
+Sorry, Misha... I didn't know...
+
+Misha:
+...
+
+Texas:
+Phew...
+
+Texas:
+Hey, you.
+
+Texas:
+Are you Dr. {@nickname} of Rhodes Island?
+
+Texas:
+You don't seem to like climbing stairs.
+
+
+

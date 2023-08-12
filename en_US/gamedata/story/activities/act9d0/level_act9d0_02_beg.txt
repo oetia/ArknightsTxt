@@ -1,0 +1,408 @@
+Sarkaz Warrior:
+Tsk... Those are the same goons as last time— How'd they find us here?!
+
+Sarkaz Warrior:
+Hurry up and retreat! Don't waste time!
+
+W:
+They've got us surrounded. And outnumbered.
+
+Sarkaz Warrior:
+Then we gotta find a way to break through!
+
+W:
+Their scouts took out all our sentries. We're in the dark here...
+
+Sarkaz Warrior:
+Bullshit! Are you gonna stand around and wait for their Casters to fry you?
+
+Sarkaz Warrior:
+Hey, you... You're with Hoederer... What are you doing here?
+
+Sarkaz Warrior:
+Where's Hoederer? And his men? He's supposed to be—
+
+Sarkaz Warrior:
+Wh-what are you doing to my comms?! What gives—!
+
+W:
+...Would you shut up already?
+
+W:
+Remember how I was on patrol here? That made it real easy to plant bombs all over your camp.
+
+Sarkaz Warrior:
+...You! Hoederer! You sold us out...!
+
+W:
+Don't make it sound so bad.
+
+W:
+We're headed out on a long, long trip. And wouldn't you know it? Some guests showed up just as we're leaving. So someone's gotta stay behind to hold the fort.
+
+W:
+Now if we leave some snacks out for our guests like a good host, maybe that'll get them to stop chasing us?
+
+W:
+Gotta say, I appreciate all you're doing for us~
+
+Sarkaz Warrior:
+Damn you... You knew they were coming the whole time... And you're just going to leave us here to die—?!
+
+W:
+Hmmm...
+
+W:
+Well, at least try to put up a bit of a fight. The more you struggle, the bigger our head start.
+
+W:
+But seriously, thanks a kiloton.
+
+Hoederer:
+I ordered you to help the teams that didn't have time to escape, but...
+
+Hoederer:
+...Why didn't anyone else make it out?
+
+W:
+They volunteered to stay behind.
+
+W:
+Don't worry. I left them a little gift... So they were more than happy to help us hold off the bad guys.
+
+Ines:
+...I doubt anyone here would be willing to sacrifice themselves.
+
+Ines:
+No need to lie about it. Nobody's going to blame you for sacrificing others to save your own squad.
+
+Ines:
+But lying to your commander is another story.
+
+W:
+......
+
+Ines:
+You can't fool my eyes, W. You're on thin ice here.
+
+Ines:
+Don't forget how green you are.
+
+W:
+...I'll be sure to reflect upon my actions, Captain Ines.
+
+W:
+Because we'll be working together... for a very long time.
+
+Ines:
+So, what's the plan now?
+
+Hoederer:
+No harm, no foul. What's done is done, and it was probably going to turn out like this anyway.
+
+Hoederer:
+W might have made the right call.
+
+Ines:
+...Do you seriously believe that?
+
+Hoederer:
+The Sarkaz over there have nothing to do with us.
+
+Hoederer:
+Who they were, what they did. How they lived, how they died. None of our business.
+
+W:
+Brutal.
+
+Hoederer:
+Let's talk work first. Ines, you and W split up and lead your teams away. Messengers stay radio silent, then regroup at the rendezvous point.
+
+Hoederer:
+...I'll catch up later.
+
+Ines:
+...
+
+W:
+......
+
+Hoederer:
+...One more thing.
+
+Hoederer:
+I don't care what kind of mischief you get up to, how one of you exploits the other or whatever, but I won't stand for you actually, directly fighting.
+
+Ines:
+But indirectly is fine?
+
+W:
+Pretty lax rules.
+
+Hoederer:
+...*Sigh*.
+
+Hoederer:
+I really hope it doesn't come to that. But it's not like I could stop it either.
+
+Hoederer:
+For now, at least, if you plan to stay alive, make good use of every last Sarkaz you have.
+
+Hoederer has always been like this.
+
+He thinks very little about what actually matters, and wastes so much brainpower on the pointless stuff.
+
+...Nobody says W isn't a great fighter. But there's a lot she's missing.
+
+If she really is just an incredible Sarkaz warrior...
+
+....Hmph.
+
+W:
+It's not even dark out. And you still gotta hide over here by the fire?
+
+W:
+Maybe you just like fire?
+
+Ines:
+I definitely don't like people bothering me.
+
+Ines:
+Your team is three hours late.
+
+W:
+That ambush... did you and Hoederer plan that?
+
+Ines:
+Go ask him.
+
+W:
+He doesn't know anything about it.
+
+Ines:
+...Then it must've been a coincidence. All mercs are a pain in the ass to deal with. You cross their path, and they're gonna give you shit.
+
+W:
+Oh, that's all? Here I was worried Hoederer sold out my position.
+
+Ines:
+You think that's what he should've done?
+
+W:
+Why not?
+
+Ines:
+How do you know we're not lying to you?
+
+W:
+You could've killed me a long time ago. Doing it now wouldn't help much, would it?
+
+Ines:
+Hmm...
+
+Ines:
+What were you doing before you found us?
+
+W:
+Huh? After all we've been through, you're giving me the job interview now?
+
+Ines:
+Hoederer never asks about his people's pasts. But I'm not Hoederer.
+
+W:
+Yeah you're a whole different species from us.
+
+Ines:
+Are you looking for trouble here?
+
+W:
+As far as I can tell, 'Miss Ines' isn't so good at close combat.
+
+W:
+——！
+
+Ines:
+A lesson for you: If you want to live a little longer, don't put all your eggs in one basket.
+
+Ines:
+Every Sarkaz mercenary carries a sword.
+
+W:
+Well color me surprised. All this time I thought that was your staff. But...
+
+W:
+—Oh, but you, a 'Sarkaz mercenary?'
+
+Ines:
+—Tch...
+
+W:
+I'm still pretty sure I've got you beat at close range, but... Hmm, I admit I got a little careless.
+
+W:
+Well, thanks. A scratch on the arm is a pretty cheap price for that lesson.
+
+W:
+You and Hoederer are both pretty good at keeping your cards close to your chest.
+
+Ines:
+I'd rather talk about you. High-profile mercenaries like you are pretty much all dead by now.
+
+Ines:
+You've made such big waves in such a short time, but I never heard anything about you before you joined us. That's pretty suspicious.
+
+Ines:
+And you came looking for Hoederer. Why?
+
+W:
+You said it yourself.
+
+Ines:
+What?
+
+W:
+A lot of people in Kazdel are after his head.
+
+Ines:
+You dropped that bomb pretty smoothly. Why'd you change your mind?
+
+W:
+Hmm... I figured I'd get what I want easier this way.
+
+Ines:
+And what is it you want?
+
+W:
+...None of your business.
+
+Ines:
+You're shook. How funny. Why not make something up to dodge the question?
+
+W:
+...Your Arts again?
+
+W:
+Those damned eyes. My reasons have nothing to do with you.
+
+Ines:
+Same with my eyes.
+
+W:
+......
+
+W:
+What was that?
+
+Ines:
+...From the east. Something's coming.
+
+Ines:
+There's more than one squad, but only one of them's the real deal. Hmph, they sure are cautious...
+
+W:
+Ehh, sounds like a pretty big gang. Just how many people did they hire?
+
+Ines:
+...Hoederer was right. This is going to be our biggest battle yet.
+
+Ines:
+We're heading into uncharted territory now.
+
+W:
+You scared?
+
+Ines:
+Hah.
+
+W:
+Hoederer should be here soon with his squad. Tell the Messenger to get back on comms.
+
+Ines:
+I don't remember anyone putting you in charge. Don't give me orders.
+
+W:
+Oooh, whoopsie...
+
+W:
+You just keep guarding this campfire over here. I'll head down to the camp and check on the situation.
+
+Ines:
+...
+
+Ines:
+That's... Babel's...
+
+Hoederer:
+Sorry, had to take a little detour along the way. Ended up wasting a bit of time.
+
+Hoederer:
+But it's time for us to really get to work now.
+
+Ines:
+Positions, everyone.
+
+Hoederer:
+Hm... And how you doing over there?
+
+W:
+A-okay.
+
+Hoederer:
+...Judging from the burnt grass and neatly-cleaved mud here, you two have been busy.
+
+W:
+C'mon, we were just sparring a little, as a warm up. Definitely not fighting or anything.
+
+W:
+Right?
+
+Ines:
+Don't worry. Next time, I'll bury you where they'll never find your body.
+
+Hoederer:
+...*Sigh*.
+
+Hoederer:
+Just to reiterate, our job is simple. Don't let anyone near our mark.
+
+Hoederer:
+Eliminate anything in the canyon that looks at you sideways. Open fire on anyone who approaches.
+
+Hoederer:
+Any questions?
+
+W:
+So, where's our destination?
+
+Hoederer:
+Can't disclose that. This escort task is to be carried out in stages, and our mapped route has already been passed out. After we reach our destination in three days, someone will connect with us.
+
+Ines:
+...Hoederer.
+
+Ines:
+What are they transporting?
+
+Hoederer:
+I also can't— Wait, Ines.
+
+Hoederer:
+It's a breach of contract to use your Arts to probe the transport team. Don't underestimate them! Stop right now!
+
+Ines:
+You said they were a regular old transport team—
+
+Ines:
+I... no, this is definitely a convoy that needs protection.
+
+Ines:
+But this huge thing that they're transporting... I'm only seeing a shadow...
+
+Ines:
+...A landship? No, it's...
+
+Ines:
+...a skeleton?
+
+
+

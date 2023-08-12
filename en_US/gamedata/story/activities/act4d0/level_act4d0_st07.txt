@@ -1,0 +1,504 @@
+11:30 A.M. \ Overcast
+
+Countryside - Rhodes Island Chief Engineer's Office
+
+Kal'tsit:
+What are you doing this time?
+
+Closure:
+Kal'tsit, you think I could see the Doctor for a bit?
+
+Kal'tsit:
+Has it been too long since you pranked {@nickname}? Feeling antsy?
+
+Closure:
+Oh come on! I'm really a very caring person.
+
+Kal'tsit:
+Last time you called yourself a caring person, you set up a facility to broadcast 'Closure's Midnight Video Market' at twelve o'clock for three months straight.
+
+Closure:
+But...
+
+Kal'tsit:
+We still have no way to turn the volume down.
+
+Closure:
+Okay okay, I admit it! I want to go tease the Doctor.
+
+Kal'tsit:
+Not to mention {@nickname}'s memory loss. I can't say for sure if the Doctor even knows who you are.
+
+Closure:
+Huh? Slept too much and turned stupid, huh? That's sad. I'll have to bring the Doctor some snacks as a little cheer-up gift.
+
+Kal'tsit:
+Whatever. Just try not to make a bad impression.
+
+Kal'tsit:
+Warfarin went bad enough. Add in the Doctor's misconceptions about vampires and the Kazdel matter will have to be postponed. Indefinitely.
+
+Kal'tsit:
+This is an opportunity to rehabilitate yourself in the eyes of the people. Seize it well.
+
+Closure:
+Do I really need rehabilitating?
+
+Kal'tsit:
+After the time you set the climate control system to 36 degrees, yes.
+
+Closure:
+That was a power outage in the machine shop.
+
+Kal'tsit:
+We found your fingerprints on the console.
+
+Closure:
+It was a power outage in the machine shop!
+
+Kal'tsit:
+You hacked the surveillance system and deleted the recording, but the console served as a biological backup. I have thirteen tissue samples from thirteen different instances.
+
+Closure:
+I'm sorry it's my bad that envoy is such an arrogant prick I just want to rub his nose in it sorry.
+
+Kal'tsit:
+......
+
+Closure:
+Anyway, the welcome party. Dr. {@nickname}'s welcome back party. We're not throwing one?
+
+Kal'tsit:
+Afraid not. Circumstances such as they are.
+
+Closure:
+Hey, why you gotta be like that, Kal'tsit? This is the Doctor we're talking about, the Doctor with amensia. We gotta create an atmosphere of warmth and camaraderie.
+
+Kal'tsit:
+Did you always look at the Doctor so?
+
+Closure:
+Maybe... I've never been that close to the Doctor. But didn't you just say this is the perfect time to make a good impression?
+
+Kal'tsit:
+Closure, let's talk about something else.
+
+Closure:
+Hmph. If you're not going, I'll go myself. I don't care what you do.
+
+Closure:
+Did I hear we're going to Lungmen? I think that was on the schedule.
+
+Kal'tsit:
+Yes.
+
+Closure:
+And we can operate freely?
+
+Kal'tsit:
+Lungmen has become quite dangerous.
+
+Closure:
+Huh? Really? Lungmen? I thought that place was all about law and order.
+
+Kal'tsit:
+It's the closest city to Chernobog. That should be pretty self-explanatory.
+
+Closure:
+So why are we going?
+
+Kal'tsit:
+Because it's the closest city to Chernobog.
+
+Closure:
+I think you're hiding something...
+
+Kal'tsit:
+No. I said everything there is to be said in the last meeting. Right about the time you were slumped back in your chair, wearing an eye mask, fast asleep.
+
+Closure:
+What can I say? Keeping this operation well maintained is tiring work.
+
+Kal'tsit:
+I never said I blamed you. Without you, Rhodes Island wouldn't even get off the ground.
+
+Kal'tsit:
+But I still want to do away with your suspicions... What is it you called me in for, exactly?
+
+Closure:
+What? I can't just call up an old friend?
+
+Kal'tsit:
+I'll be in my lab.
+
+Closure:
+Hey! Wait! Okay... we have a power outage down two corridors in sector three.
+
+Closure:
+Can you come look at the cables with me?
+
+Kal'tsit:
+Just send an engineer down there. Is it a problem with the power supply cables?
+
+Closure:
+Or the two of us could go look ourselves.
+
+Kal'tsit:
+Whenever I ask you for an inspection, you always delegate it to another operator.
+
+Closure:
+My sense of responsibility as Chief Engineer of Rhodes Island has suddenly awakened! Let's go!
+
+Closure:
+Come on, keep up with me...
+
+Closure:
+Huh?
+
+Heavyrain:
+......
+
+Closure:
+......
+
+Closure:
+Huh?!
+
+Kal'tsit:
+This is Heavyrain.
+
+Closure:
+Oh. Heavyrain?
+
+Heavyrain:
+Hello, Miss Closure.
+
+Closure:
+What a good little girl! Look, Kal'tsit, look how much more likable she is than you!
+
+Kal'tsit:
+Hmph.
+
+Kal'tsit:
+Heavyrain, let me see your monitor.
+
+Heavyrain:
+This one...? On my left arm here?
+
+Kal'tsit:
+Yes. Be careful not to touch the needle.
+
+Heavyrain:
+Right...
+
+Kal'tsit:
+...Numbers look good. Your hemoglobin is up. You're recovering well.
+
+Heavyrain:
+Thank you, Dr. Kal'tsit.
+
+Kal'tsit:
+No thanks necessary. Just doing my job. You don't thank people for that.
+
+Kal'tsit:
+You know the way back, Heavyrain?
+
+Heavyrain:
+I know.
+
+Kal'tsit:
+Then you show yourself out. Closure and I have something to take care of.
+
+Heavyrain:
+But I'm a guard. If I go, will you be okay, Dr. Kal'tsit?
+
+Kal'tsit:
+You may be mistaken, Heavyrain.
+
+Kal'tsit:
+I asked you to come with us just to give you a the layout of the ship. You may not come here often in the future.
+
+Kal'tsit:
+I don't need protection.
+
+Heavyrain:
+Right.
+
+Heavyrain:
+Then, excuse me. Goodbye, Miss Closure.
+
+Closure:
+Yeah, bye.
+
+Closure:
+......
+
+Closure:
+Did you hear that, Kal'tsit? She called me 'Miss!' Oh what a good little girl...
+
+Closure:
+She really seemed to want to help you out. And you sent her away like that?
+
+Kal'tsit:
+Every operator has to find her own place in the world, just like me. Having her waste time with things she's not good at doesn't help anybody.
+
+Closure:
+Would it kill you to talk like a human being every once in a while?
+
+Kal'tsit:
+Heavyrain was in the Sargon military.
+
+Kal'tsit:
+Before she can establish interpersonal relationships, she needs to find a proper position for herself and integrate into Rhodes Island. That requires both support and tolerance, as well as her own self-awareness.
+
+Closure:
+Yeah yeah, your lectures make my head hurt.
+
+Closure:
+She another one of your strays you brought home?
+
+Closure:
+You kind of have a talent for picking up new pets, Kal'tsit.
+
+Closure:
+How many are we up to now?
+
+Kal'tsit:
+It's one of the steps in the 'Acquisition and Cultivation Procedures for Infected Personnel.'
+
+Closure:
+Hold on... Last month, you had a solid 72-hour surgical procedure. Was that her you were operating on?
+
+Kal'tsit:
+Indeed.
+
+Closure:
+The surgical team went through like eight or nine shifts, but you didn't sleep for three days?
+
+Kal'tsit:
+At least she recovered quickly.
+
+Closure:
+Tell me, Kal'tsit, do you drug yourself?
+
+Kal'tsit:
+I refuse to answer that question.
+
+Closure:
+If I don't ask, you'll never say, will you?
+
+Kal'tsit:
+What's the point of discussing this?
+
+Closure:
+You're too hard on yourself.
+
+Kal'tsit:
+I can handle it.
+
+Closure:
+Dark!
+
+Closure:
+Should we be using backup power?
+
+Kal'tsit:
+You can't see?
+
+Closure:
+I'm a vampire, of course I can see.
+
+Kal'tsit:
+So can I.
+
+Closure:
+All right then, on we go.
+
+Closure:
+Now I know what I just said, but did I step on something?
+
+Closure:
+Augh! Wh- what is this!
+
+Kal'tsit:
+Nothing to get all upset about...
+
+Closure:
+Is that... a gachapon machine? What's it doing here?!
+
+Closure:
+Huh. 'Furry Friends Collection. 12 different furry friends to...' Wow, secret level! Awesome!
+
+Kal'tsit:
+Clo-sure!
+
+Closure:
+It's been a long time since I worked in a dark pipeline like this. I really missed it.
+
+Closure:
+And Rhodes Island wasn't nearly this big back then.
+
+Closure:
+Spanner, please!
+
+Closure:
+Thanks, Mon3tr!
+
+Closure:
+Hm...
+
+Kal'tsit:
+What is it?
+
+Closure:
+I can't reach it. Can you give me a boost so I can fix the cable?
+
+Kal'tsit:
+Okay.
+
+Closure:
+Oof... This whole area has been totally cut off from the power supply. We can start troubleshooting.
+
+Closure:
+Kal'tsit, do you think it was a mistake to go to Chernobog and rescue the Doctor?
+
+Kal'tsit:
+It was certainly unwise to enter Chernobog at that time.
+
+Closure:
+So...
+
+Kal'tsit:
+Amiya was very firm in her decision. No one could sway her. And you know how the elite operators are.
+
+Closure:
+It only happened because you abstained.
+
+Closure:
+I'm starting to think this was some kind of test of Amiya?
+
+Kal'tsit:
+Test? No, not a test. Or rather if it was a test, it wasn't me administering it. It was the situation she found herself in.
+
+Kal'tsit:
+But as firmly as she believed in that decision, I could only support her... Though I certainly didn't have to make her feel like it would all go smoothly.
+
+Kal'tsit:
+Her choice is her choice.
+
+Closure:
+Well said. But you're the one who has to deal with the consequences. Aren't you tired...?
+
+Kal'tsit:
+Nobody gets it all right from beginning to end, Closure. Not even me.
+
+Kal'tsit:
+But we made it through the darkness. Now we just wait for the light at the end of the tunnel.
+
+Kal'tsit:
+Also, that second cable right above your head is about to fall.
+
+Closure:
+Hey hey hey! Hold me steady! If the three-pin power connector drops, that's the end of both of us.
+
+Closure:
+Okay, hold up, I'm laying out the wire.
+
+Kal'tsit:
+Did you just stuff two whole sets of wires in behind them?
+
+Closure:
+Shhh! I must feel the thrum of the electricity in my own heart, to achieve peace and balance with the current.
+
+Kal'tsit:
+I advise you to mull over what you just said.
+
+Closure:
+But, Kal'tsit... Oh, should be good. Try the switch.
+
+Closure:
+I was saying, regardless of what kind of riddle you were just playing at, if you're walking in the dark, you need some kind of light, right?
+
+Kal'tsit:
+Aren't we fixing the lights right now?
+
+Closure:
+Yeah, there we go.
+
+Kal'tsit:
+Closure.
+
+Kal'tsit:
+Why are you asking me about these things?
+
+Closure:
+Because if I don't ask, you don't tell.
+
+Closure:
+You let it all well up inside you until you go crazy.
+
+Kal'tsit:
+So my answers don't even matter to you?
+
+Closure:
+I think all these things you told me are reeeeeeaaally important, to you.
+
+Closure:
+So yeah it's not that important what you say... but it's really super important that you say it, and I hear it with my own two ears.
+
+Kal'tsit:
+What a waste of time.
+
+Kal'tsit:
+Next time I'll just hand you the written report.
+
+Closure:
+But then you wouldn't come with me.
+
+Kal'tsit:
+Says who?
+
+Kal'tsit:
+As long as you really have some lights that need fixing.
+
+Closure:
+Promise?
+
+Kal'tsit:
+How is it I always end up making some strange, inexplicable deal with you?
+
+Closure:
+That's what an engineer does!
+
+Closure:
+Here, Kal'tsit, take a look at this light bulb.
+
+Kal'tsit:
+It's very clear?
+
+Closure:
+Yeah, clear!
+
+Kal'tsit:
+...
+
+Kal'tsit:
+If only you were like this all the time, I'd be a lot less tense.
+
+Kal'tsit:
+If only...
+
+Closure:
+Woah! Shut up! Don't say it!
+
+Closure:
+Just be quiet... and enjoy this little light together.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+It really is a nice, gentle light.
+
+
+

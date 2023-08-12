@@ -1,0 +1,565 @@
+Neighbor:
+Lara, you're a lovely one to your family, helping with work the second you're back.
+
+Aurora:
+No, I'm just doing what I should. I'd love to take a good look around too.
+
+Neighbor:
+Ah, it really does change once you study outside. Far better head on you than my little brother.
+
+Neighbor:
+What a wonderful girl you are. Shame.
+
+Neighbor:
+Who knows if I'll ever find one as nice as you again after I move.
+
+Aurora:
+Wait, Sasa, you've been living fine here all this time, right? Why the move?
+
+Neighbor:
+My dad, you know. Yesterday at the Tri-Clan Council, they announced the Saintess would lead the three, right?
+
+Neighbor:
+Now Dad's all fired up.
+
+Aurora:
+Oh... Uncle Zoer was always against Sir Enciodes's open door policy...
+
+Neighbor:
+Right? We all moved here from up north back then so my brother and I could get work.
+
+Neighbor:
+And here, Dad pretty much got used to it, over the years.
+
+Neighbor:
+And now they announce the resignation yesterday, and he's over the moons.
+
+Neighbor:
+At dinner last night, he was going on and on, mad at Sir Enciodes for everything he'd done these years, and I was fed up hearing it. I even had an argument with him.
+
+Neighbor:
+But you can't change his mind in the end. We might end up moving straight back to the Paleroches' territory.
+
+Aurora:
+So what about your brother's job?
+
+Neighbor:
+Who knows? Once the resignation's through, it's up in the air if Turicum can still do business like before.
+
+Neighbor:
+I heard the Paleroches say. See, in the first place, it was the Saintess last Council who wanted Sir Enciodes handing the valleys and mines over.
+
+Neighbor:
+If she's going to govern Kjerag, Sir Enciodes probably isn't getting any favors.
+
+Aurora:
+That's true.
+
+Neighbor:
+It's a good thing too, though.
+
+Neighbor:
+You might've missed it, being outside so long, but the three clans got along fine at first. It's just lately, they've fallen out more and more with each other.
+
+Neighbor:
+A lot of people were scared, after last Council, we'd get into a full-blown war.
+
+Aurora:
+Yeah, it's amazing how Sir Enciodes yielded on this. And he's putting power with the Saintess.
+
+Neighbor:
+Yeah. Just, it should've happened long ago, if you ask me. I don't hate his open door policy, seeing as our family made a good living from it too.
+
+Neighbor:
+But sometimes it really does feel like the old people say, how Kjerag's not like Kjerag anymore.
+
+Neighbor:
+Him deciding to give way now and make less of a fuss, everyone approves of that.
+
+Neighbor:
+It's just old grumps like your big brother against it.
+
+Aurora:
+My brother...
+
+Aurora:
+I'm back.
+
+Aurora's Sister:
+Oh, you silly kid. Told you to relax once you got home, but you just had to work.
+
+Aurora's Sister:
+(Softly) You and your ore-pathy thing. You might not feel bad about your health, but we still hurt over it.
+
+Aurora:
+It's alright, Sis. A bit of work like this won't get in the way.
+
+Aurora:
+Um, where's Bro?
+
+Aurora's Sister:
+He said he was heading to the factory just now, and went out all in a hurry. Said he wouldn't be back today, either.
+
+Aurora:
+The factory?
+
+Aurora:
+Is that the Captain?
+
+Aurora:
+Captain, is something up?
+
+Sharp:
+Vacation's over, Aurora.
+
+Sharp:
+The Doctor got nabbed at the station by the Paleroche family yesterday.
+
+Aurora:
+Huh?!
+
+Sharp:
+Doctor went with them, voluntarily. You should get what I mean. Likely some sort of plan ticking under that hood.
+
+Sharp:
+I took a rough look at the map. Takes some time from the station to the Paleroches'.
+
+Sharp:
+The Doctor should've gotten there by now, and we ought to be on our way.
+
+Sharp:
+I'm using the pretext to head to yours now to check the situation, then I'll come out and converge with you.
+
+Aurora:
+Got it.
+
+Aurora:
+I guess I'll go rendezvous with the Captain, then.
+
+Kjera:
+I see. So you're the one from Rhodes Island.
+
+Kjera:
+Correct.
+
+Kjera:
+You're very unique, but I don't know why it is you're so unique.
+
+Kjera:
+Hm?
+
+Kjera:
+It was no more than a word of advice.
+
+Kjera:
+You see? Aren't you under the watch of a group of strangers, unfree to even stroll outside?
+
+Kjera:
+Before I answer your question, tell me first. For what reason did you come to Kjerag?
+
+Kjera:
+So in other words, you're Enciodes's friend?
+
+Kjera:
+Mending the three Silverashes' relations?
+
+Kjera:
+You speak some hefty words.
+
+Kjera:
+Then your luck is tragic, being drawn into a mess like this without rhyme or reason.
+
+Kjera:
+Yet it's beyond me, believing someone who can be so carefree in these circumstances is truly here on a tourist's plan.
+
+Kjera:
+I'm very curious—how outsiders like you regard this land of Kjerag.
+
+Kjera:
+Peaceful... yes, it's been peaceful here for over a thousand years by now.
+
+Kjera:
+And peace of mind signifies stagnation.
+
+Kjera:
+Kjerag's people are too used to this status quo, to the point they don't care what happens outside, nor have any interest in it.
+
+Kjera:
+It should be a good thing by all rights, but lately, I've felt... *sigh*...
+
+Kjera:
+In the end, their belief in Kjeragandr is the root of what condenses the people in this land together.
+
+Kjera:
+But at times, I've felt the people are somewhat too dependent on belief.
+
+Kjera:
+Can you sympathize? You tell every worry you have to the divine, hoping they'll come to help solve things, and so you turn—
+
+Kjera:
+Though, so clearly, you should use your own willpower to change circumstances, you just take divine will as an excuse to stagnate.
+
+Kjera:
+Though, so clearly, you till by your own hands to gain your harvest, you still thank the divine for their generosity after the fact.
+
+Kjera:
+Though, so clearly, making the choices, putting in the effort, should be for each person's own...
+
+Kjera:
+You're very forthcoming.
+
+Kjera:
+But most people like you, outsiders... in modern terms, 'foreigners,' hold such a view.
+
+Kjera:
+The people outside long since developed plenty to grant them idleness, or in other words, labor-saving technology.
+
+Kjera:
+They're accustomed to a convenient life, while most Kjerag folk have never heard of such things.
+
+Kjera:
+Maybe the people of Kjerag really can forge diligence and courage out of a harder life, can learn of belief and virtue in an environment far from all the pleasures.
+
+Kjera:
+But I also don't feel it should continue for eternity.
+
+Kjera:
+The people of Kjerag broke ground on a haven between these snowy mounts, but can they preserve their homeland's solidity and stability forever on tradition alone?
+
+Kjera:
+The way you see it, should Kjerag change?
+
+Kjera:
+Ah, so you think so too?
+
+Kjera:
+Anyone with a sharp eye could tell, honestly, that the transformation Enciodes brought can't be stopped.
+
+Kjera:
+Who can so easily decline their own life becoming a little less heavy, a little more convenient?
+
+Kjera:
+And here I thought you'd say, everything backwards here should be changed.
+
+Kjera:
+I've heard countless people say things like yours already.
+
+Kjera:
+And those people, by and large, are those born and raised in Kjerag.
+
+Kjera:
+How cautious.
+
+Kjera:
+But I don't mind the cautious at all.
+
+Kjera:
+It's just a shame. You probably have little time left to learn how this present country manifests.
+
+Kjera:
+I...
+
+Kjera:
+I have a friend.
+
+Kjera:
+This friend has been thinking, all this time, about how to finally change Kjerag for the better.
+
+Kjera:
+However, she's thought for a long time, and can't come up with an answer.
+
+Kjera:
+She's gradually realized that everyone thinks different to her, and their mindsets, no matter who they are, all disturb her.
+
+Kjera:
+She wants to do something, but every time she wants to, there's always someone advising against her.
+
+Kjera:
+And now, she finds, she's become slowly unable to stop what those people wish to do.
+
+Kjera:
+And it's in this moment you've arrived.
+
+Kjera:
+Omen? Perhaps any port in a storm is a more fitting description.
+
+Kjera:
+An invitee of Enciodes, come from outer lands. The spectrum and scent of you give me an otherly feeling, peculiar and novel—
+
+Kjera:
+Tell me, stranger, what does your arrival portend?
+
+Ensia:
+Come on, I only got her last letter not long ago. Seriously, it's like she hasn't written in forever. She's on my case like this every time.
+
+Ensia:
+Thank you, Kjarr. You're always the one handing me my sister's letters.
+
+Kjarr:
+It's alright. The Great Saintess can't descend at will, so I go out and about in her place, and bring back outside news to her. It's as she desires, too.
+
+Ensia:
+Sorry, though, I've got no room to write a letter back for now. I'm about to get ready for something else.
+
+Kjarr:
+Based on the bag next to you... you're going to head outdoors?
+
+Ensia:
+Yep.
+
+Kjarr:
+Where are you going? To climb Jungfrau?
+
+Ensia:
+Come on, I forgot until you mentioned it! I still haven't conquered Jungfrau!
+
+Ensia:
+But where I'm going is to the valleys this time.
+
+Kjarr:
+The valleys? Aren't they about to be handed over to the Vine-Bear Court? And there're so many factories there, too. What are you going to do?
+
+Ensia:
+The Doctor's gonna head there, which means I have someone to see. Oh, Kjarr, you have no idea who I'm talking about, do you?
+
+Kjarr:
+Ah, I do believe I've heard tell. The guest taken away by the Paleroches?
+
+Ensia:
+Mm-hm. My guest in the first place, concern for the Doctor's safety is really weighing on me.
+
+Kjarr:
+You're such a good girl.
+
+Kjarr:
+But take care. I hear things haven't been too calm there lately.
+
+Ensia:
+Mm-hm.
+
+Matterhorn:
+Lady Ensia, we can depart now.
+
+Matterhorn:
+Worry not. All responsibility will lie with me on this departure.
+
+Ensia:
+You're a huge help, Uncle.
+
+Matterhorn:
+It's rare you ask me to help you with things. How would I ever refuse this?
+
+Ensia:
+Kjarr, I might be gone for a little long while. If you can, go back and tell my sister I'll reply to her after I'm done.
+
+Kjarr:
+It's quite alright, I can wait.
+
+Sharp:
+Aurora, I need info to make judgment calls, especially your views as a local. Tell me how you see the Doctor's current situation.
+
+Aurora:
+Gnosis was likely in a very sensitive position, given he was formerly in charge of the mines and valleys.
+
+Aurora:
+Sir Enciodes putting the Doctor in that same position now is bound to draw Arctosz's attention.
+
+Sharp:
+Tell me in detail about why the mines and valleys are such a sensitive area.
+
+Aurora:
+Hmm... it'd be more convenient if we had a map on hand.
+
+Aurora:
+Kjerag's topography isn't too complicated, and it's not very finely partitioned either.
+
+Aurora:
+Usually, us locals just call each area the mines, valleys, woodlands, lakes, mountains, creeks, and plains.
+
+Aurora:
+The creeks and plains, and most of the lakes, are the Paleroches' in the north.
+
+Aurora:
+The Browntails in the west are mainly the woodlands, and the minority of the lakes.
+
+Aurora:
+The Silverashes are mainly the mountains, valleys and mines. They have so little of the lakes, you can essentially ignore it.
+
+Aurora:
+And the valleys and mines... actually, they represent nearly half of the Silverashes' territory already.
+
+Aurora:
+Between them, the mines have always been incredibly important land to the Silverashes, because practically all the ore used in Kjerag comes from there.
+
+Aurora:
+While the valleys were only developed in recent years.
+
+Aurora:
+Originally, they were extremely poor land to work, and there weren't more than a few hamlets. People always considered it an area with no use.
+
+Aurora:
+But after Sir Enciodes founded Karlan Trade, he chose that land to use for siting factories.
+
+Aurora:
+The majority of Karlan Trade's manufacturing is built there, and it's extremely close to Mount Karlan, too.
+
+Aurora:
+On top of that, I exchanged some info with Kjerag merchants before we left—but everyone who comes outside to do business is related to Karlan Trade in some way.
+
+Aurora:
+A month ago, with the Great Saintess's backing, the Browntails and Paleroches requested and organized a team to investigate health and safety issues at the factories.
+
+Aurora:
+But the team met a surprise attack secretly ordered by Gnosis, who wouldn't play along at all. I don't know how that info came out, but everyone believes Gnosis was involved in it.
+
+Aurora:
+That led to the Paleroches' head, Arctosz, getting inspiration from the Vine-Bear Court to send troops to station in the valleys, and it's because of the consequences of Gnosis's extreme actions that he was finally removed.
+
+Sharp:
+At the meeting, the Doctor mentioned Enciodes's reason for making the invitation.
+
+Sharp:
+We do help construct Oripathy-related facilities for Karlan Trade, but he never mentioned having the Doctor manage anything in his place before.
+
+Sharp:
+Which is to say, the Doctor's actively climbed onto the scales of this conspiracy. Very Doctor-like to do.
+
+Aurora:
+That seems likely, but Karlan Trade and Rhodes Island have a perfectly fine relationship, and the Doctor would probably only accept because of that relationship.
+
+Aurora:
+For now, I can't imagine the reason why Sir Enciodes would want to set up the Doctor...
+
+Aurora:
+What do we do now? Contact Dr. Kal'tsit?
+
+Sharp:
+The landship's headed for Victoria. We'd need the use of a local large-scale comms station, because our handheld equipment's got no way to get in touch.
+
+Sharp:
+(Breathes a long sigh)
+
+Aurora:
+Captain...?
+
+Sharp:
+I surveyed for a stretch. Guard force at the Doctor's present placement is low-strength.
+
+Sharp:
+The Paleroche residence should have about two hundred in guards, training and arms not up to outside army standard. We can break through on a surprise raid.
+
+Sharp:
+I've checked surrounding terrain too. Alternate plan is we infiltrate, but that needs setting up explosives in multiple locations beforehand.
+
+Sharp:
+Going in and pulling out both need manufactured explosions to draw attention. There're some points in the wall structure that'll let...
+
+Aurora:
+Wait! Captain!
+
+Sharp:
+Hm?
+
+Aurora:
+I feel like... things aren't going to get to that point.
+
+Sharp:
+No matter what happens, we need to ensure the Doctor's safety. That's our first priority.
+
+Aurora:
+...I agree with that, but...
+
+Aurora:
+If we bring force against the house of Paleroche in the run-up to the Grand Ceremony, then I'm worried Rhodes Island will end up an enemy of Mount Karlan.
+
+Aurora:
+What will the Kjerag operators at Rhodes Island do?
+
+Sharp:
+I need to consider the worst-case scenario, and the least honorable way of solving things. The present outlook is pessimistic, and if I have to make a choice, you know I'll only choose the Doctor.
+
+Sharp:
+We all hope things won't go that far, but you know as well as I that it doesn't depend on us, and I have a responsibility to the Doctor and Rhodes Island.
+
+Aurora:
+I just can't shake the sense that... Sir Enciodes probably has his own plans.
+
+Aurora:
+The Doctor chose to play them at their own game, so some kind of clue must've been there long ago, and the Doctor's already prepped to deal with it...
+
+Sharp:
+I've never doubted the Doctor's abilities for a moment. I believe.
+
+Sharp:
+But I need to make my own preparations beforehand. The Doctor put me on standby, so there's a place for us in the plan.
+
+Aurora:
+We need to get in touch with the Doctor first.
+
+Sharp:
+Aurora.
+
+Aurora:
+Hm?
+
+Sharp:
+You respect Enciodes a lot.
+
+Aurora:
+Yes... Without him, I would've never been able to leave Kjerag, and come into contact with the outside world.
+
+Sharp:
+Understandable.
+
+Sharp:
+But for the moment, I want you to forget that. Starting now, you treat him as a hypothetical enemy. Can you do that?
+
+Sharp:
+If you feel like you can't, you can head back right now. I won't blame you.
+
+Aurora:
+But at the same time, I'm an employee of Rhodes Island too.
+
+Sharp:
+Remember what you've just said.
+
+Aurora:
+Understood.
+
+Aurora:
+But... do we have to watch out for Cliffheart and the rest too?
+
+Sharp:
+I trust Cliffheart, but have no confidence in Ensia Silverash.
+
+Sharp:
+For now. We figure how to meet up with the Doctor.
+
+Kjarr:
+You're the Doctor's subordinates?
+
+Sharp:
+...(Slash)
+
+In an instant, a hardened steel blade streaks through air, stopping just a hair's width from the woman's neck.
+
+Kjarr:
+Wow, that's a rare way to use a sword here.
+
+Sharp:
+Who are you?
+
+Kjarr:
+Well, there's no need to be this ferocious to an ordinary girl you've just met.
+
+Sharp:
+Pinning this position, and cracking a joke in this context? Does that make you an ordinary girl?
+
+Kjarr:
+Put the blade down first! Your Rhodes Island Doctor sent me.
+
+Kjarr:
+I was asked to bring you a message.
+
+
+

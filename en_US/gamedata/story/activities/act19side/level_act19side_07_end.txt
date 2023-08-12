@@ -1,0 +1,613 @@
+Rhine Lab Tech:
+Oh, Director Muelsyse? Coming in for work this late at night?
+
+Muelsyse:
+Ugh... *cough*, yes, there's always more to do.
+
+Rhine Lab Tech:
+Your work must be exhausting.
+
+Rhine Lab Tech:
+And who are these two?
+
+Saria:
+......
+
+Muelsyse:
+Some very important business partners of ours.
+
+Muelsyse:
+You don't recognize this one?
+
+Rhine Lab Tech:
+Uhh... Sorry, I'm not so good with heavily shrouded faces.
+
+Muelsyse:
+This is the famous Originium theory scholar, Oripathy expert, and Catastrophe researcher—
+
+Rhine Lab Tech:
+Oh... You! Your reputation precedes you! It's my lucky day, getting the chance to meet an amazing scientist like... you!
+
+Muelsyse:
+We have urgent business to attend to, so we'll be heading up now. If we get the chance, we should have lunch together sometime, okay?
+
+Rhine Lab Tech:
+Right. Don't let me keep you...
+
+Saria:
+......
+
+Rhine Lab Tech:
+Wait, I thought you looked familiar. Aren't you that expert in... uh...
+
+???:
+...in the field of defensive materials.
+
+Saria:
+Parvis...
+
+Parvis:
+Rhine Lab has really expanded at an astonishing pace the last couple years, hasn't it?
+
+Parvis:
+A consequence is that our new little friends still have much to learn.
+
+Rhine Lab Tech:
+Two directors here at the same time...? I-I... I'd better get back to work! Please excuse me!
+
+Parvis:
+Ahah.
+
+Saria:
+You aren't going to tell them I'm back?
+
+Parvis:
+Forgive me, but my eyes aren't what they used to be. Have I met such a lovely Vouivre lady before?
+
+Saria:
+......
+
+Parvis:
+If you've nothing else for me, I'd better get home. An old man like me needs his sleep.
+
+Parvis:
+Right, Director Muelsyse. Don't forget the black bean tea you owe me.
+
+Muelsyse:
+Phew... Saria, did he really just happen to be passing by?
+
+Saria:
+It's four in the morning.
+
+Saria:
+Parvis normally would've gone home nine hours ago.
+
+Muelsyse:
+I knew it... He's not lining up behind either Ferdinand or Kristen until the last minute, when he's sure how the chips will fall.
+
+Muelsyse:
+He's still calculating the odds, waiting to see.
+
+Muelsyse:
+I bet that even if Rhine Lab gets blasted to rubble, he'll walk out without a scratch.
+
+Ho'olheyak:
+They've entered Rhine HQ.
+
+Ho'olheyak:
+Recon team, prepare to intercept.
+
+Mechanist:
+Let's slow down a little.
+
+Ho'olheyak:
+It's you...
+
+Mechanist:
+I saw you fight Saria, and I'm pretty intrigued by your equipment.
+
+Mechanist:
+Mind if I took a look?
+
+Ho'olheyak:
+......
+
+Ho'olheyak:
+Is this how you always greet your enemies before engaging, Rhodes Island elite operator?
+
+Mechanist:
+Don't get the wrong idea. I'm not talking as a Rhodes Island elite operator there.
+
+Mechanist:
+As a mechanist, I respect all exceptional technology and its innovators—
+
+Mechanist:
+Which is why I wanted to ask how you'd feel before I took that special-looking staff of yours.
+
+Ho'olheyak:
+You're a funny one, Mr. Mechanist.
+
+Ho'olheyak:
+I was only going to meet with Saria, but you and your boss... that Doctor certainly gave me a bigger surprise.
+
+Mechanist:
+You know my name?
+
+Ho'olheyak:
+You've looked into me too, haven't you?
+
+Ho'olheyak:
+It's the habit of our kind to gather up as much information as we can before a fight.
+
+Mechanist:
+Your name is in Rhine HQ's database, Ms. Ho'olheyak.
+
+Mechanist:
+But I don't buy that Ferdinand would hire a history scholar to hunt his coworkers down. That'd be silly, even for the impossible world of Columbian academia.
+
+Ho'olheyak:
+It's my side gig.
+
+Mechanist:
+You research history for a side gig?
+
+Ho'olheyak:
+Wrong.
+
+Ho'olheyak:
+I'm a historian. I'm just here to see a millennium-old prophecy come true.
+
+Ho'olheyak:
+Likewise, I believe our future is heading in a direction that'll lead us to certain hidden historical secrets—
+
+Ho'olheyak:
+Just like you, I seek the truth.
+
+Mary:
+We're here.
+
+Mary:
+Do you know how to find your scumbag boss, researcher?
+
+Elena:
+He should be in the control room right now.
+
+Mary:
+There's a vent around the corner. If you can get inside it, that's your quickest route to the control room.
+
+Mary:
+You'll want to hurry, though.
+
+Mary:
+We're about to have company.
+
+Rhine Defense Member:
+...Officer.
+
+Rhine Defense Member:
+I knew you were on their side. You're weak-willed. You can't put your past with this criminal behind you.
+
+Mary:
+He's not a criminal yet, punk. You people don't have the power to convict. Not yet anyway.
+
+Rhine Defense Member:
+You're heading past the point of no return.
+
+Rhine Defense Member:
+But why? You're all so exceptional. Why destroy your future? Why... didn't she take my advice?
+
+Mary:
+This is about someone else, isn't it?
+
+Mary:
+I can say this to you for her, again.
+
+Rhine Defense Member:
+Ugh—
+
+Mary:
+Because we know what we're fighting for.
+
+Mary:
+To protect certain people... To protect certain rules from being trampled by people like that scumbag director. We don't hesitate. Ever.
+
+Mary:
+We aren't like you...
+
+Mary:
+Probing all the sides before you pick one—
+
+Mary:
+And even going so far as to ask that dumb question before a fight!
+
+Rhine Defense Member:
+Urgh...!
+
+Mary:
+Did you find out which way you're going?
+
+Elena:
+I think so...
+
+Mary:
+Hop to it, then.
+
+Elena:
+What about you?
+
+Mary:
+I have a crossbow. You don't. Worry about yourself, not me.
+
+Elena:
+Thanks.
+
+Elena:
+Take care of yourself.
+
+Sonny:
+......
+
+Mary:
+Why aren't you going with her? I thought you came all this way to settle your score with him, too.
+
+Sonny:
+I've got my own weapon.
+
+Mary:
+Hm?
+
+Sonny:
+It's been a long time since we fought side-by-side.
+
+Mary:
+What are you talking about...? You mean back when we used to play those games?
+
+Mary:
+Besides, I was the one always dragging you out to play.
+
+Sonny:
+Haha... thanks for that.
+
+Sonny:
+I really miss those days... I mean it.
+
+Muelsyse:
+The elevator up ahead will take us straight to Control's office.
+
+Saria:
+It's safer if we take the fire exit in the back.
+
+Muelsyse:
+I know, but aren't we in a hurry?
+
+Muelsyse:
+It'll be faster if we head straight there, and run into less armed personnel along the way.
+
+Saria:
+Wait, don't go over there—
+
+Muelsyse:
+Huh?
+
+Saria:
+......
+
+Muelsyse:
+Whoopsie. I forgot this area's monitored...
+
+Saria:
+Doctor, it's time for plan B.
+
+Rhine Defense Member:
+Intruders spotted!
+
+Rhine Defense Member:
+Here! Over here!
+
+Rhine Defense Member:
+Grab the intrud—Wait, Director?!
+
+Saria:
+Hello, Reggie.
+
+Rhine Defense Member:
+......
+
+Rhine Defense Member:
+What are you doing here...? No, you don't have clearance anymore. I can't let you go any further...
+
+Saria:
+When facing an intruder, hesitating only gives a chance for your enemy to strike.
+
+Saria:
+Do you need me to teach you this all over again?
+
+Rhine Defense Member:
+Shields up!
+
+Rhine Defense Member:
+Prepare to stun! Target the intruder—Saria!
+
+Saria:
+You pass, just barely.
+
+Ferdinand:
+Have the latest data been recorded?
+
+???:
+Yes, they have.
+
+Ferdinand:
+Note the drones' positions.
+
+Ferdinand:
+Do not let the test subject's actions influence firsthand data collection.
+
+???:
+Don't worry, Boss.
+
+Elena:
+The firsthand data you want are right here in front of you.
+
+Ferdinand:
+......
+
+Ferdinand:
+Elena.
+
+Ferdinand:
+I'm glad you're safe.
+
+Elena:
+I've worked under you for so many years now. Reading the slightest change in your expression has become part of my job—
+
+Elena:
+Your left eyebrow twitched ever so slightly. You're surprised.
+
+Ferdinand:
+Well, you are full of surprises.
+
+Ferdinand:
+It's a relief to have you back—Those stupid new hires really need a fine researcher like you to discipline them.
+
+Elena:
+You want me to be a team leader?
+
+Ferdinand:
+No, not a team leader.
+
+Ferdinand:
+You see that key on the desk? Take it.
+
+Ferdinand:
+You've more than proven your abilities. You don't need to be anyone's assistant anymore—Not mine, and not Dorothy's.
+
+Ferdinand:
+I want you to handle the next project as overseer.
+
+Ferdinand:
+This key is a present I prepared for you. It's an all new... spacious laboratory. Your laboratory.
+
+Ferdinand:
+No matter what kind of experiments you want to run, both Rhine Lab and I will fully support you.
+
+Elena:
+Wonderful.
+
+Elena:
+Have you considered letting me take over as Energy Director?
+
+Ferdinand:
+That is not out of the question.
+
+Elena:
+......
+
+Ferdinand:
+You don't seem... particularly happy about my surprise.
+
+Elena:
+That's because no matter what kind of future you had in mind for me... my answer was always going to be 'no.'
+
+Ferdinand:
+Set your staff down.
+
+Elena:
+What are you afraid of? That I'm going to betray you and ruin the moment you see your bright future manifesting, right before your final victory?
+
+Elena:
+I might just consider doing that.
+
+Ferdinand:
+I don't understand. I've given you so much...
+
+Ferdinand:
+I saw talent, diligence, and ambition in you.
+
+Ferdinand:
+All three are necessary to achieve success. All three qualities that also define me.
+
+Elena:
+Of course you wouldn't understand.
+
+Elena:
+If you actually thought so highly of me as you say—You'd have told me the truth behind the experiments.
+
+Elena:
+You'd tell me how you disregard the safety of your test subjects, how you used me to keep tabs on Dorothy, and how when you finally have no more use for me, you'll wipe me out along with all the evidence of your crimes.
+
+Elena:
+You think I'm some stupid little girl who listens to everything you say?
+
+Elena:
+Even with Olivia's nudging, it took me till the moment you make your move for me to finally open my eyes!
+
+Ferdinand:
+You aren't ready, Elena. I was afraid you would be shaken, and here you are.
+
+Elena:
+You've never trusted me.
+
+Elena:
+You don't trust anyone, only yourself.
+
+Elena:
+So why should I trust you again... Why should I trust your promises now?
+
+Ferdinand:
+I've never given anyone more chances than I've given you.
+
+Ferdinand:
+You know what? You're more like me than my own children.
+
+Ferdinand:
+I've poured much blood and sweat into you. Even now, if it's what you want, I would still welcome you at my side—
+
+Elena:
+......
+
+Elena:
+This is the last thing I'll ever ask of you—
+
+Elena:
+Please shut up, Boss.
+
+Elena:
+Take your 'present' and your fake sincerity and stay far away from me.
+
+Elena:
+Starting today, I, Elena Urbica, am no longer your stupid little assistant or your pawn.
+
+Elena:
+Ferdinand Clooney, you're fired.
+
+Rhine Defense Member:
+Director Clooney!
+
+Rhine Defense Member:
+Grab her! Get the rioter!
+
+Elena:
+Hngh...
+
+Rhine Defense Member:
+Director, are you alright?
+
+Ferdinand:
+I'm fine.
+
+Ferdinand:
+Elena...
+
+Elena:
+Stop... Stop looking at me... like you care about me at all.
+
+Elena:
+It... disgusts me.
+
+Ferdinand:
+You say I don't understand you... but you've never truly understood me either.
+
+Ferdinand:
+Perhaps... I actually hesitated, worried in that brief moment just now.
+
+Ferdinand:
+I wasn't worried about the ruckus you were causing. I was worried about you.
+
+Ferdinand:
+I really... didn't want to see things come to this.
+
+Elena:
+Those words...
+
+Elena:
+*cough*... Right back at you.
+
+Muelsyse:
+*pant*...*pant*... What do we do? The Defense guys just keep coming and coming.
+
+Muelsyse:
+Ferdinand's got all the sites covered. It doesn't matter how much of a fight Saria can put up. There's no way she can take on so many at once.
+
+Muelsyse:
+Me...? No way! I don't know how to fight.
+
+Muelsyse:
+All the running around to dodge their attacks is exhausting already...
+
+Muelsyse:
+Don't you hear all my panting, Doctor?
+
+Muelsyse:
+You... You know?
+
+Muelsyse:
+I... Ahh!
+
+Muelsyse:
+They almost got me...
+
+Muelsyse:
+Doctor... You pulled me back? You... You'd still do that for me?
+
+Muelsyse:
+Even though you've figured out that I might have other ideas?
+
+Muelsyse:
+That's the second time you've saved me now, Dr. {@nickname}.
+
+Muelsyse:
+Alright.
+
+Muelsyse:
+Let's call this my way of repaying the favor, then. I'll stand with you guys at least this once and help Saria get where she wants to go.
+
+Muelsyse:
+—
+
+Muelsyse:
+You hear me, water molecules?
+
+Muelsyse:
+Step up and give these nice people a little kissy, and wash away all the dust under our feet!
+
+Ho'olheyak:
+The elf wavered.
+
+Ho'olheyak:
+What a poor soul... She's always looking for some kind of promise of the future.
+
+Ho'olheyak:
+Who would willingly admit she and her race belong only to the past?
+
+Ho'olheyak:
+Can this Dr. {@nickname} really give her what Kristen can't?
+
+Columbian Mercenary:
+Ma'am, Saria has broken through the blockade.
+
+Ho'olheyak:
+Let her meet her old friend, then.
+
+Ho'olheyak:
+I still have other work to finish... Looks like this mechanist and I will just have to catch up next time.
+
+Ho'olheyak:
+—That is, if he survives the power armor.
+
+How long has it been since I was here?
+
+One thousand four hundred and ninety-seven days.
+
+Perhaps we were already enemies when we said our goodbyes.
+
+Will we still be friends when we meet again?
+
+???:
+You're back, Saria.
+
+Saria:
+Hello, Kristen.
+
+
+

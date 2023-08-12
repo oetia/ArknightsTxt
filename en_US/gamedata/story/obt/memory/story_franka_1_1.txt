@@ -1,0 +1,468 @@
+Franka:
+Control your distance! Close in!
+
+Franka:
+Slash! Don't just rely on thrusts!
+
+Melantha:
+Phew!
+
+Franka:
+Aim low!
+
+Melantha:
+Eyah!
+
+Franka:
+You lost.
+
+Melantha:
+Franka...
+
+Franka:
+How many times have I told you? You're using a longsword. Your style may be based around rapiers, but don't rely on thrusts so much.
+
+Melantha:
+Sorry.
+
+Franka:
+You don't need to apologize. Old habits die hard. It's not easy to combine those two weapons' techniques, and I'm really just coming up with this on the fly as I train you.
+
+Melantha:
+Um, Franka? There's actually something that I've been meaning to ask.
+
+Franka:
+Mm?
+
+Melantha:
+You seem to know a lot about my rapier style. Why's that?
+
+Franka:
+Hm... Well, before I became a mercenary, I was actually the greatest fencing teacher in all of Columbia.
+
+Melantha:
+R-Really?
+
+Franka:
+Hehe, normally you'd have to pay the big bucks to take my lessons.
+
+Melantha:
+Um, so...
+
+Franka:
+Just kidding. I was never a teacher.
+
+Melantha:
+Mnngh... Not another one of your jokes. But why then?
+
+Melantha:
+You're very familiar with that particular style. If I remember correctly, last time you even said, 'have you forgotten your third lesson, on how much force to apply to a thrust?' Or something like that.
+
+Franka:
+Hm...
+
+Franka:
+Right, I wonder why.
+
+????:
+Control your distance! Close in!
+
+????:
+Aim low!
+
+????:
+Have you forgotten your third lesson, on how much force to apply to a thrust?
+
+???:
+*Sobs*...
+
+????:
+Eh? C'mon, don't cry. I just meant if you're here to learn fencing, you gotta put in some work, you know? I didn't mean it like that. Alright, alright. Don't cry, now.
+
+Franka:
+Alright, that's enough chatter. Let's take it from the top.
+
+Franka raises her sword, holding it right before her nose.
+
+[[character(fadetime=0.3)]]
+
+An opening! Strike!
+
+Melantha:
+I've got a chance!
+
+Melantha, who finally managed to threaten Franka's neck with her training sword, notices that her teacher seems to be in a bit of a trance.
+
+Franka:
+Fine, you got me. This is your first win during training, isn't it Mel?
+
+Melantha:
+Only because you were a little... A-Anyway, I still have much to learn!
+
+Franka:
+Of course. When did I say you were good enough to graduate from my classes? You still won, though, and that counts for something.
+
+She strokes Melantha's hair.
+
+Her usual smile has reappeared on her face.
+
+Melantha:
+Um... Thank you!
+
+Franka:
+Right, I probably won't be at Rhodes Island much next month. Be sure to keep up your training, okay?
+
+Franka:
+Don't worry, it's nothing dangerous. I'm just taking some time off for a trip, what with how busy I've been lately.
+
+Melantha:
+Huh? Really?
+
+Franka:
+Alright, time's up. Gotta go.
+
+Liskarm:
+I heard that.
+
+Liskarm:
+So what's this about taking time off?
+
+Franka:
+Didn't I just say it's for a trip?
+
+Liskarm:
+Yeah right.
+
+Franka:
+Can't you trust me even a little?
+
+Liskarm:
+Okay, so what's the destination?
+
+Liskarm:
+Most governments don't welcome Infected tourists. Where are you going?
+
+Franka:
+Oh dear, is Little Miss Teacher's Pet really so worried that I'm about to do something dangerous?
+
+Liskarm:
+I'm not worried about YOU. I'm just worried about the trouble you'll—
+
+Liskarm:
+Whatever, screw this song and dance.
+
+Liskarm:
+Yes, I'm worried about you, alright? You were acting so distracted back there. If you ever need help, or just to talk, I'm here for you, okay?
+
+Franka:
+......
+
+Franka:
+Alright, alright... But I really don't need any help, I promise. It's not anything dangerous this time, just a personal matter.
+
+Liskarm:
+......
+
+Liskarm:
+So how do you know so much about rapiers?
+
+Franka:
+Et tu, Liskarm? Why's everyone so curious about this all of a sudden?
+
+Liskarm:
+You wouldn't normally lose a match like that, but you did. And right after she brought it up.
+
+Franka:
+Oh.
+
+Liskarm:
+It's my job to worry about my partner when she's not at the top of her game.
+
+Franka:
+Alright. I'll tell you. I'm actually the successor to the Victorian Aubigny school of fencing. I was way too talented even, renowned across all of Londinium by the time I was seven.
+
+Franka:
+And apparently God Himself had a problem with that, because I caught Oripathy when I was eight for no apparent reason.
+
+Franka:
+After my master died, I left Victoria in search of the twelve surviving blades, forged by a legendary blacksmith.
+
+Liskarm:
+That's the plot of a Higashinese novel, isn't it?! Besides, you're Columbian!
+
+Franka:
+Then I met a giant fowlbeast who used its own feathers to stab its prey. I was just a kid, but seeing that technique gave me a revelation—
+
+Liskarm:
+There are no fowlbeasts like that!
+
+Franka:
+Huh. So that's not gonna fly either?
+
+Franka:
+Alright then. So by pure chance, I met a Yanese swordmaster who taught me their secret techniques—
+
+Liskarm:
+Come on. Stop fooling around.
+
+Liskarm:
+If you don't want to talk about it, then fine, forget I asked. Sorry for bringing it up.
+
+Liskarm:
+Everyone's got things that are hard to talk about. No need to go through all that trouble just to hide it.
+
+One month later...
+
+Melantha:
+Um... Liskarm? Do you know if Franka's back yet?
+
+Liskarm:
+You know, I just asked the Doctor about that.
+
+Melantha:
+What did they say?
+
+Liskarm:
+Nothing in particular, just that we shouldn't worry. She'll be back on schedule.
+
+Melantha:
+I'm still worried about her, though. She seemed a little out of it before she left.
+
+Liskarm:
+Relax, she'll be fine.
+
+Liskarm:
+I believe in her.
+
+???:
+Aw, how touching! Hey there, you two.
+
+Melantha:
+Franka!
+
+Liskarm:
+Franka...
+
+Franka:
+Honey, I'm home! Okay, Mel, let's get right to business. Let's see if you've gotten rusty this past month.
+
+Melantha:
+A-Alright!
+
+Melantha:
+Haah—!
+
+Melantha:
+Slash!
+
+Melantha:
+Oh.
+
+Franka:
+Not bad, not bad. You haven't been slacking off, at least. You're connecting your slashes and thrusts much better now. Very nice.
+
+Melantha:
+Yeah... Um, Franka?
+
+Franka:
+What's wrong? Did you suddenly notice how cool I am? Is this the birth of yet another Franka stan? In that case, feel free to hop right into my embrace.
+
+Melantha:
+You look so much happier now. I'm glad.
+
+Franka:
+Oh.
+
+Franka:
+Alright, alright. Let's continue your training. Have you been working on your basic stances?
+
+Franka:
+If I remember correctly, you come from a pretty well-off family, right?
+
+Melantha:
+It's not worth bringing up...
+
+Franka:
+At the very least, they're more than capable of paying your medical bills, even if you didn't fight. You only started fencing as a way to stay fit, right?
+
+Melantha:
+Yeah...
+
+Franka:
+Why fight, then?
+
+Melantha:
+Um, that's just because...
+
+Melantha:
+When my Oripathy was still in its early stages, it used to give me really heightened perception.
+
+Melantha:
+And when I came to Rhodes Island, I saw how everyone was working so hard for their fellow Infected, so I thought... since I have this power, I should do something too.
+
+Melantha:
+I should at least try.
+
+Melantha:
+That's how it started, anyway. Since then, my perception's started to recede, and my parents... I haven't been able to get in touch with them for a long time.
+
+Melantha:
+That's why I'm actually very glad that I made this choice. I met so many important friends, and... I can support myself now, even without my parents' help.
+
+Franka:
+Mm. What an inspiring story.
+
+Melantha:
+What about you? Why do you fight?
+
+Franka:
+Because I'm a mercenary, of course.
+
+Melantha:
+Huh? But—
+
+Franka:
+Mel, count yourself lucky you found a reason to fight before actually having to do it~
+
+Franka:
+Anyway, you don't need to hear this next part.
+
+Franka:
+Hey, Teacher's Pet. So you finally found it?
+
+Liskarm:
+Franka... What is that thing you left in my dorm room?
+
+Franka:
+It's a letter, duh.
+
+Liskarm:
+So you took that month off because...
+
+Franka:
+Hey, I'm back for debriefing, Doctor.
+
+Franka:
+Thanks!
+
+Franka:
+Huh? Really? She's been bothering you about that? What a bitch. I should teach her a lesson.
+
+Franka:
+Really? You're so kind, Doctor.
+
+Franka:
+Heehee, I didn't expect you to care about us so much.
+
+The Doctor's right.
+
+I have to leave it behind before I can move forward.
+
+And the best way to stop thinking about it might just be to... toss it out like yesterday's trash. Dump and forget.
+
+Franka:
+Right, I was burying my mother.
+
+Liskarm:
+I'm sorry...
+
+Franka:
+You were asking how I'm so familiar with Mel's fencing, right?
+
+Franka:
+Her style is basically the standard Victorian foil. It's the top choice among Victoria's upper-class women who want to stay in shape. Of course, it's mostly just for show. It's not all that practical.
+
+Franka:
+There's really nothing secret about it either. You familiarize yourself with the sword on your first lesson, learn your posture on your second, and how much force to use on your third... It's all the same no matter where you go.
+
+Franka:
+And I learned it myself years ago.
+
+Liskarm:
+Hold on, didn't you just say it's used by the upper-classes?
+
+Franka:
+Right. I... used to be something of a fancy-pants girl myself.
+
+Franka:
+My hometown's called Givogia. Big city in Columbia. Never heard of it, I'm guessing?
+
+Liskarm:
+Yeah...
+
+Franka:
+That's because it was destroyed in a Catastrophe when I was thirteen.
+
+Young Franka:
+Daddy... Daddy...
+
+Mother:
+Don't! Franka! Don't go over there!
+
+Franka:
+My dad disappeared during the disaster. My mom and I just happened to be out in the countryside at the time.
+
+Franka:
+When we saw the Catastrophe clouds, we headed back right away, but... There was nothing left but ruins, buildings torn apart by Originium crystals.
+
+Franka:
+With the insurance payout plus our savings, we had enough to move to another city, but my mom soon got very sick from overwork.
+
+Franka:
+So as soon as I graduated, I put my old fencing skills to work and became a mercenary—then I met Dr. Longfellow.
+
+Franka:
+As for what happened next, you've seen it all in my file at Blacksteel.
+
+Liskarm:
+......
+
+Franka:
+Oh, now that's not the face I was expecting! Don't worry, that was all a little joke~
+
+Liskarm:
+Why, you vixen—!
+
+Franka:
+Alright, alright, don't get your panties in a bunch. That did actually happen. Seriously.
+
+Franka:
+That look you had just now was really rude, though.
+
+Liskarm:
+I'm sorry, I—
+
+Franka:
+It's okay. That was years ago. I've long since put it behind me. My mom's been sick for years, too. I was more than prepared for it.
+
+Franka:
+If you really feel bad about it, how about you treat me to tea?
+
+This was why. This was exactly why I didn't want to tell anyone. I didn't want anyone looking at me with pity like that.
+
+But... now that I've told her everything, it doesn't seem so important anymore.
+
+It's all in the past. Should I be looking toward the future then?
+
+Liskarm:
+Franka.
+
+Liskarm:
+I'm granting you a three month time-off. I think you need more time to get your head sorted out.
+
+Liskarm:
+It'll be summer in a month. You can either choose to take it easy, or maybe go some place for a vacation.
+
+Liskarm:
+Now, if you'll excuse me.
+
+Franka:
+......
+
+Franka:
+Hey, Teacher's Pet... What do you say to coming on that vacation with me?
+
+This is a letter that has been opened many, many times—
+
+
+

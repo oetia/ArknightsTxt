@@ -1,0 +1,140 @@
+Reunion Member:
+Nnnng...
+
+Blaze:
+I'm sorry.
+
+Blaze:
+Now, me beating on you doesn't mean we aren't on the same side.
+
+Blaze:
+Haha! Yeah, no, seriously. It does. We're not on the same side.
+
+Blaze:
+This is Blaze. Come in, Team Blaze-4. Captured a dozen or so Reunion.
+
+Blaze:
+Come recover them when you can. Otherwise just hand them over to Lungmen.
+
+Blaze:
+Hey, Lungmenite, do me a favor and lower your crossbows. We're all friends here.
+
+L. G. D. Officer:
+......
+
+Blaze:
+You still don't trust me? I saved your life.
+
+L. G. D. Officer:
+Get back...! I mean, y- you're... you're Infected...!
+
+Blaze:
+Yeah. Yeah I am.
+
+Blaze:
+Ugh.
+
+Blaze:
+Come on, Doctor.
+
+Blaze:
+Move!
+
+Blaze:
+Sigh. All right, Dr. {@nickname}. Hop on. It's faster this way.
+
+Blaze:
+Hah. You've gotten used to my piggyback rides?
+
+Blaze:
+Don't look at me like that. How many times have we been treated like this? It's no big deal.
+
+Blaze:
+Let's head to Waang Saan Plaza in District 16. If Reunion wants to break through the line, that's where they'll have to do it.
+
+Blaze:
+If we're going to wipe out Reunion's main force, we can't let any of them slip through our zone of control.
+
+Blaze:
+The way Amiya and the cranky old cop lady worked it out, we'll just be whittling them away little by little until we can finally wipe them all out in one swift stroke.
+
+Blaze:
+So we go chase the bad guys out of Waang Saan Tower, herd them into a pincer attack, then meet up with Amiya and crush Reunion once and for all. Piece of cake, right?
+
+Blaze:
+...You and your faces. I told you I'm fine.
+
+Blaze:
+Fine. If you keep staring at me like that, I'm pulling this cat over.
+
+Blaze:
+Hold on tight.
+
+Blaze:
+Huh... Look over there.
+
+Blaze:
+Isn't that Mephisto's herd? But how. They need Mephisto around, don't they?
+
+Blaze:
+Wait a minute. They're... they're killing their own?
+
+Ch'en:
+...What's going on?
+
+Ch'en:
+I'm getting vitals, but no reports? And no sign of any distress signals either.
+
+Ch'en:
+Something's not right...
+
+Swire:
+Shouldn't you be, like, commanding? What are you standing here staring at?
+
+Ch'en:
+None of your business, 'Little Miss.'
+
+Swire:
+Hey, shouldn't we be sharing intel?
+
+Ch'en:
+Not this time.
+
+Swire:
+I'm thinking you lost contact with a spy.
+
+Ch'en:
+Could you not waste your intuition on stuff like this?
+
+Swire:
+At least you own up to it when I guess right. Infected?
+
+Ch'en:
+Yep.
+
+Swire:
+You think he turned?
+
+Ch'en:
+Impossible.
+
+Swire:
+You think the impossible happened?
+
+Ch'en:
+If she turned... Well, I don't even want to think about it.
+
+Ch'en:
+If she betrayed us, then there's absolutely no one left in Lungmen we can trust.
+
+Swire:
+I think I know who it is.
+
+Swire:
+Wait... Would she really be willing to do this?
+
+Swire:
+Her? Really?!
+
+
+

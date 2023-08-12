@@ -1,0 +1,419 @@
+Scavenger:
+Reporting in.
+
+Scavenger:
+Day... seven.
+
+Scavenger:
+More deceased got disposed of this morning. Likely extreme Originium particulate density in the building. Conditions for the Infected are turning south fast.
+
+Scavenger:
+For the past 24 hours, haven't seen any workers in any area not covered by walls, let alone leaving the factory.
+
+Scavenger:
+Comms pick up heavy interference when I get even slightly closer.
+
+Scavenger:
+High-voltage network all around outside. No way to locate the control room for now.
+
+Scavenger:
+Got the exterior patrol shifts and movement patterns down. Can't work out the guards inside yet.
+
+Scavenger:
+I want to get this crap over with. If you give the go, I can take the most violent option.
+
+Scavenger:
+Hmph... Fine, Rhodes Island does things its own way. Copy.
+
+Scavenger:
+Plan B? The factory's waste transporter goes down to the basement every morning at three. They stop running the sewer pipes in the meantime.
+
+Scavenger:
+Simple enough to get through, as long as I get a gas mask.
+
+Scavenger:
+I'm only responsible for paralyzing the security systems here, anyway. Not my job to provide followup support or guidance, right?
+
+Scavenger:
+...I know. I can do this less cleanly, if it comes to it. Figured that's why you called me for this in the first place.
+
+Scavenger:
+End of report.
+
+Scavenger:
+Insane how Rhodes Island actually wants to save Infected. What an employer.
+
+Scavenger:
+That's the sound of the transporter starting up... It's go time.
+
+Factory Guard:
+Ugh—
+
+Scavenger:
+Lights out, bozo.
+
+Scavenger:
+Security system here seems almost as complex as a prison. Whatever, it practically is one anyway.
+
+Scavenger:
+Need to find the control room before I tip anyone off—
+
+???:
+Watch it!
+
+Scavenger:
+Huh?
+
+???:
+Any further and you'll trip the automated—
+
+???:
+—What? You?
+
+Scavenger:
+...Tulio.
+
+Tulio:
+'Scavenger'. Heh, didn't think you were still kicking.
+
+Tulio:
+What're you doing here? Guessing you've been dragging that weapon with you through the sewer pipes, huh, li'l rat?
+
+Scavenger:
+......
+
+Tulio:
+—Hold on, lower your blade, let's talk this out. Else I'll sound the alarm.
+
+Tulio:
+The system's linked directly to police HQ. They're gonna read any signal from here as an Infected riot.
+
+Scavenger:
+You a guard here too?
+
+Tulio:
+Yeah, but trust me, Scavenger—
+
+Scavenger:
+Tch. Trust you?
+
+Tulio:
+I'm betting we're after the same thing. I saw you knock that guy out. You're looking for a way out, aren't you?
+
+Tulio:
+'Cause I want out too, or else I wouldn't have stopped you just now.
+
+Scavenger:
+Hmph.
+
+Tulio:
+*Sigh* I'm serious, I turned a new leaf since all those years ago. Look, I'm Infected now too. I've been through hella shit, I... I understand you.
+
+Tulio:
+You've seen this factory up close. You know how things are here, right?
+
+Tulio:
+They call me a guard, but I'm still just as much a prisoner as anyone else. We're all just as damned here.
+
+Scavenger:
+Okay, but you're their overseer.
+
+Tulio:
+You know the sweet lies this place cooks up to lure in the Infected... I don't like it either, but we've all gotta get our hands dirty to survive.
+
+Scavenger:
+You don't get any sympathy from me, sorry.
+
+Tulio:
+Hold on, I haven't gotten to the important part. I know the systems here inside out. You can't get past them without my help.
+
+Tulio:
+There're two watchhound cores monitoring the whole factory at the same time. Throwing the master breaker to cut the surveillance won't get you anywhere either; they'll switch to emergency power, fast.
+
+Tulio:
+You need someone to work with you, and obviously I need someone to help me out. So no matter how much you distrust me, working together's still our best bet.
+
+Scavenger:
+I never said I was escaping.
+
+Tulio:
+I know you're wary of me, but—
+
+Scavenger:
+—I'm completing shutting down this place's security system.
+
+Tulio:
+What?
+
+Scavenger:
+That's the job I took.
+
+Tulio:
+What kinda merc just comes out and spills the job they're on?
+
+Scavenger:
+Cut the crap. The sooner I'm done, the better. Tell me where the surveillance cores are located.
+
+Tulio:
+Alright... so you're agreeing to work together, then? Is that what you mean?
+
+Tulio:
+I know what you're planning, Scavenger. I'm not gonna tell you every route straight away.
+
+Tulio:
+Follow me, and keep to the foot of the wall. I've figured out the blind spots.
+
+Scavenger:
+Is the factory foreman in?
+
+Tulio:
+He's not. Why would he be? It's three in the morning.
+
+Tulio:
+He only shows up occasionally. What kinda healthy guy would wanna live in a place where the air's filled with Originium?
+
+Scavenger:
+So everyone here's Infected?
+
+Tulio:
+Yeah. Not a problem for you, right? You're already Infected, what's a couple more rocks gonna do?
+
+Tulio:
+What about the rest of your crew? I figure they all got their protection on?
+
+Tulio:
+What're you guys after, anyway? There's nothing valuable here, and we don't exactly make high-precision Originium products. Seriously can't figure out why anyone'd rob this place.
+
+Tulio:
+...Don't feel like answering, huh? You weren't this hard to talk to back when we used to do business.
+
+Tulio:
+Although I guess you wouldn't have cut it as a merc if you were the same as before.
+
+Scavenger:
+Don't waste your breath. Never wanted to work with a piece of shit like you, anyway.
+
+Tulio:
+Tch...
+
+Tulio:
+But we've got no choice for now. We have to split ways from here.
+
+Tulio:
+Surveillance core's right over there, through the workshop.
+
+Scavenger:
+Then we each make our move in ten minutes. I'll find you after. Once we RDV, we head to the master control room and take out the whole system.
+
+Scavenger:
+You better have turned that new goddamn leaf.
+
+Tulio:
+Base station signal screener's already off.
+
+Tulio:
+Next, high-voltage network... down. Electric doors... open. Pulling the master breaker.
+
+Tulio:
+Phew...
+
+Scavenger:
+Done?—
+
+Scavenger:
+Tch...! Knew it!
+
+Scavenger:
+Asshole! Backstabbing me again?!
+
+Scavenger:
+How the hell does this work out for you?
+
+Tulio:
+Heh. Always gotta try, y'know?
+
+Scavenger:
+Think you can get away with this? A little shit like you's never gonna fool me twice!
+
+Tulio:
+What else am I supposed to do? Just sit back and wait for you to take me out?
+
+Tulio:
+Neither of us needs the other now. The factory doors are wide open. Of course I'm gonna make the first move instead of being the victim.
+
+Scavenger:
+I never said I was gonna kill you.
+
+Tulio:
+Duh. Why would you? But in what bizarro universe does this end with you letting me the hell go?
+
+Tulio:
+I'm Infected too. Now I can understand how desperate you were back then... and also how much you must hate me.
+
+Scavenger:
+True... never had that many clients I could put a face to.
+
+Tulio:
+Tch. Since when did Zalaks have this much strength?
+
+Scavenger:
+I told you, you're not getting away with this.
+
+Scavenger:
+Now don't move, unless you wanna get cut in half.
+
+Tulio:
+Tch...
+
+Scavenger:
+Let's be clear. Whether or not I kill you right now is entirely up to my mood.
+
+Tulio:
+You... This goddamn Oripathy's making me so weak. How the hell are you still just fine?
+
+Tulio:
+How did you pull this off? You're like a completely different person.
+
+Scavenger:
+Hmph. Of course you wish I was still that rookie merc. Pure. Gullible.
+
+Scavenger:
+I did the dirty work no one else was willing to, and the client never gave a damn thing in return.
+
+Scavenger:
+I blacked out from an Oripathy attack, woke up in a ditch, and you know what I found? The few remaining things I had from home, gone, taken just like that.
+
+Tulio:
+You were gonna die sooner or later, so I figured waste not, want not...
+
+Scavenger:
+Heh. 'Waste not, want not.'
+
+Tulio:
+Everyone living on the edge exploits each other like that. Isn't that the understanding?
+
+Tulio:
+And what was I supposed to do? Wait for some Infected to die and cause a spreader event right in front of me?
+
+Tulio:
+Who knew you'd live? And still be alive today!
+
+Scavenger:
+Right... That's probably because I have someone who hopes I live.
+
+Scavenger:
+When I woke up, I still had that silver coin sewn into my clothes. It was still there. That's why I decided to live on.
+
+Tulio:
+You really know how to hang onto life, rat. What could one silver buy you?
+
+Scavenger:
+I never spent it. Never will.
+
+Tulio:
+Then how did you...?
+
+Scavenger:
+The same way you got tricked into this factory, thinking there'd be a stable enough life for an Infected here. But what you got instead were vile living conditions and inhumane treatment.
+
+Scavenger:
+What I went through didn't stop there. Might've been even worse. But that's life for you.
+
+Tulio:
+The hell are you saying to me...? Acting like we're in the same boat.
+
+Scavenger:
+We're all in the same goddamn boat.
+
+Tulio:
+*Sigh*... Fine, I get it. Bet I look like the punchline of a joke to you now, huh? Must be nice, getting your revenge. No wonder you're in such a good mood.
+
+Scavenger:
+Pssh... You think way too much.
+
+Tulio:
+Yeah, and it's all your fault I'm in this mess anyway!
+
+Tulio:
+Because I hired your Infected mercenary ass, it didn't take long for me to get symptoms too. I should've just stayed away from you and your kind!
+
+Scavenger:
+Alright, get this through your skull. Touching the Infected isn't gonna give you Oripathy just like that.
+
+Tulio:
+You think I'd believe that?
+
+Scavenger:
+No skin off my nose if you don't, but that's my current employer's view. I've gotta tell you on their behalf.
+
+Scavenger:
+Oh... Now I get why you wanted me to work with you, even though you were scared of me getting payback.
+
+Scavenger:
+You were gonna have me bust you out, then dispose of me to complete this imaginary 'revenge' of yours. Your whole 'waste not, want not.'
+
+Tulio:
+Ha, like you weren't thinking the same thing? Weren't you biding your time with me, just so you could make your move now?
+
+Tulio:
+So why're we still blabbering? Need me to teach you how they handle the Infected they kill here?
+
+Scavenger:
+No. I only cooperated with you so I could finish my mission a little faster.
+
+Scavenger:
+I can cope with shitawful work environments, and that includes shitawful coworkers. I don't think the way you do.
+
+Scavenger:
+Besides, my mission was to aid and rescue the Infected, and you're one of them.
+
+Tulio:
+Rescue the Infected? You're shitting me.
+
+Scavenger:
+Whatever. Ask my employer.
+
+Scavenger:
+Reporting in.
+
+Scavenger:
+Factory security system paralyzed, but foreman not on site.
+
+Scavenger:
+Um, I don't care how you guys extract the Infected. Maybe you're taking them somewhere or whatever. I just wanna confirm if my mission's complete or not.
+
+Scavenger:
+Factory guards are also Infected. You rescuing them too?
+
+Scavenger:
+...So, I can handle problems my own way here.
+
+Scavenger:
+Understood. I'll withdraw to the designated site ASAP.
+
+Scavenger:
+End of report.
+
+Scavenger:
+Hmph. Sounds like they're actually making good on what they said.
+
+Scavenger:
+Never imagined I'd find such a trustworthy client. Let alone anyone who takes the Infected seriously.
+
+Scavenger:
+...Just like how her wish could never come true.
+
+Scavenger:
+—Anyway, you heard that. They gave me some leeway.
+
+Tulio:
+Damn, you really don't care about anything except what your employer wants.
+
+Scavenger:
+Think what you like. I'll toss a coin to decide your fate, then.
+
+Scavenger:
+If it's tails, I clean up the trash here and now; if it's heads, I let you off, and give you one more chance to start over, like the other Infected.
+
+
+

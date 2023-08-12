@@ -1,0 +1,291 @@
+Chernobog Underground Base
+
+10:30 a.m.
+
+Kal'tsit:
+Yes.
+
+Kal'tsit:
+We'll begin the operation after we finish collecting all the environmental information. Before that, it'll benefit you to hear exactly what's going on inside Chernobog's core city.
+
+Kal'tsit:
+Amiya's a bit tied up on the scene, so she won't be able to join this discussion.
+
+Kal'tsit:
+You've already read the information in the mission briefing, but that kind of information is not good enough for a mind like yours.
+
+Kal'tsit:
+If the worst comes to pass, I don't want you to sacrifice yourself while still not knowing a single thing.
+
+Kal'tsit:
+If you've taken interest in some part of me, you can just come out and say it. No need to stare so much.
+
+Kal'tsit:
+You might not remember, but I do. I remember you had quite a talent for heating up rations by pouring boiling water directly into your mouth at four in the morning.
+
+Kal'tsit:
+If you don't believe me, you can try for yourself.
+
+Kal'tsit:
+But skip the chatter. We don't have much time.
+
+Kal'tsit:
+Rhodes Island and the L.G.D. worked together to take down Reunion, and neutralized the forces controlled by Mephisto and Crownslayer.
+
+Kal'tsit:
+After that, Reunion's deployments in Lungmen fell apart completely.
+
+Kal'tsit:
+Amiya reported to me that you had a difficult fight with a 'FrostNova,' an Infected serving Reunion as leader of a special squad, at the bottom of Lungmen.
+
+Kal'tsit:
+The battle ended in your victory.
+
+Kal'tsit:
+I understand. According to the data from PRTS, you had the cooperation of our operators when you brought the enemy's body back to Rhodes Island for treatment.
+
+Kal'tsit:
+Dr. {@nickname}, 'distinguish your friends from your foes.'
+
+Kal'tsit:
+...No. You might get the wrong idea, but you must hear me out.
+
+Kal'tsit:
+I am not trying to blame you, Dr. {@nickname}.
+
+Kal'tsit:
+Amiya told me what happened between you and the enemy commander. Only those who were there at the time had the information to decide what to do.
+
+Kal'tsit:
+I don't have the right to overreach and criticize your judgment.
+
+Kal'tsit:
+You tried to understand the motives of that Infected. You were willing to bear the consequences for the things she, FrostNova, did.
+
+Kal'tsit:
+That is what you did.
+
+Kal'tsit:
+If you plan to use this method to make sense of the suffering in this world, I have no reason to blame you.
+
+Kal'tsit:
+I am even willing to vouch for you before the operators of Rhodes Island. Dr. {@nickname}, make your own decisions, and I will try not to interfere.
+
+Kal'tsit:
+After that, I will determine the part of the responsibility that belongs to Rhodes Island.
+
+Kal'tsit:
+Your powers and responsibilities compliment one another. 'Distinguish your enemies from your friends.' Those are your words, not mine.
+
+Kal'tsit:
+......
+
+Kal'tsit:
+(Whispers) If you really want to breathe as one...
+
+Kal'tsit:
+I never said that.
+
+Kal'tsit:
+More accurately, FrostNova and her Yeti Squad were a guerilla team of elite Infected.
+
+Kal'tsit:
+Right now, there are still two elite forces that Reunion is still able to mobilize. These guerilla warriors are the first.
+
+Kal'tsit:
+The second is the Sarkaz mercenary, W, and her team of sellswords.
+
+Kal'tsit:
+According to my intel, W used some underhanded tactics to seize leadership of the Sarkaz mercenaries working with Reunion.
+
+Kal'tsit:
+We don't have time to go over what should be common historical knowledge, but let me say this frankly — Sarkaz mercenaries are unreliable, a problem W faces just as much as Reunion.
+
+Kal'tsit:
+Sarkaz mercenaries are unlike normal agency mercenaries. They are the overflowing military might of Kazdel, spilling out across the land.
+
+Kal'tsit:
+Trying to control them is an act of folly. It will only anger the forces backing them.
+
+Kal'tsit:
+I haven't even gotten to the important part.
+
+Kal'tsit:
+The point is, the Infected guerrillas of Yeti Squad are completely different from the Sarkaz mercenaries.
+
+Kal'tsit:
+There are no similarities between them in terms of their form, organization, behavior, or creed.
+
+Kal'tsit:
+Before joining Reunion's ranks, they were an independent guerrilla force of Infected, and their prestige was even greater among certain groups of Infected than that of Reunion.
+
+Kal'tsit:
+...And before they formed this guerrilla force, they used to be a part of the mighty Ursus military.
+
+Kal'tsit:
+...
+
+Kal'tsit:
+I'm not sure where you learned that piece of information, Doctor, but I color me impressed.
+
+Kal'tsit:
+Though that piece of information itself is fairly basic, I am relieved that you're able to proactively gather intel on your own.
+
+Kal'tsit:
+I only give what you deserve.
+
+Kal'tsit:
+We've arrived at the foundations of the industrial sector at Chernobog's core city.
+
+Kal'tsit:
+Next, we'll lead three teams through the complex underground passages, take the sewer pipes into the industrial layer, and come up in the heart of the core city.
+
+Kal'tsit:
+Be aware that any enemies you see patrolling these areas are not the ordinary Reunion thugs you're used to fighting.
+
+Kal'tsit:
+We will meet rigorously trained... 'soldiers.' Reunion's 'soldiers,' trained in the tactics of Ursus's own army by the guerrillas.
+
+Kal'tsit:
+Our recon operators discovered that communication networks have been forcefully cut off within the core city. Rather, it seems that Reunion didn't even try to maintain these channels.
+
+Kal'tsit:
+This is a severe constraint upon modern-day squads who rely on the most common modes of communication.
+
+Kal'tsit:
+What this means is Reunion either already has some special way of communicating, or they simply aren't prepared to fight.
+
+Kal'tsit:
+Based on what we saw in Chernobog a month ago, don't expect that second scenario. However, if communication is cut off, the lower-ranking Reunion members won't receive direct commands.
+
+Kal'tsit:
+Most of the time, expect them to act independently.
+
+Kal'tsit:
+I fear they won't know signals they cannot receive— a signal that only countries and city-states can distinguish. One that marks the territory of Ursus.
+
+Kal'tsit:
+A terrible storm is brewing within this city. Chaos, whether caused accidentally or deliberately, will permeate everywhere like thick smoke.
+
+Kal'tsit:
+They're a step ahead of me, and the seeds of ruin have already been sown.
+
+Kal'tsit:
+Conflict is brewing within Reunion.
+
+Kal'tsit:
+I've seen the same thing unfold countless of times across this land.
+
+Kal'tsit:
+I've said pretty much everything I needed to say. As for the rest, we'll cross those bridges when we get to them.
+
+Kal'tsit:
+Even if we're still just preparing for war, efficiency still matters.
+
+Kal'tsit:
+Please help me notify the members of Team R-4, Doctor. Have them take these devices.
+
+Kal'tsit:
+Is there a problem?
+
+Kal'tsit:
+Yes.
+
+Kal'tsit:
+You seem to know more about Rosmontis than the conversation you had in the bioprocessing unit indicated.
+
+Kal'tsit:
+Every elite operator has a considerable amount of strength. We expect them to take charge.
+
+Kal'tsit:
+...So, you haven't had the time to understand how Rosmontis fights.
+
+Kal'tsit:
+But just to get this out of the way, there are some things they should not be shouldering alone. As a field commander, a necessary part of your job is to help relieve the pressure on these operators.
+
+Kal'tsit:
+In this upcoming battle, you may make some shocking discoveries.
+
+Kal'tsit:
+Very few people aren't shocked after watching Rosmontis fight.
+
+Kal'tsit:
+Make sure you're ready for it.
+
+Rhodes Island Operator:
+Dr. {@nickname}, you're here!
+
+Rhodes Island Operator:
+We intercepted an enemy patrol squad, steadily handling the situation.
+
+Rhodes Island Operator:
+Doctor, your position there is kinda risky...
+
+Rhodes Island Operator:
+I think you'll probably want to move.
+
+Rhodes Island Operator:
+Right there... Behind you...
+
+Rhodes Island Operator:
+Doctor, it's really dangerous to stand next to her!
+
+???:
+...Enemy.
+
+Rosmontis:
+Enemy.
+
+Rosmontis:
+Doctor, those are the ones who killed my family... Enemies!
+
+Rosmontis:
+......
+
+Rosmontis:
+Doctor, step aside. Get out of the way.
+
+Rosmontis:
+I'm not like Amiya. Amiya's Arts can go around her friends to strike her enemies...
+
+Rosmontis:
+But not me. I can't.
+
+Rosmontis:
+So don't stand between me and my fight.
+
+Reunion Member:
+Gyaaah!!
+
+Reunion Member:
+That girl, the one carrying that box... Wh-what's going on...
+
+Reunion Member:
+What's wrong with my eyes? I can't see anything! My eyes! My face!! It hurts! It hurts!!!
+
+Reunion Member:
+Something's crushing my head!
+
+Rosmontis:
+......
+
+Rosmontis:
+No.
+
+Rosmontis:
+It's been a long time since I've crushed anyone to death.
+
+Reunion Member:
+Those swords... Those swords!
+
+Rosmontis:
+...Reunion.
+
+Rosmontis:
+I don't want you in my memories.
+
+Rosmontis:
+Any of you.
+
+
+

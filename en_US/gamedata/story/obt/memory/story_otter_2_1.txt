@@ -1,0 +1,615 @@
+Rhodes Island Landship
+
+'Lutra Workshop'
+
+Mayer:
+Don't blink now, Closure.
+
+Closure:
+......
+
+Mayer:
+Meeboo SUPER, select M-11 Originium-Proof Coating from the table.
+
+Mayer:
+(There's a dozen types of coating here, and they all pretty much look and feel the same sans packaging.)
+
+Meeboo SUPER:
+—
+
+Mayer:
+Got it in one.
+
+Closure:
+C'mon, that's just basic stuff.
+
+Mayer:
+There's a broken component in this thermal sensor. Repair it in three minutes, Meeboo SUPER.
+
+Meeboo SUPER:
+—
+
+Meeboo SUPER:
+Repair complete. There is an electronic component under the base that compromises thermal sensor efficiency. It has been removed without affecting device operation.
+
+Mayer:
+Sweet! Took less than two!
+
+Closure:
+Wow! It talks!
+
+Mayer:
+What's a smart upgrade without a voice module?
+
+Mayer:
+Took some time to get used to it myself. It's not exactly the chatty type, though.
+
+Closure:
+Did you really have to make the voice so gruff though...? Whatever, to each their own.
+
+Closure:
+Keep going.
+
+Mayer:
+Meeboo SUPER, set a new password for the workshop door.
+
+Meeboo SUPER:
+Password set using a combination of alphanumeric characters in upper and lower cases, and special characters. Password does not include your birthday.
+
+Mayer:
+Alright, awesome!
+
+Mayer:
+Applied testing, phase one complete!
+
+Mayer:
+And there you have it, the new, the improved, the Meeboo SUPER! So? What'd ya think? Smarter than your AI buggies, right?
+
+Closure:
+Sure is a clever little guy! But Lancet-2 or Castle-3 could do all that, no problem.
+
+Closure:
+Hey, no biting! You're just like Mayer!
+
+Mayer:
+Let her go for now, Meeboo SUPER.
+
+Closure:
+Can't tell if its performance is better than the buggies, but it sure holds a grudge better.
+
+Meeboo SUPER:
+—
+
+Closure:
+Stay away!
+
+Closure:
+So, how much time did this upgrade take you?
+
+Mayer:
+Lemme see... three months, ish?
+
+Mayer:
+Closure, Closure! I've got that 'Raythean Challenger Hellcat Demon High-Performance Operation Platform' upgrade proposal you wanted!
+
+Closure:
+Thanks. Next up is—
+
+Mayer:
+Nah, I need a month off.
+
+Closure:
+Whoa, a workaholic like you? Burnt out? Or... are you looking for a raise?
+
+Mayer:
+No way, you know me.
+
+Mayer:
+Just finished up all my requests from Rhine Lab and Rhodes Island, so my schedule's a clear blue sky.
+
+Mayer:
+And it's high time I upgraded the Meeboos.
+
+Closure:
+Haven't you been doing that in your spare time? What do you need more time for all of a sudden?
+
+Mayer:
+Three more Meeboos have gone kaput the last few months, and there's still a whole pile waiting for repair.
+
+Mayer:
+There's only one 1st-gen left.
+
+Closure:
+Aw, poor little guys.
+
+Mayer:
+Their efficiency's improved, but survival rate remains poor in adverse environments, or operations requiring a high degree of precision.
+
+Mayer:
+Implementing a full AI should let 'em properly take care of themselves while performing their tasks.
+
+Closure:
+Oh, I'll help then!
+
+Mayer:
+......
+
+Mayer:
+Thanks, but no thanks. I'll be fine on my own.
+
+Closure:
+Why not? Didn't we work together on Iwona's Justice Knight?
+
+Mayer:
+That was a PRTS-based customization. Not even you know the ins and outs of the buggies' operational algorithms.
+
+Mayer:
+That's not what I want for my babies. From Rhine to Rhodes, I've always worked on 'em myself.
+
+Mayer:
+I'll give you a shout if I've got any questions, though.
+
+Mayer:
+I'd installed a learning system on 'em, but that's not even in the same ballpark as true 'intelligence.' Needed to start from scratch.
+
+Mayer:
+First I tried optimizing the existing Meeboo core to improve its automation logic, but the results weren't too great.
+
+Mayer:
+So I rewrote the underlying code... Which took a while.
+
+Mayer:
+Original plan called for five SUPER prototypes to get some proper control experiments in, but I only managed to finish one.
+
+Meeboo SUPER:
+—
+
+Mayer:
+Still! This Meeboo SUPER is an unprecedented achievement with applications in highly complex environments, including demolition, surveying, reconnaissance, combat, and everyday life.
+
+Mayer:
+Most importantly, it can complete precise operations fully independently.
+
+Mayer:
+It'll be the most powerful smart machine in all Terra... Small and easy to mass produce too. Makes your customized buggies look like a science fair project.
+
+Mayer:
+We're talking about a whole Meeboo army!
+
+Meeboo SUPER:
+—
+
+Closure:
+......
+
+Closure:
+So what's this tag on it?
+
+Mayer:
+Nametag. Got one on every Meeboo.
+
+Closure:
+But why so many? Let's see, C00-1, B03-4, B12, G70...
+
+Mayer:
+Took 'em off of decommissioned Meeboos.
+
+Closure:
+Yeah, I know, but weren't those supposed to go in the Great Meeboos Monument? Did you...
+
+Closure:
+So the Meeboo SUPER carries on its brothers' hopes and dreams?
+
+Mayer:
+Hehe.
+
+Closure:
+But you still left yourself control permissions for the Meeboo's core, yeah?
+
+Mayer:
+I guess.
+
+Closure:
+Then it's not quite 'smart' enough, yet.
+
+Mayer:
+I'll start the next phase of applied testing in a couple days.
+
+Closure:
+I'll see you then, then.
+
+Closure:
+By the way, make sure you've got the settings right on the Meeboo SUPER's demolition program. We <i>are</i> on the landship, after all...
+
+Mayer:
+Now I just gotta log today's test data.
+
+Closure:
+Hey, are you even listening, Mayer?
+
+Mayer:
+I know, I know.
+
+Mayer:
+Oh, right, what's the new door password, Meeboo SUPER?
+
+Meeboo SUPER:
+—
+
+Mayer:
+......
+
+Mayer:
+Huh... Is that a bug?
+
+Mayer:
+Meeboo SUPER!
+
+Meeboo SUPER:
+—
+
+Mayer:
+Core control permission off.
+
+Mayer:
+Meeboo SUPER, scan and resolve potential issues for buildings in the designated area.
+
+Mayer:
+Of course, since we're on the Rhodes Island Landship, you'll need to...
+
+Meeboo SUPER:
+—
+
+Mayer:
+Oh, what am I saying, you're smart, you know what to do, right? Haha.
+
+Mayer:
+Whew—
+
+Mayer:
+Now just gotta wait for it to finish the job and come back.
+
+Mayer:
+Wow, the requests sure have piled up... Guess I really put 'em off for too long.
+
+Mayer:
+Let's see... wall projectors for operator quarters, weapons system upgrade for the training grounds, synchronization between drones and charging equipment...
+
+Mayer:
+And the workshop's a mess.
+
+Mayer:
+Might as well clean up the operating console while I have time.
+
+Meeboo SUPER:
+Meeboo— SUPER. Scanning building. Resolving potential problems. Scanning building. Resolving potential problems.
+
+Meeboo SUPER:
+8 structural integrity issues found. Calculating. Issues resolved using method—
+
+Meeboo SUPER:
+One remaining structure to inspect.
+
+'Lutra Workshop'
+
+Mayer:
+There, that's more like it!
+
+Meeboo SUPER:
+—
+
+Meeboo SUPER:
+Full-area scan.
+
+Meeboo SUPER:
+Retrieving comparison data. Activating analysis.
+
+Meeboo SUPER:
+Results—
+
+Meeboo SUPER:
+Area is larger than expected. Lacks distinction between living and working space. Presence of dangerous equipment—
+
+Meeboo SUPER:
+Warning. Resolving potential issue. Evacuate area.
+
+Mayer:
+Now lemme fix these heat sensors.
+
+Meeboo SUPER:
+Warning. Resolving potential issue. Evacuate area.
+
+Mayer:
+Running short on materials. Guess I'll need to submit another order to the Procurement Department...
+
+Meeboo SUPER:
+Resolving issue using method— method—
+
+Meeboo SUPER:
+Demolition.
+
+Mayer:
+Did something just move?
+
+Mayer was not slow on the uptake, but she could have been faster if she had shaken the habit of working with her headphones on.
+
+The Meeboo SUPER activates its detonation sequence.
+
+Using an extendable robotic arm, Mayer manages to press the shock shield activation button just in time, deflecting the Meeboo SUPER's directional explosion.
+
+Lutra Workshop's key areas were undamaged, but the extendable platform near the door holding heavy materials is destroyed.
+
+Mayer watches as the Meeboo SUPER is buried in the rubble it created.
+
+Mayer:
+Argh!
+
+Mayer:
+So... heavy...! Good thing the robotic arm charging system still works.
+
+Mayer:
+Meeboo SUPER!
+
+Meeboo SUPER:
+—
+
+???:
+What's going on, Mayer? I could hear the noise from your workshop a mile away.
+
+Closure:
+Whoa, the Meeboo SUPER... looks heavily damaged.
+
+Meeboo SUPER:
+—
+
+Closure:
+Did it do all this?
+
+Closure:
+Can't say I blame it... I told you not to use your quarters as your workshop, and not to make unauthorized modifications. Lemme check if the load-bearing structure is still intact...
+
+Mayer:
+......
+
+Mayer:
+What about the other places it inspected? Did it...?
+
+Closure:
+I came from that way. Things look okay.
+
+Closure:
+(Good thing I set up those localized shock compensators ahead of time. Whew...)
+
+Closure:
+How about you? You okay, Mayer?
+
+Closure:
+Look at this mess. I'll help you clean up.
+
+Mayer:
+Just like the old days.
+
+Closure:
+Huh?
+
+Mayer:
+The workshop's a mess... just like the old days.
+
+Closure:
+Don't scare me like that! You hit your head or something? You're not the type to reminisce at the drop of a hat, are you?
+
+Mayer:
+I mean, back when I first started on the Meeboos...
+
+???:
+Mayer's workshop again?
+
+???:
+Third time this month, isn't it?
+
+???:
+Chronometer stops working, cooling system malfunction... and now the chair springs up on its own and knocks the operating table over?
+
+???:
+It's always one thing or another pulling her away from the project and back to her lab.
+
+???:
+And all this after she was even given her own workshop...
+
+???:
+If she says it's a coincidence, who are we to argue? Not worth wasting time worrying about.
+
+I was so excited to get into Rhine Lab.
+
+For researchers, it was the holy land for all of Columbia—all of Terra, even. It had the facilities, the projects, the talent, the pay, and the benefits.
+
+We had a consensus that science would determine the future of Terra. Within Rhine Lab itself, however, everyone had their own interpretation of science, their own obsessions. Especially the directors.
+
+It was an uncomfortable place. Some of the finest minds in the world, but woefully inefficient when they get together, like an all-star sports team that just can't seem to win.
+
+I was in Engineering, providing technical support for the other sections. A project started by Energy last month, which was already halfway through preparations, was facing termination because of opposition from Control.
+
+Similarly, the Defense Section could also put a stop to ongoing projects at their discretion.
+
+This happened again and again at Rhine Lab. Low-level staff were in a constant cycle of installation, testing, and removal.
+
+I felt like I was better off doing research on my own.
+
+That's why I made a trick alarm clock that caused just a teensy bit of havoc in my workshop at preset times. Not enough to put the place out of commission, but serious enough that I'd have to rush back to deal with it.
+
+Mayer:
+That was the first Meeboo prototype.
+
+Mayer:
+I gradually added more functions, and named them after the boot-up sound.
+
+Closure:
+So you'd run back to your lab, all excited to clean up the mess?
+
+Mayer:
+Yeah. Never made much progress on the projects they assigned me, but I sure invented plenty of little gizmos.
+
+Mayer:
+After I helped her out, Silence liked some of the stuff I made and put in a recommendation. They still use 'em back at Rhine Lab, even.
+
+Closure:
+The Meeboos were always the apple of your eye, though, weren't they?
+
+Mayer:
+Yeah, I wanted 'em to become these crazy smart machines.
+
+Mayer:
+I mean, they've been by my side this whole time, from Rhine to Rhodes.
+
+Mayer:
+But after countless losses, decommissions, and upgrades... there was only one 1st-gen Meeboo left.
+
+Closure:
+Meeboo SUPER...
+
+Mayer:
+Was built around the last 1st-gen, yeah.
+
+Closure:
+Hey, no one said artificial intelligence was easy.
+
+Closure:
+Don't let it get to you!
+
+Meeboo SUPER:
+—
+
+Closure:
+Mayer!
+
+Mayer:
+What?
+
+Closure:
+The Meeboo SUPER may not have achieved its goals, but it wasn't a <i>complete</i> failure.
+
+Mayer:
+C'mon, we can all see what happened, Closure.
+
+Closure:
+No, I'm serious, look!
+
+Mayer:
+......
+
+Mayer:
+The nametags of the Meeboos.
+
+Closure:
+Yeah. Its limbs are all crushed and warped, but the nametags have just fallen off, completely intact.
+
+Closure:
+It's not like they're made of anything tougher than the main body, are they?
+
+Mayer:
+......
+
+Mayer:
+Wait, are you saying it...?
+
+Closure:
+Could be a coincidence, or it could be some sort of 'instinct'...
+
+Mayer:
+Meeboo SUPER...
+
+Meeboo SUPER:
+—
+
+Closure:
+The voice module is too damaged to respond.
+
+Mayer:
+Beautiful! You should've seen the looks on their faces when I ditched.
+
+Mayer:
+But I gotta scoot you over a little for next time. Knocking over a chair is one thing, but fixing broken equipment is a pain.
+
+Mayer:
+I should give you a name, huh... You know what, how about I set up a random boot-up sound for you? Whatever sound you make will be your new name!
+
+???:
+——
+
+Mayer:
+Over here, Meeboo. I need to reset the settings for your demolition program.
+
+Mayer:
+Meeboo, adjust the position of the robotic arm.
+
+Mayer:
+Meeboo, bring me that thermal device.
+
+Mayer:
+Meeboo... Hey, how'd you know I wanted this calibrator?
+
+Meeboo:
+—
+
+Mayer:
+Whoa! What are you doing? Stop pulling!
+
+Meeboo:
+—
+
+Mayer:
+It's just a bit of work. Not like I'm gonna forget to eat.
+
+Meeboo:
+—
+
+Mayer:
+Er...
+
+Mayer:
+Fine, I get it, I'm eating, I'm eating!
+
+Closure:
+So, not quite buggy tier yet, but Meeboo SUPER has made a lot of progress. Don't give up.
+
+Mayer:
+......
+
+Mayer:
+Can I get another two months off, then?
+
+Mayer:
+I want to start the next smart upgrade project based on these results! Strike while the iron is hot!
+
+Closure:
+No way, buster! I'm not falling for that!
+
+Closure:
+I already gave you three months. Do you realize how many requests Engineering gets in three months?
+
+Closure:
+And you'll also need to submit a detailed report on what happened during the Meeboo SUPER's testing, especially the accident.
+
+Mayer:
+Ugh...
+
+Closure:
+And most importantly, you're paying for the Lutra Workshop's repairs out of your own pocket!
+
+Mayer:
+......
+
+Meeboo SUPER Test Logs 09
+
+This Meeboo upgrade has failed.
+
+......
+
+But the Meeboos are by Mayer's side. The possibilities are infinite.
+
+Mayer trusts Meeboo.
+
+Mayer trusts Mayer.
+
+
+

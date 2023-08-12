@@ -1,0 +1,619 @@
+Ensia:
+Why can't I go out, Uncle?
+
+Chester:
+By the president's orders, you are not to go running around until he returns.
+
+Ensia:
+So when's he coming back?
+
+Chester:
+The president is currently making his way to Karlan, and will be back in two days' time.
+
+Ensia:
+Look, I just want to catch a breath of fresh air, okay?
+
+Chester:
+If you'll stay around the estate... I'll send someone to follow you.
+
+Chester:
+Ensia, this is for your own good. The situation in Kjerag is precarious right now.
+
+Ensia:
+*Sigh*...
+
+Ensia:
+Do you really need to do all this... Enciodes?
+
+Ensia:
+Doctor, what should I do...?
+
+Ensia:
+Aurora?!
+
+Aurora:
+Shhh–– Keep it down, it was really hard for me to sneak in with all the guards.
+
+Ensia:
+Weren't you and Sharp going to stay with the Doctor?
+
+Aurora:
+Yes. I'm here because the Doctor wanted me to tell you something.
+
+Gnosis:
+You're absolutely sure?
+
+Monch:
+Yes, Arctosz has assembled a large number of soldiers in his territory, but he's not the one leading them – the Doctor is.
+
+Gnosis:
+Where's Arctosz?
+
+Monch:
+I'm not sure... From eyewitness accounts, he disappeared after formally handing leadership of his forces to the Doctor.
+
+Gnosis:
+Is that Doctor's squad the bait? No, it can't be that simple.
+
+Gnosis:
+How about their numbers?
+
+Monch:
+The Paleroche clansmen who responded to Arctosz's call were mostly what you expected. Based on our estimates, Arctosz shouldn't have enough men to assemble another squad.
+
+Gnosis:
+But there's no chance he's sitting in the back. There's a high possibility of there being another team.
+
+Monch:
+The Paleroche clan's warriors are skilled at operating in the mountains. It's not beyond the realm of possibility.
+
+Gnosis:
+They can't leave this squad alone though, regardless of whether it's a decoy or the main force.
+
+Gnosis:
+Let Weiss pass on the orders and have the troops gather at the base of the mountain, awaiting further instructions.
+
+Gnosis:
+Then dispatch someone to keep track of the army. Your primary responsibility is to find Arctosz.
+
+Monch:
+On it.
+
+Ensia:
+The Doctor... wants me to climb up the mountain and sneak into the Vine-Bear Court to find my sister?
+
+Aurora:
+Correct.
+
+Aurora:
+Because conflict between the Paleroche and Silverash clans is almost unavoidable now.
+
+Aurora:
+But if there's one person who can put a stop to all of this, it's your sister, the Saintess, Enya Silverash.
+
+Ensia:
+But... But...
+
+Aurora:
+The Doctor wanted to stick to Rhodes Island's policy of nonintervention and stand by.
+
+Aurora:
+But since restoring the Saintess to power was just a ploy by Mr. Enciodes, the Doctor believes he doesn't care much for Kjerag's faith.
+
+Aurora:
+And once the Silverash clan's forces beat down the Paleroche clan's, the only thing stopping him from taking all of Kjerag is the Vine-Bear Court.
+
+Aurora:
+In other words, the object of faith for all the people of Kjerag – the Saintess.
+
+Aurora:
+The Doctor doesn't actually need you to convince the Saintess to do anything. The basic idea is there might be a way to heal the relationship between your brother and sister.
+
+Aurora:
+There might also be some guilt in there for not being able to help since coming to Kjerag.
+
+Ensia:
+I'd never blame the Doctor for that! I just want to apologize, both to the Doctor and everyone else who came with me. This was supposed to be a nice vacation, but my brother went and screwed everything up...
+
+Aurora:
+It's not your fault either, Cliffheart.
+
+Aurora:
+Anyway, the Doctor's been dragged into Enciodes's business, and can't stand on the sidelines anymore.
+
+Aurora:
+And anyway, you're Enciodes's sister. Nothing can change that.
+
+Aurora:
+So the Doctor's decided to make a move.
+
+Aurora:
+And it's to have you go up the mountain, and become a kind of insurance beside the Saintess.
+
+Ensia:
+The Doctor wants me to stop my brother's plans when the time comes.
+
+Aurora:
+Or, take the Saintess and run when the time comes.
+
+Ensia:
+......
+
+Ensia subconsciously rubs the coil of rope in her hand.
+
+Her sister braided it for her when she was a child.
+
+Ensia:
+......
+
+Ensia:
+I'll go.
+
+Aurora:
+This is a covert operation. I'll be there with the other operators to help.
+
+Ensia:
+...No.
+
+Ensia:
+I have a better idea.
+
+Ensia:
+Just get me to the base of Mount Karlan. I'll handle the rest myself.
+
+Gulo:
+Doctor, why are you marching us at such a slow pace?
+
+Sciurus:
+Gulo, don't tell me you still haven't figured out what we're doing?
+
+Gulo:
+Aren't we drawing the attention of the Silverash clan? I think we're going a bit too slow for that.
+
+Sciurus:
+I see you're eager to just rush in and fight the Silverashes.
+
+Gulo:
+Sure am.
+
+Gulo:
+Last time, Valais handed me my ass, so I've got a chip on my shoulder.
+
+Paleroche Clan Warrior:
+Doctor, we've confirmed the location of Yucatan, who was taken away during the ceremony.
+
+Paleroche Clan Warrior:
+As you suspected, she was not taken to the Silverash clan's territory, but locked up at the base of the mountain.
+
+Gulo:
+Doctor, you really are something else. You managed to find Old Yucatan this quickly.
+
+Sciurus:
+Hmph. Such simple intelligence gathering is child's play for a Browntail.
+
+Sciurus:
+Anyway, we've found Yucatan, so it's time for me and this idiot here to get moving, right?
+
+Gulo:
+......
+
+Sciurus:
+What's with the silent treatment?
+
+Gulo:
+What, were you talking to me? I don't remember my folks ever calling me 'Idiot.'
+
+Sciurus:
+(Sighs deeply)
+
+Sciurus:
+General! Gulo! Hmph... You happy now?
+
+Sciurus:
+I'm asking you, do you know what you're supposed to be doing?
+
+Gulo:
+Of course. Head to the nearest station, cause some chaos, and give you a chance to rescue your man.
+
+Sciurus:
+Good.
+
+Sciurus:
+But a word of warning from the Doctor –– don't actually kill anyone.
+
+Gulo:
+Hmph. The station's full of civilians. I swear on my name not to lay a finger on them.
+
+Gulo:
+But, Doctor, if the Silverashes show up...
+
+Gulo:
+All I can say is, I'll try to hold back.
+
+Aurora:
+Cliffheart, did you say you were looking for... your mountaineering equipment?
+
+Ensia:
+Yup.
+
+Aurora:
+Don't tell me you're going to climb Mount Karlan...
+
+Ensia:
+Eh... From what you've told me, there should be a ton of people in Karlan.
+
+Ensia:
+If we're talking about heading up the face of the mountain, even the squad leader would have some difficulty sneaking in.
+
+Ensia:
+But that's nothing I can't handle~
+
+Ensia:
+As long as you can get me to the foot of the mountain, I can handle the rest.
+
+Aurora:
+But... the others and I won't be able to protect you.
+
+Ensia:
+No biggie, no biggie.
+
+Ensia:
+I've gotten plenty of training at Rhodes Island, so I'm more than capable of handling myself in an ordinary fight.
+
+Aurora:
+But...
+
+Chester:
+Ensia, where are you going?
+
+Ensia:
+Uncle Chester...
+
+Ensia:
+I want to go climbing.
+
+Chester:
+Which mountain are we talking here?
+
+Ensia:
+Mount Karlan.
+
+Chester:
+That place is going to turn into a battlefield. You'll get hurt if you go.
+
+Chester:
+Why do you want to go there?
+
+Ensia:
+......
+
+Ensia:
+Uncle Chester, ever since I fell in love with mountaineering, I've always wanted to summit Mount Karlan with my own two hands.
+
+Ensia:
+I've only wanted it even more since my sister left us and became the Saintess... One day, I would reach the peak and bring my sister home.
+
+Ensia:
+And now, my chance has finally come.
+
+Chester:
+You won't be able to do that, Ensia.
+
+Ensia:
+Even if I can't bring my sister back home, I need to be with her at a time like this.
+
+Ensia:
+She must be very confused after everything our brother's done.
+
+Ensia:
+If I can't stop him, then, I at least want to be there for her!
+
+Chester:
+......
+
+Olafur, your youngest daughter's gotten pretty big too.
+
+Silverash Clan Sergeant:
+Young Lady, I am sorry, but by the Master's orders, you are not allowed to leave the estate. It's for your own safety.
+
+Chester:
+Stand down.
+
+Ensia:
+Huh?
+
+Ensia:
+Uncle Chester!
+
+Silverash Clan Sergeant:
+Sir, you're directly contradicting the Master's orders!
+
+Chester:
+I'll accept all responsibility for what happens here.
+
+Silverash Clan Sergeant:
+But... Even if you'll go so far to vouch for her, how can that be more important than her safety?
+
+Chester:
+A Silverash never takes unnecessary risks.
+
+Chester:
+This time, let's trust her.
+
+Silverash Clan Sergeant:
+Ugh... Fine.
+
+Chester:
+Go, prepare a burdenbeast for the Young Lady and our guests from Rhodes Island.
+
+Silverash Clan Sergeant:
+Understood.
+
+Ensia:
+Thank you, Uncle Chester!
+
+Aurora:
+Thank you very much, Sir.
+
+Aurora:
+I always thought you...
+
+Chester:
+No need to thank me.
+
+Chester:
+Now go. Time is of the essence.
+
+Ensia:
+Okay!
+
+Chester:
+Ensia.
+
+Ensia:
+Hm?
+
+Chester:
+Be careful out there.
+
+Ensia:
+Will do!
+
+Chester:
+Olafur.
+
+Chester:
+Ever since you and Elizabeth passed on, I've always regretted that I stood against you and the reforms you tried to bring to our land. I should have stood with you.
+
+Chester:
+So, when your son decided to take up your ideals, I chose to support him wholeheartedly.
+
+Chester:
+Enciodes has done exceptionally well.
+
+Chester:
+As the Saintess, Enya has won the adoration of the people of Kjerag.
+
+Chester:
+Though Ensia contracted Oripathy, her condition is under control and she is as happy-go-lucky as always.
+
+Chester:
+But, it suddenly just occurred to me.
+
+How long has it been since I saw these three kids getting along, smiling and laughing as siblings should?
+
+Great Elder:
+......
+
+Enya:
+Great Elder, you still need to rest...
+
+Great Elder:
+......
+
+Great Elder:
+According to the records, this great hall was built by the people of all three clans following the establishment of the Tri-Clan Council. The existence and cooperation of the three clans far predates the modern Tri-Clan system.
+
+Great Elder:
+Then, after thousands of years passed, the system was tweaked and sanded down, until it became what we see today.
+
+Great Elder:
+And this chair may well have been here for thousands of years.
+
+Great Elder:
+Over a dozen Great Elders sat on this seat, spending their lives here.
+
+Enya:
+Juast as a dozen Saintesses found their final resting spot atop this mountain.
+
+Great Elder:
+From the very beginning, the Saintess was a fabrication of the Vine-Bear Court to facilitate the spread of the faith.
+
+Enya:
+Now that you've chosen to tell me these things I've known for a long time, are you meaning to say that our faith is false?
+
+Great Elder:
+You seem to be a lot more direct as well. But I mean the opposite, Enya. Sorry, Saintess.
+
+Great Elder:
+Saintess... *cough* *cough*... Do you know my original name?
+
+Enya:
+...No.
+
+Great Elder:
+I'm afraid no one in the present Vine-Bear Court remembers either.
+
+Great Elder:
+Even I, myself, have forgotten.
+
+Great Elder:
+Each Great Elder, after taking up the mantle of the previous one, is known only as 'Great Elder'.
+
+Great Elder:
+One day, the people will also forget your name, and know you only as 'Saintess'.
+
+Great Elder:
+Then, the Great Elder and Saintess come to realize––
+
+Great Elder:
+What people believe in... is not Kjeragandr.
+
+Great Elder:
+People can believe in anything, as long as there's a story, a few neat coincidences. They will believe in you, in me, in Enciodes, in the mountain, in the water, even in a single leaf.
+
+Great Elder:
+If people can believe in anything, then what is faith?
+
+Great Elder:
+The Great Elders finally came to an answer:
+
+Great Elder:
+What people believe is faith itself.
+
+Great Elder:
+People choose to vest power in the object of their faith.
+
+Great Elder:
+People attribute the things that they shun to their faith.
+
+Great Elder:
+People unconditionally trust the way of life to which their faith guides them.
+
+Great Elder:
+So, what is faith?
+
+Great Elder:
+Faith is laziness, escapism, and decadence! Faith is stability, faith is stagnation! *cough* *cough* *cough*––
+
+Enya:
+Let's get you to bed, Great Elder.
+
+Great Elder:
+No, Saintess. Saintess!
+
+The Great Elder desperately clutches at Enya's wrist.
+
+His grasp is so tight that it leaves a red mark on her skin, as if he spent all his remaining strength on it.
+
+His eyes are fixed on the Saintess before him, but he seems to be looking at someone else.
+
+Great Elder:
+Faith is ugly! But even so, it is indestructible!
+
+Great Elder:
+In the thousands of years of Kjerag's history, the cracks between the three major clans have gradually widened, yet no one can deny faith. Faith is the foundation of Kjerag!
+
+Great Elder:
+Faith unites the people of Kjerag. People seek out faith, people rely on faith!
+
+Great Elder:
+Kjerag has existed like this for thousands of years!
+
+Great Elder:
+The people crave stability! The people crave stagnation!
+
+Great Elder:
+Enciodes thinks he has won, but he hasn't. He cannot win.
+
+Great Elder:
+How could he possibly defeat the faith that has coalesced in Kjerag for millennia?
+
+Great Elder:
+This old man is about to die, but you are still young. You are the Saintess of this Vine-Bear Court, and you will become the Great Elder of this Vine-Bear Court.
+
+Great Elder:
+Go forth and instruct him, overcome him. Make him understand that in the face of faith itself, his actions are insignificant, beneath even mention!
+
+Enya remains silent for a while, but forces herself free of the Great Elder's grip.
+
+She feels pity for the old man before her, but she feels a greater determination.
+
+Enya:
+...I disagree, Great Elder.
+
+Enya:
+You say that faith equals stagnation, and that people depend on faith because they demand stability.
+
+Enya:
+But that's not how I see things.
+
+Enya:
+It is true that once people accept a faith, they come to rely on it. Laziness, escapism, decadence... I can't argue those.
+
+Enya:
+But this does not mean that faith itself is stagnation.
+
+Enya:
+Faith is just faith, nothing more. It has no attributes by itself, and its substance comes from what is put into it.
+
+Enya:
+If the faith progresses, then the faithful will progress with it.
+
+Enya:
+If the faith stagnates, then the faithful will stagnate with it.
+
+Enya:
+The reason why you think the people of Kjerag crave stagnation is precisely because Kjeragandr's faith has been stagnant for thousands of years in the hands of the Vine-Bear Court!
+
+Enya:
+We've drawn up this land as a prison to preserve the rules of some ancient agreement, surviving in these snow-capped mountains for millennia without exploring or even making contact with the outside world.
+
+Enya:
+And you mean to tell me this agreement has anything to do with our faith?
+
+Enya:
+Is it not just the arrogance of the Vine-Bear Court?
+
+Great Elder:
+Arrogance? No, no, this is how things were meant to be!
+
+Enya:
+Nothing is inherently meant to be.
+
+Enya:
+If it seems that way, it's only because it's never been changed.
+
+Enya:
+It's time to change, Great Elder.
+
+Great Elder:
+No, Saintess, you cannot change anything.
+
+Great Elder:
+Faith... *cough* *cough*... is the fundamental reason why Kjerag is Kjerag.
+
+Enya:
+I will go and face Enciodes, but not in the way you want.
+
+Enya:
+I don't know if I'll succeed.
+
+Enya:
+But, since the Saintess has always been used by the Vine-Bear Court as a tool to guide the peoples' faith...
+
+Enya:
+I shall put this tool to good use.
+
+Enya:
+I am the Saintess, but I am not the Saintess of the Vine-Bear Court. I am the Saintess of Kjerag.
+
+Enya:
+I will use my own methods to guide the people to freedom. The freedom to progress, to explore, to take risks.
+
+Enya:
+And as for you, Great Elder, it is time to rest.
+
+Enya:
+Attendants, come help the Great Elder away.
+
+Enya stands up and walks to the door of the great hall, her eyes fixed forward.
+
+Behind her, the Great Elder occupies his same seat, watching her back grow ever smaller in the distance. He stretches out his hand as to grasp something, but finally, powerlessly, it drops.
+
+He grasps nothing at all.
+
+He remains there evermore, motionless, just like the snow of Kjerag blanketing his dreams.
+
+
+

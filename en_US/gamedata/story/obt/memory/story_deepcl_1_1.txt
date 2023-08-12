@@ -1,0 +1,561 @@
+Art Shop Owner:
+I'm sorry, we're not open yet. Please come back in the afternoon.
+
+Strange Outsider:
+Sorry about the timing. I'm not here to buy art; I just have some questions.
+
+Strange Outsider:
+For your trouble.
+
+Strange Outsider:
+(Slips a gold coin through the crack in the door)
+
+Art Shop Owner:
+This is...
+
+Strange Outsider:
+Consider it a token of appreciation. And there's more where that came from, if you've got the information I need.
+
+Strange Outsider:
+A pleasure to meet you in the flesh, sir.
+
+Art Shop Owner:
+Er, ahem... what can I help you with?
+
+Strange Outsider:
+Last month, a painting that is very dear to me suffered moisture damage thanks to improper storage.
+
+Strange Outsider:
+I've heard that a very skilled restoration painter lives here, so I thought I would try my luck.
+
+Art Shop Owner:
+Oh... that could be tricky. She's not easy to find.
+
+Strange Outsider:
+Does she live outside town? I've got more gold coins.
+
+Strange Outsider:
+(Takes out a gold coins from his sleeves)
+
+Art Shop Owner:
+No, she's in town, but she's a little eccentric. We keep our distance from her, when we can help it.
+
+Strange Outsider:
+She's got a temper? Violent type? Or more of an arrogant artist?
+
+Art Shop Owner:
+Well... you might say she's got a sunny disposition.
+
+Strange Outsider:
+Oh?
+
+Art Shop Owner:
+It's not so bad when she's at home painting, other than the strange noises, from time to time. When she's sketching outside, though... everyone stays as far away as they can. Don't want to get press ganged into modeling for her.
+
+Art Shop Owner:
+There's no getting away once she sets her eyes on you. You have to sit there and wait for her to finish, no matter what else you might have to do.
+
+Art Shop Owner:
+And, as you know, paintings aren't the quickest thing to get done... poof, there goes your whole day.
+
+Strange Outsider:
+Why don't you just say no?
+
+Art Shop Owner:
+No...?
+
+Art Shop Owner:
+Yeah... why not just turn her down? Seems easy enough.
+
+Art Shop Owner:
+(Mutters to himself with a blank expression)
+
+Strange Outsider:
+Sir? Are you okay?
+
+Art Shop Owner:
+I-I'm fine. I'm trying to think back to what she said to me, but I just can't remember a thing.
+
+Strange Outsider:
+That's a little weird... heh.
+
+Art Shop Owner:
+Anyway, it doesn't matter. She's a little loopy, you know. Says lots of weird things.
+
+Art Shop Owner:
+Don't let the things she says get to you. I'm sure she doesn't mean any harm by them.
+
+Strange Outsider:
+Heh... didn't think you'd turn around and start defending her.
+
+Art Shop Owner:
+She's a little off-kilter, sure, but she's never hurt anybody. Plus...
+
+Art Shop Owner:
+Half of what I sell here is her work. Her stuff is popular.
+
+Strange Outsider:
+A hardworking painter! Now I'm even more curious.
+
+Art Shop Owner:
+Well, sir, if you insist, I can take you to her.
+
+Art Shop Owner:
+This is where she lives. I'll be on my way now.
+
+Strange Outsider:
+You're not coming in with me?
+
+Art Shop Owner:
+Er... well, I have a thing.
+
+Strange Outsider:
+Okay, then. Thanks.
+
+Strange Outsider:
+(Takes out a few gold coins from his sleeves)
+
+Strange Outsider:
+For your trouble.
+
+Art Shop Owner:
+Oh, thank you so much! That's kind of you. Please feel free to come by my shop if there's anything else I can help with.
+
+Strange Outsider:
+Goodbye now.
+
+Art Shop Owner:
+Huh? Oh, alright, goodbye.
+
+Strange Outsider:
+What a nice little hideout.
+
+It is almost noon, and the sun shines brightly outside.
+
+Inside, however, all the doors and windows are tightly shut, with only a few rays of sunlight leaking through the cracks between the boards that have been nailed to the windows, preventing the room from being entirely engulfed in darkness.
+
+The visitor hears the faint sound of scratching coming from the darkest corner.
+
+He straightens his robe and approaches a massive canvas standing upright. A woman is using her brush to fill it with color.
+
+Eccentric Artist:
+How's that? Does that look better?
+
+Eccentric Artist:
+The colors could run further down the canvas. I have to do it with a single stroke. No interruptions now... none whatsoever.
+
+Strange Outsider:
+......
+
+Strange Outsider:
+It's been a while...
+
+Eccentric Artist:
+Hm...?
+
+Eccentric Artist:
+Oh, it's you. Have a seat.
+
+Strange Outsider:
+When was the last time you cleaned? You can't see anything in that mirror anymore.
+
+Eccentric Artist:
+Hah, are you belittling my humble abode, Father? You can't imagine the inspiration I find here.
+
+Priest:
+You haven't changed a bit. You don't care about anything but your art.
+
+Eccentric Artist:
+You've changed a lot. Your brow didn't furrow like that.
+
+Priest:
+Really...?
+
+Eccentric Artist:
+Something on your mind?
+
+Priest:
+......
+
+Eccentric Artist:
+Well, if you don't want to talk about it, I won't pry.
+
+Priest:
+The first time I saw you, you were absorbed in your painting, just like this.
+
+Eccentric Artist:
+The first time you saw me? When was that? It's been so long, I can't remember.
+
+Priest:
+I was hiding behind that boulder, that day you met the Herald for the first time.
+
+Eccentric Artist:
+So you were by the water... all I remember is the beauty the Herald showed me. I've never seen a creature so beautiful.
+
+Priest:
+The Herald must have felt your admiration, guiding you into we many after just one contact.
+
+Eccentric Artist:
+I've always been grateful.
+
+Priest:
+But you turned around, one step from the ocean.
+
+Eccentric Artist:
+I'm not making excuses.
+
+Priest:
+Did you abandon the many and turn against your kin just to finish this painting?
+
+Priest:
+(Touches the canvas with a finger)
+
+Priest:
+So beautiful, but burdened by so much sin.
+
+Eccentric Artist:
+I'm sorry.
+
+Priest:
+But your regret hasn't stopped your brush.
+
+Priest:
+You were too stubborn, too short-sighted. You trapped yourself in the canvas and failed to see the distant future.
+
+Priest:
+You didn't understand the many. You couldn't fit in with the many. You should have nourished the many if you could not be assimilated.
+
+Priest:
+That should have been your end. I am regretful, but joyful. We will become one, sister.
+
+Priest:
+(Sleeves quiver)
+
+Eccentric Artist:
+Would you put that away for now? I want to finish this before it's all over.
+
+Priest:
+(Straightens sleeves)
+
+Priest:
+It took me a long time to get here. I can wait a little longer.
+
+Eccentric Artist:
+Good.
+
+Priest:
+And there's something I wanted to ask you before I end your life.
+
+Eccentric Artist:
+Go on. My brush won't stop, though.
+
+Priest:
+Why did you choose to leave us?
+
+Priest:
+Life is eternal in we many. We are inextricably linked, sharing our joy, anger, sorrow, happiness.
+
+Eccentric Artist:
+That 'sharing' you're talking about is just about robbing me of all emotion, transforming me into a mouth for the will of the many.
+
+Priest:
+Your outbursts are meaningless. It will not soothe your anger, nor abate your sorrow. It will only make you wallow in boundless misery as you step ever closer to destruction.
+
+Priest:
+We many have sealed away excess emotion. A constant state of heightened alertness is not conductive to the many's continued survival.
+
+Priest:
+You should cast it away and embrace peace and tranquility with us, free from the trappings of your own emotion.
+
+Eccentric Artist:
+My cries of sorrow, anger and angst are the fertile soil of my art.
+
+Eccentric Artist:
+I never joined you to get peace or tranquility.
+
+Priest:
+Then what did you want from us?
+
+Eccentric Artist:
+That's never changed, whether I chose to join or leave.
+
+Eccentric Artist:
+I want beauty, eternal beauty, dwelling in all life.
+
+Priest:
+Didn't you find it?
+
+Priest:
+A glimpse of the Herald's beauty was enough to change your life forever. Was that not enough?
+
+Priest:
+The Herald left his seed in you, made you one of us, to partake in our beauty.
+
+Eccentric Artist:
+Yes, your bodies hold the ultimate beauty, beyond anything else.
+
+Eccentric Artist:
+But have you ever noticed it, appreciated it?
+
+Eccentric Artist:
+The choices you make guide you to eternal art, but you can't even be moved by art.
+
+Eccentric Artist:
+You faced survival and evolution, and your answer was to abandon the concept of beauty.
+
+Eccentric Artist:
+When I started to assimilate, I became numb. I couldn't create or appreciate.
+
+Eccentric Artist:
+You don't know how I felt when I realized that my brush was covered in dust... the pain I felt in that moment told me I had to leave the many.
+
+Priest:
+So you could not let go of human desire.
+
+Priest:
+Humanity created art as a form of self-expression. Humanity admires art to seek the ego within.
+
+Priest:
+Humanity is looking into a mirror, as humanity always has.
+
+Priest:
+It's selfish, and pathetic...
+
+Eccentric Artist:
+(Puts down the brush)
+
+Priest:
+You've finished.
+
+Eccentric Artist:
+Yes, I have.
+
+Priest:
+Blue. As far as the eye can see. You've seen the depths of the ocean, and you understand that the confines of the canvas are too small for the great waves.
+
+Eccentric Artist:
+You saw the sea... but what I painted was a puddle.
+
+Priest:
+The destiny of water began in the ocean, and in the ocean it shall end.
+
+Eccentric Artist:
+That's the destiny of water, not the ocean.
+
+Priest:
+You have put your last stroke on the canvas. It's time to go.
+
+Eccentric Artist:
+I spent months without sleep in order to finish it. You came at just the right time. Maybe you should take another look, as the first being to lay eyes on it.
+
+Priest:
+To us, it's a piece of cloth with color on it. It has no meaning.
+
+Eccentric Artist:
+Cloth? No, you're wrong. You used to say that I couldn't see true greatness because I was fixated on the canvas. What about you, then?
+
+Priest:
+What?
+
+Every surface in the room begins to peel away, revealing an eerie hue of blue beneath.
+
+The blue begins to devour other colors around it, as though alive.
+
+It soon takes over the entire house, even the cracks between the planks on the window, blocking out the sun completely.
+
+The room should have turned pitch-black, but instead it is blue as far as the eye can see.
+
+An ominous blue, a sinister blue.
+
+Priest:
+Ah... so this is the big picture. Literally.
+
+Priest:
+I have far underestimated the progress that you've made in the past six months.
+
+Eccentric Artist:
+Go home, Father. You never saw me. You missed your chance to catch me.
+
+Priest:
+What a shame...
+
+Eccentric Artist:
+You shouldn't have asked so many questions. Hunting and feeding don't need words.
+
+Eccentric Artist:
+You shouldn't have come looking for me on your own.
+
+Priest:
+I see...
+
+Eccentric Artist:
+What is it?
+
+Priest:
+Over the past few years, I have been troubled by my failure to reach the next stage of metamorphosis. I've been trying to find out why.
+
+Priest:
+After thinking on it, I still have a human desire: curiosity. That's why I wasn't able to metamorphose any further.
+
+Eccentric Artist:
+Looks like you stopped at the same place. A part of the human is always there with you, and you can't put it down, no matter how much you want to.
+
+Priest:
+Ah... what a shame.
+
+Eccentric Artist:
+Leave, Father. You won't become one of them, just like I couldn't. Run away, like I did.
+
+Priest:
+......
+
+Priest:
+...No.
+
+Eccentric Artist:
+*Hiss*—Not giving up?
+
+Eccentric Artist:
+You won't cut any deeper than a flesh wound.
+
+Eccentric Artist:
+...Damn.
+
+Eccentric Artist:
+What did you put on me?
+
+Priest:
+Just a little mark.
+
+Priest:
+You're far too powerful for me to purge on my own, but there will be kin who can. The mark will guide the way for them, and it will continue to beckon as long as you still draw breath.
+
+Eccentric Artist:
+I gave you a chance, Father.
+
+Priest:
+You chose to run away. You should be prepared to run forever.
+
+Priest:
+I've reached a dead end. There's no way forward for me. I shall remain on the path forever.
+
+Priest:
+My carcass will nourish those who come after me, who will go further.
+
+Eccentric Artist:
+I respect your choice.
+
+To the visitor's eyes, the blue around him begins to warp, struggling to break free.
+
+Large lumps of slime fall to the ground and wriggle their way towards the visitor, crawling up his robes and leaving behind a wet trail.
+
+They surround him tightly, the slime congealing into threads, then tentacles that bury him.
+
+The last thing he sees as his vision fades away is the pitying gaze of a woman.
+
+Eccentric Artist:
+You think we're on the same path. But actually, our paths have only momentarily intersected.
+
+Eccentric Artist:
+You thought I ran away, but actually, I've just reached a crossroads.
+
+Eccentric Artist:
+The road keeps on going.
+
+Eccentric Artist:
+Goodbye.
+
+Eccentric Artist:
+Looks like I can't stay here anymore.
+
+Eccentric Artist:
+Where could I work undisturbed?
+
+Worried Townsfolk:
+What was that sound?
+
+Bold Townsfolk:
+You heard it too? I came to see what's going on.
+
+Worried Townsfolk:
+Hey, is that a pile of rubble where the painter's house was?
+
+Worried Townsfolk:
+Why would it collapse, all of a sudden?
+
+Worried Townsfolk:
+I didn't see her outside today... she might be buried under all that.
+
+Bold Townsfolk:
+Go get help!
+
+Worried Townsfolk:
+Right.
+
+Bold Townsfolk:
+Painter! Are you down there? Can you hear me?
+
+Art Shop Owner:
+What's going on? I came as soon as I heard. Why did the house collapse like that?
+
+Art Shop Owner:
+Where's the painter? And that visitor who wanted his painting restored?
+
+Bold Townsfolk:
+If you've got time to ask questions, you've got time to dig!
+
+Worried Townsfolk:
+I brought help!
+
+Bold Townsfolk:
+Did you see anything?
+
+Worried Townsfolk:
+No. What about you?
+
+Other Townsfolk:
+(Shake heads in unison)
+
+Art Shop Owner:
+Nothing, not even a body.
+
+Art Shop Owner:
+Did they leave?
+
+Worried Townsfolk:
+We went around the town on our way here. No one saw the painter.
+
+Art Shop Owner:
+Hey, what's this?
+
+Worried Townsfolk:
+A painting?
+
+Bold Townsfolk:
+It's totally unharmed after being buried under rubble for so long?
+
+Worried Townsfolk:
+What's the painting of? I can't tell.
+
+Art Shop Owner:
+All we can see is a corner, and it's all blue. Is it the sky? Or the...
+
+Worried Townsfolk:
+Shh...
+
+Bold Townsfolk:
+We'll know once we dig it out.
+
+Bold Townsfolk:
+Whoa—!
+
+Worried Townsfolk:
+What is it?
+
+Bold Townsfolk:
+What the heck is this?!
+
+A ball of slime clings to his palm, shimmering under the sun, and leaving sticky threads as he tries to pull his hand free of the canvas.
+
+
+

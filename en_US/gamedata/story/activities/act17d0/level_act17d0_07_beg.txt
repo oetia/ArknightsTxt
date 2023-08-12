@@ -1,0 +1,359 @@
+Drudge:
+Wretched thing.
+
+Mercenary:
+Boss, what are we gonna do?
+
+Mercenary:
+I think we better fall back.
+
+Drudge:
+Fall back? We haven't lost yet.
+
+Drudge:
+We already wiped out the guardsmen, we just need to wait for the right time to counterattack.
+
+Drudge:
+A couple Rhodes Island mercs are no big deal.
+
+Drudge:
+Where's my egghead?
+
+Drudge:
+Where's anybody?
+
+Mercenary:
+What's that smell?
+
+Mercenary:
+What happened to the guys we had watching him?
+
+Levi:
+Looks like you're in a tough spot, my friend.
+
+Levi:
+Let me guess, even with my mighty Originium creations, you still failed.
+
+Levi:
+To be honest, I'm not the least bit surprised.
+
+Drudge:
+I don't have time for your sarcasm.
+
+Levi:
+Well, knowing what I know of you, you're here to ask me for new toys... No wonder your father doesn't like you.
+
+Drudge:
+Enough bullshit, I need...
+
+Levi:
+Are you talking to me, sir?
+
+Levi:
+Because I think you forgot the magic word.
+
+Drudge:
+What?
+
+Levi:
+You're asking for my help. Was that the proper attitude?
+
+Drudge:
+Are you screwing with me...?
+
+Levi:
+Do I look like I'm joking?
+
+Mercenary:
+Oh, this old geezer needs a beating!
+
+Mercenary:
+Aaaahh!
+
+Mercenary:
+What is this?! What is this?!
+
+Mercenary:
+My head! My head's... gonna explode... it's...
+
+Drudge:
+You! What have you done?!
+
+Levi:
+You apes really have nothing of value beyond your brute strength.
+
+Levi:
+And you, sir, do you really think you can keep science locked up in here with this bunch of mentally deficient clods?
+
+Levi:
+Go, and tell our grand old sponsor to settle down.
+
+Originiutant Infected:
+Gaa...
+
+Originiutant Infected:
+Guh...
+
+Drudge:
+What the hell are those...??
+
+Levi:
+You can't tell? They're your men.
+
+Levi:
+Of course, they've become so much more now. Much more obedient.
+
+Levi:
+And soon, you'll be just like them.
+
+Drudge:
+Why can you control them? You know no Originium Arts!
+
+Levi:
+Only Originium Arts can control them? You people are so blinkered.
+
+Levi:
+Have you ever thought about why 'Originium Arts' can control those 'infected creatures'?
+
+Levi:
+Of course, you, with your tiny brain, can never figure it out.
+
+Levi:
+As long as you become a part of them, naturally you can communicate with them. We are having a good time together.
+
+Drudge:
+You're such a hopeless lunatic...
+
+Drudge:
+I'm a member of the House of Tulla! I'm the successor to the Elder bloodline of the Tulla family.
+
+Drudge:
+It's a death sentence to murder a noble on land that belongs to the Lord Ameer of Bayalir.
+
+Levi:
+Lord Ameer? Noble? Bloodline?
+
+Levi:
+Haha...
+
+Levi:
+Ahahahahaha...
+
+Levi:
+You amuse me, Mr. Drudge.
+
+Levi:
+But I'm tired of this joke.
+
+Levi:
+'I do not hate the pig, I hate only the golden crown that hangs above.'
+
+Levi:
+In my homeland, the cardinals were burned, kings were hanged, emperors beheaded, every vestige of the old order smashed to pieces to ensure none would ever again fear the so-called 'nobility.'
+
+Levi:
+What Lord Ameer? What bloodline?
+
+Levi:
+You are nothing to me.
+
+Levi:
+The stinking sack of meat that is your body is even less useful than those of the Oripathy sufferers.
+
+Levi:
+What do you call them again?
+
+Levi:
+Oh yes, the Infected.
+
+Levi:
+The Infected have contributed to my experiments. But what have you done?
+
+Levi:
+Your status has no value to me. And your lack of foresight is baffling.
+
+Levi:
+Useless trash.
+
+Levi:
+Such a vile, stupid, evil thing still calls itself 'noble'?
+
+Levi:
+Tell me, what part of you is noble?
+
+Levi:
+Anyway, you have nothing to worry about. I have no interest in your rotten worldview... I am a scientist. I pursue only objective truth.
+
+Drudge:
+What do you want?
+
+Levi:
+Science treats all people equally. It won't change a bit because of your background.
+
+Levi:
+Nobles and commoners are the same, on the operating table. The scalpel cuts skin just as well. Your contribution is identical.
+
+Levi:
+Considering you specifically, once you donate your body to science, you will no doubt be slightly more noble than you are now.
+
+Levi:
+You should feel honored.
+
+Drudge:
+You despicable traitor!
+
+Levi:
+Traitor? Traitor?
+
+Levi:
+Ahahahahaha...
+
+Levi:
+You raised your hand against your very own sister. You betrayed your flesh and blood. You colluded with foreign mercenaries to plunder your father's wealth. You betrayed the country that birthed and raised you.
+
+Levi:
+And you still have the gall to call me traitor?
+
+Drudge:
+You won't get away. You have no idea what the forces behind me are doing.
+
+Drudge:
+They're the ones who came up with all your research funding for the last six months. If you betray me now, you're betraying them too.
+
+Drudge:
+The people of Volvort Kochinski will hunt you to the ends of the world. They will kill you!
+
+Drudge:
+There's nowhere you can run.
+
+Levi:
+That, I will handle. Don't you worry.
+
+Levi:
+Goodbye, imbecile.
+
+Frost:
+What's with the getup?
+
+Tachanka:
+I found it in the Lord's storehouse. It looks good.
+
+Frost:
+...Yeah, it sure does.
+
+Picale:
+This is the craziest battle plan I've ever heard.
+
+Rangers:
+Very convincing.
+
+Picale:
+How do you know an Originium explosion will draw the monsters out of the ground?
+
+Tachanka:
+All I can say is it's thanks to the doctor.
+
+Tachanka:
+The monsters have been obeying the casters all this time, except that one night. I realized those wild monsters were actually chasing the scattered Originium shards.
+
+Picale:
+So you decided this is the way to go?
+
+Tachanka:
+It's kind of a gamble, actually.
+
+Picale:
+Where did you get this Originium engine?
+
+Tachanka:
+...Well... some things happened, and, I guess, we ended up with a car.
+
+Liskarm:
+...it looks awfully familiar.
+
+Franka:
+...isn't it the one we lost?
+
+Rangers:
+Let's not worry about that now. Hah.
+
+Picale:
+What about the mine?
+
+Tachanka:
+That mercenary we caught basically gave out everything. The factory your brother used to produce monsters is located deep inside the mine. I even think he probably hasn't given up yet.
+
+Picale:
+Ah... That makes sense.
+
+Tachanka:
+If we bait the monsters out here, Cohen will have a chance to bring her people down there and blow the *profanity* thing up.
+
+Tachanka:
+Just as simple as that.
+
+Liskarm:
+Doesn't sound simple though...
+
+Rangers:
+This plan seems to be full of the unexpected and far from seamless.
+
+Rangers:
+But I like this kind of plan, where battling is the only solution.
+
+Liskarm:
+If even Rangers says so...
+
+Tachanka:
+All right, friends. Take your places.
+
+Tachanka:
+If all goes according to plan, firing up the Originium engine will get a whole bunch of monsters coming at us.
+
+Tachanka:
+And we're in for a tough fight.
+
+Tachanka:
+And thank you, Rhodes Islanders... for choosing to stay and help.
+
+Franka:
+Don't worry about it. It's my job to clear out contaminated wildlife.
+
+Liskarm:
+Is that unpaid work?
+
+Franka:
+You're so annoying!
+
+Picale:
+...Thank you... I don't know how to express my gratitude...
+
+Rangers:
+Let's save the thanks for later.
+
+Tachanka:
+Alright. If there are no further questions...
+
+Liskarm:
+Here they come...
+
+Franka:
+......
+
+Franka:
+Too many?
+
+Frost:
+How many? Over a hundred?
+
+Rangers:
+No, probably more...
+
+Tachanka:
+No... there are even more coming.
+
+Tachanka:
+We can only hope Cohen is doing okay.
+
+
+

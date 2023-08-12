@@ -1,0 +1,596 @@
+Clovisia:
+What's the situation?
+
+Self-Salvation Corps Soldier:
+Areas D and E have been severely damaged, and the structures in other areas have sustained various degrees of damage as well!
+
+Self-Salvation Corps Soldier:
+Nineteen people have light injuries, with nobody seriously injured as of yet.
+
+Self-Salvation Corps Soldier:
+Fortunately, we followed the instructions given by you and the Doctor, and managed to move most of them to a safe area ahead of time––
+
+Clovisia:
+No, nowhere's safe right now.
+
+Clovisia:
+Everywhere around you is dangerous... Our entire stronghold has been completely exposed to the Sarkaz.
+
+Clovisia:
+They're not going to stop until they've blasted this place into smithereens to make sure we have nowhere to hide.
+
+Clovisia:
+How much time do we have?
+
+Closure:
+Thirty minutes. Uhh, maybe even less than that.
+
+Closure:
+The nearby plates are pretty old, and if we take the power of the artillery we've seen before and multiply that by the theoretical maximum output value––
+
+Closure:
+We won't even have thirty minutes before the structure above us collapses right onto our heads!
+
+Clovisia:
+Let Harmo know and we'll start the train right away.
+
+Amiya:
+Train?
+
+Clovisia:
+You all should've seen it before. A few kilometers above us is a train station.
+
+Amiya:
+I thought all the stations were occupied by the Sarkaz.
+
+Clovisia:
+Then all we have to do is take that one back.
+
+Clovisia:
+Now that the Sarkaz have cut off all our pathways to other boroughs, this is the last chance we have to evacuate Sudean.
+
+Clovisia:
+Heidi, once we leave Sudean, do you have a way to keep us out of sight?
+
+Heidi:
+Yes. I've been preparing for this.
+
+Heidi:
+Once we arrive at the next station, we'll have friends who will disguise us until we successfully enter Central Londinium.
+
+Clovisia:
+Good.
+
+Clovisia:
+The biggest question mark will be whether or not we can safely board the train––
+
+Amiya:
+......
+
+Amiya:
+Clovisia, how far are we from the city walls?
+
+Clovisia:
+Very close, if we take the underground passages.
+
+Amiya:
+I'd like to try climbing them from beneath.
+
+Clovisia:
+Amiya, are you planning to...?
+
+Amiya:
+We'll buy time for the Self-Salvation Corps to retreat.
+
+Manfred:
+Block all exits from the targeted plate and keep an eye on the train station. I don't want them crawling into the next gutter over.
+
+Manfred:
+Set up the motion-tracking ground targeting system. In case they still have some fight left in them and plan to escape through the surface via vehicle, we'll greet them with even more intense fire.
+
+Manfred:
+Strengthen the defenses of all points inside the city walls.
+
+Manfred:
+Also, change the control passwords for the defense artillery so no one but me can deactivate it.
+
+???:
+Good, you're taking adequate precautions.
+
+Manfred:
+General?! You're here...?
+
+Theresis:
+In a matter of moments, these pesky insects have nowhere to hide. The Londinium rebels will never again dare to poke their heads out.
+
+Theresis:
+More importantly, nobody will be able to go in and out of the dark passages we cannot see. The only thing the dukes outside will hear will be our hand-picked messages.
+
+Theresis:
+No one will interfere with our project's progress again.
+
+Theresis:
+Manfred, am I not welcome to share this moment of triumph with you?
+
+Manfred:
+......
+
+Manfred:
+Please do not mock me so, Your Highness.
+
+Theresis?:
+Oh? You've gotten better than before. We hardly spoke five sentences, and you've already realized we are not Theresis.
+
+Manfred:
+Your Highness... Whether or not His Majesty is willing to turn a blind eye to you, should you draw the attention of the Confessarii, they will surely petition His Majesty to restrict your movements.
+
+Theresis?:
+Very well. As you said, the Military Commission cannot allow two men to call the shots––
+
+???:
+In that case, I'll shift to an appearance I'm more comfortable with.
+
+Manfred:
+How unusual that you're willing to meet with me using the same appearance you take at the Royal Court.
+
+???:
+We vowed not to use the faces of the dead, so as to not scare you and your men.
+
+Manfred:
+You came back sooner than expected.
+
+Manfred:
+Even though you helped us root out the rebels' den, they may still have an escape route I haven't found.
+
+Manfred:
+If you could uphold your end of the deal and follow them until every last rebel has fallen into our hands...
+
+???:
+Do you really think that Doctor can keep us hidden for so long?
+
+???:
+More importantly, Manfred, you must not forget that we do not belong to you.
+
+Manfred:
+......
+
+Manfred:
+I was out of line. Please forgive me.
+
+???:
+Don't talk to us the same way you do to old pink-eyes. We've told you before, we won't fall for that drivel.
+
+Manfred:
+As you wish, Your Highness.
+
+Manfred:
+Since you decided to come back ahead of time, did you find what you were looking for underground?
+
+???:
+Hmm... That 'King of Sarkaz' is stronger than we thought, but is far from mature.
+
+???:
+She knows little of what she is about to face. If we want to learn more about her, that will have to wait until she meets Her Majesty.
+
+Manfred:
+You'd better not let the Confessarii hear those words.
+
+???:
+And why not?
+
+Manfred:
+They'll think the Damazti Cluster of the Royal Court... had a change of heart.
+
+???:
+And why would you think that matters to us?
+
+???:
+Manfred, we've already done what we promised you. You and the vampire can clean up the rest of the mess yourselves.
+
+???:
+Oh, right... Next time we speak, pick an identity for us that is still alive.
+
+Morgan:
+Vina, Amiya and the Doctor have already left.
+
+Siege:
+Good.
+
+Morgan:
+The first wave of Self-Salvation Corps forces are rushing towards the station above us.
+
+Rockrock:
+Hurry, pick up the pace!
+
+Morgan:
+Once they capture the station, injured troops and non-combatant civilians will be the first to board the train.
+
+Heidi:
+Mr. Balin, can I trouble you and the medics to tend to the injured with restricted mobility? Everyone, please pay attention to the signal lights on both sides of the passage, and don't get lost!
+
+Morgan:
+Most of the command structure will go with the injured and the civilians, except––
+
+Clovisia:
+Have all our people entered the retreat channel?
+
+Self-Salvation Corps Soldier:
+The integrity of the superstructure is continuing to erode! Commander, we have to get out of here quick!
+
+Clovisia:
+As long as everyone's inside, I'll be right behind you!
+
+Clovisia:
+12th, sitrep!
+
+Self-Salvation Corps Soldier:
+Commander, the underground areas won't hold for much longer. Are enemies really still coming down?
+
+Clovisia:
+Report!
+
+Morgan:
+Vina, should we go with Balin's group?
+
+Siege:
+We're staying.
+
+Morgan:
+Staying? You're going to stay here with Commander Clovisia?
+
+Siege:
+I have a feeling... Maybe she's getting it too.
+
+Siege:
+The strongest enemy... might not be above us right now.
+
+Horn:
+The cannons.
+
+Robben:
+Horn, the defensive cannons are activating again! This time, they're targeting the plate closest to the city walls. From what I can tell, they're not aiming at us...
+
+Horn:
+But there's no guarantee that the surrounding areas are safe.
+
+Londinium Citizen:
+Run, hurry––
+
+Londinium Citizen:
+Where's my daughter? Has anyone seen my daughter!
+
+Horn:
+Look out!
+
+Horn:
+Get inside the sturdiest building as quickly as you can! ––No, get away from the city walls, now!
+
+Londinium Citizen:
+O-Okay...
+
+Horn:
+So this... is Londinium's defensive artillery.
+
+Horn:
+Based on the current situation, it won't be long until the cannon fire penetrates the plate and destroys the base structure.
+
+Robben:
+Those damned Sarkaz... Is this the moment they've been waiting for? Are they trying to destroy the city?
+
+Horn:
+No. They've only activated a small number of cannons, and their targets are quite clear.
+
+Horn:
+They're trying to eradicate us... and our friends.
+
+Robben:
+Horn, what should we do?
+
+Horn:
+Among the soldiers who came back with us yesterday, how many of them were originally part of the city's defense forces garrisoned here?
+
+Horn:
+Call them over. Bring the best equipment we've got.
+
+Horn:
+Tell them–– it's time to take back these walls from the Sarkaz.
+
+Feist:
+We're almost there.
+
+Closure:
+Careful, don't trip and fall––
+
+Closure:
+Are you hanging in there?
+
+Feist:
+*sigh*... It's hard to say.
+
+Closure:
+Yeah, I know where you're coming from.
+
+Closure:
+I've also made the big mistake of trusting people I shouldn't.
+
+Closure:
+After that, for an entire month, it took everything I had to force myself to keep going.
+
+Closure:
+As soon as I stopped, I... Well, I'd feel like I couldn't look Amiya in the eye.
+
+Feist:
+Well, the battle's not over yet.
+
+Feist:
+People don't have enough time to catch their breaths. It'd be too much of a luxury for me to mourn or wallow in self-doubt.
+
+Amiya:
+Mr. Feist, do you need help? I can calm you down.
+
+Feist:
+How? Is that some sort of Originium Arts?
+
+Amiya:
+Something like that.
+
+Feist:
+So... do you also help your men with psychological treatment, under normal circumstances?
+
+Amiya:
+If the operator thinks it's necessary.
+
+Feist:
+Ugh...
+
+Amiya:
+Mr. Feist, did I come off the wrong way?
+
+Feist:
+No, no, that's not it. I was just thinking you have some truly amazing Arts.
+
+Feist:
+Even in a big place like Londinium, I've hardly seen anything like them before.
+
+Feist:
+Miss Amiya, I appreciate your kindness. But, I don't think I'm ready to drive that scene out of my head so quickly.
+
+Closure:
+Then we'll just have to get right back to work.
+
+Feist:
+Let's do it.
+
+Closure:
+The drones are showing that the defense structure layer above us is... very thick.
+
+Amiya:
+Can it be blown up?
+
+Closure:
+Not likely. If Londinium's defenses could get blown up so easily... Well, let's just say, we would've stormed the Shard yesterday.
+
+Closure:
+I appreciate that, Doctor. You sure know how to twist your employees' arms.
+
+Closure:
+Hmm... I've finished scanning the lift, and as long as you guys can open up enough of a gap for me to push the drone through, I should be able to hack into the lift and take control of it.
+
+Closure:
+Of course, you'll have to find a bigger gap to get yourselves up first.
+
+Closure:
+Doctor, don't you think you should send a signal and call Misery over?
+
+Closure:
+Fine, I guess we'll have to do it ourselves.
+
+Closure:
+Maybe the locals over here can give me some inspiration.
+
+Feist:
+If you can locate the support structure and apply an extremely strong external force, you might be able to open a little seam...
+
+Closure:
+Someone's rapidly approaching our location!
+
+Amiya:
+Did the Sarkaz expect us to find a way to climb up the wall?
+
+Closure:
+Who cares about that? I'll have the drone pack some Originium explosives!
+
+Closure:
+Feist, calculate the position. I'll think of some way to amplify the explosive effect––
+
+Amiya:
+He's here!
+
+Amiya:
+....Hoederer.
+
+Hoederer:
+We meet again, leader of Rhodes Island.
+
+Amiya:
+What happened to W...?
+
+Hoederer:
+Are you sure you should be worrying about her right now? I heard you folks were short on time.
+
+Amiya:
+I'm willing to set aside whatever happened between you two. As well as... what happened at Chernobog, with Scout...
+
+Amiya:
+But, Mr. Mercenary, if you intend on standing in our way, I'll cut you down without mercy.
+
+Hoederer:
+For any mercenary, dying at the hands of Her Majesty's heir would be a great honor.
+
+Closure:
+You'd better hurry up, Amiya!
+
+Closure:
+The bomb I planted just started ticking down––
+
+Closure:
+One minute! That's all the time we've got!
+
+Amiya:
+I'll stop Hoederer...
+
+Feist:
+No... Miss Amiya, let me handle this mercenary.
+
+Amiya:
+Mr. Feist?
+
+Feist:
+I've found the support column. Plus, I have a plan, though I don't know how solid it is... If it works out, you and the Doctor need to seize the opportunity to get up the wall.
+
+Hoederer:
+I know you, young warrior.
+
+Hoederer:
+I also know that look in your eyes. The weight of everything you've lost has finally begun to set in, and you've lost your ability to trust in the soundness of your own decisions.
+
+Feist:
+Lost?
+
+Feist:
+Sorry, but even if I had the time, I'm not interested in a heart-to-heart with a butcher.
+
+Feist:
+Over here––!
+
+Hoederer:
+Another smoke bomb?
+
+Hoederer:
+Even if I'm short a usable arm, your little tricks won't work on me.
+
+Feist:
+Come on, Sarkaz. Give me your worst!
+
+Feist:
+Let me taste your sword, your machete, whatever weapons you've got on you––
+
+Hoederer:
+Trying to draw me away? Not a very sensible strategy.
+
+Hoederer:
+Empty bravado with no self-awareness isn't going to buy you any miracles.
+
+Hoederer:
+Even if all your men were here, you wouldn't stand a chance against me.
+
+Feist:
+Ugh...
+
+Hoederer:
+Pretty ugly run there. Without help, you're going to bleed out soon enough.
+
+Hoederer:
+After all, you're just a craftsman... You and your men wave around wrenches and hammers, and hope that is enough to hold back Sarkaz blades tempered by centuries of war?
+
+Hoederer:
+Beg the King of Sarkaz for help. Have her deal with me.
+
+Feist:
+The King of Sarkaz?
+
+Feist:
+What... are you talking about...?
+
+Feist:
+Sarkaz... You're the ones who brought war to Londinium.
+
+Feist:
+This is a war between us!
+
+Closure:
+Thirty seconds!
+
+Amiya:
+Hold on tight, Doctor!
+
+Amiya:
+Mr. Feist, I need your location––
+
+Feist:
+Mercenary... Are you seeing this?
+
+Hoederer:
+Another flashy toy? Stop resisting. You can't fool me.
+
+Feist:
+Sure, you're right––
+
+Feist:
+Please, one last push!
+
+Hoederer:
+A metal crab? A mechanical toy? What's your play here? Quit screwing around.
+
+Feist:
+No, that's the most important thing you've taken from me.
+
+Feist:
+I've never fought alone...
+
+Feist:
+Look, Old Bill helped me out again. It's all thanks to your paranoia, mercenary.
+
+Hoederer:
+My paranoia? You...
+
+Hoederer:
+You're using my––!
+
+Feist:
+Ha... Haha! Do you finally get it now?
+
+Feist:
+Every time you swung your blade at me... you were carving your path to defeat!
+
+Closure:
+Amiya, Hoederer cut through the structural layer!
+
+Closure:
+Hurry, take aim! The bomb's about to blow!
+
+Closure:
+Three... Two... One––
+
+Amiya:
+Hrrgh––
+
+Closure:
+It's been split open! That's a big enough gap! Alright, you're up, drone––
+
+Closure:
+The lift is ours now!
+
+Amiya:
+Doctor, let's head up!
+
+Closure:
+Feist, are you hanging in there? Grab onto the zipline, and we'll head up after them––
+
+Hoederer:
+You're not going anywhere!
+
+Feist:
+Closure, have any more explosives?
+
+Closure:
+Yeah, catch!
+
+Hoederer:
+You...
+
+Feist:
+Thanks for the hand, mercenary.
+
+
+

@@ -1,0 +1,633 @@
+Siege:
+......
+
+Indra:
+Vina!
+
+Siege:
+Did I fall sleep?
+
+Morgan:
+You're lucky to be out for just a little bit after your injuries.
+
+Dagda:
+Siege, Self-Salvation Corps reinforcements have arrived. This place is relatively safe. Rest well; we'll be at your side.
+
+Siege:
+Mm...
+
+She scans the faces of her friends.
+
+Everyone is bruised and battered, just as she is. But they are alive, and there is still hope in their eyes.
+
+Except...
+
+Siege:
+...Allerdale.
+
+Clovisia:
+The door to the Mausoleum of Kings has closed once again.
+
+Clovisia:
+The Sarkaz have noticed the sound of the Steam Knight, and they must have guessed that the Sighs of Kings has left its home. They're sending men to the palace.
+
+Clovisia:
+Our scouts have tried to get close to the entrance, but there has been no sign of Allerdale.
+
+Siege:
+......
+
+Clovisia:
+Do you want to talk about what happened below?
+
+Siege:
+Just as the warriors imagined.
+
+Siege:
+Allerdale Cumberland sacrificed herself to save us.
+
+Clovisia:
+...Ah.
+
+Clovisia:
+Sounds like something Allerdale would do. Cumberland the Ever on High.
+
+Siege:
+Cumberland...
+
+Siege:
+There's no such thing as Cumberland the Ever on High, Clovisia.
+
+Siege:
+Allerdale protected what she wanted to protect with her life.
+
+Siege:
+Not out of any duty... simply of her own accord.
+
+Clovisia:
+Her own accord...
+
+Clovisia:
+Yes, she was brave.
+
+Clovisia:
+Shame... I had a surprise for Allerdale when she came back.
+
+Siege:
+This is...
+
+Clovisia:
+The ducal manor is in ruins, but the scouts found this among the ashes.
+
+Siege:
+The steam armor of House Cumberland.
+
+Siege:
+It wasn't lost in the fire...
+
+Siege:
+Haha.
+
+Siege:
+If only she could see this.
+
+Siege:
+Then she would have known that there is no such thing as a fixed path.
+
+Siege:
+The fire had not taken away all the hopes that she placed on the armor.
+
+Siege:
+......
+
+Siege:
+Clovisia, we saw a Steam Knight in the Mausoleum of Kings.
+
+Siege:
+Maybe the last one.
+
+Siege:
+Four years ago, the Duke's men lured the Steam Knights into the Mausoleum of Kings, where they were ambushed by the Sarkaz.
+
+Siege:
+That passage is the tomb of the Steam Knights.
+
+Clovisia:
+What a gruesome scene it must have been, even though I was not there to see it.
+
+Clovisia:
+He attacked you, didn't he? He attacked the heir to the throne of Victoria.
+
+Siege:
+He was just doing his job.
+
+Siege:
+He's defending the Sighs of Kings, even if it was merely an excuse to lure the Steam Knights into the mausoleum.
+
+Clovisia:
+He witnessed comrade after comrade fall, and spent so many years in darkness. The pain must have gnawed away at his sanity.
+
+Siege:
+...No.
+
+Siege:
+Words like these are too simple to describe what went through the mind of this warrior.
+
+Siege:
+On one side, the tombs of the kings. On the other, the bodies of his fellows. He defended the silent resting place for countless days and nights.
+
+Siege:
+He was no madman or ghost. His will was so strong that it conquered death.
+
+Siege:
+By his own will, he exacted revenge on a Victoria that betrayed him.
+
+Siege:
+By his own will, he defended the symbol of Victoria.
+
+Siege:
+......
+
+Siege:
+I don't know if we'll ever see him again.
+
+Siege:
+If... if he can escape the darkness...
+
+Siege:
+May he once again find what he wants to defend.
+
+Sarkaz Warrior:
+We found the mercenaries who went to Highbury, general.
+
+Manfred:
+Bring them forward.
+
+Sarkaz Warrior:
+Yes, sir.
+
+Paprika:
+*cough* *cough* L-Let me go!
+
+Manfred:
+......
+
+Manfred:
+A mere girl...
+
+Sarkaz Warrior:
+She was found tied up on the streets with her fellow mercenaries.
+
+Sarkaz Warrior:
+I checked her weapons, and there were few signs of use. She hardly even qualifies as a merc.
+
+Manfred:
+Is that so?
+
+Paprika:
+......
+
+Manfred:
+Speak, mercenary.
+
+Manfred:
+Did you not kill a single Victorian?
+
+Paprika:
+Uwah...
+
+Manfred:
+Are you afraid of me?
+
+Paprika:
+N-No!
+
+Paprika:
+I-I failed my mission. You can punish me. But l-let the others go!
+
+Manfred:
+......
+
+Manfred:
+Take her back.
+
+Paprika:
+What...?
+
+Sarkaz Warrior:
+General...
+
+Manfred:
+You said she hardly qualifies as a mercenary.
+
+Manfred:
+Young Sarkaz like her don't understand what we fight for, nor the true face of our enemy, because no one ever taught her.
+
+Manfred:
+The real war is about to begin.
+
+Manfred:
+I will show her what this war means to the Sarkaz. She will watch it unfold by my side.
+
+Rockrock:
+Feist!
+
+Feist:
+Rockrock... ha, Squad 11 of the Self-Salvation Corps, back together again, eh?
+
+Rockrock:
+There's only the two of us left from Squad 11.
+
+Feist:
+Right.
+
+Feist:
+But I'm sure we'll grow again.
+
+Feist:
+We have the Doctor and the commander, after all.
+
+Clovisia:
+The retreat was initiated on-time, but we suffered heavy casualties.
+
+Clovisia:
+And we're facing a supply shortage after Allerdale went missing.
+
+Clovisia:
+If only we had more hands...
+
+Victorian Mercenary:
+You've got a few here.
+
+Clovisia:
+Totter?
+
+Totter:
+My employer has gone missing, so my contract is now null and void.
+
+Clovisia:
+Are you sure you want to stay?
+
+Totter:
+We're already here. Hard to get out when you're on the wrong side of the Sarkaz anyway.
+
+Totter:
+And we fought alongside Dagda's group in the mausoleum.
+
+Totter:
+I may not have made it out alive, if not for them.
+
+Totter:
+Another debt... I guess I need to push my retirement back.
+
+Misery:
+Doctor, we're here.
+
+Horn:
+Sorry. I wished we'd moved quicker and helped you at the command tower.
+
+Clovisia:
+And you are...?
+
+Horn:
+Horn, leader of the 2nd squad of the Tempest Platoon of Victoria.
+
+Horn:
+Misery helped us break into a prison at the border of Auchterigg and Highbury a few hours ago.
+
+Horn:
+We rescued a Defense Force patrol that was about to be executed for refusing to fight for the Sarkaz.
+
+Horn:
+We'll be operating with Rhodes Island and the Self-Salvation Corps from this point on.
+
+Clovisia:
+Thank you, everyone.
+
+Clovisia:
+It's a pleasant surprise, one that has opened up many possibilities.
+
+Clovisia:
+Although we took heavy losses, we did manage to obtain important information about the Sarkaz supply lines.
+
+Feist:
+Commander, Doctor, here's the intel on potential depots in Highbury.
+
+Feist:
+Add to that the data that Closure obtained from the command tower...
+
+Clovisia:
+Understood.
+
+Clovisia:
+We'll make preparations for the battles ahead.
+
+Siege:
+......
+
+Siege:
+Kyngasycath, the Sighs of Kings.
+
+Siege:
+I know you're there, Gawain.
+
+Siege:
+Show yourself.
+
+There is no one around her.
+
+Siege:
+...Duty.
+
+Siege:
+You've been with me all this time. What is the duty that you've chosen for me?
+
+Siege:
+To put a king on the throne of Victoria again?
+
+Silence.
+
+Siege:
+Allerdale... she aspired to be a Steam Knight, yet...
+
+Siege:
+We can't always know what we're heading towards.
+
+Siege:
+If, one day—
+
+Siege:
+If, one day I strayed from the destiny that you chose for me.
+
+Siege:
+Would you become my nightmare?
+
+The only sound in the underground space is a quiet sigh.
+
+Ascalon:
+......
+
+Ascalon:
+......
+
+Ascalon:
+...Serious.
+
+Ascalon:
+But Shining is here. She'll recover.
+
+Ascalon:
+If the Banshee Lord and I arrived in time...
+
+Ascalon:
+......
+
+Ascalon:
+She's recovering. You can see it. She won't let herself sleep for too long.
+
+Ascalon:
+You've always cared a lot about Amiya. All the versions of you.
+
+Ascalon:
+My dagger will answer that question.
+
+Ascalon:
+...When necessary.
+
+Ascalon:
+......
+
+Ascalon:
+......
+
+Ascalon:
+Four years ago, you sent me on a mission away from the landship.
+
+Ascalon:
+Her Majesty had left us by the time I returned.
+
+Ascalon:
+Rhodes Island had to escape before Theresis's army surrounded us.
+
+Ascalon:
+Amiya was in a coma after inheriting the King of Sarkaz's powers.
+
+Ascalon:
+She wanted to save Rhodes Island, save Amiya, and save you.
+
+Ascalon:
+......
+
+Ascalon:
+It was Her Majesty's final order.
+
+Amiya:
+Doctor... Doctor... Dr. {@nickname}...
+
+Amiya grabs your clothing subconsciously, then slowly loosens her grip.
+
+Tears flow from her eyes.
+
+Amiya:
+Theresa...
+
+Amiya:
+She showed me the voices of the Sarkaz souls.
+
+Amiya:
+They wanted to take revenge on everyone who has wronged the Sarkaz. They wanted to take revenge on Dr. Kal'tsit.
+
+Amiya:
+...I believe that everything I felt was real, Doctor.
+
+Amiya:
+I remember how Dr. Kal'tsit and Theresa spent many nights talking at Rhodes Island.
+
+Amiya:
+I remember how Dr. Kal'tsit went a whole week without sleeping to save a group of Sarkaz Infected.
+
+Amiya:
+But it's true that she wronged the Sarkaz, two hundred years ago...
+
+Amiya:
+Dr. Kal'tsit must have told Theresa why she did it at the time.
+
+Amiya:
+And Theresa must have accepted it, which was why they became such good friends.
+
+Amiya:
+But even I... even I, who knows Dr. Kal'tsit so well...
+
+Amiya:
+I felt anger and sorrow when I felt the memories of the war.
+
+Amiya:
+........
+
+Amiya:
+Maybe that's what Theresa wanted to tell me.
+
+Amiya:
+Theresa wanted to tell me why she sided with the souls of the Sarkaz.
+
+Amiya:
+They are there... above Londinium.
+
+The sound of thunder approaches.
+
+It is outside the window, above your heads, never far away.
+
+You hold Amiya's hand.
+
+The two of you look up at the sky together.
+
+Rumble. Rumble. Rumble.
+
+Even the nearby cities feel the vibration, not just Londinium.
+
+A massive object, the likes of which has never been seen before, rises up from the dark clouds.
+
+Behind it, the thick clouds atop The Shard finally crack open. Those who have raised their heads to look up finally realize it was no ordinary cloud that surrounded Londinium.
+
+It was a Catastrophe cloud, far more massive than what any Catastrophe Messenger has ever recorded.
+
+Sparks fly out of the overcharged black clouds, rumbling like thunder.
+
+The strange flying machine is like the eye of the storm.
+
+Beneath its gaze, there is nowhere for the enemies of the Sarkaz to run.
+
+2:28 P.M. / Overcast
+
+Tradersmill City, Victoria
+
+Bagpipe:
+Chenchen!
+
+Ch'en:
+......
+
+Bagpipe:
+What're you daydreamin' about? Hughes is waitin' for us. Sounds like he got a really solid lead.
+
+Ch'en:
+......
+
+Harmonie:
+......
+
+Ch'en:
+The one who just left Hughes's house...
+
+Bagpipe:
+Look at this crowd. Who are you talking about?
+
+Ch'en:
+The green-haired Feline.
+
+Ch'en:
+I think I've seen her before.
+
+Bagpipe:
+Well, you've got a better memory for faces than I do. Maybe she was there to talk business with Hughes? Did you see her at the station a few days ago?
+
+Ch'en:
+...No.
+
+Ch'en:
+It's a memory from many years ago.
+
+Bagpipe:
+Not a criminal you caught in Lungmen, is she?
+
+Ch'en:
+If that was it, I wouldn't have forgotten.
+
+Ch'en:
+........
+
+Ch'en:
+Never mind. We can just ask Hughes.
+
+Harmonie:
+...Bagpipe.
+
+Harmonie:
+I've seen the other in the intel too.
+
+Harmonie:
+Hehe...
+
+Harmonie:
+We almost had a touching reunion.
+
+Victoria South Office
+
+Reed:
+Hello.
+
+Rhodes Island Operator:
+You're... I've seen you in the sickbay at HQ, haven't I?
+
+Reed:
+There's something I would like to ask of you.
+
+Reed:
+Please give this letter to Dr. Kal'tsit and Dr. {@nickname}.
+
+Rhodes Island Operator:
+You... ahem. Are you planning to leave the office?
+
+Rhodes Island Operator:
+You should submit an application, like the other evacuating operators. Just so that HR is on top of things, you know...
+
+Reed:
+They know.
+
+Reed:
+They know there's something I have to do.
+
+Reed:
+I'll only bring danger to the rest of you, if I stay here.
+
+Rhodes Island Operator:
+You want to protect Rhodes Island?
+
+Reed:
+Rhodes Island... is a quiet place.
+
+Reed:
+I like it here, and I'm thankful to you. Especially the Sankta who left us... you've given me the peace that I always sought.
+
+Reed:
+And now, I repay this peace.
+
+Reed:
+I'm ready.
+
+Victorian Officer:
+The Sarkaz airship has taken off within Londinium.
+
+Victorian Officer:
+The heir to the Duchy of Cumberland is missing. The Duke of Caster did not obtain the Sighs of Kings.
+
+Victorian Officer:
+A dozen Messengers have visited your demesne in a single day.
+
+Victorian Officer:
+They want to know whether you are ready to grant them an audience.
+
+Duke of Wellington:
+—
+
+Duke of Wellington:
+What do you think, Your Highness... Princess Eblana?
+
+???:
+Duke Wellington...
+
+???:
+Right before my eyes... I see a new Taran era.
+
+
+

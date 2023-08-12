@@ -1,0 +1,450 @@
+Click:
+C'mon, over here!
+
+Ayerscarpe:
+The markings here... they look like they're simply venting.
+
+GreyThroat:
+Severin thought this was some kind of calculated sabotage. But was it, actually? This really does look like senseless violence.
+
+GreyThroat:
+Click, did you find something?
+
+Click:
+Sure did. But...
+
+Click:
+Can you come here, GreyThroat? I... I don't know how to say this...
+
+GreyThroat:
+What is it?
+
+Click:
+In that room...
+
+GreyThroat:
+Your pupils are red again. Control yourself. Don't be afraid. Ayerscarpe, stay outside with her. Warn the mob.
+
+Ayerscarpe:
+Roger.
+
+GreyThroat:
+In here?
+
+GreyThroat:
+(It's a mess. Someone's last desperate stand... Ugh... are these... frozen limbs?)
+
+GreyThroat:
+(Wait, who is this?)
+
+Armed Infected:
+Gah! She's a doctor?!
+
+Armed Infected:
+If you don't leave, we'll kill you too!
+
+Folinic:
+The solution I just sprayed on you is both volatile and toxic.
+
+Armed Infected:
+Wha?! Wh-what did you do to us?
+
+Armed Infected:
+Out with it! Or I'll... I'll... Ugh...
+
+Folinic:
+How do you feel?
+
+Folinic:
+Tell me where Biederman is and I'll give you the antidote. Or you can enjoy spending the next few hours vomiting between hallucination episodes.
+
+Armed Infected:
+You're sick... I... I don't know... any Biederman. I just... have to kill all... the nobles... nng...
+
+Folinic:
+Then I'm afraid you're all going to stay in jail.
+
+Armed Infected:
+Huh? A mushroom? That's a big mushroom... Why is it... moving? Why is it biting?!
+
+Tatjana:
+Schultz! We have more wounded! A lot of them! The insurgents took over the market and Maibaumplatz. But many more people are still trapped in Zwölftontechnik Strasse.
+
+Tatjana:
+They're unstoppable!
+
+Severin:
+Once the fighting started, we lost all hope of stopping anything.
+
+Severin:
+Now we face two possible outcomes: Surrender, or fight.
+
+Tatjana:
+What should we do?
+
+Severin:
+Surrender, hand over the city to Reunion and the insurgents, and go starve to death in the snow.
+
+Severin:
+If we fight, both sides end up wounded or dead, and the survivors will starve to death in the snow.
+
+Severin:
+Or...
+
+Severin:
+......
+
+Severin:
+If casualties are unavoidable, we want the fewest possible—*cough* *cough*, *hack*—
+
+Severin:
+Ack... *cough* *cough* *cough*, *cough* *hack* *cough*—
+
+Tatjana:
+Schultz— Uncle? Uncle??
+
+Tatjana:
+Hey! Uncle, that's blood. You're coughing up blood!
+
+Suzuran:
+Sorry! Just a second! Miss Tatjana!
+
+Tatjana:
+My uncle, he can't speak and—
+
+Suzuran:
+Are you okay? Abnormal breathing, lung lesions resulting in a loss of voice, this calls for... it calls for...
+
+Folinic:
+What happened?
+
+Suzuran:
+Mr. Severin, he's actually—
+
+Folinic:
+You should listen to the doctor and quit smoking. We don't need a test to see you have some serious persistent lung damage.
+
+Folinic:
+Let me see here... I need to take this off——
+
+Folinic:
+Hey! Don't move!
+
+Folinic:
+......
+
+Folinic:
+You... you're Infected?
+
+Tatjana:
+Huh?!
+
+Folinic:
+These are Oripathy symptoms. The Originium is pushing out from his lungs into his throat. This dark powdery substance below your throat... that's Originium crystals surfacing through your skin.
+
+Folinic:
+Your cells have begun fusing with the Originium. Is this why you don't care about your health?!
+
+Tatjana:
+Did he get it from the battle just now?
+
+Folinic:
+This isn't an early symptom or an acute lesion. He's been Infected for some time.
+
+Folinic:
+Probably from the Catastrophe... No, that's too recent. It must have been even before that.
+
+Severin:
+*Cough* *cough*——*cough* *cough* *cough*!
+
+Folinic:
+Black blood clots. Suzuran, take a sample.
+
+Suzuran:
+Okay! Sorry, sir. I'll be quick.
+
+Folinic:
+No way the hospital is functioning right now. Okay, take him into the town hall!
+
+Severin:
+Wolumonde... can't be without... her Schultz!
+
+Folinic:
+If you keep pushing yourself, she's definitely going to lose him.
+
+Severin:
+You... really look like a doctor right now.
+
+Severin:
+*Cough* cough*, *cough* *cough*—
+
+Severin:
+Phew, looks like I can talk for a minute after coughing up blood. Handy, that.
+
+Folinic:
+Tough guy.
+
+Severin:
+I have a favor to ask.
+
+Folinic:
+Say your piece, but I'm taking you in. Lisa, hold him. Tatjana, help me lift.
+
+Tatjana:
+Right!
+
+Severin:
+Please, everyone, *cough* *cough*, don't tell anyone I'm Infected...
+
+Severin:
+Then, I'll admit that I was the murderer who set the fire. I was the cause of all Wolumonde's problems...
+
+Folinic:
+And what of the real killer?
+
+Severin:
+I don't care. I can't.
+
+Severin:
+But at least... they'll have their scapegoat, and no excuse to keep fighting.
+
+Severin:
+But it's not enough... Without an external force strong enough to clamp down on them, they'll continue their cycle of revenge.
+
+Severin:
+So I request... Rhodes Island's assistance... Even though we can't afford to pay for it now.
+
+Severin:
+But if Wolumonde survives this disaster... we will repay you.
+
+Folinic:
+We aren't a charity.
+
+Severin:
+I'm begging you!
+
+Folinic:
+I don't have the authority to make promises on behalf of Rhodes Island. Saving a town of ten thousand people is beyond the scope of our mission, and way beyond the authority Amiya invested in me.
+
+Folinic:
+But, for Atro, 'we' won't abandon Wolumonde.
+
+Severin:
+Thank you.
+
+Folinic:
+Stand aside, we have a wounded—
+
+GreyThroat:
+......
+
+Folinic:
+GreyThroat? Why are you alone?
+
+Folinic:
+Suzuran, take the Schultz to the upstairs parlor. And don't let anyone see you.
+
+Folinic:
+Brutal as it may be, once he settles down, Schultz Severin is going to have to stand up and lead again.
+
+Suzuran:
+Roger that! I'll take care of it!
+
+Folinic:
+Tatjana.
+
+Tatjana:
+There are riots all over town. People are getting hurt or killed. I... I can't just sit here.
+
+Tatjana:
+I'll go organize the militia that didn't get caught up in the riot. At least... at least I can do something.
+
+Folinic:
+Sure. Go ahead.
+
+Tatjana:
+Thank you!
+
+Folinic:
+Can we talk?
+
+GreyThroat:
+We found Biederman.
+
+Folinic:
+What?!
+
+Folinic:
+We need to capture him immediately and end the riots, we have to avenge Atro—
+
+GreyThroat:
+No.
+
+GreyThroat:
+He's dead.
+
+Folinic:
+...What?!
+
+GreyThroat:
+We found him on the 'Gramophone' at coordinate B2.
+
+GreyThroat:
+There were visible wounds on the back of his head, and ice crystals remained on the surface of his skin. All signs indicated an Arts attack.
+
+GreyThroat:
+The operator on scene could not make an accurate determination, but wounds on the surrounding cadavers indicated that Biederman had died in the riot at least a few hours prior.
+
+GreyThroat:
+Biederman is dead. But the riots continue. We all know what that means.
+
+GreyThroat:
+Click and Ayerscarpe are searching his residence. Unless they run into trouble—
+
+Folinic:
+Wait...! You said, you said he's already dead?
+
+GreyThroat:
+If you really need me to repeat myself, yes, he is already dead.
+
+Folinic:
+......
+
+GreyThroat:
+......
+
+I watched as the smile on Folinic's face froze— Yes, that smile.
+
+The loss of Operator Atro left her emotionally unstable, until we learned about Biederman.
+
+No longer troubled with issues of colonialism, the Infected, or class, she simply, and happily, found her revenge.
+
+Does she feel some momentary relief? Relief at having realized her goal?
+
+What next? How am I to deal with this new... condition of hers?
+
+Ayerscarpe:
+So it is.
+
+Click:
+What?
+
+Ayerscarpe:
+A Contingency Contract operation agreement. Signed by one Catastrophe Messenger Biederman.
+
+Ayerscarpe:
+So then, was it all part of the plan? Including your own death, Biederman?
+
+Click:
+Hm... but why? Could that Contingency thingamajig be the real mastermind?
+
+Ayerscarpe:
+Letting people die in a Catastrophe is not really their modus operandi. They wouldn't act in such a... brutal manner.
+
+Ayerscarpe:
+But if he was helping the insurgents to try to save more lives...? Why?
+
+Click:
+Is this really going to save lives, at the end of the day? GreyThroat says Wolumonde is in a real bad spot right now.
+
+Ayerscarpe:
+No. The Contingency Contract is just a platform.
+
+Ayerscarpe:
+It is true that a small percentage of the Messengers using the Contingency Contract have a utilitarian obsession, leading them to 'save' as many people as possible.
+
+Ayerscarpe:
+Wolumonde had already suffered a Catastrophe. Could he have... set the fire to draw in outside forces to intervene...?
+
+Ayerscarpe:
+I'm so glad Leonhardt and Rhodes Island's other Catastrophe Messengers don't get so mixed up with them.
+
+Ayerscarpe:
+But... that can't be right... What if..
+
+Click:
+Ayerscarpe!
+
+Ayerscarpe:
+What is it?
+
+Click:
+Look over there! By the music store! What's that weird thing?!
+
+Ayerscarpe:
+It's a... mountain?
+
+Ayerscarpe:
+No. It's a big moving boulder?
+
+Click:
+Could it be that one guy's Arts?
+
+Ayerscarpe:
+That isn't the kind of thing one man's Arts can do. Let's hurry back to the others!
+
+Ayerscarpe:
+There's no way an ordinary town militia is going to stand against a battle-hardened combat squad, and a Sarkaz one at that!
+
+Townsfolk:
+What's that? An earthquake?
+
+Townsfolk:
+Ah! It's that rock monster again! Quick! Start the 'Gramophone!'
+
+Armed Infected:
+They came! Reunion is here to liberate us!
+
+Armed Infected A:
+Long live Reunion! Forward! Drive out the rotten nobles!
+
+Armed Infected B:
+Long live Reunion!
+
+Tatjana:
+Cover their retreat. Get back to the town center and activate the Gramophone. And stay safe!
+
+Townsfolk:
+Got it!
+
+Townsfolk:
+Tatjana, that one at the end of the street... do you know him?
+
+Mudrock:
+Halt. At ease.
+
+Sarkaz Warrior:
+Yes. We are now just one step away.
+
+Mudrock:
+One step away from destroying this town.
+
+Mudrock:
+But there is no hope behind us. They cheer for liberation. But all we have freed is their anger and hatred. This is a typical, bloody invasion.
+
+Sarkaz Warrior:
+Is it? I don't really care. At this point, a happy ending is out of the question.
+
+Mudrock:
+This is the last chance... a chance to give them, before we take the last step.
+
+Sarkaz Warrior:
+A chance to surrender?
+
+Mudrock:
+No... a chance to fight back. A chance to show conviction and let us stand in for the people... let us decide the winners and losers for ourselves.
+
+Sarkaz Warrior:
+It's tough, thankless work, being a mercenary. Always the toughest. Never appreciated.
+
+Sarkaz Warrior:
+Whatever. It's your call.
+
+Mudrock:
+Then—
+
+Mudrock:
+—Arise, great boulder.
+
+
+

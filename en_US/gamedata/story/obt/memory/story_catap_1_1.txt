@@ -1,0 +1,719 @@
+Townsfolk:
+Don't move. Hide fast. They're here.
+
+Townsfolk:
+Head inside. In. Right, don't make a peep!
+
+Townsfolk:
+Alright, alright, sir, don't break your bones knocking.
+
+Townsfolk:
+Thanks for keeping us safe. Is everything okay?
+
+Patrolling Knight:
+Orders from Lord Barth! Searching for a suspect!
+
+Patrolling Knight:
+......
+
+Patrolling Knight:
+(Bro, Filon, what's the deal? What's the 'sir' for...)
+
+Townsfolk:
+(Gotta put up the act in front of other people, right, Sir Raz?)
+
+Townsfolk:
+Searching for a suspect?! Absolutely, search by all means!
+
+Townsfolk:
+But I can tell you there's no suspects in here, sir! We're all good people, I want you to see that!
+
+???:
+(Pffheehee.)
+
+???:
+(The cupboard makes a rocking sound.)
+
+Search Team Member:
+What was that noise?
+
+Search Team Member:
+Is there anyone else in your house?
+
+Townsfolk:
+N—No. Do you see anyone else? I don't...
+
+Townsfolk:
+Maybe you heard wrong, sir?
+
+Patrolling Knight:
+......
+
+Search Team Member:
+Did I? But...
+
+Patrolling Knight:
+Fine. Look at the size of this place. We'd know if someone was here.
+
+Patrolling Knight:
+And I didn't hear anything. You're on edge.
+
+Search Team Member:
+Alright... if you say so.
+
+Townsfolk:
+Sirs, are you here for...
+
+Patrolling Knight:
+This has nothing to do with you. We're done here.
+
+Patrolling Knight:
+Remember to immediately report any tips to the search team!
+
+Townsfolk:
+Yeah, I will, I will.
+
+Townsfolk:
+......
+
+???:
+Yeesh, are they finally gone?
+
+Townsfolk:
+Hey, stay in there!
+
+Townsfolk:
+Keep it down, they're still close...
+
+???:
+It's cool, it's cool, Filon, bro. C'mon, unclench those cheeks.
+
+???:
+Raz must've heard me a moment ago, didn't he? I mean, he held it in, and he's not gonna turn back to bust me now.
+
+???:
+Relax, relax.
+
+Townsfolk:
+I mean, he probably wants to let you go, but the guys behind him might be a different story.
+
+Townsfolk:
+You're the only woman I've ever met who'd straight-up bomb some old noble's vault, not to mention the part where you drove out throwing the guy's treasure all over the place...
+
+Townsfolk:
+Seriously, Catapult, can you guess how much you're worth right now?
+
+Catapult:
+Haha, I bet it can't be as much as all that treasure I left you~
+
+Townsfolk:
+Heh, you got me there.
+
+Townsfolk:
+Honestly, though, where do you get the guts to do this stuff?
+
+Townsfolk:
+That was all his best stuff in that safe, y'know! Hah, he's lost his mind. If he catches you for real, he'll be mad enough to peel you like a yucca!
+
+Catapult:
+Fly in, go boom, fly out. I've gotta do this nickname you all give me a little justice, right?
+
+Catapult:
+You can only take so much before your back breaks, you know? I'm at my limit with that old-ass... It's not about guts. I was practically forced to do that.
+
+Catapult:
+I'm good now, see. I'm refreshed, and everyone gets a little something nice out of it. Peace and love for all, right?
+
+Townsfolk:
+Forced, my ass. Some people wouldn't hit back if their lives depended on it.
+
+Townsfolk:
+......
+
+Townsfolk:
+*sigh*. I'm gonna be honest, Arleta.
+
+Catapult:
+Whoa, why so formal? Just gonna wave my real name like that, huh.
+
+Townsfolk:
+I'm being real with you. I still think... there's nothing in this for you.
+
+Townsfolk:
+Like, what does it get you? 'cause your gold, jewelry, bills... you haven't held onto a single thing, you threw it all over town.
+
+Townsfolk:
+What's your plan?
+
+Catapult:
+What's in for me? Heh, c'mon... does everything I do need some kinda paycheck?
+
+Townsfolk:
+...*sigh*. That's not what I mean.
+
+Townsfolk:
+I just—look. You're the old geezer's private army, and he has your share of the pot to give. The tax levy doesn't even come round to you, and if you wanted, you could top up by skimming off all the dues.
+
+Catapult:
+When have I ever pocketed your money?
+
+Townsfolk:
+You haven't! If you did, you wouldn't be the first, and I would've shoved you out there.
+
+Townsfolk:
+That's what I'm getting at, at any rate. You live an alright life. You're a far cry from all of us, when we've got days we pay the tax and can't eat afterwards...
+
+Townsfolk:
+What are you actually thinking, Arleta?
+
+Catapult:
+......
+
+Catapult:
+If I just said I was done with that old fart, no other ideas going on, would you believe me?
+
+Townsfolk:
+No.
+
+Catapult:
+Didn't think so.
+
+Catapult:
+Okay then, I need a minute. Lemme come up with some reason for you, ha.
+
+Townsfolk:
+Hey... I'm trying to be as straight as possible here. I don't know, can't you be a little serious?
+
+Catapult:
+Bleeugh—you know me, Filon. It's the way I am.
+
+Catapult:
+Fine. No more jokes.
+
+Catapult:
+I should be outta here soon, anyway. No good sticking around yours forever. Can't let this spiral out, or they'll make hell for you too.
+
+Catapult:
+If I jump now, maybe I can rustle my way into a merchant caravan heading out of town.
+
+Townsfolk:
+Did you plan this out beforehand?
+
+Catapult:
+Yeah, I don't actually wanna get flayed by the old guy either.
+
+Catapult:
+See you later, then...
+
+Catapult:
+Pass it on to all the people, if anyone else decides to squeeze their lives out, another explosion as coincidental as that vault might just be on the table.
+
+Catapult:
+Never, ever, ever sit there and wait for death like that again.
+
+Catapult:
+......
+
+Catapult:
+(This van's a cramped fit... I can't stretch my legs straight.)
+
+Catapult:
+(What's this thing even carrying? It's got a smell, alright... good thing I don't get carsick.)
+
+Catapult:
+(Ups to my luck, though. Two checkpoints down easy.)
+
+Catapult:
+(Good thing I already scoped how the caravan likes to go. It's the perfect ride to hitch.)
+
+Catapult:
+(As long as this holds, we just need to cross that bridge, and I should be on my way outta this dump.)
+
+Catapult:
+(Once I'm clear, then next, I'll head to... to...)
+
+Catapult:
+(......)
+
+Catapult:
+(Where? Shoot, I have no idea.)
+
+Catapult:
+(*yawn* I'm a little sleepy...)
+
+Search Team Member:
+...over there... ...nothing...
+
+Search Team Member:
+...still haven't found them?
+
+Catapult:
+!
+
+Catapult:
+(Huh? Why is the search team out here?!)
+
+Catapult:
+(He really doesn't wanna give up the chase, huh? C'mon, guy, you're being way too clingy!)
+
+Catapult:
+(Let's take a look...)
+
+Hurrying Worker:
+Sirs, what—what are you looking for?
+
+Patrolling Knight:
+We're searching for a suspect. Cooperate with us, please.
+
+Search Team Member:
+Raz, we've checked over there! We found nothing suspicious!
+
+Patrolling Knight:
+Alright, you can pass now.
+
+Hurrying Worker:
+Ugh, finally, on our way.
+
+Search Team Member:
+Phew, I'm wiped. Do we have to keep on searching each one like this?
+
+Patrolling Knight:
+That's the old man's orders.
+
+Search Team Member:
+But how much longer do we have to search? We've been going door to door without a break since morning, and now we have to head out all this way.
+
+Search Team Member:
+If it wasn't for the bounty, I would've given up a while ago.
+
+Patrolling Knight:
+Weren't you clapping and cheering when you heard someone blew the man's vault out?
+
+Search Team Member:
+Of course I was!
+
+Search Team Member:
+It was his private hoard, and now it's in the hands of all the poor common folk! I mean, mwah, who wouldn't give a story like that a thumbs up? Too perfect even for a Columbian movie!
+
+Patrolling Knight:
+So you...
+
+Search Team Member:
+That's that, this is this. None of the money made it into my hands.
+
+Search Team Member:
+Besides, who'd be on hard times with that reward? The miser's being generous for once!
+
+Patrolling Knight:
+......
+
+Catapult:
+(Haha! Looks like I really do have a good price tag.)
+
+Catapult:
+(No chance of getting over now, seeing how this all panned out. Even if I hide in a box, they could find me sooner or later...)
+
+Catapult:
+(Gotta do it. Times like these, your only choice is—)
+
+Catapult:
+(Hup!)
+
+Hurrying Worker:
+Ergh! My ass!
+
+Hurrying Worker:
+Oof, I'm not hurt... no, wait, where's my wallet? Did someone just steal my wallet?!
+
+Hurrying Worker:
+Thief... there's a thief! Catch the thief!
+
+Patrolling Knight:
+Quit the racket! What happened?
+
+Hurrying Worker:
+Knight, sir...! Th—Th—There's a thief!
+
+Catapult:
+(And one more for the road...!)
+
+Catapult:
+(Check me out!)
+
+Passing Merchant:
+Waagh! Wh—What the hell?
+
+Passing Traveler:
+Yeek! Sir Knight, some bastard just felt me... Hey, you were right there! Was it you?!
+
+Innocent Passerby:
+Eh? I didn't do it... hey, what are you hitting me for?! Seriously, it wasn't me!
+
+Patrolling Knight:
+Settle down, please, settle down!
+
+Patrolling Knight:
+All of you, calm down... don't get hysterical!
+
+Hurrying Worker:
+Where's my wallet?!
+
+Search Team Member:
+Back up, everyone! Our search here isn't over yet... ugh!
+
+Search Team Member:
+Who threw that stone?!
+
+Passing Traveler:
+I can't take it anymore! Tell me, how much longer am I going to be stuck here?
+
+Passing Traveler:
+I've gotten official passage! I request to be let through here immediately!
+
+Search Team Member:
+Hold on, this is by Lord Barth's command—
+
+Innocent Passerby:
+He's just a cruddy knight noble with a hunk of land. Who does he think he is?
+
+Catapult:
+(Hahaha!)
+
+Catapult:
+(Mm-hm, and there's my moment.)
+
+Patrolling Knight:
+......
+
+Catapult:
+Phew...
+
+Catapult:
+Finally, out of there.
+
+Catapult:
+Apologies, Mister, I'll toss your wallet in your van. And you over there, Miss, truly very sorry, I'll let you sock me sometime...
+
+Catapult:
+But sorry's all I can give right now!
+
+Catapult:
+See ya, everybody~
+
+???:
+You're better off apologizing to their faces than doing it out here to the trees.
+
+Patrolling Knight:
+Stir chaos, hide in the crowd and slip out of the mess. You almost fooled me.
+
+Catapult:
+—!
+
+Catapult:
+Oh, hey, it's you.
+
+Catapult:
+Still got caught, huh? That's not good.
+
+Catapult:
+I would've gotten away with it too, if it weren't for your sharp eyes, Raz.
+
+Patrolling Knight:
+
+
+Catapult:
+
+
+Patrolling Knight:
+......
+
+Catapult:
+Speaking of, when'd you put all this gear on? You look pretty slick, really like a capital-K Knight. May as well enroll for knighthood sometime, right?
+
+Catapult:
+The old fart's always been wanting to raise up a Knightclub.
+
+Patrolling Knight:
+......
+
+???:
+This road... should take me to my destination, if I'm not mistaken.
+
+???:
+Hm?
+
+???:
+Oh? What's that up there...?
+
+Catapult:
+Nothing else to say?
+
+Catapult:
+Have a care, huh? I'm gonna look real long-winded if it's just me talking, y'know~
+
+Catapult:
+What, you're not here to cuff me and take me back? If you don't do anything, I'm gonna get away, alright? I'm warning you.
+
+Patrolling Knight:
+If I was going to bring you in, I would've busted you back at Filon's.
+
+Patrolling Knight:
+If I actually did that... chances are Lord Barth would give you a public hanging for real.
+
+Catapult:
+True that, hahaha. Old guy's gotta be blowing his top!
+
+Catapult:
+So why'd you chase me out here anyway? Did you wanna give me a ride?
+
+Patrolling Knight:
+......
+
+Patrolling Knight:
+Yes...
+
+Catapult:
+...Whuh?
+
+Catapult:
+Raz. Raz, bro.
+
+Catapult:
+Any way you slice it, the old guy's got all hands out for me. I'm wanted by name... You're deserting, here!
+
+Patrolling Knight:
+And you get to talk?
+
+Patrolling Knight:
+Who slinked off to hit up the streets and go drinking, back when we were on patrol together—
+
+Catapult:
+Stoppit, stoppit, let's not reopen old wounds. Bad.
+
+Patrolling Knight:
+......
+
+Patrolling Knight:
+I came to ask you, why—
+
+Catapult:
+Why let go of the good days, and risk it all on this?
+
+Patrolling Knight:
+...Yeah.
+
+Catapult:
+Man, it's not healthy to be stale like this~ Why's everyone ask this one question?
+
+Catapult:
+And if I confess it was just 'cause I was sick of the old guy, you don't even believe me!
+
+Patrolling Knight:
+I believe you.
+
+Catapult:
+Guh?
+
+Patrolling Knight:
+It's a majorly convincing reason, knowing you.
+
+Catapult:
+Are you commending me, or dunking on me... Filon sure didn't believe me one bit.
+
+Catapult:
+Whatever. We're way past that, now. Let me be real with you.
+
+Catapult:
+Under the geezer, as long as we do what we're told, we get everything taken care of, and we get a little allowance. And sure, maybe a whole lot consider those fine days to live.
+
+Catapult:
+But I just couldn't stand it anymore. Everything that happens everywhere pisses you off. That life grosses me out, down to the core.
+
+Patrolling Knight:
+......
+
+Catapult:
+But I can't say that in front of the people in that town. I can't drop those words.
+
+Catapult:
+I've never gone hungry. How do I have the right to tell people without a meal to eat that I think my life sucks?
+
+Patrolling Knight:
+So you did it for all the civvies who couldn't pay taxes...
+
+Catapult:
+Yeuch, don't make me out like some kind of beacon of righteousness. I'm not THAT good-hearted.
+
+Catapult:
+I wasn't counting on doing something for anyone else's sakes. Blowing that geezer's vault open, dumping everything in there everywhere, that was all just me channeling my revenge.
+
+Catapult:
+Simple as that~
+
+???:
+......
+
+???:
+Oh, my...
+
+???:
+She's a surprisingly clear-minded girl.
+
+???:
+But still, not quite that cautious...
+
+Search Team Member:
+Raz—!
+
+Search Team Member:
+What are you doing here?
+
+Catapult & Patrolling Knight:
+!
+
+Patrolling Knight:
+Oh, crap, they're coming this way! Hide somewhere, quick!
+
+Catapult:
+Easy for you to say... there's nowhere to hide here, is there?!
+
+Search Team Member:
+Raz? What are you doing... are you talking to somebody?
+
+Patrolling Knight:
+I—
+
+Catapult:
+(Crap, I can't make it!)
+
+???:
+Excuse me, sorry for that. I was occupying this kind gentleman's time.
+
+Catapult:
+(—Who?)
+
+Catapult:
+(She walked out from behind... was she seriously behind me the whole time?!)
+
+Search Team Member:
+Hm? Who is it?
+
+Search Team Member:
+You're... wait, it can't be, i—it's you?!
+
+???:
+Pardon me. Please, don't be so nervous. I'm just a traveler passing through.
+
+???:
+I was asking this gentleman the way just now.
+
+Search Team Member:
+Huh... is that right?
+
+Patrolling Knight:
+Uh... yeah, that's right.
+
+Patrolling Knight:
+......
+
+Patrolling Knight:
+Um, forgive me, but are you... by any chance, the Candle Knight?
+
+???:
+Ah. That is indeed my title.
+
+Search Team Member:
+The Candle Knight?! THE renowned Knight from Leithanien... I've seen a whole bunch of your matches!
+
+Search Team Member:
+I never expected to meet someone as famous as you here! C... Could you, um, sign—sign this for me, Miss Knight?
+
+???:
+I appreciate your praise. If just my signature suffices, I would be delighted.
+
+Catapult:
+(This lady's totally distracting everyone!)
+
+Catapult:
+(Just who...)
+
+???:
+......
+
+???:
+(Shh.)
+
+Catapult:
+(Is she winking at me...?!)
+
+???:
+This doesn't seem too well a place for conversation. If you don't mind, shall we talk as we go?
+
+???:
+I've been wanting to pay a visit to the good Lord of this place, as it turns out... so could I trouble you all to show me the way?
+
+Search Team Member:
+Of course... of course!
+
+Catapult:
+(She led them off for real... Did she—save me?)
+
+Patrolling Knight:
+(Catapult.)
+
+Catapult:
+(What?)
+
+Patrolling Knight:
+(To be honest, I didn't have any other real reason to come find you.)
+
+Patrolling Knight:
+(I just wanted to tell you this, personally... I don't have your courage, but I admire you.)
+
+Patrolling Knight:
+(This little town's too little. Maybe this whole place confines you, in a way.)
+
+Patrolling Knight:
+(Seize the moment. Go on.)
+
+Catapult:
+......
+
+Catapult:
+Ahh...
+
+Catapult:
+What a nightmare. Here I was banking on having all my bills settled, and I could start my new life free as the wind.
+
+Catapult:
+If I think about it, I've racked up new favors along the way now.
+
+Catapult:
+Nyeaah...
+
+Catapult:
+Oh, well~ I've got a few decent bros in my old haunt I can think back on, and that's not a bad feeling~
+
+Catapult:
+And that Candle Knight lady. What a serious weirdo... but she helped me out big time, so consider my 100% fan loyalty as my payment!
+
+Catapult:
+I guess this really is goodbye... everyone.
+
+Catapult:
+See you again...
+
+Catapult:
+Phew...
+
+Catapult:
+Alright, time to really think about it now. Where should I be off to next, I wonder~
+
+Catapult:
+Hm...
+
+Catapult:
+Well, let's leave Kazimierz for starters, and go see what the world beyond is like!
+
+
+

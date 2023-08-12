@@ -1,0 +1,365 @@
+Allerdale:
+So this is...
+
+The giant door lies solemnly in the underground area. There is not a sound to be heard aside from the breathing of those who have made their way here.
+
+Of course, death is silent. Not even the most glorious reign can change that fact.
+
+Siege:
+The Mausoleum of Kings... Just as its name suggests... this is the resting place of all Victoria's kings.
+
+Siege:
+Do you hear something?
+
+Dagda:
+Nothing besides our breathing.
+
+Siege:
+......
+
+There is no mistaking that there is some kind of sound echoing throughout this space.
+
+Is it a murmur she hears, having woken up from her dream, or is it a groan she owes to her fatigue?
+
+They are staring at her.
+
+<i>Victoria</i> is staring at her.
+
+The moment she comes to realize this, a sense of agitation immediately follows.
+
+What do they expect? What kind of future are they envisioning for her?
+
+She grew tired of these days on the run long ago.
+
+And it has been a very long time since she last heeded the call of that golden creature.
+
+Siege:
+Come. We need to finish this mission as fast as we can.
+
+Siege:
+Rhodes Island and the Corps will need our help.
+
+Totter:
+—
+
+Totter:
+Stop!
+
+Totter:
+What's this... on the ground...?
+
+Indra:
+It's too dark here... I thought this was some of that upper crust posh decor.
+
+Indra:
+This is blood.
+
+Totter:
+Signs of a fight here.
+
+Totter:
+An utterly tragic battle... No, this place is a mire soaked in death.
+
+A meandering trail of blood can be found having slithering down the pathway and past the gap beneath the door. Or perhaps it crept its way out the large door.
+
+The trail of blood has long since dried, leaving the shattered bricks on the ground covered in its twisted, dark crimson stains.
+
+Likewise, there are tattered bolt heads, sword fragments, and craters left behind by Arts explosions, all submerged under the bed of dried blood.
+
+There are also marks more massive in scale, such as the numerous scars on the door, each one by itself more than enough to tear the silence of this place asunder.
+
+Although there are no bodies to be seen, everyone who seen war before can easily work out what transpired here.
+
+Two groups, both prepared to fight to the death, battled each other. Evidently, they got their wish.
+
+Totter:
+Judging from the color of the blood, this must be at least several years old.
+
+Allerdale:
+Several years... You don't mean...
+
+Dagda:
+The Sarkaz.
+
+Dagda:
+Sarkaz died here.
+
+Dagda:
+I recognize their weapons. They're... the same ones the Sarkaz warriors who attacked the Knights of the Tower used all those years ago.
+
+Totter:
+They're different from what the Sarkaz outside are using.
+
+Dagda:
+Completely different.
+
+Dagda:
+The blades that the Sarkaz use now are all made in the munitions factories in Highbury, and they're very similar to the standard weapons used by the Victorian Army.
+
+Dagda:
+They're not as crude, and nowhere near as... barbaric.
+
+Dagda:
+I still remember... the sounds of their rusted blades cutting through my fellow knights. They were heavy, and they'd shatter bone before crushing armor.
+
+Morgan:
+Dagda, are you alright?
+
+Dagda:
+I'm fine.
+
+Dagda:
+If the sight of these battle scars was enough to stop me in my tracks, I probably wouldn't have been able to manage a single peaceful night since my escape from Londinium.
+
+Allerdale:
+Vina... The situation's not quite what we expected.
+
+Siege:
+......
+
+The sound hurts her head.
+
+They are urging her. They are speaking.
+
+Siege:
+The Sighs of Kings is still inside.
+
+Siege:
+Keep calm and carry on.
+
+Siege:
+Who fought the Sarkaz?
+
+Totter:
+There's no way to tell.
+
+Siege:
+The other side left no traces?
+
+Totter:
+If they did, it's likely I haven't seen them before.
+
+Siege:
+Mr. Totter. How long has it been since you became a mercenary?
+
+Totter:
+It'll be my fourteenth anniversary next month.
+
+Siege:
+You must've seen weapons from most countries out there.
+
+Totter:
+Certainly, but not every country out there.
+
+Totter:
+I'm just your garden variety merc. I haven't seen the weapons of any particularly elite forces.
+
+Totter:
+If I had, I wouldn't be alive right now.
+
+Siege:
+......
+
+Siege:
+Morgan, Indra. Head back outside the path and stay alert.
+
+Morgan:
+Secure our evac route, just like before, right?
+
+Indra:
+I hope I don't miss out on anything good.
+
+Dagda:
+Siege, we can't act rashly now...
+
+Siege:
+Do you hear the battle above us, Dagda?
+
+Dagda:
+No.
+
+Siege:
+I do. This trembling... I can imagine it.
+
+Siege:
+I can't go back empty-handed.
+
+Siege:
+If the sword will stop all of this, or even just ease all the sacrifice and slaughter...
+
+Siege:
+Then I shall do it.
+
+Siege:
+I do not see this as a responsibility. It's just... a tiny act on my part.
+
+Siege:
+It's nothing different from knocking out the front teeth of those thugs who come looking for trouble.
+
+Allerdale:
+Vina...
+
+Siege:
+Allerdale, you said it yourself. Having taken this step, we can't turn back now.
+
+Morgan:
+You look pretty cheesed.
+
+Indra:
+Hmph, this was my chance to fight right beneath the palace!
+
+Morgan:
+I just hope they don't actually run into anything that calls for a fight.
+
+Indra:
+Eh, you should know what a big sacrifice I'm making for you. If someone whacks you in one go, you've got to have a friend to yell for the others, right?
+
+Morgan:
+Haha, my silly Hannah.
+
+Morgan:
+......
+
+Morgan:
+Do you remember how Vina looked when we first met her?
+
+Indra:
+How could I forget?
+
+Indra:
+She was real cocky.
+
+Indra:
+She said it was her teacher.
+
+Indra:
+And I thought she had some brawler from Norport for a teacher.
+
+Indra:
+Then we found out about who she was, and it all made sense. Probably a knight with muscles for brains.
+
+Indra:
+Seriously, though, aren't princes and princesses all meant to wear frilly clothes and have trouble running? What kind of teacher would have her fighting like she's facing a wild beast?
+
+Morgan:
+Haha, when she first told us who she was, I thought she was having a laugh.
+
+Indra:
+Vina wouldn't kid about something where life and death is concerned.
+
+Morgan:
+I thought it was a new gang looking for trouble with Glasgow.
+
+Morgan:
+But it turns out it was an operation to assassinate the heir to the throne? Hah.
+
+Indra:
+They were pretty tough, though.
+
+Morgan:
+I thought it'd be a lot more fun to follow a crown princess on an adventure than living the thug life. Besides, this princess has got a special place in my heart.
+
+Morgan:
+Before I knew it, we were following Vina out of Londinium, wandering the world with her, and making it back here.
+
+Morgan:
+Now... If the heroes in the legends had a choice, they'd rather lie down on the sofa and gulp down a cold beer, wouldn't you agree?
+
+Indra:
+Having second thoughts?
+
+Morgan:
+Of course not. We've come this far already.
+
+Morgan:
+I started on my memoirs already, and I'm going to make a huge with the book! It's called <i>The Legendary Vina and Her Legendary Mates</i>. All I need now is a publisher.
+
+Indra:
+With your sorry vocabulary? Forget it!
+
+Morgan:
+Vina said it was cool!
+
+Morgan:
+......
+
+Morgan:
+This reminds me... of that pub that we smashed the sign of.
+
+Indra:
+That was the first battle we won with Vina leading us!
+
+Morgan:
+That night, we drank all the booze in their cellar. In the end, Baird carried us back to the lorry, one by one, and drove us home before the police got there.
+
+Indra:
+Are you bloody daft? I was the one who carried you on my back. Baird was so off her trolley, she tried to steer the loo! And you wanted her to drive?!
+
+Morgan:
+Haha.
+
+Morgan:
+All I'm thinking is... No matter where we are, we can still come together and make a name for ourselves, right? Even if it's just taking over a pub from the other gangs.
+
+Morgan:
+Say, Hannah...
+
+Morgan:
+We've been back for days already. Why hasn't Vina so much as suggested paying Glasgow a visit?
+
+Siege:
+The key.
+
+Siege:
+Before we left, the Doctor gave me this key.
+
+Siege:
+The Doctor told me that Dr. Kal'tsit negotiated for this... Only this can open the door that leads to the Mausoleum of Kings.
+
+Siege:
+I know this key once belonged to a Draco.
+
+Siege:
+......
+
+Siege:
+...Allerdale.
+
+Siege:
+Do you know... where the other key is?
+
+The other key.
+
+The key that belonged to the Aslan royal family. It, too, can open this door, and it should have been passed to her by her father, but she has never seen the key herself.
+
+Allerdale:
+Why ask me that, all of a sudden?
+
+Siege:
+I just remembered... another legend about the Sighs of Kings.
+
+Siege:
+My ancestors... once nearly killed a Draco king.
+
+Siege:
+And now I hold the key of the Red Dragon's descendants...
+
+Siege:
+...to open the door to the Mausoleum of Kings.
+
+Allerdale:
+Here, it doesn't matter whether one is Draco or Aslan—
+
+Allerdale:
+One is only Victoria.
+
+The door opens.
+
+It is much easier than she imagined. It's so simple, as though everything was already in place, awaiting only this tiny push from her.
+
+The Mausoleum of Kings—
+
+A millennium of Victorian history surges toward her, the Aslan who left, only to return.
+
+
+

@@ -1,0 +1,95 @@
+5:57 A.M. \ Cloudy \ Visibility: 17 km
+
+Desert; 4 km from the outskirts of Lungmen
+
+4 days after the Chernobog rescue mission
+
+PRTS:
+Good morning, Dr. {@nickname}. You have currently been sleeping for 99999----
+
+PRTS:
+----9999 hours.
+
+PRTS:
+Although your reluctance to leave bed is not beyond reason, your presence is urgently needed at the operations command room.
+
+PRTS:
+Furthermore, here is some medical advice from Dr. Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.
+
+Amiya:
+Ah, Doctor! Good morning.
+
+Dobermann:
+So you made it, Dr. {@nickname}.
+
+Amiya:
+Doctor, are you feeling better now?
+
+Amiya:
+You looked like you were still in pain and and couldn't move around well yesterday.
+
+Amiya:
+I'm perfectly fine and full of energy today!
+
+Amiya:
+After all, we still have other missions to take care of...
+
+Amiya:
+So the sooner we can start preparing, the better. Doctor, you should get used to having to shift gears quickly here.
+
+Dobermann:
+Doctor,
+
+Dobermann:
+Even though we sustained heavy losses in Chernobog, we gained a lot of information about Reunion and, more importantly, got you out alive.
+
+Dobermann:
+Based on the negotiations we had yesterday, the closest mobile city to us, Lungmen, has offered us a cooperation pact and agreed to exchange information with us.
+
+Dobermann:
+We have some evidence that Reunion might be targeting Lungmen next.
+
+Dobermann:
+We'll have to wait for Dr. Kal'tsit's permission first before we can get the rest of the information. She's still stationed within Lungmen.
+
+Amiya:
+Lungmen has granted us permission to temporary camp near the city. They've also agreed to compensate a portion of our losses and expenditures during the operation.
+
+Amiya:
+In exchanges, Rhodes Island is expected to help defend the city's outskirts.
+
+Amiya:
+But the reason why I called for you so early is...
+
+Dobermann:
+Let me explain it, Amiya.
+
+Dobermann:
+Last night, we discovered another wave of Chernobog survivors making their way towards Lungmen. They're expected to get there in the afternoon.
+
+Dobermann:
+We'll be expected to safeguard the outskirts of District 5 just like the last few days. Only this time, there might be more Reunion members mixed into the group.
+
+Dobermann:
+Because the situation is a bit different, we'll need to discuss some new tactics with you before beginning the operation.
+
+Amiya:
+Anyway, Doctor, there's a lot to get through today, so...
+
+Amiya:
+Let's do our best!
+
+Dobermann:
+In any case...
+
+Dobermann:
+Both of you, please complete your combat preparations. Doctor, once you've decided on your squad assignments, please let the operators know so that they also have time to prepare.
+
+Dobermann:
+We'll set out 15 minutes after you finish your drills.
+
+Dobermann:
+Oh, and make sure you're not late this time.
+
+
+

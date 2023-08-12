@@ -1,0 +1,583 @@
+7:10 A.M. \ Clear
+
+Kazdel exurbs
+
+Surtr:
+This is the mission location?
+
+Meteorite:
+Judging by the image, this should be the place. The nomadic hamlet Bellony Village.
+
+Meteorite:
+Though I think you could just call the entire village an oversized minecart instead.
+
+Meteorite:
+It's a mining town that carries around its own Originium-powered drills to keep itself going. The people bring in some revenue just selling the excess resources to nearby cities.
+
+Meteorite:
+If they find any big ruins, they even ask the larger nomadic cities to front the excavation costs.
+
+Surtr:
+Maybe, but this place still looks pretty rough.
+
+Surtr:
+There is dust everywhere and the fences are all run-down. There are obvious signs of habitation, but no one cares to do maintenance?
+
+Surtr:
+I don't see anything worth investigating.
+
+Meteorite:
+Most of Terra isn't very interesting, but the people living in these uninteresting places still have their own unique lifestyles.
+
+Scrawny Kid:
+Wait, give that back!
+
+Mischievous Kid:
+What?! You said you'd share your ice cream!
+
+Scrawny Kid:
+Stop running! You're gonna squish it before we get home!
+
+Scrawny Kid:
+Idiot, give that back!
+
+Mischievous Kid:
+No way! I'm faster than you anyway. I'll be the one to bring it back to Dad!
+
+Scrawny Kid:
+Wait up!
+
+Meteorite:
+There are many who struggle to survive in such terrible environments, but that doesn't mean they're unhappy.
+
+Surtr:
+They chase after one another for a mere ice-cream without regard to the commotion they are causing. To think they will be the same when they grow up...
+
+Surtr:
+You call this happiness?
+
+Meteorite:
+Are you angry?
+
+Surtr:
+Why would some inconsiderate kids running around, kicking up dust anger me?
+
+Meteorite:
+(She's totally angry. )
+
+Village Headman:
+Sorry. Are you the operators from Rhodes Island?
+
+Village Headman:
+Real sorry to keep you waiting.
+
+Meteorite:
+Yes, we are. Nice to meet you, are you the local liaison?
+
+Village Headman:
+Ah, yeah, that's right. I'm the leader of Bellony Village. Come with me. No need to stand around out here, let's go in. This way.
+
+Meteorite:
+Thank you.
+
+Before the mission
+
+Rhodes Island Command Center
+
+Kal'tsit:
+Bellony Village is a typical mining community located at the edge of Kazdel. A cave-in a few months ago completely sealed off the mines.
+
+Kal'tsit:
+Not only were the mines ruined, the village's travel route and trading channels were also blocked.
+
+Kal'tsit:
+For the past few months, the village has been requesting aid from nearby nomadic cities, but there has not yet been any city willing to help.
+
+Kal'tsit:
+Meteorite, I would like you to carry out preliminary investigations and report on the situation.
+
+Kal'tsit:
+We will organize a rescue mission based on that report.
+
+Meteorite:
+Understood. This doesn't sound like a particularly tough mission.
+
+Kal'tsit:
+The village's problems don't appear to be related to Catastrophes or Oripathy, but don't let your guard down.
+
+Meteorite:
+Roger that. But...
+
+Surtr:
+......
+
+Meteorite:
+Is Surtr going too? I don't think I'll need much help.
+
+Surtr:
+There is something I want to investigate in that area.
+
+Kal'tsit:
+Surtr asked to go along for personal reasons. We've approved her request.
+
+Surtr:
+I won't be a burden to you, just pay me no mind.
+
+Meteorite:
+......
+
+Village Headman:
+We're a small village. Just wait here for a moment, I'll go and grab some tools first.
+
+Meteorite:
+Oh, we have some basic prospecting tools with us.
+
+Village Headman:
+No good, the mine entrance at the edge of the village has been sealed off with our own special tools.
+
+Village Headman:
+Without these unlocking tools, it can't be opened. Our village is pretty good at excavation, if I do say so myself.
+
+Surtr:
+Even with all that experience, you still got yourselves stuck here.
+
+Village Headman:
+Hahaha, that's true.
+
+Meteorite:
+Aah! Please forgive her, she doesn't mean it. Hey, don't be rude!
+
+Village Headman:
+No, we are really ashamed that for all our experience excavating, we still couldn't stop a major cave-in.
+
+Village Headman:
+Part of the drill sunk into the collapsed area, so it's not safe to send anyone else over there.
+
+Village Headman:
+Even with Rhodes Island's help, we're going to put some new precautions in place.
+
+Village Headman:
+Just rest here a minute, I'll get the stuff.
+
+Meteorite:
+Alright, please do.
+
+Meteorite:
+......
+
+Surtr:
+......
+
+Meteorite:
+You know, you could stand to be a little more polite.
+
+Surtr:
+I'm just stating facts.
+
+Meteorite:
+Ah... Err...
+
+Meteorite:
+(This is so awkward. )
+
+Meteorite:
+(I've heard Surtr is tough to get along with, but I thought we'd at least have something to talk about. )
+
+Surtr:
+......(Recording)
+
+Meteorite:
+Are you taking notes for a status report?
+
+Surtr:
+No.
+
+Meteorite:
+So...?
+
+Surtr:
+......
+
+Meteorite:
+............
+
+Surtr:
+You don't know? I thought my file was public.
+
+Meteorite:
+I did read it, but...
+
+Surtr. The file mentioned her.
+
+Due to a memory impairment of unknown origins, she has difficulty reconciling her memories.
+
+It is as if there is a large volume of memories existing simultaneously in her mind. The volume is such that Surtr is unable to properly recognize which of her memories are real and which are false.
+
+And so she has been seeking out the places in her memories one by one.
+
+Meteorite:
+The 'personal reasons' Dr. Kal'tsit mentioned are some places around here you remember?
+
+Surtr:
+When Dr. Kal'tsit was telling me about this area, I felt a sense of familiarity.
+
+Surtr:
+And I felt some deja vu when looking at photographs and records.
+
+Meteorite:
+Now that you're here at the village, do you recall anything?
+
+Surtr:
+Nothing at all. When walking through the village, I saw the passing children and the run-down houses. They are similar to the images in my memory, yet completely different.
+
+Surtr:
+I do not know why.
+
+Meteorite:
+Have you checked every spot in the village?
+
+Surtr:
+At a quick glance, I haven't missed anything.
+
+Meteorite:
+How about we ask the villagers later? Maybe the village you remember is from a while ago?  It could've been rebuilt.
+
+Surtr:
+...Perhaps.
+
+The smell of dried plants in the air is no different from my memories.
+
+When I close my eyes, it is as if I am on familiar streets.
+
+The footsteps of children running by are like the sounds of friends chasing one another in my memories.
+
+Yet when I open my eyes, I see nothing but an unfamiliar landscape.
+
+Meteorite:
+Dr. Kal'tsit sent me on this mission, so let me help you investigate.
+
+Meteorite:
+We'll look for clues in the village together after we're done with the mine collapse thing.
+
+Surtr:
+No need, I can handle it myself.
+
+Meteorite:
+......
+
+Surtr:
+......
+
+Meteorite:
+...I understand how it feels to have no past, or a place to call home.
+
+Surtr:
+......
+
+Meteorite:
+As Sarkaz, without a Sarkaz home, I'm always fighting, together with the others, pressing on.
+
+Surtr:
+My situation is different.
+
+Meteorite:
+Maybe it's different, maybe it's the same?
+
+Meteorite:
+Maybe we're all just looking for a place to belong in the end.
+
+Meteorite:
+But, as you look towards the unknown future, you can't ignore what's right beside you.
+
+Meteorite:
+That's what Amiya taught me.
+
+Surtr:
+......
+
+Village Headman:
+Sorry for the wait, let's set out now!
+
+Village Headman:
+I'm all ready!
+
+Meteorite:
+Anyway, let's complete our mission first.
+
+Meteorite:
+So this is it...
+
+Village Headman:
+Yep, this is the cave-in. Watch your step.
+
+Village Headman:
+The excavation site is over there. The cave-in caused the surrounding area to sink downwards, so this entire area had to be sealed off.
+
+Village Headman:
+This cave used to be the entrance to a tunnel that connects to the neighboring village. Now that it's sealed, we can't trade with our neighbors.
+
+Surtr:
+......!
+
+Meteorite:
+Surtr?
+
+Surtr:
+I think I remember this path.
+
+Meteorite:
+Sir, what's the relationship between this village and the neighboring one?
+
+Village Headman:
+It's a mining village just like ours. Since the nearby villages are all in the same business, we deal with each other a lot.
+
+Village Headman:
+Some villagers even move back and forth between the communities.
+
+Village Headman:
+But the cave-in blocked off our only means of communication. They've probably already moved on to keep mining.
+
+The course of this path, the direction...
+
+It's getting more familiar.
+
+I used to pass through this place often.
+
+The familiar figures of children run past me and disappear among the piles of rocks up ahead.
+
+Village Headman:
+You want to go to another village?
+
+Village Headman:
+If we got the path open, we could contact them pretty quickly.
+
+Meteorite:
+That would be great... Surtr?
+
+Surtr:
+I'm not willing to wait that long.
+
+Meteorite:
+Huh?
+
+Village Headman:
+What?
+
+Surtr:
+Move aside!
+
+Meteorite:
+Surtr, wait! I know you're eager for answers, but the mine isn't safe right now!
+
+Meteorite:
+Think for a minute before you put yourself in danger!
+
+Surtr:
+Meteorite, just wait for me outside and guard the entrance!
+
+Village Headman:
+The girl! She actually smashed through the rubble and rushed in! ?
+
+Meteorite:
+Hey, wait!
+
+Village Headman:
+Stop! Don't you go in there too!
+
+Village Headman:
+You're risking another cave-in!
+
+Meteorite:
+Damn it!! Surtr!
+
+Deep within the mine, the traces of heavy machinery are obvious.
+
+The path snakes ahead, as if guiding Surtr forward.
+
+Surtr:
+So this is the path to that other village.
+
+Surtr:
+It's just an Originium Slug nest now.
+
+Surtr:
+It looks like they took over the empty space in the past few months.
+
+Surtr:
+Troublesome.
+
+Surtr:
+Hm...
+
+Children holding hands walk along the path.
+
+Passing by the countless traces of Originium Slugs.
+
+Disappearing into the darkness ahead.
+
+Surtr:
+Huh?
+
+Meteorite:
+An explosion!
+
+Village Headman:
+Another cave-in!?
+
+Village Headman:
+That girl is in danger! What do we do! ?
+
+The streets in my memories were filled with the rich aroma of the earth, not the scent of dried plants.
+
+The companions in my memories would not chase after one another, ice-cream in hand.
+
+The buildings looked the same, yet were completely different.
+
+It was not just minor differences in the design. Even the materials and structures were completely different.
+
+Surtr:
+Ah, I'm hurt. Ouch. My palm's scratched.
+
+Surtr:
+Never thought there would be a day I got distracted enough to get ambushed by Originium Slugs.
+
+Surtr:
+Tch.
+
+Surtr:
+This... this is...
+
+Surtr:
+There's another empty space beneath the mining pit?
+
+(Rustle rustle). It's the sound of Originium Slugs.
+
+(Rustle rustle).
+
+(Rustle rustle).
+
+Surtr:
+The ruins of a city in a giant cavern...?
+
+Surtr enters the cavern deep beneath the earth.
+
+Beside the glow of Originium Slugs, she can trace the outlines of buildings among the piles of stone and rubble.
+
+Tiles of a road, bricks of a wall.
+
+It is very clear that the entire place has been buried for a very long time.
+
+Dozens of years? Hundreds of years?
+
+Surtr does not know either. Yet, she has found that which she is looking for.
+
+Meteorite:
+Here!
+
+Meteorite:
+! !
+
+Meteorite:
+Surtr!
+
+Surtr:
+Ah, thanks for pinpointing the location. I was able to break the rock layer at the correct spot.
+
+Meteorite:
+What were you thinking?! Why would you rush into such a dangerous place all by yourself?!
+
+Surtr:
+I was doing a little thing called 'investigating'.
+
+Surtr:
+Incidentally, I discovered the cause of the cave-ins. There was a nest of Originium Slugs below the mine, inside a giant cavern.
+
+Surtr:
+The mining put more pressure on the bottom, so the whole thing just collapsed.
+
+Surtr:
+I destroyed the Originium Slug nest and used the cave-in to seal up the entire cavern. Done.
+
+Surtr:
+Though we skipped over the standard procedures, the issue was resolved.
+
+Village Headman:
+What!
+
+Meteorite:
+Huh?
+
+Meteorite:
+So, you solved the whole problem by yourself, but you didn't find the path to the neighboring village?
+
+Surtr:
+Right, I realized that neither village was the one in my memory.
+
+Surtr:
+I made a mistake. There aren't any memories I'm looking for here.
+
+Meteorite:
+You'd mess up something you recorded so diligently all this while?
+
+Surtr:
+I suppose I would.
+
+Meteorite:
+I've seen something like this before.
+
+Meteorite:
+You run into all sorts of problems on the way to your goal.
+
+Meteorite:
+It's thanks to the people beside me that I've made it this far.
+
+Surtr:
+I'm used to it.
+
+Surtr:
+After all, this isn't the first time there was a discrepancy in the places I remember.
+
+Meteorite:
+But even if you didn't find the right place today, you still have a place to call home, right?
+
+Surtr:
+Are you trying to say I can rely on you too?
+
+Meteorite:
+Um, I guess you could put it that way...
+
+Village Headman:
+Ladies! I've notified the others in the village!
+
+Village Headman:
+The exploration team is getting ready! It sounds like you've taken care of things and we can get back to mining.
+
+Meteorite:
+Please wait for us to bring our data back to Rhodes Island before you go back in there.
+
+Meteorite:
+We wouldn't want any more accidents.
+
+Village Headman:
+Hahaha, that's fine. Everyone's too excited. I really have to thank you both.
+
+Village Headman:
+If you don't mind, why don't you spend the night in the village?
+
+Village Headman:
+You'll be our guests of honor!
+
+Meteorite:
+Well...
+
+Surtr:
+We have to hurry back, so I'm afraid we'll pass.
+
+Surtr:
+But...
+
+Surtr:
+Could I have an ice-cream?
+
+
+

@@ -1,0 +1,149 @@
+Medic:
+Aaaagh--!
+
+Guard:
+Watch out! !
+
+Medic:
+I'm fine... It's just a scratch, don't worry...
+
+Amiya:
+Not good enough... At this rate, they're going to close in on us.
+
+Dobermann:
+I've already found the weak point in their line, but without reinforcements, it's taking all we have just to hold them back!
+
+Amiya:
+...Please hold out a bit longer! Focus your fire on the ranged enemies!
+
+Amiya:
+Our Casters will take care of their vanguard!
+
+Mephisto:
+Good, good! This is how things should be! Next up, F3, E5!
+
+Dobermann:
+This bloody brat...!
+
+Mephisto:
+Excellent! Now, B4, B5!
+
+Guard:
+The enemy is now trying to flank us!
+
+Amiya:
+Take two Defenders and a Sniper! Just keep them busy!
+
+Mephisto:
+And next! H2, H6!
+
+Medic:
+They... they're rushing our defensive line!
+
+Ace:
+Vanguards, flush them out!
+
+Mephisto:
+That's right, let me see how you struggle!
+
+Mephisto:
+Now, Casters. move to C7. Capture their Rook!
+
+Amiya:
+Enemy Casters have appeared! So far, they're hiding behind their Defenders!
+
+Dobermann:
+It's too late! Take cover!
+
+Medic:
+Aaargghh!
+
+Guard:
+*cough* *cough*...
+
+Mephisto:
+Now be snuffed out, like flames before a storm!
+
+Amiya:
+Is he really commanding his troops like that? How can he give such precise orders just by barking out chess moves?
+
+Amiya:
+Those same disorderly thugs have been turned into an army under his command...!
+
+Amiya:
+At this rate, he's going to keep exploiting the advantage he gets through his leadership...
+
+Dobermann:
+On the other hand, if we manage to suppress him, they'll fall into disarray!
+
+Dobermann:
+Don't give them even the slightest opening!
+
+Dobermann:
+Damn it, we're running out of time!
+
+Amiya:
+We can't allow ourselves to be stalled any longer!
+
+Amiya:
+Is there some way to turn the tables... anything?!
+
+Amiya:
+We're going to be... Doctor's going to...
+
+Reunion Member:
+Gaaaaaaahh!!!
+
+Mephisto:
+What?!
+
+Mephisto:
+Huh... What's going on? Why are people getting knocked into the air?
+
+Mephisto:
+What...
+
+Mephisto:
+... the hell is that?
+
+???:
+You guys sure took your sweet time. I even had time to relocate the civilians.
+
+Amiya:
+--?!!
+
+???:
+Out of my way!
+
+Reunion Member:
+Woah!!
+
+???:
+Let's hit 'em even harder! Don't give the enemies a chance to regroup!
+
+Amiya:
+Miss Nearl!!
+
+Nearl:
+I'm here.
+
+Nearl:
+I'm glad you're still safe, Amiya. Let's move.
+
+Dobermann:
+Thank goodness you were deployed in this operation.
+
+Nearl:
+Using the signal flare was judicious. Seems like you've been having a rough time.
+
+Nearl:
+...
+
+Nearl:
+You must be Dr. {@nickname}, right?
+
+Nearl:
+Radiant Knight, Nearl, at your service. Your chariot has arrived.
+
+
+

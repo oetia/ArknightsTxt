@@ -1,0 +1,673 @@
+Ezell:
+Cecelia, watch out!
+
+Cecelia:
+Mister Ezell!
+
+Patia:
+Guide... We have to hold our ground!
+
+Ezell:
+It's you! Cecelia isn't your bargaining chip!
+
+Fiammetta:
+Ezell, give her to me!
+
+Ezell:
+......
+
+Fiammetta:
+Hey, Ezell! What's the big idea? Don't tell me you're working with these...
+
+Patia:
+Heretics? Terrorists? Apostates? Are those the only names that the Church can come up with?
+
+Fiammetta:
+Out of the way, Patia!
+
+Patia:
+You were right, Fiammetta... It's not easy to change the way someone thinks.
+
+Patia:
+That goes for both of us.
+
+Andoain:
+You look like you're doing well.
+
+Mostima:
+Much thanks to you. You look like you've aged a lot, though... 'Guide.'
+
+Andoain:
+Haha, I have you to thank for that, too. The gunshot wound took forever to heal.
+
+Mostima:
+Hahaha, not bad. Definitely better than having her shoot you.
+
+Andoain:
+That is true.
+
+Mostima:
+Lemuen almost died.
+
+Andoain:
+I know.
+
+Andoain:
+It was the better option, over her bullet.
+
+Mostima:
+Looks like that mental illness of yours hasn't gotten any better.
+
+Mostima:
+Hey, kid. You must be Ezell.
+
+Ezell:
+(Another Legata...? What should I...?)
+
+Cecelia:
+!
+
+Ezell:
+A fallen angel?! Miss Fiammetta, what's going on?
+
+Andoain:
+Ah... you fell. Of course. You shot at me.
+
+Andoain:
+You can't feel anymore.
+
+Mostima:
+So I use my eyes to see and my mind to think.
+
+Mostima:
+The little girl there is Cecelia, right?
+
+Cecelia:
+Miss, you have horns, but you also have a halo... Are you a Sankta?
+
+Mostima:
+Uh, maybe? I don't exactly know, actually.
+
+Mostima:
+Listen, Ezell. Bring Cecelia over here. She'll be fine.
+
+Ezell:
+I'm supposed to trust a fallen angel?
+
+Mostima:
+I've gotta be more trustworthy than a pissed-off Liberi.
+
+Fiammetta:
+Hey! You mean that bitch over there, right?!
+
+Patia:
+......
+
+Andoain:
+Mostima... We haven't finished her mother's funeral yet.
+
+Mostima:
+Whoa, I almost bought into that. Are you really such a dutiful curate for this Ecclesia Requietum, Andoain?
+
+Fiammetta:
+Mostima! Did you follow me here just to catch up on old times?
+
+Mostima:
+Ezell, have you made up your mind yet?
+
+Ezell:
+Cecelia, we...
+
+Cecelia:
+Miss...
+
+Rosella:
+Cecelia... You aren't done yet.
+
+Cecelia:
+Right...
+
+Ezell:
+......
+
+Mostima:
+Andoain, you've got a decent crowd here.
+
+Mostima:
+You brought so many with you just to get Cecelia?
+
+Andoain:
+......
+
+Mostima:
+Oh, almost forgot. I have a message for you. It's from the guy in the Lock and Key—
+
+Mostima:
+Your bravery is commendable, but you won't like the final answer.
+
+Andoain:
+Thank you for that. I may not be fortunate enough to walk my path with it, but I benefited greatly from its opening my eyes all those years ago.
+
+Mostima:
+Look at you... Are you sure you 'benefited?'
+
+Andoain:
+Only the wearer knows where the shoe pinches.
+
+Fiammetta:
+—Not good! Ezell, stand back!
+
+Andoain:
+Ah...
+
+Can you believe it—
+
+I saw an ocean formed of faith.
+
+Fiammetta:
+That concludes the report for this operation. Some of my colleagues present were involved in the incident. If you have anything to add, please do.
+
+Apostolic Knight:
+Brothers and sisters, I propose we immediately declare a state of emergency across the entire city. Andoain is already enough trouble to deal with, but now we have a 'mixed-blood Sankta' on our hands too.
+
+Velliv:
+Gun-Knight Giovanni, the conference is set to open soon. Surely you know that a state of emergency would lead to panic among the envoys?
+
+Apostolic Knight:
+Your Eminence, we face a dangerous element. If a little panic could solve the problem at hand, I consider that an easy win.
+
+Velliv:
+His Holiness has been planning this conference for years... the 'Summit of Nations.' It could be the key to Laterano's primacy on land as we know it, but now... a panic threatens to destroy this key.
+
+Apostolic Knight:
+And how do you know that Andoain won't bring this conference to ruin if you leave him be?
+
+Oren:
+No need to worry, Gun-Knight Giovanni. We're talking about a group of desperate people without a future and a small girl of unknown background.
+
+Apostolic Knight:
+Oren, how do you think we Laterans have enjoyed peace for a millennium? It's because we stayed vigilant, taking no chances with such uncertainties!
+
+Oren:
+(Even though Laterans set off explosions on the streets day in and day out, huh?)
+
+Oren:
+The way I see it, the Reverend Gun-Knight just might be looking for an opportunity to use that awe-inspiring but so often holstered gun of yours?
+
+Apostolic Knight:
+I take pride in my gun. Got a problem with that?!
+
+Fiammetta:
+Please, this is urgent. May I continue?
+
+Apostolic Knight:
+...You may.
+
+Fiammetta:
+I'm sure you all know that Mostima and I used to... work with Andoain.
+
+Fiammetta:
+The Andoain I know isn't one to go off half-cocked. He wouldn't start a war without preparing for it. So even though he could sow chaos in Laterano, he wouldn't do it without a reason.
+
+Fiammetta:
+The only clue the Astray have given us so far is their attempts on the mixed-blood girl called Cecelia.
+
+Fiammetta:
+We can surmise that taking her is their primary objective.
+
+Fiammetta:
+And since they already have her in their possession, I think Andoain's next step is very likely to be... exfiltrating Laterano.
+
+Fiammetta:
+Therefore, I suggest we focus on the two following points.
+
+Fiammetta:
+First, we need to step up our border controls and deploy more guards to the crossings. We should also form a special elite squad to locate their hideout and bring Andoain in.
+
+Fiammetta:
+Secondly, to be on the safe side, I would like the Seventh Tribunal to lead the investigation into whether the Astray have made contact with the visiting envoys to determine whether or not they are targeting the conference.
+
+Fiammetta:
+As for the conference itself...
+
+Mostima:
+Proceed according to plan, right? That's what you have in mind, isn't it? We're just testing the waters, anyway.
+
+Mostima:
+Oh, I've got to say, though. The cold buffet's desserts are disgusting. The cactus tarts are an atrocity. I would like to see some improvement there.
+
+The Pope:
+I think there's a certain charm to the taste.
+
+Velliv:
+I agree with Mostima on that point, and that point alone.
+
+Apostolic Knight:
+Blasphemy! I think they're delicious!
+
+Fiammetta:
+......
+
+Oren:
+Gun-Knight Giovanni has spoken. I suppose we can all agree, then?
+
+Velliv:
+Agreed.
+
+Mostima:
+Anything that Giovanni likes, you know is bound to be terrible.
+
+Apostolic Knight:
+Mostima, belittling me again, are you?!
+
+Fiammetta:
+..................
+
+The Pope:
+Please, my children, quiet down. I'm too old for all this bickering.
+
+The Pope:
+The laws instruct us to face the unknown with goodwill...
+
+The Pope:
+We mustn't treat fruit tarts with such scorn.
+
+Velliv:
+And why am I unfamiliar with this law?
+
+The Pope:
+I just thought of it this morning.
+
+Fiammetta:
+..................
+
+Fiammetta:
+Your Holiness...
+
+The Pope:
+We'll go with your plan.
+
+The Pope:
+Vel, Giovanni, give Fiammetta all the help she needs.
+
+The Pope:
+Andoain... will make his way to his goal.
+
+Mostima:
+Phew... This is why I hate closed-door meetings...
+
+Fiammetta:
+We spent three minutes on the main topic! The rest of the meeting was everyone babbling their stupid side conversations!
+
+Ezell:
+Excuse me, Seniores? May I ask what the decision was?
+
+Fiammetta:
+You're still here.
+
+Fiammetta:
+I'm taking over the Andoain case. Thank you for your work the past couple days. You should head home to get some rest. I'll talk to the Notarial Hall later. Everything you've done will be written off as you helping us out.
+
+Ezell:
+Miss Fiammetta, I...
+
+Fiammetta:
+Anything that comes after this is way beyond the bounds of your authority and ability. Don't forget. You're still in training.
+
+Fiammetta:
+I know you're worried about Cecelia, but I'm taking over this case, and that's the best case scenario you could hope for.
+
+Ezell:
+......
+
+Ezell:
+Miss Fiammetta, are you friends with this... fallen angel? And the both of you are familiar with Andoain?
+
+Fiammetta:
+That's right.
+
+Ezell:
+Is that your answer to both of those questions?
+
+Fiammetta:
+......
+
+Fiammetta:
+We aren't familiar. We're nemeses.
+
+Fiammetta:
+But don't you worry. I won't take it out on Cecelia. I don't really understand what was going on with her this morning... but she's still a kid.
+
+Fiammetta:
+What about you? You stayed there for two whole days. Did Andoain say anything to you?
+
+Ezell:
+Just a bunch of heretical nonsense.
+
+Fiammetta:
+I suggest you forget all of it, then.
+
+Fiammetta:
+You still have your whole life ahead of you, right?
+
+Fiammetta:
+Go home and take a couple days off, then keep up with your good work at the Notarial Hall. You are pretty qualified for the job if you ask me.
+
+Mostima:
+Cherish your life, you know? Life in Laterano is precious. Even I look back on it fondly sometimes.
+
+Ezell:
+My life...
+
+Ezell:
+Right, unlike them, I'm just a regular nobody.
+
+Ezell:
+Okay, let's clock out!
+
+Ezell:
+......
+
+Patia:
+The Pontifica Cohors have taken over the border checkpoints, and the Apostolic Knights are keeping an eye out for us too. We won't be making it out anytime soon... We have a safehouse, but still...
+
+Patia:
+I can't get in touch with Oren either... Dammit!
+
+Andoain:
+No matter. We can wait.
+
+Cecelia:
+......
+
+Andoain:
+Cecelia?
+
+Cecelia:
+......
+
+Andoain:
+Do you regret your decision?
+
+Cecelia:
+I don't know...
+
+Cecelia:
+But if I went with Miss Fiammetta... she would've taken me... to the Basilica, right?
+
+Cecelia:
+I still haven't figured out... my goodbye to Mamma.
+
+Andoain:
+It's okay, Cecelia. You still have lots of time to think.
+
+Cecelia:
+Mister Friar... There was a lady with horns and a halo in the Ecclesia Requietum just now... Is she... a Sankta?
+
+Andoain:
+Maybe. Maybe not. It's up to her to decide.
+
+Cecelia:
+I thought... Sankta are Sankta?
+
+Andoain:
+That's true for most of us.
+
+Andoain:
+But some people get to choose. Or perhaps I should say they don't have a choice but to choose, because of some... unfortunate circumstance.
+
+Andoain:
+Incidentally, you too have to choose, Cecelia. As for whether that is fortunate or not... no one can tell.
+
+Cecelia:
+Can't the Sankta be with the Sarkaz?
+
+Andoain:
+Of course they can. You are the living proof.
+
+Cecelia:
+But... I'm causing everyone a lot of trouble, right?
+
+Cecelia:
+Even Mister Ezell...
+
+Andoain:
+If you're always worrying about everything, you won't get anything done.
+
+Andoain:
+People will always fight. Neither 'gentleness' nor 'understanding' can stop that.
+
+Andoain:
+A lot of times, when people fight, it's not because one side is right and one side is wrong. It's because the things that both sides have to do conflict with each other.
+
+Andoain:
+In other words, the things that you and I need to do are different, and that means we're in somebody else's way.
+
+Cecelia:
+Why can't we go the same way together?
+
+Andoain:
+......
+
+Andoain:
+Because, for a lot of people, the path that they take is determined by the path itself.
+
+Andoain:
+For example, the Sankta and the Sarkaz. No one can say why the two sides fought each other at first, but the hatred between them has paved the road for everyone.
+
+Cecelia:
+Can't we choose our own path?
+
+Andoain:
+We can, Cecelia, but it's not that simple. If you want to leave the path you are on and find a new path forward, you must first make your way through a boundless wilderness...
+
+Andoain:
+It's vast and empty there. You might never find that new path, even if you give up everything you've ever known.
+
+Cecelia:
+Then... why do we still have to look?
+
+Andoain:
+Right... why do we have to look?
+
+Andoain:
+Maybe it's because that's what we want.
+
+Cecelia:
+'What we want...' Is that so important?
+
+Andoain:
+It's the only thing we still have.
+
+Cecelia:
+......?
+
+Cecelia:
+Mister Friar... Can I ask a question?
+
+Andoain:
+Go ahead.
+
+Cecelia:
+What is it that you want?
+
+Andoain:
+Cecelia, can I tell you a little story?
+
+Cecelia:
+Sure, Mister Friar. Go ahead.
+
+Andoain:
+Many years ago, when I was still young, I ran into some... setbacks, and then I left.
+
+Cecelia:
+Where did you go?
+
+Andoain:
+Anywhere. I traveled everywhere.
+
+Andoain:
+There was a place I stayed for a while. It was a very small town, and it felt a little like my hometown.
+
+Andoain:
+But it was even more run-down. Life was tough for everyone there.
+
+Cecelia:
+(Huh? That doesn't sound like Laterano...)
+
+Andoain:
+Once, I passed by the town's pub and came across a humming drunkard. He threw up all over me and insisted that I'd tripped him, and that I should pay for his drink.
+
+Andoain:
+Everyone in the pub... no, everyone in town laughed at him and cursed at him.
+
+Andoain:
+Those who were scared of him avoided him. Everyone called him a dirty, filthy moron, a lowlife, a sick scumbag... He was a Sarkaz.
+
+Andoain:
+They never chased him out of the town, however. He kept living from one day to the next, doing little odd jobs.
+
+Andoain:
+Then, on one windy, rainy night, a night when no one would go outside, the church's bell started to ring. It was an alarm, and it woke everyone up... There were... some bad people in town.
+
+Andoain:
+It was lucky that the bells woke everyone. It was hard, but we chased the bad people away. No one knew who rang the bells, and we all thought it was a miracle...
+
+Andoain:
+I headed in the direction of the bell tower and reached the wastes beyond. There, I found the church watchman digging a grave. Next to him was a cart, and in it a thin coffin, with the Sarkaz drunkard inside, wounded all over.
+
+Andoain:
+I started to help digging. The watchman kept complaining as he dug. He said he was saving the casket for his mother and it was a waste to give it to a Sarkaz. Then he complained that he'd have to bury the sick Sarkaz...
+
+Andoain:
+The watchman said that, not long after the bells started ringing, the Sarkaz came and knocked on his door, telling him to run, before the man died at his doorstep.
+
+Andoain:
+The watchman said that since he saw it was about to rain, he couldn't bear seeing the Sarkaz man sleep out in the streets, and so he let him into the bell tower for the night.
+
+Andoain:
+He kept complaining and kept digging. Then, when he was finished, he stood in front of the grave and sang a song that the drunkard always used to sing, even though he didn't remember how the second half went.
+
+Andoain:
+In the end, he complained a little more, and poured half a bottle on the grave.
+
+Andoain:
+The winds through hills on high...♪ Tail the hero's farflung stride...♪ Over long ways long...♪ Over briars and thorns...♪
+
+Andoain:
+Sorry, I don't remember it either.
+
+Cecelia:
+That's... the song that Mamma and Rosella taught me...
+
+Cecelia:
+So... the Sarkaz man rang the bell?
+
+Andoain:
+I think he did.
+
+Cecelia:
+So he was the hero that saved everyone?
+
+Andoain:
+Maybe. I don't know if someone like him can be called a hero, but I think most people probably wouldn't want to call him one.
+
+Andoain:
+Maybe he was just trying to help the watchman who helped him.
+
+Cecelia:
+What about you, Mister Friar? Do you think he was a hero?
+
+Andoain:
+......
+
+Andoain:
+What is a hero, Cecelia?
+
+Andoain:
+I thought about it for a long time... but I know that the answer to this question doesn't tell us who the Sarkaz man was. Rather, it tells us who I am.
+
+Andoain:
+I don't think he himself climbed up the bell tower to be a hero.
+
+Andoain:
+But it doesn't matter if we sing his praises, look at him with scorn, or even forget about him. None of that changes anything about him anymore.
+
+Andoain:
+All the questions that I pondered have nothing to do with him. Only me. Why did I witness this? What does it mean to me? How is it going to guide me forward?
+
+Andoain:
+It is always the living who are questioned.
+
+Andoain:
+But I kept thinking and thinking, what if he didn't do what he did?
+
+Andoain:
+What if he did it, but led the fanatics... the bad people to the bell tower?
+
+Andoain:
+What if the townspeople couldn't fend the bad people off even after they got woken up?
+
+Andoain:
+And what if... what if he even died on the bell tower, and no one ever found him?
+
+Andoain:
+There are no guaranteed successes, and there are no choices that are certain to be right.
+
+Andoain:
+So I came to this conclusion. On that rainy night, he climbed up the bell tower because he wanted to.
+
+Andoain:
+It's the most straightforward conclusion, out of somewhat stubborn goodwill.
+
+Andoain:
+Whether that's true or not doesn't concern him.
+
+Andoain:
+He was a hero, no different from the hero in the song.
+
+Rosella:
+The winds through hills on high...♪ Tail the hero's farflung stride...♪
+
+Cecelia:
+Over long ways long...♪ Over briars and thorns...♪
+
+Everyone starts humming the song.
+
+Their quiet singing drifts throughout the room.
+
+I feel peace.
+
+In this Lateran evening.
+
+A peace that I have not known for a long time.
+
+Cecelia:
+Are you thinking something, Mister Friar?
+
+Andoain:
+No, nothing at all.
+
+Andoain:
+Thank you, Cecelia.
+
+Cecelia:
+You're looking at something...
+
+Cecelia:
+Is that a bell tower?
+
+Andoain:
+It's Laterano's bell tower. A very, very old tower made of stone. I often went there when I still lived in Laterano. It was so close to Heaven.
+
+Cecelia:
+Heaven... Is that where Mamma is?
+
+Andoain:
+If that's where you wish for her to be, that's where she is.
+
+Cecelia:
+Mister Friar, could you help me with something?
+
+
+

@@ -1,0 +1,695 @@
+Broadcast:
+Attention all residents of Zeruertza. It's a fine day.
+
+Broadcast:
+The results of Master Edge's survey have just been made available.
+
+Broadcast:
+The active Originium vein is set to explode in approximately 25 days.
+
+Broadcast:
+Zeruertza is officially entering the preparatory phase of evacuation, commencing now.
+
+Broadcast:
+Following discussions between your representatives, a general meeting will be held at a suitable timeslot in the forum.
+
+Broadcast:
+At that time, we will discuss the specifics of our evacuation program, as well as the dressing of our doomed city.
+
+Broadcast:
+Residents of Zeruertza, stay tuned for further broadcasts.
+
+Catch Lightrace:
+Deculture. Wake up, Deculture.
+
+A Sleeping Deculture Silvermint:
+...good boy, Robot Stitch.
+
+Catch Lightrace:
+...Deculture. Deculture.
+
+A Sleeping Deculture Silvermint:
+You're so silly, Robot Catch.
+
+A Sleeping Deculture Silvermint:
+Let's have the both of you fight.
+
+Catch Lightrace:
+What in all of love are you dreaming about?
+
+Catch Lightrace:
+DECULTURE! WAKE UP!
+
+Deculture Silvermint:
+Hmnuh? Whazzwha?
+
+Catch Lightrace:
+You know... I'd like to ask why you're taking a nap in Stitch's garden again.
+
+Deculture Silvermint:
+Because it's so peaceful here.
+
+Catch Lightrace:
+You must have missed the broadcast as well, seeing how cold you were out.
+
+Deculture Silvermint:
+Did something happen?
+
+Catch Lightrace:
+Master Edge went to the other shore, did his survey, and found an Originium vein got shifted close to the tunnel entrance by the earthquake from before, and it's shockingly active too.
+
+Catch Lightrace:
+We're going to hold a general meeting, and decide on how we take refuge.
+
+Deculture Silvermint:
+Oh.
+
+Deculture Silvermint:
+You didn't come here just to tell me that, though, did you?
+
+Catch Lightrace:
+...Right.
+
+Catch Lightrace:
+I'm looking for Stitch.
+
+Deculture Silvermint:
+If you want Stitch, I think he's ridden the boat I lent him to the other shore, to meet Master Edge and the others.
+
+Catch Lightrace:
+Really? I'll wait for him here, then.
+
+Deculture Silvermint:
+Do you need him for something?
+
+Catch Lightrace:
+Yes. I'm hoping... he'll return to the design department and work with us in amending the dome plans.
+
+Catch Lightrace:
+Since Zeruertza's facing destruction, there's no sense in holding the landmark competition anymore, but we're lucky to still have some time.
+
+Catch Lightrace:
+So, we'll have to make a decision at the meeting regarding how to handle that hole the earthquake left in the dome.
+
+Deculture Silvermint:
+I dunno, just leaving it sounds fine to me. Thoughts?
+
+Catch Lightrace:
+Even if we wanted to, we'd need the citizens to approve that first.
+
+Catch Lightrace:
+It's an extremely significant thing to any architectural designer, letting a city reach perfection during its final moments.
+
+Catch Lightrace:
+We're giving the city a final round of observation, and putting out a plan we can fulfil in the finite time we have.
+
+Deculture Silvermint:
+So, you're hoping Stitch will return.
+
+Catch Lightrace:
+Right.
+
+Catch Lightrace:
+I don't know why Master Finch left, all of a sudden. Others might believe their tutor-apprentice relationship was fading, or their time was just up, but I know that can't be the case.
+
+Catch Lightrace:
+As a former assistant to Master Finch, I know more than anyone that despite his personal utter lack of inhibition, he cared very much for Stitch, from the bottom of his heart.
+
+Catch Lightrace:
+Stitch was like a son to him.
+
+Catch Lightrace:
+So his departure has to have some inextricable link to Stitch.
+
+Catch Lightrace:
+And as industrial representative, you've seen the state Stitch has fallen into since his teacher left.
+
+Catch Lightrace:
+His planning proposals kept getting overruled to the point he's slowly stopped showing up at the design department, and I've been seeing it happen and wanting to help him somehow, but I've never been able to find a way.
+
+Catch Lightrace:
+This dome was left to the city as the grandest work of Stitch's teacher, Master Finch.
+
+Catch Lightrace:
+But do you think, to Stitch, it might instead be a burden?
+
+Deculture Silvermint:
+......
+
+Deculture Silvermint:
+Even so, you don't want him left with any regrets, right?
+
+Catch Lightrace:
+Right.
+
+Catch Lightrace:
+This is our last chance, Deculture.
+
+Deculture Silvermint:
+How very you.
+
+Edge Eartheart:
+Stitch, Stitch! Are you there?
+
+Gavial:
+Huh? What are you two doing here?
+
+Elysium:
+Catch! So you and Deculture got something going on, huh?
+
+Deculture Silvermint:
+No we don't.
+
+Elysium:
+Wow, ice-cold.
+
+Catch Lightrace:
+Keep me out of your banter, Elysium.
+
+Catch Lightrace:
+Master Edge, Miss Gavial, good work.
+
+Deculture Silvermint:
+I'm just napping here, and he's waiting for Stitch to come back.
+
+Edge Eartheart:
+You're saying Stitch hasn't?
+
+Deculture Silvermint:
+Didn't he bring you and your friends the equipment? And he made kind of a whole scene about it.
+
+Edge Eartheart:
+But he vanished partway, and we don't know where he went, and here it turns out he's not home.
+
+Gavial:
+Tomimi ran into the runt, and said he looked pretty damned unhappy.
+
+Gavial:
+Any ideas?
+
+Deculture Silvermint:
+I... don't know.
+
+Catch Lightrace:
+...I might.
+
+Strange Machine:
+Zumama. Zumama. Not in this row, either.
+
+Eunectes:
+Okay, move onto the next.
+
+Avdotya:
+Ugh, this is tiring me out, a little.
+
+Avdotya:
+I can't believe we still haven't found it.
+
+Eunectes:
+Go on, take a break.
+
+Avdotya:
+About my earlier question—I'd still like to know why, Zumama.
+
+Avdotya:
+I can't imagine you've been blind to how fine life is among the Durins.
+
+Avdotya:
+There's no noble conspiracies, no scheming and jockeying—and even if there is, it's just plain adorable.
+
+Avdotya:
+Even as we're on the verge of calamity, the Durins have sufficient contingency plans in place, and they even have the leisure at this moment to consider—
+
+Avdotya:
+How Zeruertza can greet its destruction in the best condition they can imagine.
+
+Eunectes:
+I'm not denying any of that, Avdotya.
+
+Eunectes:
+I think you're pretty on point. Durin life's not bad.
+
+Eunectes:
+I'm not refusing you because I think what you're saying is wrong, it's because... I don't like it.
+
+Eunectes:
+If there was a Tiacauh who wanted to come live underground, then I wouldn't stop them, and neither would Inam.
+
+Avdotya:
+But why? I'm not just rejecting surface life out of my own experiences.
+
+Avdotya:
+I've thought over this countless times, spending my days in the Durin cities.
+
+Avdotya:
+I believe, and results show, the Durins live an undoubtedly better life, one more in pursuit of culture.
+
+Avdotya:
+But why would you, or Gavial, or anyone not want a better life?
+
+Eunectes:
+......
+
+Eunectes:
+My master isn't just wildly proficient with machines. She's really into movies, and dramas too.
+
+Eunectes:
+She gets me watching all sorts of stuff, and she doesn't even care if I'm interested—she explains it all to me. I've ended up remembering a few things, over time.
+
+Eunectes:
+For example, when she sees a character about to go on a long speech, she always says—
+
+Eunectes:
+'Ugh, long-winded righteous guys like this either turn out as villains, or they just get in the protag's way. Can't they just make their characters a little cuter...?'
+
+Avdotya:
+......
+
+Eunectes:
+Why do you need to convince me, or Gavial?
+
+Avdotya:
+I...
+
+High Priest:
+Oh, and might I add, young lady, your view of the Durins is actually quite wide of the mark.
+
+Avdotya:
+In what way?
+
+High Priest:
+If you'd said life in the Durin city-states was more 'on-demand,' or 'cozier,' or 'safer' of a life, I wouldn't retort.
+
+High Priest:
+But you hold that the Durin lifestyle is a 'better' life, and dare I say, that alone may well be wrong.
+
+High Priest:
+You're a clever child. I'm sure the distinction there doesn't fly past you.
+
+Avdotya:
+Good sir... I—I'm calling you that for now. I understand what you mean.
+
+Avdotya:
+But can you really say it's wrong for me to wish for others to live a more materially, spiritually plentiful life?
+
+High Priest:
+That's a different question. You're simply looking to redeem a little of the prestige you lost in an argument that's long since ended, no?
+
+Avdotya:
+......
+
+Gavial:
+So basically, you think the pressure to Stitch's mind, so he chose to run?
+
+Catch Lightrace:
+Exactly.
+
+Catch Lightrace:
+And if so, my bet is he's gone to a hut by the lakeside.
+
+Catch Lightrace:
+Before he moved into this building, that was where he and his teacher lived together.
+
+Edge Eartheart:
+Catch, you know what I want to say here, don't you?
+
+Catch Lightrace:
+If we end up deciding to amend the dome design, and Stitch is still unwilling, then it's down to me, right?
+
+Edge Eartheart:
+It's not just for the sake of dressing the city. From a realistic standpoint, reinforcing the dome'll buy us more time to evacuate.
+
+Edge Eartheart:
+Finch and I were good friends, and I couldn't make sense of him leaving without a word either, so I'd been wanting to look after his student as best I could.
+
+Edge Eartheart:
+There's a boundary to everything.
+
+Catch Lightrace:
+Miss Gavial... can we trouble you to go find Stitch?
+
+Gavial:
+You didn't need to ask—I was gonna. Tomimi volunteered to help the city people out with stuff, and having an empty plate bugged me.
+
+Gavial:
+I think him and I have a little debt to settle at this point, too.
+
+Catch Lightrace:
+Then I'll leave it to you.
+
+Gavial:
+Where's that hut?
+
+Catch Lightrace:
+Just on the lakeside, similar style to this building. Very unique. You'll see it the moment you get there.
+
+Gavial:
+You got it.
+
+Elysium:
+Catch, aren't you gonna go?
+
+Catch Lightrace:
+I... I don't know how I should face Stitch, under these circumstances.
+
+Elysium:
+But you're worried sick for him, aren't you?
+
+Catch Lightrace:
+Ever since Master Finch vanished, I've been wanting to help him, but I just don't know how.
+
+Elysium:
+C'mon. Do I diagnose you with 'too nice,' or 'way way way too nice?'
+
+Elysium:
+Nah, I guess you Durins do give me that kind of vibe, on the whole.
+
+Catch Lightrace:
+Eh?
+
+Elysium:
+For reasons I don't know either, Stitch actually has kind of an inferiority thing.
+
+Elysium:
+With his type of personality? You greet him with what you think is an equal approach, but to him, it actually comes off like a sort of pressure from on high.
+
+Elysium:
+Because for him, it takes everything he's got just to pretend he's on the same level as you guys.
+
+Elysium:
+You can't just invest some sincerity and expect results when it comes to communicating.
+
+Catch Lightrace:
+So, what should I do?
+
+Elysium:
+Well, alright. You treat me like a brother, in times like these, I'll teach you a thing or two, just how brothers should.
+
+Elysium:
+It's actually real simple. You don't say anything like 'I want a fair competition with you,' and you don't say to him, 'you've got a choice.'
+
+Elysium:
+You seal off his escape route, and you tell him, 'you've got no choice, but I'll be right there with you, and we'll do our best.'
+
+Elysium:
+A man who spends too long shut in his own self-made space tends to need a little prodding, from time to time.
+
+Elysium:
+Miss Deculture, what do you say?
+
+Deculture Silvermint:
+Why ask me?
+
+Elysium:
+I'm just making some of my own guesses here, but you, you clearly know him better than anyone.
+
+Deculture Silvermint:
+Stitch does have a sort of inferiority complex.
+
+Deculture Silvermint:
+You might just be right. He doesn't need tender comfort, he needs someone to really yank him out.
+
+Catch Lightrace:
+Won't that... hurt him?
+
+Elysium:
+It will, and it's not guaranteed to turn out pretty.
+
+Elysium:
+But if this is his last chance, as you say—
+
+Elysium:
+Then you ask yourself too, do you just want to get along better with him, or do you want him to make his way out, even if it makes your relationship worse?
+
+Catch Lightrace:
+......
+
+Catch Lightrace:
+I'll give it a try.
+
+Elysium:
+Then I think you oughta speed it up.
+
+Elysium:
+Or we get Gavial's fists instead, and those sure don't settle for 'yank him out.'
+
+Catch Lightrace:
+Haha, I'll get going now, then!
+
+Deculture Silvermint:
+......
+
+Deculture Silvermint:
+......
+
+Deculture Silvermint:
+Lively, extroverted, grasps social contact. They're all fine character traits, Catch.
+
+Deculture Silvermint:
+You believe people should become that way, and you do work to see that happen.
+
+Deculture Silvermint:
+But you can't always hope for everyone else to be like you.
+
+Deculture Silvermint:
+Elysium's right too, and if I'm going to help Stitch, maybe that's what I need to do.
+
+Deculture Silvermint:
+But I think distress and evasion are just as correct, too.
+
+Deculture Silvermint:
+So...
+
+Deculture Silvermint:
+Catch, seeing as you're going to do things your way, I'll do things my way.
+
+Deculture Silvermint:
+If Stitch wants to run, I'll help him run.
+
+Strange Machine:
+Deculture. Deculture. Do you need us?
+
+Deculture Silvermint:
+Go. Help Stitch out.
+
+Elysium:
+If Miss Deculture wasn't doing it on purpose, then she doesn't realize just how easy it actually is to read her face.
+
+Elysium:
+She doesn't agree with what I say at all, heheh.
+
+Elysium:
+Man—I haven't felt this youthful a vibe in forever. It makes me wanna join in on the fun a little.
+
+Elysium:
+......
+
+Elysium:
+Nah. If I did go, I might just get swept in by Gavial.
+
+Elysium:
+I don't want to be beaten for no good reason.
+
+Elysium:
+Okay, Stitch! You'd better shake up and wake up.
+
+Elysium:
+Turn a blind eye to all these guys who want to help you, and you don't know how it might come back to haunt you.
+
+Avdotya:
+I don't understand. You people clearly aren't as unreasonable as Gavial.
+
+Avdotya:
+Why do you insist so much on—
+
+Avdotya:
+Indulging her?
+
+Inam:
+I ask you, do you not look at Gavial and feel that we need someone like her?
+
+Eunectes:
+Inam, weren't you waiting outside?
+
+Inam:
+You spent so long in here, I thought you were up to something...
+
+Inam:
+Avdotya, you and I happen to be similar in ways.
+
+Inam:
+A huge part of why I came to serve as Acahualla's Messenger was that I wanted to escape the unending strife between the lords ameer.
+
+Inam:
+Acahualla has nothing to speak of, but life here is extremely comfortable. I'm a big fan of this land.
+
+Inam:
+And also, if we're raising worries, then I'm more worried than you about the Durins' showing up causing issues.
+
+Avdotya:
+Then why are you still...
+
+Inam:
+Gavial's been gone from Acahualla for so many years, and hasn't changed one bit.
+
+Inam:
+As if nothing, anywhere, across all the four corners could make her surrender.
+
+Inam:
+When I see Gavial, I think to myself, 'ah—so people like you still exist.'
+
+Inam:
+I can't help but want to help her.
+
+Inam:
+It's that simple.
+
+Eunectes:
+......
+
+Eunectes:
+Before I left Acahualla with Gavial, I was completely ignorant.
+
+Eunectes:
+I've seen so many things with Rhodes Island, but I've slowly realized that what I'm really learning isn't just knowledge.
+
+Eunectes:
+There's so much across the world that I've never thought of, that at the same time is exactly how you should expect.
+
+Eunectes:
+I'm sure Gavial's seen plenty where she's just as powerless too.
+
+Eunectes:
+My dream is to build the mightiest machine in any land.
+
+Eunectes:
+But truth is, I still haven't figured out what I should use it for when I'm done.
+
+Eunectes:
+Still, seeing Gavial, I've gradually gotten some sort of idea.
+
+Eunectes:
+The machines I make will be used to help her.
+
+Eunectes:
+There'll come a day when Gavial's fists meet a wall they can't break through.
+
+Eunectes:
+But that's not a problem with her. She's flesh and blood too, after all.
+
+Eunectes:
+And just like I've done here and now, I'll give her the greatest weapon.
+
+Eunectes:
+If fists won't do it, then take an axe. If an axe won't do it, then take a hammer. If a hammer won't do it, then take a drill. If a drill won't do it, then I'll build her an entire Big, Ugly Thing.
+
+Eunectes:
+And if a Big Ugly won't do it, then I'll build her a nomadic city, and whatever she wants to do with that, she will.
+
+Avdotya:
+You really trust her that much?
+
+Eunectes:
+I do. Because Gavial stands for Acahualla better than anyone or anything ever could.
+
+Eunectes:
+She's the backbone of us, and in future, she'll be the backbone of even more.
+
+Eunectes:
+And it's in our power, our own power, to make sure Gavial's fists are unhindered for eternity.
+
+Avdotya:
+......
+
+Inam:
+Of course, realistically, I'm just as worried what leaving Acahualla to her purview will result in.
+
+Inam:
+With Gavial's temperament, giving her authority might discomfort the powers more than it will her.
+
+Inam:
+So, if she really was going to serve as lord ameer, I was planning to thoroughly groom her for it for a stretch.
+
+Eunectes:
+It probably wouldn't have done anything.
+
+Inam:
+Haha, I think so too.
+
+Inam:
+But even I never pictured I'd be willing to go so far for her.
+
+Avdotya:
+......
+
+Inam:
+Your experiences have taught you to doubt people like Gavial from the start.
+
+Avdotya:
+I don't deny that.
+
+Inam:
+So, maybe you can try to start by believing in her.
+
+Avdotya:
+...I'll give it an attempt.
+
+Inam:
+So. The map?
+
+Avdotya:
+Ah... I forgot.
+
+High Priest:
+Oh, I see you left it to this old codger and all these bots to actually, conscientiously search, while you were all tied up arguing in Gavial's favor.
+
+High Priest:
+And I only just realized this shelf has absolutely nothing to do with travel records!
+
+High Priest:
+So I went to the other side and took a look, and I found it straight away.
+
+High Priest:
+I think it's this we want?
+
+Avdotya:
+Yes.
+
+Eunectes:
+......
+
+Inam:
+......
+
+Strange Machine:
+Avdotya: dummy. Avdotya.
+
+Avdotya:
+Fine... I know, I was wrong, I'm sorry!
+
+Avdotya:
+Is that enough?!
+
+Croque Diamondface:
+Ah, Avdotya! Brilliant, you're still here.
+
+Croque Diamondface:
+Master Edge sent a message a moment ago. He's proposing we hold that general meeting in the forum now, and the other representatives are all in favor. Now we need your view.
+
+Avdotya:
+......
+
+Avdotya:
+Thank you, Zumama.
+
+Avdotya:
+Though I still don't entirely accept it, perhaps—I can indeed give it an attempt.
+
+Eunectes:
+Alright.
+
+Avdotya:
+Croque, tell Master Edge—I have no objections, and moreover, I'll be there to persuade the residents of Zeruertza.
+
+
+

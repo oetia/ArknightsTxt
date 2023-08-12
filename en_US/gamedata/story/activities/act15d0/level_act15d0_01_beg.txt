@@ -1,0 +1,692 @@
+Mayer:
+This... should be the place, right?
+
+Silence:
+Mm. No doubt about it.
+
+Mayer:
+Neat. Just gotta check, Silence, she really wanted to meet you here?
+
+Mayer:
+This looks like a real-ass bar. In pretty lively shape, too...
+
+Mayer:
+But nobody's home.
+
+Silence:
+True. The liquor is all laid out very tidily, with an orderly ambience to match.
+
+Mayer:
+Pretty bizarre. Should we head back, maybe? Not long till we gotta get going.
+
+Silence:
+No. Whoever invited us knows about Anthony's jailbreak, and that he's with us, on top of...
+
+Mayer:
+Of?
+
+Silence:
+We'll be heading off tonight.
+
+Silence:
+Let me check over the miscellanies one more time.
+
+Silence:
+Hm? A message?
+
+Silence:
+I don't remember anyone in this city having my contact info...
+
+Silence:
+Wait, is this... an internal band?!
+
+Silence:
+......
+
+???:
+Ms. Silence.
+
+Silence:
+Who are you?
+
+???:
+No one important. What's important is that I know you have Anthony, and you're the one who broke him out.
+
+Silence:
+...I don't know what you're talking about.
+
+???:
+No need to panic. Even if I can't prove it, you can rest assured that I'm no bad actor. Otherwise, I wouldn't go to the trouble of establishing contact with you on an inside wire.
+
+Silence:
+State your intentions.
+
+???:
+All I want is to invite you and Mayer the Engineer out, for a chat.
+
+Silence:
+......
+
+???:
+I'll take that as a yes. Now, the address is...
+
+Silence:
+On top of the fact that she sounded absolutely vile.
+
+???:
+Hearing that as soon as I come in hurts me a little, you know.
+
+Mayer:
+Whozzit?
+
+???:
+Hiya~
+
+???:
+I reserved the entire bar. It's just us three all alone here.
+
+???:
+I really wanted to chit-chat with you in a normal bar, but in the end, this isn't something we can let just anyone hear.
+
+???:
+So, sorries~
+
+Mayer:
+You're...
+
+???:
+Alright, let's all introduce ourselves.
+
+???:
+I'm the Director of Ecological, Muelsyse.
+
+Silence:
+I remember you.
+
+Muelsyse:
+Wowie, you know me? I'm blessed.
+
+Silence:
+My mentor once mentioned you.
+
+Muelsyse:
+Alright, your turn now.
+
+Silence:
+Do you need to ask?
+
+Muelsyse:
+Aww, there's a ritual to these things.
+
+Silence:
+...Structural, Silence.
+
+Mayer:
+Engineering, Lutra Workshop, Mayer.
+
+Muelsyse:
+I hear you're all with an organization called Rhodes Island now.
+
+Muelsyse:
+How'd you get mixed up in this, then?
+
+Silence:
+...None of your business.
+
+Mayer:
+Don't tell me you were behind all this...
+
+Muelsyse:
+Keheh. I dunno, what do you think?
+
+Silence:
+No, likely not.
+
+Muelsyse:
+Ooh? You sure about that?
+
+Silence:
+If you could find us yourself, there's no reason you wouldn't know that Anthony has long since left Columbia.
+
+Silence:
+If you were the hand behind the curtain, a priori, there's absolutely no reason to seek us out.
+
+Muelsyse:
+Hmhmm. True, true.
+
+Muelsyse:
+If I'm the hidey-hand, I should be running around headless right now looking for Anthony, huh?
+
+Muelsyse:
+But something tells me they won't lie down and take it, ya know? Your bodyguards have any idea how tough they are?
+
+Silence:
+...Don't worry yourself.
+
+Muelsyse:
+You sure, eh? Worry I won't, then.
+
+Mayer:
+Uh, Silence, time out. If she's not behind all this, then she's...
+
+Silence:
+It's not clear to me yet either.
+
+Silence:
+But you're linked to this case, and you want something out of us here.
+
+Muelsyse:
+This is why you were Director Parvis's star pupil over in Structural. You're a real smarty. I love chatting it up with people like you.
+
+Silence:
+Don't change the subject, Director Muelsyse.
+
+Silence:
+Anthony left Columbia. His assassination has failed. Mayer and I are ordinary people who just so happened to have come to Columbia.
+
+Silence:
+What is it you could want from us, all told?
+
+Muelsyse:
+Aww, relax a little.
+
+Muelsyse:
+I'm ordinary too! Just a researcher here. I pose no imminent threat to you~
+
+Muelsyse:
+The booze in this bar's four-star, at least. Wanna sit down and chat over some drinks?
+
+Silence:
+......
+
+Mayer:
+Hey. You think we can, Silence?
+
+Silence:
+Oh, fine. I've got things I want to know, too.
+
+Mayer:
+Sweet. Lemme take a look, then... I waaant this one!
+
+Muelsyse:
+Ooh, you've got a sharp eye. I like the Riesling a lot. Not too high proof, but the aroma can strongarm you.
+
+Mayer:
+Huh? I'm not actually that good with alcohol...
+
+Muelsyse:
+Then let me recommend a fruit wine. Very low alcohol content, very friendly flavor.
+
+Mayer:
+Really? I'll give it a shot, then.
+
+Muelsyse:
+Goodie. What about you, Ms. Silence?
+
+Silence:
+Plain hot water will be fine.
+
+Muelsyse:
+Aww, you come to a place like this and don't even wanna try anything more fun?
+
+Silence:
+I'm not interested.
+
+Muelsyse:
+Fiiine, fine.
+
+Muelsyse:
+Alright, ladies, have a seat.
+
+Silence:
+Thank you.
+
+Mayer:
+Whoa. This is actually really tasty.
+
+Muelsyse:
+Glad you like it.
+
+Silence:
+Can we get to the topic at hand?
+
+Muelsyse:
+We can.
+
+Muelsyse:
+Down to business, then. The way I see it, we both have questions, so we may as well trade answers.
+
+Muelsyse:
+Of course, some questions will be off limits, but let's agree not to play any boring little word games, shall we?
+
+Muelsyse:
+And in the interest of demonstrating my goodwill, I'll give you one free question before we start. Ask away~
+
+Silence:
+How did you find us?
+
+Muelsyse:
+That's a pretty... trivial first question. You sure? I thought you'd ask something more straight to the point.
+
+Silence:
+Please answer the question, Director Muelsyse.
+
+Muelsyse:
+Alright.
+
+Muelsyse:
+Whether or not you believe me, me and HydeBro's strike teams have nothing to do with each other.
+
+Mayer:
+HydeBro... They're the company who moved against Anthony in this, right?
+
+Muelsyse:
+Righty. You've got history with them. Probably don't need too much introduction.
+
+Silence:
+HydeBro. Former building materials juggernaut in Bunkerhill City. Once clashed head-to-head with the up-and-coming Simon Co.
+
+Mayer:
+Eep. They were up-and-coming back then?
+
+Silence:
+Yes. Simon Co. originally was in the logistics business. By all accounts, the call was made to move into building supplies at a board meeting.
+
+Silence:
+The company was named after the family, and half of its top-floor employees were related to the CEO, Smith Simon.
+
+Silence:
+Including the person at the heart of this affair—Anthony Simon, his one and only son.
+
+Silence:
+The short story is, whether it was over or under the table, the two companies fought it out, and they fought hard. To the point of blood, some rumors even say.
+
+Silence:
+And in the end, one can say Simon Co. lost. Ever since, HydeBro has enjoyed a very real monopoly on construction supply commerce in not just Bunkerhill, but surrounding cities as well.
+
+Muelsyse:
+Hmhmm. All correct. Gold star for you.
+
+Muelsyse:
+Ultimately, you all come together in Ironforge City and shook them off. P.S., I've gotta say you did a beautiful job.
+
+Silence:
+...But we didn't shake you off.
+
+Muelsyse:
+Ahah. Too true.
+
+Silence:
+I see you're not denying you were in league with them.
+
+Muelsyse:
+Hmm... I feel like you've got your guess, honestly speaking.
+
+Muelsyse:
+But I can tell you, I borrowed their communication channels for sure.
+
+Muelsyse:
+Not like there's room to breathe. If I didn't do this, I'd probably end up the biggest loser out of this whole thing.
+
+Silence:
+......
+
+Muelsyse:
+So, I think we can get into grilling each other now. One asks, the other answers. You start.
+
+Silence:
+No. Let's have you start, Director Muelsyse.
+
+Muelsyse:
+Whoo. Can I?
+
+Silence:
+I want to know what your game is here.
+
+Muelsyse:
+Alrighty. What I wanna know is...
+
+Muelsyse:
+Ms. Silence, how did your helper get in touch with Anthony, and aid him in a successful jailbreak, while in prison? I want a grasp on how that went down.
+
+Silence:
+...?
+
+Silence:
+That's all in the past. Why do you want to know about it?
+
+Muelsyse:
+Because I don't get how this jailbreak happened at all.
+
+Muelsyse:
+The only parts I understand are the beginning—
+
+Muelsyse:
+—HydeBro initiated this assassination plot they'd been brewing forever against Anthony Simon—the last of the Simons—who was locked up in Mansfield State Prison.
+
+Muelsyse:
+And then the very end—
+
+Muelsyse:
+—where Anthony led a group that successfully escaped Mansfield, and then met up with you two, and made it out of Columbia.
+
+Muelsyse:
+As for everything in between... well, I had a chance to find out, but that's slipped away by now. Very sad about that.
+
+Muelsyse:
+So I want to hear it from you. Just what happened?
+
+Silence:
+This is not fair at all.
+
+Muelsyse:
+Relax, I'm not here to try and get the whole thing in one single question.
+
+Muelsyse:
+You can toss out your own questions when you see fit, and I'll do my bestest to answer.
+
+Muelsyse:
+Of course, I might have other questions too, but prooobably not that many~
+
+Muelsyse:
+Okay, being serious, we're only doing this I-ask-you-ask because we still don't know each other that well.
+
+Muelsyse:
+Who can say if once we become friends, we'll let all the beans spill~
+
+Silence:
+...I do not intend to become your friend, and this is going to take an awful amount of time.
+
+Muelsyse:
+Aren't you 'just ordinary people in Columbia' right now? You're not in any sort of rush, are you?
+
+Muelsyse:
+Of course, you're free to turn tail and leave, but. First thing: I have no way to guarantee you'll actually make it out.
+
+Muelsyse:
+Second thing: I have no idea how much you really know, but this is probs your one and only chance to pry intel out of me, Ecological Director Muelsyse. You really wanna let that go?
+
+Silence:
+...You're threatening me.
+
+Muelsyse:
+I'm giving you the option that's least likely to get you hurt, Researcher Silence.
+
+Silence:
+......
+
+Silence:
+Fine. I see you want to know, no matter what, and we're in no rush at all.
+
+Mayer:
+Hey, I know this story. Can I just be drawing up some plans on the side here?
+
+Silence:
+Go for it.
+
+Muelsyse:
+Kafka... was that your assistant's name?
+
+Silence:
+Yes.
+
+Muelsyse:
+Don't think I ever saw her name in any list of staff to do with you.
+
+Silence:
+She isn't a Rhine Lab employee.
+
+Silence:
+Rhine Lab would never hire her, and her interest in scientific research is roughly zero.
+
+Muelsyse:
+Huh. So how do you know each other?
+
+Silence:
+Coincidentally.
+
+Silence:
+But that's another story. All you need to know is she's a friend of mine.
+
+Silence:
+She's the one who helped me gather all my intel on the Simon family.
+
+Muelsyse:
+Ooh? She sounds like a real doer to me.
+
+Muelsyse:
+And very loyal. Not many people would become a criminal and get thrown in prison for the sake of a friend, would they?
+
+Silence:
+I remunerated her appropriately.
+
+Silence:
+And she had her own goal in being imprisoned—
+
+Muelsyse:
+Her own goal?
+
+Silence:
+According to her, she always wanted to experience true prison life, just once.
+
+Silence:
+From her angle, my request must've seemed like I was paying her for it.
+
+Muelsyse:
+...What an oddball she is.
+
+Silence:
+Undoubtedly. I can't comprehend her sort of mentality, to say the least.
+
+Silence:
+She sought out a carpenter named Mina to pose as staff when entering the prison, and she got sent in herself as a convict.
+
+Muelsyse:
+Is Mina that one Liberi in your team?
+
+Silence:
+She is.
+
+Muelsyse:
+From the sound of it, she was a total third party. Why'd you yank her into this?
+
+Silence:
+I'm not too sure, either. All Kafka said was that Mina once had Anthony's aid, and so would be willing to go inside to help him.
+
+Silence:
+The long and short of it is she accepted my request, and entered Mansfield State Prison...
+
+Kafka:
+Royal flush!
+
+Kafka:
+Ah-hah. Stayin' on top.
+
+Infected Prisoner A:
+Tsk, damnit. Lost again. Hey, Kafka, you're not cheating, are you?
+
+Infected Prisoner B:
+Ain't anyone else's fault you're bad. See? Both Kafka's hands, empty. How's she gonna cheat?
+
+Kafka:
+Yeah, 'zactly.
+
+Kafka:
+(Mumbled) Not my business you hold your cards so crappy I can see 'em.
+
+Infected Prisoner A:
+But who'da thunk it.
+
+Infected Prisoner A:
+First I saw you as some weedy little brat. My shame. You're better than I thought.
+
+Infected Prisoner A:
+And you got word from my momma! You're a real friend, fair 'n' square.
+
+Kafka:
+Hey, hey, hey, how many times I gotta tell ya? I'm already all grown up!
+
+Infected Prisoner B:
+Hahah, truth! Oughta be callin' you a 'lady!'
+
+Infected Prisoner C:
+Whoo-wee, Kafka, ma'am!
+
+Jailer:
+Hey, you lot, break time's over.
+
+Jailer:
+Back to work!
+
+Jailer:
+Anyone slacking, you can kiss goodbye to your dinner!
+
+Infected Prisoner A:
+Yeah, yeah, yeah, yeah, whatever.
+
+Infected Prisoner A:
+Pff. You're just some jailer. Who made you king?
+
+Jailer:
+What did you say? Speak up.
+
+Infected Prisoner A:
+I said, I need a toilet!
+
+Jailer:
+Hold it in!
+
+Kafka:
+These jailers have a real bad attitude...
+
+Infected Prisoner A:
+Hey, Kafka, seeing as you can get a thing or two, I'll give you some advice.
+
+Infected Prisoner A:
+Dunno where you muddled on outside, but in Mansfield, I say you'd better keep your tail between your legs, figuratively speaking.
+
+Kafka:
+Whyzat?
+
+Infected Prisoner A:
+You know well as me, this is a nomadic prison we're in.
+
+Infected Prisoner A:
+Times are it visits cities for supplies, maybe takes on a few new inmates. Otherwise, it roams around the wilderness and nobody gives a hoot.
+
+Infected Prisoner A:
+So in here, two and two can make fish. Only law is the jailers' law.
+
+Kafka:
+I guess so.
+
+Infected Prisoner A:
+Hey, sort of a bright side, though.
+
+Infected Prisoner A:
+Outside, it's just us Infected what don't get treated human.
+
+Infected Prisoner A:
+But once you're in here, you ain't treated human whoever you are. Bastards in A-Zone don't live any better than we do.
+
+Infected Prisoner A:
+I think of that, and I feel swell.
+
+Kafka:
+A-Zone?
+
+Infected Prisoner A:
+Ah, right, you're fresh. People what ain't Infected get cells in A-Zone, and us Infected get in B-Zone.
+
+Infected Prisoner A:
+That's how we know 'em by, anyway. A-Zone, B-Zone.
+
+Kafka:
+Ohh—
+
+B-Zone Prisoner A:
+Heh. Can't help but say, Kafka, you came in just the right time.
+
+Kafka:
+Uh-huh?
+
+B-Zone Prisoner A:
+Today's the big event. You're in luck, making it.
+
+Kafka:
+What's the event?
+
+B-Zone Prisoner A:
+You'll know damn soon.
+
+Kafka:
+Sure.
+
+Kafka:
+Speaking of, what's that room over there for?
+
+Kafka:
+Looks like a factory line to me. Why's it split off from our side? No one in there either.
+
+B-Zone Prisoner A:
+Where d'you mean?
+
+B-Zone Prisoner A:
+Oh, that's C-Zone's special assembly line.
+
+Kafka:
+C-Zone?
+
+B-Zone Prisoner A:
+They're the ones living in that tower dead center of the place. That's what we call C-Zone.
+
+B-Zone Prisoner A:
+Scarce few there, but they've all made major messes. They'll pretty much be serving all their lives.
+
+B-Zone Prisoner A:
+They gotta work too, but it ain't gonna be with us.
+
+B-Zone Prisoner A:
+So that's where they do it.
+
+Kafka:
+Ohh... anyone in there called Anthony?
+
+B-Zone Prisoner A:
+Anthony? Whassup, you know him?
+
+Kafka:
+Eh, I wouldn't say we know each other. Just heard he was in here too.
+
+B-Zone Prisoner A:
+Where else is he gonna be...?
+
+B-Zone Prisoner B:
+Hey. Zip it. You about ready?
+
+B-Zone Prisoner A:
+It's starting? Damn, took long enough!
+
+Kafka:
+Whassappening whassappenning?
+
+B-Zone Prisoners:
+......
+
+A-Zone Prisoners:
+......
+
+Kafka:
+Uh, why do you all look like you're getting together...
+
+B-Zone Prisoner A:
+Kafka, you're new here. Don't try anything today, save you getting hurt.
+
+B-Zone Prisoner A:
+Just grab some kinda something and hide.
+
+B-Zone Prisoner A:
+Here's a front-row ticket to Mansfield's big regular fixture—gang fighting!
+
+
+

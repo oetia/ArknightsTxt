@@ -1,0 +1,515 @@
+Hoederer:
+Didn't think I would ever see you surprised like this.
+
+Hoederer:
+I gave you a hint, after all.
+
+W:
+That rock? Very funny.
+
+W:
+I thought...
+
+Hoederer:
+Who did you think would come? Manfred?
+
+W:
+I'm thinking Theresis must be getting senile if he let you live. You even get to roam around Londinium like this?
+
+W:
+I thought you guys were long dead, since I haven't heard anything from you in ages.
+
+Hoederer:
+......
+
+W:
+Well... you know what they say about assuming? See, you were right. I've become sentimental, almost forgot we're mercs.
+
+Hoederer:
+Your detonator hand slowed down, W.
+
+W:
+And your hand isn't trembling this time.
+
+Hoederer:
+What about those mercenaries you brought from Reunion? Did you really come alone?
+
+W:
+Why would I bring them? So that they could get bought out by the Regent, like you?
+
+Hoederer:
+Looks like you care about them. No wonder I didn't see any familiar faces.
+
+W:
+Speak for yourself. I saw lots of old friends in Londinium.
+
+Hoederer:
+You really like headhunting under my nose, don't you?
+
+W:
+Let me guess, Schwab is dead, isn't he? You killed him, didn't you, Hoederer? He knew you longer than he knew me, right?
+
+W:
+Did your hand tremble when you killed an old friend? One who carried you on his back for an entire day, dodging dozens of Theresis's killers?
+
+Hoederer:
+You're remembering it wrong. He was gone by the Battle for Rhodes Island.
+
+W:
+Alright, you've always had a better memory than me for the people we fought with.
+
+W:
+I've always wanted to ask... does it make you feel better to remember the dead?
+
+Hoederer:
+......
+
+W:
+I don't think so. I can see it in your eyes. Your dreams haunt you now more than ever.
+
+Hoederer:
+I've known you for as long as you've known me.
+
+Hoederer:
+You're only trying to hide your own feelings when move to provoke me like that.
+
+W:
+Ha, like you'd know.
+
+Hoederer:
+In the old days, you would have thrown out those useless resistance fighters as bait.
+
+Hoederer:
+If someone told me that W volunteered to be the rear guard, I would have told them to find a funnier joke.
+
+Hoederer:
+Did your time in Chernobog drive you mad, W?
+
+Hoederer:
+Did Talulah burn your brains out, or are you seeing the shadows of the dead?
+
+W:
+The mad never admit their madness, right? How do you know I'm the one who's mad?
+
+W:
+Schwab's head isn't enough to buy Theresis's trust. What was the price you had to pay?
+
+W:
+Could it have been her? Don't tell me...
+
+Hoederer:
+Don't even say it.
+
+W:
+Oh? There's a reaction.
+
+Hoederer:
+We've done all we could.
+
+Hoederer:
+You were too slow, W.
+
+W:
+Did I hear that right? Are you looking for an excuse for your screw-ups? Who was it who told me he had a plan for everything?
+
+Hoederer:
+When do you think I lost my eye?
+
+W:
+You don't mean that Ines...
+
+Hoederer:
+Yes, she's dead.
+
+W:
+Again?
+
+W:
+I'm not...
+
+Hoederer:
+Mercenaries pay a price for breaching trust. I've paid mine.
+
+Horn:
+We're out.
+
+Robben:
+We've been lucky, haven't we?
+
+Robben:
+The Sarkaz got drawn to the explosions in the south. The ones guarding the interrogation room got taken out by Dublinn.
+
+Horn:
+Nothing good comes of relying on luck in battle.
+
+???:
+Ha. Did you think you would have lived this long, if not for lady luck?
+
+Horn:
+—
+
+Prisoner:
+W-Who's she? Did they escape from the interrogation room too? Are they friends?
+
+Horn:
+Enemies.
+
+Horn:
+(Aim.)
+
+Horn:
+(But hold your fire.)
+
+Mandragora:
+Can't talk without your crossbow raised, soldier? Don't think I didn't know you only got out by following us.
+
+Horn:
+You want me to thank you? Then you'd better take a trip with me to the hardest prison in Londinium.
+
+Mandragora:
+......
+
+Mandragora:
+I'll give you credit.
+
+Mandragora:
+You're not like the nobles that seep oil from every pore.
+
+Mandragora:
+They're the ones who kneel before anyone to cling to their way of life. Sarkaz or Dublinn... it makes no difference to them.
+
+Mandragora:
+You, though... you just won't give up. You're like flies, getting in my way no matter where I go.
+
+Horn:
+That's my line.
+
+Mandragora:
+Why you...!
+
+???:
+*Cough* *cough* Mandragora...
+
+Horn:
+Your friend's in pretty bad shape.
+
+Mandragora:
+Same to those soldiers behind you.
+
+Horn:
+Looks like we're both in a hurry.
+
+Mandragora:
+......
+
+Mandragora:
+It's a shame that I don't have time for you today.
+
+Horn:
+Suits me just fine.
+
+Horn:
+Make way.
+
+Mandragora:
+......
+
+Mandragora:
+Let's go.
+
+Mandragora:
+By the way, soldier—
+
+Horn:
+Huh?
+
+Mandragora:
+You had better not die at the hands of the Sarkaz...
+
+Mandragora:
+Before I have the chance to impale you with my rock.
+
+Robben:
+Whew... they're gone.
+
+Horn:
+Good. Save your ammo for the Sarkaz.
+
+Robben:
+Do you mean...?
+
+Horn:
+Don't you think it's too easy?
+
+Horn:
+Whoever Dublinn took from the interrogation room, I doubt the Sarkaz would let them go so easily.
+
+Horn:
+Or us, for that matter.
+
+Amiya:
+Do you have everyone, Lady Heidi?
+
+Heidi:
+Yes, Amiya. They're all here.
+
+Amiya:
+Careful!
+
+Amiya:
+Let the weakest go first. We'll take care of any pursuing mercenaries.
+
+Amiya:
+Feist, can you still fight?
+
+Feist:
+Of course.
+
+Feist:
+Hang on tight, Bill. Things could get bumpy.
+
+Closure:
+More enemies ahead! They must have come in from another entrance!
+
+Sarkaz Warrior:
+Target found!
+
+Sarkaz Warrior:
+Over here! Get them!
+
+Morgan:
+Hey, don't run too fast. Got to keep a pair of eyes in the back of your head when moving.
+
+Dagda:
+A few got away.
+
+Morgan:
+Still not enough?
+
+Morgan:
+Get that caster first. Don't let him cast any Arts on our wounded.
+
+Amiya:
+Thank goodness you are back.
+
+Morgan:
+We aren't late to the party, are we?
+
+Morgan:
+Whew... Doctor, you didn't tell me there was only one fighter meeting up with us.
+
+Morgan:
+You know, Doctor, the more I learn about Rhodes Island, the more mysterious it seems.
+
+Morgan:
+But at the end of the day, the most mysterious one is always you.
+
+Morgan:
+You always have a card up your sleeve, don't you?
+
+Morgan:
+On this point, we're the same.
+
+Morgan:
+It looks like the Sarkaz have been drawn over here. But we didn't see many souls on the way.
+
+Morgan:
+The ones holding off the enemies inside... I'm worried about them.
+
+Amiya:
+I'm worried about W...
+
+Morgan:
+W? The one who made such an impression on all those operators at Chernobog?
+
+Amiya:
+Er, yeah.
+
+Morgan:
+Rhodes Island really IS filled with talent.
+
+Amiya:
+We have a... temporary understanding.
+
+Amiya:
+Doctor, I felt something eerie in her gaze when she said she was looking for Lady Heidi.
+
+Amiya:
+Her emotions can be unusual, but there are times that she doesn't try to hide them. Her eyes don't lie at times like that.
+
+Amiya:
+The last time I saw that look from her was when she was yelling at me for the codes to stop the core city.
+
+Amiya:
+Is she still hiding something?
+
+Amiya:
+Alright... I trusted her once, I'll trust her again.
+
+W:
+Huff... huff...
+
+Hoederer:
+You're bleeding a lot.
+
+W:
+You've got a few holes in you.
+
+Hoederer:
+You should have hidden another bomb on yourself, like you used to. That way, you'd at least have a chance to take me down with you.
+
+W:
+*Cough*... Hoederer...
+
+W:
+How much is my head worth? Enough to buy a small house in Londinium?
+
+Hoederer:
+Sorry, W. The Regent has better things to do than remember the name of a random merc.
+
+W:
+Ha... did you say that to Ines too? Before she gave her life for your little dream?
+
+Hoederer:
+Still talking big, eh?
+
+W:
+What were you expecting? A big laugh and a standing ovation for your dumb shit? No tears on my face, Hoederer. That's not like me.
+
+Hoederer:
+Who's the dumb one? You're on the ground, not me.
+
+W:
+Like I said, I'm just... a little surprised.
+
+Hoederer:
+So surprised you missed multiple chances to maim me?
+
+Hoederer:
+Now that's not like you, W. What made you lose your cool?
+
+W:
+Let's see... how about an old friend coming back from the dead and trying to put his sword through me?
+
+Hoederer:
+I can believe that.
+
+Hoederer:
+W... who is this old friend you're talking about?
+
+W:
+That's what I don't like about you... You always think you can see right through me, same as her.
+
+Hoederer:
+Too bad for you, I'm right again.
+
+Hoederer:
+It's been a while since you snuck into Londinium. There aren't too many distractions like this in here. What did you see in the city?
+
+W:
+You're the one following Theresis, not me. Have you not kowtowed to his traitor throne enough times? Still can't see through his tricks?
+
+Hoederer:
+So you knew.
+
+W:
+Stop playing this game of you-know I-know. Look like a mercenary for once, Hoederer.
+
+Hoederer:
+I can't let you leave here alive, W.
+
+Hoederer:
+Of all the old friends that I've killed... you're probably the one who could best understand the choice I'm making.
+
+W:
+Now who's indecisive?
+
+W:
+I'm not taking my eyes off you. I want to see the Sarkaz who had the nerve to put his sword through me.
+
+Hoederer:
+Alright then.
+
+Hoederer:
+Goodbye, W.
+
+Hoederer:
+...Huh?
+
+Hoederer:
+Something deflected my sword... a dagger? Where did it come from?
+
+???:
+Don't move.
+
+Hoederer:
+......
+
+Hoederer:
+............
+
+Hoederer:
+It's been a long time, Ascalon.
+
+W:
+......
+
+W:
+Hey...
+
+Ascalon:
+Same to you. Don't move.
+
+W:
+*Cough* Or what?
+
+W:
+Wait, you came to save me, right?
+
+Ascalon:
+......
+
+W:
+Don't tell me you came to help him? Don't you know what Theresis did to her—
+
+W:
+......
+
+W:
+Maybe work on your aim? I just barely dodged that, what with my injuries and all.
+
+Ascalon:
+Too bad.
+
+W:
+......
+
+Hoederer:
+......
+
+W:
+You know you can't kill me now, right?
+
+W:
+You've been my boss, and I've been yours. But there's someone here who's been boss to both of us. And she's clearly not in a good mood.
+
+Hoederer:
+I know. Our heads could drop off our shoulders at any moment.
+
+Hoederer:
+I have nothing else to say.
+
+Ascalon:
+...W.
+
+Ascalon:
+Each word will make you bleed a little faster.
+
+W:
+I know, thanks for the concern.
+
+W:
+Looks like you'll have to accept a little failure if you don't want to die here together, 'Captain' Hoederer.
+
+
+

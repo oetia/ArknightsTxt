@@ -1,0 +1,725 @@
+Ash:
+We've arrived at Magnethill No. 2. Repeat, we've arrived at Magnethill No. 2.
+
+Ash:
+Iana, Ela, report the situation on your end, over.
+
+Ela:
+Business as usual. Just putting in the finishing touches.
+
+Ela:
+Over.
+
+Ash:
+Ela?
+
+Ela:
+Iana, enemy incoming!
+
+Iana:
+In position!
+
+Iana:
+Gemini Replicator activated!
+
+Ela:
+Mines deployed!
+
+Ela:
+If the intel we got is correct, this should be the last batch!
+
+Ela:
+We'll head towards you after we clean up over here!
+
+Ela:
+Gówno!
+
+Ela:
+Ela, ending communication!
+
+Ash:
+So that's the situation...
+
+Blitz:
+Just sit back and leave it to the Poles.
+
+Blitz:
+I already hear the sound of Grzmot mines going off. They'll be just fine.
+
+Ash:
+And you, Blitz, you're supposed to be doing your job. Namely, standing guard.
+
+Blitz:
+Whatever you say, ma'am.
+
+Ash:
+Pay attention to the meter's readout. The intel shows that there's nuclear waste sealed inside this building.
+
+Ash:
+Frost, how far until our objective?
+
+Frost:
+After we pass through the checkpoint and the storage room, the main laboratory should be right there.
+
+Frost:
+The drones showed that the mercenaries set up some simple fortifications at and around the checkpoint.
+
+Frost:
+No bunkers, no dead ends. The entrance has been sealed shut, and they've laid a lot of barbed wire all around.
+
+Ash:
+Their numbers?
+
+Frost:
+Nine. Their rough positions have been marked on the team terminal.
+
+Frost:
+The entrance of the long corridor leading from the checkpoint into the storage room has been completely sealed, and the drones haven't been able to get in any farther.
+
+Frost:
+Report complete.
+
+Ash:
+Any other entrances?
+
+Frost:
+None that I can see.
+
+Ash:
+Okay, I'll take care of this.
+
+Ash:
+Do you have any suggestions, Lord?
+
+Tachanka:
+I still have some extra incendiary rounds. How many do you need?
+
+Ash:
+Two should do.
+
+Tachanka:
+Got it.
+
+Ash:
+The checkpoint entrance's full of obstacles. Blow it up, and the rubble's just going to be in the way.
+
+Ash:
+Here's the plan. We'll blast the ceiling and the wall on the right. One of us will rappel in from the top and provide cover fire. The rest of us will breach from the right side.
+
+Ash:
+Frost, you're on cover fire and support.
+
+Frost:
+Understood.
+
+Ash:
+Once the charges go off, Tachanka, drop a grenade from up top. The rest of us will throw flashbangs at the designated locations.
+
+Ash:
+On the ground, we'll head inside in this order: Blitz, Ash, Tachanka. Look alive out there. Don't let this opportunity slip away.
+
+Ash:
+If you have any questions, it's now or never.
+
+Ash:
+You all ready? Good. Take position.
+
+Ash:
+Frost, on your mark, that's when we'll begin.
+
+Frost:
+I'm heading to position.
+
+Frost:
+Breach Charge is hot.
+
+Blitz:
+Explosives ready to go.
+
+Ash:
+Ready!
+
+Frost:
+Flashbangs!
+
+Tachanka:
+Throwing frag grenade! !
+
+Ash:
+Move! Move! Move!!!
+
+Frost:
+Enemy down!
+
+Ash:
+Blitz, two o'clock!
+
+Frost:
+Frag out!
+
+Frost:
+Machine guns! Ten o'clock!
+
+Tachanka:
+I'll provide cover fire. The rest of you, move up!
+
+Ash:
+Firing Breaching Round!
+
+Ash:
+Fortifications down!
+
+Blitz:
+There goes the bad guys!
+
+Frost:
+Three more! Straight ahead!
+
+Frost:
+Two!
+
+Ash:
+Clear!
+
+Blitz:
+Clear!
+
+Frost:
+Clear!
+
+Tachanka:
+Clear!
+
+Ash:
+Everybody okay?
+
+Ash:
+Alright, let's keep moving.
+
+Ash:
+Frost, watch our six!
+
+Frost:
+Understood!
+
+Ash:
+I'll open the door.
+
+Ash:
+Blitz, stay alert. Tachanka, use the drone and check out the hallway and the storage room's status.
+
+Tachanka:
+I am on it.
+
+Ash:
+Sure.
+
+Ash:
+How is it looking up ahead?
+
+Tachanka:
+The storage room was filled with ammo and supplies. They had been stationed here for some time.
+
+Tachanka:
+There are no hostiles in the storage room. Just black crystals on some petri dishes.
+
+Ash:
+Is it a threat?
+
+Tachanka:
+Hard to say.
+
+Blitz:
+What's this stuff inside the cans?
+
+Tachanka:
+Glowing mineral crystals. Never seen them before.
+
+Ash:
+Minerals. Composites. As long as they are glowing, they might be radioactive.
+
+Blitz:
+Don't worry. Geiger's not reacting to anything.
+
+Ash:
+Then let's leave them be and go straight in.
+
+Ash:
+Time's a wasting, team. Let's move.
+
+Iana:
+Ash, this is Iana.
+
+Iana:
+We have just taken care of the enemy, but they have blocked the corridor passage with a lot of obstacles.
+
+Iana:
+We have to take a different route to the core, over.
+
+Ash:
+We're about to head inside the main laboratory. I need you to come back us up ASAP, over.
+
+Iana:
+Copy, Iana out.
+
+Blitz:
+What now? Shall we wait for them?
+
+Ash:
+No, time is pressing. Keep going.
+
+Blitz:
+Up ahead is the main laboratory.
+
+Ash:
+Get ready, we're going in.
+
+Ash:
+Stay alert. Subdue the target when you have them in sight.
+
+Ash:
+Look alive.
+
+Ash:
+Go!
+
+Blitz:
+There's no one here, just these strange machines.
+
+Ash:
+Don't let your guard down. The lab equipment's running, which means the target is still here.
+
+Tachanka:
+Then we need to head inside the real laboratory.
+
+Tachanka:
+This here is the control room. You see the machines on the other side of that window? That's where the actual experiments happen.
+
+Tachanka:
+Stay alert... We don't know how many hostiles we have here.
+
+Levi:
+I see unwelcome friends will always invite themselves in.
+
+Ash:
+(Target in sight. Hold your fire. )
+
+Ash:
+(Give me a sitrep. )
+
+Blitz:
+(Looks like we're the only ones here.)
+
+Tachanka:
+(No other hostiles detected.)
+
+Ash:
+Put your hands up, Dr. Levi. Move away from the terminal.
+
+Levi:
+And here I was wondering how much longer it would take you to show up.
+
+Levi:
+Did you take out my security detail? What a shame.
+
+Levi:
+I cut them their last paycheck just yesterday.
+
+Levi:
+Well, I ask you to be careful with the things here. They can be delicate.
+
+Ash:
+Don't even try to do anything funny. This charade is over.
+
+Levi:
+Over? My new experiment has just started.
+
+Ash:
+Stop what you're doing... This is your last warning.
+
+Levi:
+Hahahahaha, and what if I refuse?
+
+Ash:
+! !
+
+Levi:
+What's the matter? Are you afraid of a senile, defenseless ordinary citizen?
+
+Tachanka:
+You're hardly defenseless or ordinary.
+
+Tachanka:
+You are the chief scientist of the Magnethill No. 2 laboratory, Levi Klitschko.
+
+Ash:
+Stay away from the equipment. I know exactly what you're trying to do.
+
+Ash:
+Blitz, cuff him.
+
+Blitz:
+Understood.
+
+Levi:
+I've got to hand it to you. Your team works fast.
+
+Levi:
+But not fast enough.
+
+Blitz:
+The reactor's activated! !
+
+Frost:
+The black rocks are glowing!
+
+Ash:
+Get it to stop.
+
+Levi:
+I'm sorry, I'm afraid not.
+
+Ash:
+Get it stopped! Right now!
+
+Levi:
+Hahaha...
+
+Levi:
+Hahahaha... Hahahahaha!
+
+Levi:
+There's nothing you can do to stop it, but do feel free to fire your weapons.
+
+Levi:
+This is my life's work.
+
+Levi:
+If it wasn't for those shortsighted, useless morons getting in my way again and again...
+
+Levi:
+I would've finished all of this twenty years ago.
+
+Ash:
+You have no idea what you are doing.
+
+Ash:
+The equipment in this lab is in disrepair, and you are creating a nuclear contamination disaster!
+
+Levi:
+Of course I know what I am doing.
+
+Levi:
+The road of exploratory science is a treacherous one.
+
+Levi:
+Yet it's a road worth taking. Roads that lead to the truth are always worth taking.
+
+Levi:
+All I am doing now is getting the results I should've had twenty years ago, and no one has the right to stop me.
+
+Ela:
+Darn mercenaries...
+
+Iana:
+You doing okay?
+
+Ela:
+Uh, just complaining a little bit about the close miss just now.
+
+Ela:
+We could've regrouped with the rest of the team at the main lab!
+
+Iana:
+It's not too late.
+
+Iana:
+The checkpoint's right ahead.
+
+Ela:
+What's that sound?
+
+Iana:
+?!
+
+Iana:
+An earthquake?
+
+Ela:
+No, it's coming from the lab!
+
+Ela:
+Get your Replicator ready. They might be in trouble.
+
+Ela:
+Wh-What the hell's this? ! Where's everyone?
+
+Iana:
+Wh-What happened?
+
+Ela:
+No, where's the lab?
+
+Ela:
+Where's the map? What's with this huge hole?
+
+Iana:
+There's no problem with the map. The main lab should be behind this door.
+
+Iana:
+The lab's... gone?
+
+???:
+...up... Wake... up.
+
+???:
+Cohen, you okay?
+
+???:
+Cohen?
+
+???:
+Let me do it.
+
+Ash:
+Erm...
+
+???:
+Well, I'm impressed.
+
+???:
+I'm just giving her pressure points a few presses to help patch her up.
+
+???:
+That should do it.
+
+Ash:
+Wh-What happened...?
+
+Blitz:
+Alexsandr, she's awake!
+
+Tachanka:
+Well done.
+
+Frost:
+You doing okay, Cohen?
+
+Ash:
+Where are we? ...What happened?
+
+Tachanka:
+That's a good question.
+
+Frost:
+...After that madman activated his equipment, the whole lab was swept by a huge shockwave.
+
+Ash:
+Where... are we?
+
+Ash:
+Just where are we? !
+
+Frost:
+No idea.
+
+Frost:
+The target activated that weird device of his, and we all got knocked out by the blast.
+
+Frost:
+And after we came around, well, this is it.
+
+Frost:
+We don't have any signal, so we can't contact Ela and Iana.
+
+Frost:
+The compass isn't working either.
+
+Frost:
+The only thing I am sure about is we definitely aren't anywhere near the mission area.
+
+Frost:
+It's hardly the most precise way to put it, but it's like we were... teleported... somewhere with the whole lab.
+
+Ash:
+What?
+
+Tachanka:
+She's right. It's like we were suddenly launched by a rocket to the moon and that's not a joke.
+
+Ash:
+......
+
+Frost:
+Should I go on recon?
+
+Ash:
+No, don't be hasty.
+
+Frost:
+Understood.
+
+Ash:
+If Levi Klitschko was swept by the shockwave too, he'd probably be in a similar situation.
+
+Ash:
+We'll rest up first. I'll plan our next steps.
+
+Tachanka:
+Good news first. The supplies for those mercenaries have been thrown in with us, so at least for a short time ammo won't be an issue.
+
+Ash:
+What about the bad news?
+
+Tachanka:
+The bad news is...
+
+Ash:
+...... And what is this sound?
+
+Blitz:
+Eyes open! There's something outside coming toward us!
+
+Blitz:
+It sounds like some sort of heavy machinery... but it's way too fast!
+
+Tachanka:
+Let me have a look.
+
+Tachanka:
+......
+
+Tachanka:
+...... I can't believe my eyes.
+
+Tachanka:
+*Profanity* We're in big trouble! Prepare for battle!
+
+Blitz:
+What exactly did you see?
+
+Tachanka:
+Have you ever seen an arthropod as big as a small car?
+
+Blitz:
+What did you say?
+
+Blitz:
+Oh, screw it!
+
+Blitz:
+Now we see it.
+
+Ash:
+Open fire! Fire at will! !
+
+Ash:
+Blitz! Get back! !
+
+Blitz:
+Ahhhh! !
+
+Blitz:
+My shield!
+
+Frost:
+Normal bullets aren't going to penetrate its husk!
+
+Frost:
+If we let that thing tear the control room's wall down, it's all over for us! !
+
+Tachanka:
+AP's effective!
+
+Tachanka:
+But shooting its legs isn't stopping it!
+
+Ash:
+Let it come in!
+
+Tachanka:
+What?!
+
+Ash:
+Cease fire!
+
+Ash:
+Let it bring the wall down!
+
+Frost:
+Blitz, you okay?
+
+Blitz:
+I'm fine. It's just my shield's busted.
+
+Blitz:
+It took a good bite out of the wall.
+
+Blitz:
+Let's be sure to take its husk down when we get our payback.
+
+Tachanka:
+Ash, quick! What's your plan?!
+
+Ash:
+I'm not sure we can call it a plan, but it's the only choice we have.
+
+Ash:
+Your ammo is the only thing we have that's doing any damage to that thing. Plus my breaching rounds, maybe.
+
+Ash:
+And I have... one left.
+
+Ash:
+We'll take him down the moment he breaches the wall.
+
+Ash:
+Judging by the damage AP's done on that thing, the breaching round should take its leg down. Hopefully that'll give us a clean view of its underside.
+
+Ash:
+After that, it's going to be all you.
+
+Ash:
+If any of you has a better idea, I'm all ears.
+
+Ash:
+Alright, time's up! Ready!
+
+Tachanka:
+Reloading!
+
+Tachanka:
+It's over.
+
+Tachanka:
+What on earth is this!
+
+Blitz:
+Ahh, finally time to take a breather.
+
+Blitz:
+Phew——
+
+Blitz:
+Man, that was close.
+
+Blitz:
+Is this really Earth?
+
+Blitz:
+Like, you know, the planet we all know about?
+
+Ash:
+No reason to think otherwise.
+
+Ash:
+But we need to prepare for the worst.
+
+Ash:
+With the wall collapsed, we can't even use this place as shelter.
+
+Ash:
+Let's get moving. At least until we find another place to hunker down.
+
+
+

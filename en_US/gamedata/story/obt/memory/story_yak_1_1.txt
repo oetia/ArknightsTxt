@@ -1,0 +1,626 @@
+Hawker A:
+Come take a gander, feast your eyes on these fresh fruits and vegetables!
+
+Hawker B:
+Oi, old man, isn't that the lad from the Yek family? It's been a while since he's come by the market.
+
+Hawker A:
+What'd you expect? The boy's a guard for the Master's clan now. When would he have time to come here?
+
+Matterhorn:
+Ah, long time no see, Uncle. How have you been?
+
+Hawker A:
+Oh my, it really is you, Matterhorn. Heh, so what brings you around these parts today?
+
+Matterhorn:
+I've had some spare time lately, so I thought it would be nice to cook dinner for the Master.
+
+Hawker B:
+Good, good. Don't let your cooking skills go to waste. C'mere, go ahead and take this strip of steak. I remember the Master enjoyed them when he was young, and you'd always take a whole bag with you.
+
+Matterhorn:
+Thank you for your kindness, but let's get five pounds of tenderloin first.
+
+Hawker A:
+Oh, and the youngest was just a little girl at the time. Whenever you'd go shopping, she'd follow right behind you, tugging at the hem of your clothes.
+
+Matterhorn:
+Hahaha, Ensia was indeed quite small back then—also extremely curious, and she refused to stay indoors. She would make me bring her along.
+
+Hawker B:
+Here, the tenderloin's good to go. Hmm, the Master's tastes have changed, eh? Didn't he used to prefer short ribs?
+
+Matterhorn:
+Yes, the Master... grew up.
+
+Hawker A:
+Matterhorn, about the older sister... Oh no, I mean, excuse this addled old geezer. How has the Saintess been? All of us... miss her a lot.
+
+Matterhorn:
+The Saintess... has been in good health. Everything is well.
+
+Hawker B:
+Kjeragandr watches over her, so of course it is. You worry too much, old man.
+
+Hawker B:
+After all, the reason we can continue our humble little lives here is because the Saintess managed to stabilize the situation at a critical time.
+
+Matterhorn:
+She is as bright as the snow itself. If she was able to deal with that crisis so calmly, lesser problems would surely pose no issue to her.
+
+Hawker A:
+Good, good. Now all that's left is for her to be reunited with her siblings and old friends, and then we'll all live happily ever after. Hahaha!
+
+Matterhorn:
+(If only that were the case...)
+
+Hawker A:
+Ah, how much you've all grown in the blink of an eye. Time sure flies these days.
+
+Hawker B:
+Hardly. They've all grown up, but we've grown old. The young don't appreciate what they have.
+
+Matterhorn:
+Don't say that, you shine just as brightly now as ever before.
+
+Hawker B:
+Hahaha, spare me the flattery.
+
+Matterhorn:
+*sigh*...
+
+Hawker B:
+What's with that frown on your face? Something on your mind?
+
+Matterhorn:
+Auntie... After some thought, I think I'd like some short ribs after all.
+
+Hawker B:
+Alright, I'll have it right up.
+
+Hawker B:
+Here you go, is this enough?
+
+Matterhorn:
+That'll be fine, thank you. This is enough money, yes? I'll put it on the table here.
+
+Hawker B:
+Heh, you young folks sure can add things up fast.
+
+Matterhorn:
+Alright, you two. I need to start dinner preparations soon, so I'll be heading back now.
+
+Hawker B:
+Good, good. Don't let us old folks keep you any longer.
+
+Hawker A:
+Come visit us when you have the time!
+
+Matterhorn:
+*exhales*...
+
+Cliffheart:
+(Huh... It's Matterhorn. What's he standing there like a statue for?)
+
+Cliffheart:
+Matterhorn!
+
+Matterhorn:
+It's getting harder...
+
+Cliffheart:
+Matterhorn, what are you muttering about in the middle of the hallway with a plate in your hand?!
+
+Matterhorn:
+Oh, Lady Ensia!
+
+Matterhorn:
+Didn't you say you were going to go out to eat dinner with Aurora? You haven't left yet?
+
+Cliffheart:
+It's not anytime soon, so there's no rush.
+
+Cliffheart:
+Whoa, what a feast! Do we have guests over tonight?
+
+Matterhorn:
+Not quite. The Master finally has time to come home for dinner, and I wasn't doing anything else, so I decided to go ahead and prepare a few dishes for him.
+
+Cliffheart:
+That's a lot more than a few dishes. Let's see, let's see... Whoa, you even made my favorite braised pork!
+
+Cliffheart:
+I don't even want to eat out anymore. Maybe staying home and having dinner with my brother wouldn't be so bad...
+
+Matterhorn:
+Haha, then you're more than welcome to stay, Lady Ensia!
+
+Matterhorn:
+What else would you like? I can always make a couple more dishes.
+
+Cliffheart:
+Oh no, I'm good. You're already going overboard! This is more than enough.
+
+Matterhorn:
+Alright then. It'll be a few more minutes, so don't wait for me. I still have some stew on the stove, so I'll bring that over later.
+
+Cliffheart:
+Okay, I'll go wash my hands then!
+
+Matterhorn:
+Sure.
+
+Matterhorn:
+(If Ensia is here, then...)
+
+Matterhorn:
+(For now... How am I going to speak with the Master?)
+
+Matterhorn:
+Lady Ensia, I've brought the stew. First— Oh...
+
+Courier:
+Good evening, Matterhorn.
+
+Matterhorn:
+Weiss, why are you here? Is the Master not back yet?
+
+Cliffheart:
+Courier was just telling me that Enciodes is a bit busy, and probably won't make it back for dinner.
+
+Courier:
+I hope you don't feel too bad, Lady Ensia. Some things came up at the last minute.
+
+Matterhorn:
+I see... Then why don't we wait a little bit longer, just in case he can make it later?
+
+Courier:
+Matterhorn... Can I have a word with you?
+
+Matterhorn:
+Is this something you can't say in front of Lady Ensia?
+
+Courier:
+I was thinking, it's probably best not to wait for him... You know how the Master is, once he gets busy he'll spare no time for anything else.
+
+Matterhorn:
+Mhm. I know, Weiss.
+
+Courier:
+Matterhorn! Just a friendly word of advice, don't keep waiting...
+
+Courier:
+Maybe saying that he'd be late... was already his way of being considerate to you.
+
+Matterhorn:
+Weiss...
+
+Courier:
+For someone as thoughtful as you, a statement like that... should already have been clear enough.
+
+Matterhorn:
+Alright, I understand. By the way, I started smoking some jerky a few days ago. I'll go to the kitchen to pack some for you later. So you can take it with you as a snack.
+
+Courier:
+You... still haven't come to terms with reality yet.
+
+Courier:
+I appreciate your kindness, but my physician urged me to watch my diet because of a recent injury. And I thought I should take it to heart.
+
+Matterhorn:
+You're hurt, Weiss?! Where? What else did the physician say?
+
+Courier:
+It's just a little scratch. Nothing you need to worry about, my friend.
+
+Matterhorn:
+But why didn't you tell me? You're always hiding things from me these days. That's what has me worried the most.
+
+Courier:
+Haha, ever since I was little, you've always been worried sick about me whenever I got hurt. But now that we're all grown up, it's just embarrassing to keep putting that on you.
+
+Matterhorn:
+You're right... You can take care of yourself now.
+
+Courier:
+One more thing... It's about—
+
+Matterhorn:
+Hold on, Weiss.
+
+Matterhorn:
+(*Searches around in his pocket*)
+
+Courier:
+Are you looking for something?
+
+Matterhorn:
+Here, this is for you.
+
+Courier:
+These are... snowflake crisps?
+
+Matterhorn:
+I passed by the candy store this morning. When you were little, you'd beg me for these every single time you were hurt during training. I was afraid you'd ruin your teeth.
+
+Matterhorn:
+But look at you now, you don't even want my stuff anymore. Guess I haven't gotten used to it yet, haha.
+
+Courier:
+Matterhorn...
+
+Courier:
+(*Rips open the candy wrapper*)
+
+Courier:
+You have any free time later on? After I recover... let's go for a drink at the tavern.
+
+Matterhorn:
+Sounds good. Whenever you're up for it.
+
+Courier:
+Anyway, I'd better get going. See you later.
+
+Cliffheart:
+Uncle Matterhorn, what did Courier say to you? Will my brother make it back tonight?
+
+Matterhorn:
+Go ahead and eat first, Lady Ensia. The Master might not be back until quite late.
+
+Cliffheart:
+I see, figures...
+
+Cliffheart:
+Then you should join me at the table too. Food doesn't taste as good when you're eating alone.
+
+Matterhorn:
+Mm... Alright, Lady Ensia.
+
+Matterhorn:
+Let's have a bit of the stew first. The broth should be nice and rich from the bones.
+
+Cliffheart:
+*sips*— Whoa, what a rich taste. Your cooking skills are truly amazing.
+
+Matterhorn:
+Haha. You're welcome to try these charbroiled short ribs next.
+
+Cliffheart:
+Whoaaa, these are delicious!
+
+Matterhorn:
+There's no need to rush, Lady Ensia. Please be careful not to choke.
+
+Cliffheart:
+Huh? You should totally dig in too!
+
+Matterhorn:
+Haha, very well.
+
+Matterhorn:
+(Lady Ensia seems to have a great appetite today. I thought she hadn't been eating well recently because... Well, maybe I've been overthinking things.)
+
+Cliffheart:
+Whoa, those tendons came out so tender and chewy! Can I get another helping?
+
+Matterhorn:
+Sure. I'll get it for you.
+
+Cliffheart:
+I'll have another bowl of stew too. The meatballs are soaked in the flavor and taste super amazing.
+
+Matterhorn:
+Lady Ensia... You're still not full yet?
+
+Cliffheart:
+Not even close! Get me another bowl of mashed potatoes too!
+
+Matterhorn:
+You still have room for more? That's already your third bowl.
+
+Matterhorn:
+(She's eating way more food than she can handle...)
+
+Cliffheart:
+(*chewing*) Your cooking... ish way choo delishush!
+
+Cliffheart:
+(*struggles to swallow*)
+
+Cliffheart:
+(*covers mouth) Oh, crap!
+
+Cliffheart:
+*Hiccup*—!
+
+Matterhorn:
+Lady Ensia... If you're already full, it's fine to stop.
+
+Cliffheart:
+Y-yeah, maybe... I'm starting to feel a little full after all.
+
+Cliffheart:
+But, there's still so much left over... You spent so long making all this delicious food, I'd feel bad if it went to waste.
+
+Matterhorn:
+And I'd feel bad if your stomach exploded from overeating.
+
+Cliffheart:
+Uncle Matterhorn...
+
+Matterhorn:
+As long as you enjoy your meals with a smile on your face, that's enough for me.
+
+Cliffheart:
+But, but, if my brother was here, then we'd be able to finish.
+
+Matterhorn:
+Are you frustrated that he couldn't make it?
+
+Cliffheart:
+Well, yeah. We haven't sat down for a face-to-face dinner in forever! He always leaves in a rush in the morning and doesn't come home until late at night. I barely even get to see him.
+
+Cliffheart:
+Say, when I snuck up to see my sister and messed up his plans, that must've really made him mad, huh?
+
+Matterhorn:
+Lady Ensia... You didn't do anything wrong, and the Master... He wouldn't blame you for it either.
+
+Cliffheart:
+If only there'd come a day when our whole family could gather at one table to eat and talk and laugh, all in front of your delicious cooking...
+
+Matterhorn:
+Don't lose heart, milady...
+
+Matterhorn:
+I'll always be here for you. If there's anything you want to eat, I'll make it for you.
+
+Matterhorn:
+No matter... No matter what happens in the future.
+
+Cliffheart:
+Mm... Uncle Matterhorn...
+
+Matterhorn:
+It's getting late. You should get ready for bed soon.
+
+Cliffheart:
+Mhm. You too.
+
+Matterhorn:
+(*Tidies up the dishes left on the table*)
+
+Matterhorn:
+*exhales*... What should I do...
+
+Matterhorn:
+Master, you've returned.
+
+SilverAsh:
+Matterhorn, were you waiting for me this whole time?
+
+SilverAsh:
+I thought I sent Courier to convey that I wouldn't be able to make it back for dinner.
+
+Matterhorn:
+I kept worrying that you'd be too busy to eat, and what if you were hungry when you came back? So I decided to wait a bit longer.
+
+SilverAsh:
+Very well then. What do you have to eat?
+
+Matterhorn:
+Whatever you'd like, Sir. I'll make it for you right now.
+
+SilverAsh:
+No need. Just heat something up, and that'll suffice.
+
+Matterhorn:
+Surely... that won't do. I only have leftovers.
+
+SilverAsh:
+Hm? Did Ensia not go out to eat today?
+
+Matterhorn:
+When she heard that you'd be returning tonight, she decided to stay home.
+
+SilverAsh:
+I see. I'll try to get back a bit earlier tomorrow.
+
+Matterhorn:
+Understood. As for tonight...
+
+SilverAsh:
+It's fine. I don't mind if it's just Ensia's leftovers.
+
+Matterhorn:
+...If you say so, Sir.
+
+SilverAsh:
+Now go.
+
+Matterhorn:
+Sir, this is all that's left over from tonight's dinner.
+
+SilverAsh:
+What a feast. You must've worked hard to make all this, Matterhorn.
+
+Matterhorn:
+It is my job as your retainer.
+
+SilverAsh:
+What happened to your hand?
+
+Matterhorn:
+I cut it earlier, when I accidentally broke a plate.
+
+SilverAsh:
+Go apply some medicine to it. It'll heal sooner that way.
+
+Matterhorn:
+I'll be sure to do that, Sir.
+
+SilverAsh:
+Are these... charbroiled short ribs? I haven't had this dish in a long time.
+
+Matterhorn:
+Would you like some? I made them just like you used to love when you were younger. Nothing's changed at all.
+
+As soon as those words left his lips, Matterhorn felt SilverAsh's eyes sweep across him back and forth. He suddenly panics, as if SilverAsh's torch-like gaze had penetrated through to what he had hidden within himself.
+
+SilverAsh:
+That's alright. I'll just have a bowl of stew.
+
+Matterhorn:
+...Right away, Sir.
+
+SilverAsh:
+(*takes a sip*) Very delicious. Your cooking is as spectacular as ever.
+
+Matterhorn:
+As long as it suits your tastes, Sir.
+
+SilverAsh:
+You even prepared some braised beastmeat, which has always been one of Ensia's favorites. No wonder there isn't much left.
+
+Matterhorn:
+Lady Ensia... waited for you a long time this afternoon. She has been very uneasy, wondering if you blamed her for what happened back then.
+
+SilverAsh:
+You've always paid particular attention to Ensia. But that's only natural, as she is the youngest of us.
+
+Matterhorn:
+Sir, I...
+
+SilverAsh:
+We can talk after I eat.
+
+Inside the dining room, SilverAsh falls silent—only the soft sounds of chewing echo thorough the room. Matterhorn feels his throat twitch several times, but cannot produce even a single word.
+
+Finally, SilverAsh sets down his cutlery and dabs the corners of his mouth with a napkin. Though his heart races, Matterhorn still lifts his head to look into SilverAsh's eyes.
+
+SilverAsh:
+How long have you been cooking this stew?
+
+Matterhorn:
+About a day.
+
+SilverAsh:
+A whole day. Only you have the patience to wait that long.
+
+Matterhorn:
+Sir, you exaggerate. These things cannot be rushed. Do so, and you will spoil its flavor.
+
+SilverAsh:
+What if you left it unattended over the flames and it boiled over?
+
+Matterhorn:
+If you simmer it carefully, it will not boil over.
+
+SilverAsh:
+True, but care alone is not enough to make the stew. When the time is right, you also have to snuff out the fire.
+
+Matterhorn:
+That is indeed true, Sir.
+
+SilverAsh:
+In other words, Matterhorn—
+
+Matterhorn:
+Sir?
+
+SilverAsh:
+Have you thought it over?
+
+Matterhorn:
+Sir... Indeed, I have.
+
+SilverAsh:
+Then... From now on, you no longer have to follow my orders.
+
+Matterhorn:
+...Do you want me to watch over Lady Ensia full-time?
+
+SilverAsh:
+Indeed, she needs your protection right now more than I do.
+
+Matterhorn:
+I am always ready to serve you at a moment's notice, should you need me.
+
+SilverAsh:
+No, that won't be necessary. Not only must you watch over her full-time, you must do so with your full devotion.
+
+Matterhorn:
+I shall respect your wishes without hesitation. But I do not understand...
+
+Matterhorn:
+Sir... When did you make this decision?
+
+SilverAsh:
+When did we first meet, Matterhorn?
+
+Matterhorn:
+When you were still a baby.
+
+SilverAsh:
+It's been that long, huh...
+
+Matterhorn:
+The Yek family has served the clan for generations, and this is my duty as protector of your house.
+
+SilverAsh:
+Protector... Enya and Ensia both see you as family, you know. Do you still insist on calling yourself that?
+
+Matterhorn:
+I wouldn't dare overstep my bounds.
+
+SilverAsh:
+There is nothing to fear. I am stating fact, not posing a question.
+
+SilverAsh:
+All sorts of problems have been pressing down on us since my return from Victoria. I can see that you've endured your share of difficulties as well.
+
+Matterhorn:
+I apologize for causing you worry, but...
+
+Matterhorn:
+But your relationship with Enya and Ensia...
+
+SilverAsh:
+Say no more. I feel much more at ease with you protecting the two of them.
+
+Matterhorn:
+Sir, your subordinate apologizes for being unable to help shoulder your burdens.
+
+SilverAsh:
+Matterhorn... no matter what happens, you must protect my sisters.
+
+Matterhorn:
+I will stand by their sides, even if it costs me my life.
+
+SilverAsh:
+I'll hold you to that.
+
+SilverAsh:
+But for now, leave me. I need to rest.
+
+Matterhorn:
+Yessir.
+
+SilverAsh:
+Matterhorn—
+
+Matterhorn:
+Did you need something?
+
+SilverAsh:
+No, it's just... Thank you, for all these years... For being here.
+
+Matterhorn:
+Master...
+
+Matterhorn:
+Please get some rest. You've been working too hard.
+
+
+

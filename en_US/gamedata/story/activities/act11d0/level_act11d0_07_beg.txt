@@ -1,0 +1,370 @@
+Folinic:
+Severin, I need everything you have on the Catastrophe Messenger named Biederman.
+
+Severin:
+Biederman? Why?
+
+Suzuran:
+An old man told me he saw Biederman leading the riot. He's the one who destroyed the power plant.
+
+Severin:
+An old man? Is he a reliable source?
+
+Suzuran:
+He called himself 'the last of the Winterwisps.'
+
+Severin:
+He... He's still alive? No. He might be a fraud.
+
+Suzuran:
+A man like that wouldn't lie. It's just my intuition, but I don't think he would ever lie.
+
+Suzuran:
+This is his diary and his knife. I took them as keepsakes.
+
+Severin:
+But that means he must be...
+
+Severin:
+I never expected this. I thought all his kind threw themselves into the lake.
+
+Severin:
+I'll go see him. I... I don't know. Should I go see him?
+
+Suzuran:
+He told me the whole story. According to him, the Winterwisps weren't behind this.
+
+Suzuran:
+And he had no hate for you. He spoke very calmly.
+
+Severin:
+I understand why, but the rioters do use the Winterwisp as an excuse for their looting.
+
+Suzuran:
+And it's just that. An excuse.
+
+Severin:
+Even if it's an excuse, they committed crimes. Next, they'll demand we throw open the granary and leave us to starve.
+
+Severin:
+Besides, the Winterwisps have all mixed with the Wolumonders. At this point... *cough* *cough*...
+
+Severin:
+No matter the excuse, we can't trust them with our lives.
+
+Folinic:
+We have a Catastrophe Messenger who should have died. Not only did he live, but he sparked a rebellion, and nobody even knew about it.
+
+Folinic:
+Putting it all together, it does seem likely that he was behind it.
+
+Severin:
+Yes, it makes sense. If Biederman is indeed still alive, he is the one who could foment an uprising. And he knows Wolumonde is on the brink of famine.
+
+Folinic:
+What about a motive?
+
+Severin:
+...The Great Rift.
+
+Severin:
+After the Catastrophe, people blamed him for the damage to the town.
+
+Severin:
+In a matter of months, we stopped at least seven acts of violence against him. There were more we weren't even aware of.
+
+Severin:
+After that, he shut himself inside and refused to come out. Most days, he drank himself to violent outbursts. That is until Dr. Atro broke down the door of his house.
+
+Suzuran:
+Sh-she broke it down?
+
+Severin:
+Dr. Atro reached out to Biederman after he hit rock bottom. From then on, he was usually there helping her with her work.
+
+Suzuran:
+It sounds like they got along?
+
+Severin:
+Sure, at least on the surface. That's why I never suspected him. Biederman was always melancholic. And even when he worked with Dr. Atro, we never saw him smile.
+
+Severin:
+The more understanding townsfolk like myself tolerated him and his work. But he had enough of an excuse to seek vengeance on us.
+
+Severin:
+Emotionally, he has a clear motivation. Not that that means anything.
+
+Severin:
+Pretty much everyone has some reason or another to try to get back at someone.
+
+Folinic:
+Vengeance... it's always vengeance.
+
+Folinic:
+And before you get too comfortable with this, you did tell us Biederman was dead.
+
+Folinic:
+You didn't positively identify the bodies. So you missed this possibility.
+
+Severin:
+But you can't just assume—*cough* *cough*—*hack* *hack*
+
+Suzuran:
+Are you okay?
+
+Severin:
+—Just, a moment.
+
+Severin:
+Why did it get all quiet out there?
+
+Tatjana:
+Schultz!
+
+Tatjana:
+The townsfolk are on the move! They... they've gone to siege Zwölftontechnik Strasse!
+
+Severin:
+What?! Get out there and stop them!
+
+Severin:
+We don't know who might be hiding in Zwölftontechnik Strasse. What if your 'Reunion' is holed up in there?
+
+Tatjana:
+I- I tried. But they were too agitated. They wouldn't listen to reason!
+
+Tatjana:
+They learned about 'Reunion' from somewhere!
+
+Severin:
+Grr... those excitable yokels!
+
+Mudrock:
+There is a lot of movement in the town.
+
+Mudrock:
+And also... It looks like someone found their way here.
+
+Mudrock:
+They raised a militia and started combing a town... That means they've already decided to go to war.
+
+Sarkaz Warrior:
+The townsfolk know we're here. They want to burn us alive.
+
+Mudrock:
+...Burn?
+
+Sarkaz Warrior:
+Originium Arts are part of their normal schooling. Even their teamsters can do simple Arts. Starting a fire is easy enough for them.
+
+Sarkaz Warrior:
+We can't stay here. Will Rhodes Island lead the charge?
+
+Mudrock:
+No.
+
+Mudrock:
+I think... it's just the angry people. They see us as villains, drenched in sin. They are the ones who want to drive us away.
+
+Mudrock:
+That's all.
+
+Sarkaz Warrior:
+Mudrock.
+
+Sarkaz Warrior:
+Don't forget our people died in this town.
+
+Sarkaz Warrior:
+We respect your choice, but you're still young... and you don't yet understand the meaning behind this.
+
+Sarkaz Warrior:
+Just so you know, we're not all that easily roused.
+
+Mudrock:
+If we fight, an entire city will come after us.
+
+Sarkaz Warrior:
+If we run, they'll brand us as arsonists, partisans, bandits. What's the difference?
+
+Mudrock:
+......
+
+Sarkaz Warrior:
+The normal Sarkaz way is pretty simple: just destroy the town. Level it. Done.
+
+Sarkaz Warrior:
+The only tricky part was the automatic Arts units. But their infighting already dealt with those.
+
+Sarkaz Warrior:
+Just give the order, and we'll leave the moon to rest forever in the Winterwisp Mountains. Spring... will never come.
+
+Mudrock:
+Winter... is long, this year.
+
+Sarkaz Warrior:
+Time to make up your mind, Mudrock.
+
+Townsfolk:
+Give us back our home! Out with the bandits! Out with the Infected!
+
+Townsfolk:
+Weapons here! Men, come arm yourselves. Everyone with decent Arts!
+
+Click:
+What's happening? Why does it feel like they're preparing for war?
+
+GreyThroat:
+That's about right. It is a war.
+
+Click:
+Woah! GreyThroat! Gimme a little warning next time!
+
+GreyThroat:
+At least, that's what it is to them. They think they're fighting a war.
+
+Click:
+But why? Are the other operators okay?
+
+GreyThroat:
+I wouldn't say okay. It seems like Severin didn't want this to happen. Things are getting out of hand.
+
+GreyThroat:
+Folinic says she found some clues. The man in this picture, one Biederman, is now one of our key suspects.
+
+GreyThroat:
+Ayerscarpe is operating on his own. Remember this man. We just need to know where he is. He's probably the one behind this insurgency.
+
+Click:
+Find the bad guy! Got it!
+
+GreyThroat:
+What about Reunion?
+
+Click:
+They set themselves up in a small, abandoned hunting village. People go in and out every day, but the big one doesn't move.
+
+Click:
+Oh, and while I was figuring out which way to go, I found a small group that seemed to be patrolling around the edge of the town.
+
+GreyThroat:
+It couldn't be...?
+
+Townsfolk:
+Wh-what's that?!
+
+Townsfolk:
+A rock? A giant made out of stone? G-get some Arts on it! But not fire! Fire's useless!
+
+Townsfolk:
+Does anyone know any other Originium Arts?! Hurry. We have to stop it!
+
+Townsfolk:
+It's no use!
+
+Townsfolk:
+You're making fools of yourselves. They aren't alive. They're just a bunch of rocks cobbled together by some Arts.
+
+Townsfolk:
+We need an artificer to get the 'Gramophone' back! Use it on that thing!
+
+Rebellious Infected:
+You think you can get away with this?!
+
+Rebellious Infected:
+Give it up! Open your eyes! You know why this is happening. You know what brought ruin to Wolumonde!
+
+Townsfolk:
+It's all you! Damned Winterwisps! Teaming up with Infected to steal the town!
+
+Rebellious Infected:
+What a bunch of morons! Heads full of music and garbage art! Don't you see this is the end of Wolumonde?!
+
+Townsfolk:
+I know. But it would've ended quicker if we just handed it over to you.
+
+Rebellious Infected:
+Has Severin ever told you how much food you have stored? Did he say when the town will get back on course? No! Never! There's no hope!
+
+Townsfolk:
+That's your fault! You destroyed my home!
+
+Rebellious Townsfolk:
+Wrong! It's you high and mighty nobles who pushed us to desperation!
+
+Townsfolk:
+And that's why you're killing people?!
+
+Suzuran:
+...
+
+Suzuran:
+Folinic! We have to stop them!
+
+Suzuran:
+Now that we know who could be behind this, we shouldn't be hurting each other like this.
+
+Suzuran:
+Let's go talk to them. We can convince them not to storm the town hall. They know Rhodes Island, so there should be a way.
+
+Suzuran:
+Folinic...?
+
+Suzuran:
+Why... why are you stopping me?
+
+Folinic:
+......
+
+Suzuran:
+If we don't do something...
+
+Folinic:
+(Silently shakes her head)
+
+Suzuran:
+Folinic?
+
+There is no room for argument or invective on the battlefield. Life passes quickly. Time is short.
+
+Truly.
+
+Neither side knows what to debate.
+
+It is unclear why they went to war, why they give their lives in vain.
+
+Indeed. Rather few hold on to any ideals after taking up arms.
+
+But now, before my very eyes, they fight one another, not only with weapons, but also with words. They cast blame along with stones.
+
+A rare sight.
+
+Mudrock:
+Let's go.
+
+Sarkaz Warrior:
+I can tell. You're still reluctant.
+
+Mudrock:
+Reluctant...? When we came here, we only planned to... No. There's no point. There hasn't been, since we first set foot in Wolumonde.
+
+Mudrock:
+We lost four of our people in the fire. I've already stopped so many. But now, the other Infected must be given... perspective.
+
+Mudrock:
+Otherwise, we will lose control. No. The rage, the longing, will go unsated. We may even turn back to the way we were...
+
+Sarkaz Warrior:
+If you hate Reunion so much, why did you join in the first place?
+
+Mudrock:
+I thought...
+
+Mudrock:
+Never mind.
+
+Mudrock:
+It's time to fight.
+
+
+

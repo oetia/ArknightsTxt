@@ -1,0 +1,251 @@
+W:
+Ahh... What a nostalgic feeling!
+
+W:
+Amiya, was it?
+
+W:
+——
+
+W:
+Ah, ahaha! I see... So that's what's going on.
+
+W:
+I remember now, Amiya.
+
+Amiya:
+...What?
+
+W:
+I've already gotten what I came for. You can all go now. Shoo.
+
+Amiya:
+You...!
+
+Reunion Member:
+W...?
+
+W:
+... What, do you lot want to stay here and die? That's perfectly fine by me. You're all free to do as you please.
+
+Reunion Member:
+...
+
+Reunion Member:
+We're falling back. Let them go. Talulah's orders.
+
+Amiya:
+...?
+
+W:
+Forget it. Things get boring when they get dragged out too long. I hate being bored, that's all there is to it.
+
+W:
+However, I do look forward to seeing you again, Amiya.
+
+W:
+As well as... that person.
+
+Amiya:
+What...? !
+
+W:
+Next time, I will hear the truth from you, {@Nickname}.
+
+W:
+Bye~
+
+Amiya:
+What... Why... is she doing this?
+
+Dobermann:
+Reunion... they've left.
+
+Dobermann:
+--We've long missed the rendezvous time.
+
+Dobermann:
+Retreat back to Rhodes Island... immediately.
+
+Amiya:
+...
+
+Amiya:
+I'll escort... the Operators in the back.
+
+Nearl:
+Amiya...
+
+Amiya:
+I'm fine.
+
+Nearl:
+... All right..
+
+Dobermann:
+Go, Amiya.
+
+Guard:
+...
+
+Guard:
+... ...
+
+Guard:
+... Boss...?
+
+Guard:
+Where are the others...
+
+Ace:
+Nearl and the others have already broken out with Amiya and Dr. {@nickname}.
+
+Ace:
+Those who stayed behind...
+
+Ace:
+... They're all gone.
+
+Guard:
+... What...
+
+Ace:
+We're the only two left.
+
+Guard:
+I remember now... That, that freak... Talulah... single-handedly...
+
+Guard:
+She knocked away our Guards like they were toy bricks...
+
+Guard:
+That monster cut through our Defenders as if they were butter...
+
+Ace:
+Hush... Your wounds are deep.
+
+Guard:
+The Catastrophe...! She is Catastrophe incarnate... How, how else could she have reduced our squads to ashes in an instant...
+
+Guard:
+Even though I saw it with my own eyes, I can't... I can't believe it...
+
+Guard:
+The screams... Aagh... Gaaaah...
+
+Ace:
+Snap out of it!
+
+Guard:
+I'm so sorry... I, I don't know how...
+
+Ace:
+Calm down.
+
+Ace:
+I gave you some emergency treatment.
+
+Guard:
+... Boss... what happened to your arm...?
+
+Ace:
+At least I still have one I can use.
+
+Guard:
+Boss... You should go. I'm sure you'll be able to break your way out.
+
+Ace:
+We only managed to stall her for a few minutes.
+
+Ace:
+Until Dr. {@nickname} and Amiya are safe, I cannot go.
+
+Ace:
+I have to stop that monster first.
+
+Guard:
+Boss... I also...
+
+Ace:
+The price of your life... was paid with my arm.
+
+Ace:
+If you can live even a single minute longer, it will be worth it.
+
+Guard:
+...
+
+Ace:
+I'll be right back. Take care of yourself.
+
+Guard:
+Boss... I'm sorry... that I'm so unworthy.
+
+Guard:
+Amiya...
+
+Guard:
+I'm sure you'll be able to... make everyone's dreams...
+
+Amiya:
+...
+
+???:
+They're all... I...
+
+Amiya:
+... ...
+
+???:
+... Amiya?
+
+???:
+... ... Amiya?
+
+Amiya:
+Oh, huh?
+
+Medic:
+What's the matter?
+
+Amiya:
+N-nothing... I just suddenly felt...
+
+Amiya:
+Grief...
+
+Medic:
+*sniff*... Urk...
+
+Medic:
+Grief... huh...
+
+Medic:
+Aauugh...
+
+Amiya:
+... Don't cry...
+
+Amiya:
+At least... for now.
+
+Amiya:
+Someone once said to me...
+
+Amiya:
+Tears... should be saved for when the war is over.
+
+Amiya:
+Now... is not the time.
+
+Medic:
+Nnh... Ugh... Nn...
+
+Amiya:
+Let's go...
+
+Amiya:
+...We're going home.
+
+
+

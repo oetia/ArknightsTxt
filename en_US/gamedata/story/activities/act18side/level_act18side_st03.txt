@@ -1,0 +1,456 @@
+???:
+Is that all there is?
+
+Calm Nobleman:
+I'm not hiding even a shred of truth from you.
+
+???:
+The way this was handled... was quite the surprise.
+
+Calm Nobleman:
+How should we proceed now?
+
+???:
+How should we proceed? We don't.
+
+???:
+This never had anything to do with you to begin with. All we're doing now is making adjustments to how the territory in question will be handled. How does that have anything to do with you?
+
+Calm Nobleman:
+You're right about that, but with how things turned out, those Infected will get to stay on that city plate. It'll be difficult to keep them from gossiping about this.
+
+???:
+And? Who would believe Infected nonsense?
+
+Calm Nobleman:
+Then what shall we do next...?
+
+???:
+What shall we do next?
+
+???:
+There's no rush. We still have lots to do.
+
+Respectful Servant:
+That's all I have to report for this incident.
+
+Woman:
+Thank you.
+
+Woman:
+Have you located the piece that this Czerny man wrote during the incident?
+
+Respectful Servant:
+The Empresses' Voice is ready to transcribe it at any moment and can personally play it for you in a few hours.
+
+Woman:
+No need. I can listen to the recording.
+
+Woman:
+......
+
+Woman:
+Not bad. I can even hear him crying from the bottom of his heart as he wrote the piece.
+
+Woman:
+He's a talented man. Too bad he's not quite talented enough.
+
+Nervous Infected:
+So how did it go?
+
+Dispirited Infected:
+Not bad. It didn't get worse.
+
+Dispirited Infected:
+Andante said the infection deterioration caused by the incident was unusual. Most infections went into a continuous, stable phase, and I'm no exception.
+
+Nervous Infected:
+It's not going to get worse again like before, right?
+
+Dispirited Infected:
+Andante said they looked into the phenomenon pretty thoroughly. Apparently nearly all of the Originium that got activated during the incident has gone into an extended low-activity state.
+
+Dispirited Infected:
+In other words, I get to hang around a little longer.
+
+Nervous Infected:
+Thank goodness...
+
+Nervous Infected:
+Right, does Andante know what the Herzog is going to do with the Afterglow?
+
+Dispirited Infected:
+Well, this is just what she said she heard, but apparently the Empresses' Voice has requested the Herzog not lay a finger on the Afterglow.
+
+Nervous Infected:
+Oh, thank heavens, and thank Their Majesties' kindness—
+
+Dispirited Infected:
+Keep it down!
+
+Nervous Infected:
+......
+
+Nervous Infected:
+*Sigh*, what should we do from here on out...?
+
+Dispirited Infected:
+Oh, shut up. You don't think things have gotten out of hand enough as is?
+
+Dispirited Infected:
+What to do from here on out? Live one day at a time, that's what.
+
+Nervous Infected:
+I want to live more than a day, though.
+
+Dispirited Infected:
+Then you should really keep your mouth shut.
+
+Andante:
+......
+
+Andante:
+Hibiscus, I finally get it now. There are some things that you're better off not knowing anything about.
+
+Andante:
+I guess I'll apply to be transferred somewhere else as soon as I'm done with the follow-up work here.
+
+Andante:
+Maybe I'll go to the landship. That sounds nice.
+
+Biegler:
+Don't move.
+
+Biegler:
+It took a lot of effort just to find you.
+
+Grandpa:
+......
+
+Biegler:
+Do you have anything to say?
+
+Grandpa:
+It was your men who tricked Kreide into coming to Vyseheim, right?
+
+Biegler:
+......
+
+Grandpa:
+Everything you said was the truth, except for the bit about payment. You knew he was in a hurry to make money for my treatment, and you lured him into this mess with that.
+
+Grandpa:
+But you two had nothing against each other! Why did you do it?!
+
+Biegler:
+If I told you, I'd have to kill you.
+
+Grandpa:
+I don't have much longer to live to begin with.
+
+Biegler:
+Alright then. Seeing as we're old colleagues, I will tell you.
+
+Biegler:
+Gräfin Strollo was already looking for Kreide, and she was very close to finding him.
+
+Grandpa:
+So what? Kreide was always there by my side, and that practically meant you had full control of him!
+
+Biegler:
+You read her research notes. You know full well just how terrifying her work on the Voice of Mundane was.
+
+Biegler:
+Until I got my hands on her notes, all I knew was that she had put a lot of time into researching this subject, but I never knew the true extent of her research.
+
+Biegler:
+If we'd let her continue working, she might just have been able to do something even more appalling with the Voice of Mundane. Say, triggering and inducing Resonanz at much greater ranges.
+
+Biegler:
+You could've woken up in the morning and found your grandson transformed into a monster. Would you have wanted that?
+
+Biegler:
+Rather than letting things come to that, it was much better to bring Kreide right to her. Put the rush on her, and let her put her plan in motion before she could work out the kinks.
+
+Biegler:
+So? Any more questions?
+
+Grandpa:
+What would you have done if Ebenholz hadn't found the amplifiers in the Afterglow Hall?
+
+Biegler:
+What do you think?
+
+Biegler:
+However the Afterglow turned out, that's how I would've turned out myself.
+
+Grandpa:
+No further questions.
+
+Biegler:
+Come with me, then.
+
+Grandpa:
+Not going to kill me?
+
+Biegler:
+I've got no reason to kill you, and it would've given me yet another thing to weigh on my conscience.
+
+Biegler:
+Come. Let's head to my shop for a cup of coffee. We'll talk about those stupid, honorable young men.
+
+Grandpa:
+Must I?
+
+Biegler:
+What do you think?
+
+Hibiscus:
+Lava?
+
+Lava:
+Why'd you push yourself like that? If anything happened to you, I'd never, ever forgive you!
+
+Hibiscus:
+Huh?
+
+Hibiscus:
+Oh, you're talking about what happened in Vyseheim, right? Look, I'm all fine—
+
+Lava:
+And who was it who had a standoff with an angry mob, who didn't evacuate even knowing that she'd be affected by the Voice of Mundane, and who fought those people even though she barely learned any Arts?
+
+Hibiscus:
+I don't remember telling you any of this...
+
+Lava:
+I already talked to Mr. Czerny! He told me everything!
+
+Hibiscus:
+Uh... If you wanted to know all the whys and wherefores, why didn't you come talk to me directly?
+
+Lava:
+I actually visited Mr. Czerny to ask him about my piano teacher in Leithanien, Mr. Johann, and it was only after we kept talking that I found out you almost—
+
+Lava:
+Almost...
+
+Lava:
+......
+
+Lava:
+—I'm warning you! If something like this happens again, don't you dare push yourself like that! Y-You hear me?! You hear me?!
+
+Hibiscus:
+Alright, don't cry anymore. Look, see? I'm alright.
+
+Lava:
+But your infection—!
+
+Hibiscus:
+Yes, it's got rather severe thanks to the Voice of Mundane, but it's under control now, so...
+
+Lava:
+No! That's not enough! You're always on my case about my health, but you don't care about what happens to you at all!
+
+Lava:
+If you... If I lost you... I... I...
+
+Hibiscus:
+......
+
+Hibiscus:
+Lava, I promise you I'll look out for myself more, okay?
+
+Lava:
+Really?
+
+Hibiscus:
+Really.
+
+Lava:
+Don't you dare lie to me!
+
+Hibiscus:
+Why would I? The Doctor gave me quite a long holiday, you know? I'm going to spend this time well and get some quality rest in.
+
+Hibiscus:
+Alright, now, you said you asked him about Mr. Johann? How is he?
+
+Lava:
+Mr. Czerny said he saw Mr. Johann at a gathering a year ago and that he was fine and well.
+
+Lava:
+Speaking of, you went all the way to Leithanien yourself and even got a flute for your wand. Did you learn how to play while you were there?
+
+Hibiscus:
+You mean this?
+
+Hibiscus:
+The most I'm doing with it is treating it as a wand. I don't know how to play.
+
+Lava:
+Really?
+
+Hibiscus:
+Of course really.
+
+Lava:
+You're just being shy, aren't you?
+
+Hibiscus:
+Why would I be shy about this?
+
+Lava:
+I don't believe you! Play something!
+
+Hibiscus:
+Well... Alright, here goes...
+
+Lava:
+Alright!
+
+Lava:
+That's the worst sound I've ever heard in my life!
+
+Czerny:
+Thanks for your concern, Doctor. I'm feeling very well.
+
+Czerny:
+And I must thank you again for the protection you are offering the Afterglow.
+
+Czerny:
+If you and Rhodes Island hadn't intervened, the Empresses' Voice would never have lifted a finger for my home.
+
+Czerny:
+You're too humble.
+
+Czerny:
+It's exactly as you said, and I'm starting to appreciate that more and more.
+
+Czerny:
+......
+
+Czerny:
+I suppose there must be a reason you summoned me here?
+
+Czerny:
+I've already written my thoughts in full on the report.
+
+Czerny:
+I'm prepared.
+
+Czerny:
+Truth be told, Doctor. When Hibiscus helped me up and walked me to the concert hall, I was already prepared to die.
+
+Czerny:
+Even though so much has happened, and things turned out nothing like I had imagined, I... lived.
+
+Czerny:
+It really feels quite peculiar, and I cannot describe it very well, whether through words or music.
+
+Czerny:
+I'm not expecting to find how to express this feeling on the battlefield, but I'm thinking that it might prove beneficial if I try to fight for the Infected in an entirely different way.
+
+Czerny:
+I understand.
+
+Czerny:
+Speaking of which, Ebenholz is here too, is he?
+
+Czerny:
+I haven't seen him at all since the day after we arrived at Rhodes Island.
+
+Czerny:
+Sometimes, I can't help but think that the black-clad Graf Urtica might have actually died.
+
+Czerny:
+You're right.
+
+Czerny:
+Well then, I'll take my leave now, Doctor.
+
+Czerny:
+......
+
+Czerny:
+Never mind. I don't dare to claim I know how much this incident has affected him. I can only imagine.
+
+Czerny:
+If there comes a day when he's willing to see me or Hibiscus, we'll talk then.
+
+Czerny:
+Goodbye, Doctor.
+
+Ebenholz:
+Doctor? I'm surprised you found me here.
+
+Ebenholz:
+I don't need destressing.
+
+Ebenholz:
+Have you got nothing to say to me?
+
+Ebenholz:
+Who? I don't mind having a little chat.
+
+Ebenholz:
+A letter? Where is it from?
+
+Ebenholz:
+I have an idea what it is. Hand it over.
+
+Ebenholz:
+You're a funny one.
+
+Ebenholz:
+I really can't imagine you in a fight... Are you always this lighthearted when you're out commanding battles?
+
+Ebenholz:
+Is this how you always react when you're embarrassed?
+
+Ebenholz:
+You have that hood on, and you hardly ever say a word. Hmm hmm. It's quite imposing.
+
+Ebenholz:
+Well, I look forward to it, then.
+
+Ebenholz:
+That goes without saying.
+
+Ebenholz:
+This... is the passport of a Leithanian citizen... Ebenholz.
+
+Ebenholz:
+Kreide's... and Graf Urtica's... death certiﬁcates.
+
+Ebenholz:
+Hm? There's more?
+
+Ebenholz:
+A letter?
+
+Ebenholz:
+It's not signed... An anonymous letter?
+
+Ebenholz:
+Just my impression of her.
+
+Rhodes Island Operator Ebenholz presses the tip of his wand to the letter and sets it ablaze.
+
+Not long after, the flames reach the passport, then the Count of Urtica's death certificate, and then Kreide's.
+
+The smell of burning paper spreads across the deck.
+
+Ebenholz picks up the cello next to him.
+
+He thinks back to how his dear friend played the cello, closes his eyes, and begins to play a simple, lively melody.
+
+When the Twin Empresses first took control, countless pieces of music singing their praises sprung up all over Leithanien. This, too, is one of those pieces.
+
+Today, the second half of the song has long been forgotten. Only the first half is still sung by a small number of people, thanks to its uplifting melody and the lyrics openly express the singer's cheerful mood.
+
+The sunset is glaringly bright.
+
+
+

@@ -1,0 +1,981 @@
+Tense Infected:
+How are they?
+
+Irritable Infected:
+That leader girl got slashed from behind by the bandits. Still out for the moment.
+
+Irritable Infected:
+That many, all sneaking up on one woman at once. Cowards!
+
+Tense Infected:
+S—So what now?
+
+Irritable Infected:
+What do you mean what now? Those thieves were after our medicine, so they want us dead!
+
+Irritable Infected:
+I'll take them on if it comes to that, my life against theirs! I can use Arts myself...
+
+Tense Infected:
+They live by getting one over! We couldn't even light a flame if we wanted. Taking them on would never get anywhere...
+
+Irritable Infected:
+Even if it wouldn't, we've got to! You saying you want those bloodthirsty cutthroats to make off with our medicine, after we barely managed to buy it?
+
+Irritable Infected:
+All our efforts just to buy this one cheap measly lot of suppressants! And I want you to imagine, if it wasn't for them, then you, me, the village at large, how long we'll still be alive for all these damn stones in us!
+
+Irritable Infected:
+Not to mention, there's Rhodes Islanders with us...
+
+Tense Infected:
+But Rhodes is only here to deliver the drugs!
+
+Tense Infected:
+You get it straight. Once they put the drugs in our hands, they could go at any time. They wouldn't help us!
+
+Tense Infected:
+And even if they did stay... You've seen how badly the leader got hurt, after how easily she dealt with the beasts. Now it's just those girls left—what do you think they're going to be able to do?
+
+Irritable Infected:
+......
+
+Tense Infected:
+The bandits aren't going to just forgive and forget after failing to steal our drugs. They might attack again at any moment!
+
+Tense Infected:
+Better we give them whatever they want. Better than dooming us all. We—We can always figure out something else!
+
+Tense Infected:
+Think carefully about this Rhodes Island or whatever. With how cheap they're selling it, who knows if the drugs are real or fake...
+
+Irritable Infected:
+Enough! You can shut up any day!
+
+Tense Infected:
+Erk.
+
+Irritable Infected:
+I didn't hear this lousy tune from you when those girls helped us fend off the beasts AFTER dropping off the medicine, or when that doctor girl gave you an examination!
+
+Irritable Infected:
+You think the measly amount we forked over was worth them delivering it all the way out here, and bringing a doctor to do checkups free of charge?
+
+Irritable Infected:
+If that's the lengths Rhodes Island will go to, then whether or not the medicine works, I'm still believing in them!
+
+Tense Infected:
+......
+
+Tense Infected:
+Tell me, then... You think we can actually protect these drugs?
+
+Irritable Infected:
+We can only try.
+
+Irritable Infected:
+Now, enough. I'm going to help the Rhodes Islanders. You find something to busy yourself with.
+
+Tense Infected:
+Fine. One of the girls asked me to help out this morning. Still a little work left to go. I'll fetch somebody else to come with.
+
+Kirara:
+......
+
+Kirara:
+(Not good. This is totally not good, the way things are going.)
+
+Kirara:
+(Captain's KO'd and hurt, treatment takes time, now all we've got is a DPS and also me, a weird support character without many use cases...)
+
+Kirara:
+(Wait, no, nononobad. This is a really serious situation, I can't talk about it like a game.)
+
+Kirara:
+(But... I mean, this is hard. This is a tough one...)
+
+Kirara:
+*sigh*
+
+Utage:
+What's the sigh for?
+
+Kirara:
+Wgaagh!
+
+Kirara:
+Phew, uh, okay, it's you, Utage...
+
+Utage:
+In the flesh.
+
+Kirara:
+(Please don't pop up behind me without warning like that, you're going to jumpscare me to death.)
+
+Kirara:
+(What are you, a ninja or something?)
+
+Utage:
+Did I spook you? Soz.
+
+Utage:
+Come on, though, I'm not some kinda ninja.
+
+Kirara:
+Wha? Huh?
+
+Kirara:
+(How did she know what I was thinking...?)
+
+Kirara:
+(It couldn't be... mindreading?!)
+
+Utage:
+I don't have superpowers or anything, you're just, like, real easy to read, girl.
+
+Kirara:
+(You're kidding me. Can you really tell?)
+
+Utage:
+Yeah, for real real.
+
+Kirara:
+(......)
+
+Kirara:
+(Well, that's convenient, now I don't need to talk.)
+
+Utage:
+Hey, slow down, Kirara.
+
+Utage:
+It's not a conversation unless you say what you're thinking out loud.
+
+Utage:
+Or, like, what, do you want me to just stare at you forever? Hmm?
+
+Kirara:
+......
+
+Utage:
+Okay, joke's over.
+
+Utage:
+I'm gonna go check up on Akafuyu. See ya in a bit~
+
+Kirara:
+Uh...
+
+Kirara:
+Hold on, Utage!
+
+Utage:
+Hm?
+
+Kirara:
+I'm coming with you.
+
+Kirara:
+......
+
+Kirara:
+So, uh, Utage... what do you think about the situation we're in right now?
+
+Utage:
+Um... pretty messed up, I guess.
+
+Utage:
+We were expecting a normal delivery mission, right? So, not like we prepared that much.
+
+Kirara:
+We did get a team put together...
+
+Utage:
+Buuut the captain was our big hitter, and she left a whole opening to get backstabbed in.
+
+Kirara:
+Haaa...
+
+Kirara:
+I have no laughs in me right now.
+
+Utage:
+Usually, average bandits aren't, like, a match for us at all, but they've got way too many guys. Kind of out of my league, if I had to solo them.
+
+Utage:
+Our doctor's not gonna do combat, and you...
+
+Kirara:
+Don't look at me, I'm a Logistics techie.
+
+Utage:
+Oh, word? I always feel like every tech I know's pretty good in a fight.
+
+Utage:
+Besides, you were good at those strategy games, weren't you? And you and the Doctor broke some kinda record one time? So, like, maybe being a commander's your thing.
+
+Utage:
+What do you think? Wanna try?
+
+Kirara:
+Me?
+
+Kirara:
+You're joking, real life isn't a video game, I... I can't.
+
+Kirara:
+We should probably go see how Akafuyu's doing.
+
+Utage:
+Aww... it's a bad habit to casually shoot yourself down.
+
+Utage:
+Besides, you've totally got ideas going, don't you?
+
+Utage:
+So hard to be honest, Kirara.
+
+Honeyberry:
+The wound won't pose much issue, and we've applied anti-inflammatory.
+
+Honeyberry:
+She still hasn't come around, but as long as she's not got a fever, then she should be out of the woods after convalescing properly.
+
+Kirara:
+Oh, okay...
+
+Utage:
+That's great to hear.
+
+Utage:
+But, like, how much longer is our captain gonna sleep for?
+
+Honeyberry:
+That's up to Akafuyu's own constitution. We've given her all the treatment we can, but the wound was very deep...
+
+Honeyberry:
+Even if she does wake up, she can't return to combat straight away.
+
+Utage:
+Hmm? We can't just wave her in anyway?
+
+Honeyberry & Kirara:
+No!
+
+Kirara:
+*sigh*...
+
+Kirara:
+The sensors I laid out indicate those bandits have been in the area the whole time. We did get in touch with a nearby squad, but it's still gonna be a while before they get here.
+
+Kirara:
+If the bandits attack now, while the time is ripe, I think we might...
+
+Utage:
+Might be done for.
+
+Utage:
+So now what? You think we take the captain and retreat?
+
+Honeyberry:
+Wait, if we go, what about the Infected here?
+
+Honeyberry:
+We've delivered the medication, so that's mission complete, but I can't just leave the villagers for dead.
+
+Utage:
+Hmm... we take the medication too?
+
+Kirara:
+Okay, putting aside whether or not they'd buy that as a ruse, I think the bandits are after more than the meds anyway. They can fight the people here, and they have literally no way to fight back.
+
+Honeyberry:
+That's true...
+
+Kirara:
+......
+
+Kirara:
+So, uh...
+
+Kirara:
+Actually, I think we could—
+
+Irritable Infected:
+Excuse me, I've brought you all some food...
+
+Irritable Infected:
+A little place like ours doesn't have much, so if you can just put up with it.
+
+Honeyberry:
+Thank you, it's kind to worry about us. Was anyone from the village hurt in the previous attack?
+
+Irritable Infected:
+We're all fine, thanks to your group.
+
+Irritable Infected:
+Can I ask how your captain's doing?
+
+Honeyberry:
+No worries, she's not in danger now.
+
+Irritable Infected:
+Oh, okay, that's a massive relief!
+
+Irritable Infected:
+Right, can't forget this too.
+
+Irritable Infected:
+It's those topographic maps of the place you all wanted...
+
+Utage:
+Huh? Topographic maps? I didn't hear anything about that.
+
+Honeyberry:
+I didn't request any either... Did Akafuyu ask for them at some point?
+
+Kirara:
+...It was me.
+
+Kirara:
+Thanks.
+
+The voice of gratitude is near-inaudible.
+
+Silent since the villager entered the room, the girl seems in a rush to dodge all lines of sight, dropping her gaze to the maps she now holds.
+
+Being hand-drawn by the Infected of the wild settlement, they are rough and crude, no more than a few abstract lines drawn as hints in parts; they could hardly amount to real topographies.
+
+Absorbing correct information from maps like these would be far from easy.
+
+But grasping them tight, the Higashinese girl comes off like a truly experienced hand, rapidly flipping through the sheets.
+
+Kirara:
+Mmhuh...
+
+Kirara:
+(Majorly flat terrain, very disadvantageous to us.)
+
+Kirara:
+(But there's places here to exploit for sure... like here. If we can do a little setup here...)
+
+Kirara:
+(The plan works, it's feasible. But...)
+
+Kirara:
+......
+
+Utage:
+So? Did you work something out?
+
+Utage:
+Attagirl, Kirara~ Look at you, you got something brewing in your head, don't you?
+
+Irritable Infected:
+What?! Really? Girl, you... no! Miss, you have an idea?!
+
+Kirara:
+I, I...
+
+Kirara:
+...I think we...
+
+Kirara:
+Uh...
+
+Listless Guy:
+What did she even wanna say? She was just stammering. Say something or get off.
+
+Listless Guy:
+Just wasting time... You can't even hear how quiet she talks!
+
+Caustic Girl:
+I know, right? I heard in seventh grade, she was absent, uh, so much she almost repeated. She never showed up to class. Everyone thought she did something to make the school suspend her, like literally, everyone.
+
+Caustic Girl:
+*snort* Apparently she likes those little plastic figures too. What if she was just secretly doing something, like, <i>gross</i> at home? Wow... creepy.
+
+Gossipy Student:
+And her name totally doesn't fit, right? Like, you know you see it and you think Kirara, like she's gonna be this sparkly kinda pretty girl? But actually, she's just Kirara the weird downcast depresso. Such a buzzkill.
+
+Gossipy Student:
+Her face? She never even lifts her head, who knows what her face is like...?
+
+Anxious Teacher:
+Kirara, the school has resolved that we can't tolerate you being absent from class again like last year.
+
+Anxious Teacher:
+If you can't adapt to school life, we may have to consider getting in touch with your parents about you repeating a year, or even withdrawing from school entirely...
+
+Kirara:
+No...
+
+Kirara:
+I, I d... I don't know...
+
+Kirara:
+(I can't breathe...)
+
+Kirara:
+(What am I doing? Just say your words, come on, you're not at school here...)
+
+Kirara:
+Uh, ah... I'd like to suggest—
+
+Tense Infected:
+B—Bad news!!
+
+Tense Infected:
+The bandits! The bandits are back! They're surrounding the entrance, they've hurt some of us too...
+
+Irritable Infected:
+What?!
+
+Honeyberry:
+There's wounded? Where? I need you to take me there immediately!
+
+Utage:
+Guess that's that. I'm coming too.
+
+Utage:
+Hey, Kirara.
+
+Kirara:
+......
+
+Utage:
+Don't keep us waiting too long.
+
+Kirara:
+......
+
+Kirara:
+(Freaking Utage talking, it's like she understands everything.)
+
+Kirara:
+(What's the deal? I haven't figured this out myself yet...)
+
+Kirara:
+(No, I can't just stand here like an idiot, I've got to do something or other and it's simple as that!)
+
+???:
+Urgh...
+
+Kirara:
+Eek!
+
+???:
+Don't make such a fuss.
+
+Akafuyu:
+Ssss... owowow, I can feel my wound.
+
+Kirara:
+Akafuyu?! You're up?!
+
+Kirara:
+How's your wound, are you okay? D-D-D-Don't move! Quick, lie down!
+
+Kirara:
+Just lie back down, I'll call for Honeyberry right away—
+
+Akafuyu:
+Come back, you needn't call anyone!
+
+Akafuyu:
+I can hold on... I actually awoke quite a time ago, and I heard everything you talked about. No great issues press me—my body simply wouldn't heed me somewhat.
+
+Akafuyu:
+If the bandits that assaulted me have delivered themselves to me, then good! Watch me cut them down!
+
+Akafuyu:
+Ourgh!
+
+Akafuyu:
+Tsss...
+
+Kirara:
+No, okay, great issues are <i>extremely</i> pressing you!
+
+Kirara:
+Quit moving! Aaaahh okay okay your wound's bleeding again... Stay still, put the katana down!
+
+Kirara:
+You're in no condition to fight right now, at all, whatsoever! You think you're some kinda fighting game protag? As long as your health bar's not empty yet you're completely unaffected, is that it, huh??
+
+Akafuyu:
+Tch... There, you can talk quite fine, can't you.
+
+Akafuyu:
+What do we do, then? If I cannot go, I fear Utage will buckle before long.
+
+Akafuyu:
+Are you saying you have some plan?
+
+Kirara:
+I—I've come up with it, kind of, but...
+
+Kirara:
+I don't think I can do it...
+
+Akafuyu:
+......
+
+Akafuyu:
+Fool. What is it you're so afraid of?
+
+Kirara:
+What? I'm not...
+
+Akafuyu:
+You are.
+
+Akafuyu:
+Out with your ideas! I will judge as the captain whether or not they work!
+
+Akafuyu:
+On what basis do you say you can't do it? These squad members were handpicked by me. Are you saying I could not discern properly?
+
+Kirara:
+Wait, wait, I didn't I wasn't... You're twisting my words against me!
+
+Akafuyu:
+Yes, indeed. What is it? If you have objections, speak and let me hear.
+
+Kirara:
+(Nnnnrgghh—)
+
+Kirara:
+(What the hell is her deal—!)
+
+Akafuyu:
+I see you as quite the strategizer. I've never bested you once in that regard!
+
+Kirara:
+But those were games...
+
+Akafuyu:
+Split no hairs. I recall you also discussed tactical command with that Doctor at one point?
+
+Kirara:
+But that was on the topic of games too!
+
+Akafuyu:
+And they've taught you plenty applicable in practice, no?!
+
+Akafuyu:
+Enough tarrying! Eyes wide! It's simple as this: will you do it?
+
+Akafuyu:
+I've told you that I am the one who will judge here! I am your general in this moment, and you are my counsel. Now hasten in offering your advice!
+
+Kirara:
+......
+
+Kirara:
+Huff... hah...
+
+Listless Guy:
+What... even... stammering...
+
+Listless Guy:
+......hear how quiet...
+
+Caustic Girl:
+...absent......did something...
+
+Caustic Girl:
+...likes those......secretly...
+
+Gossipy Student:
+...totally doesn't fit......weird downcast... buzzkill...
+
+Gossipy Student:
+...who knows... like...
+
+Anxious Teacher:
+...school has resolved...
+
+Anxious Teacher:
+If...
+
+Kirara:
+......
+
+Kirara:
+(Deep breath)
+
+Kirara:
+I'll talk, I'll freaking talk okay?! Stop making this scene such a big emotional deal, does it seriously not embarrass you when everything starts hitting you like lines from a visual novel?!
+
+Kirara:
+I'll say it, I'm totally gonna say it!
+
+Kirara:
+I think we can—
+
+Honeyberry:
+Someone else is hurt! Please get the wounded over to me, faster!
+
+Utage:
+Sorry, but I can't hold them off for too long either. We're gonna get surrounded like this.
+
+Utage:
+Seriously, are our drugs worth this much?
+
+Honeyberry:
+Compared to other medications on the market, we sell really cheap... and the efficacy's guaranteed.
+
+Utage:
+Oh, so that's why we send a whole squad on deliveries all the time.
+
+Honeyberry:
+Yes...
+
+Honeyberry:
+It's not just an issue of money. Medications like these are difficult to buy on the market period, so...
+
+Utage:
+That's why there's Infected among the people robbing too.
+
+Honeyberry:
+Yes.
+
+Tense Infected:
+Isn't there anything we can do...?
+
+Tense Infected:
+O—Oh, right! That pink-haired girl had me set up a machine earlier! Is there something we can do with that?
+
+Utage:
+Machine?
+
+Utage:
+I didn't hear anything about that.
+
+Honeyberry:
+Me neither.
+
+Honeyberry:
+I think I'm getting deja vu.
+
+Tense Infected:
+But...!
+
+Utage:
+Oh, if you wanna know about that...
+
+Utage:
+Why don't we just make her explain it herself?
+
+Kirara:
+......
+
+Tense Infected:
+Right, that's the Miss who asked us to do everything!
+
+Kirara:
+(Phew... it's okay, I can do this, I can speak, it's okay...)
+
+Kirara:
+—Everyone, listen to me!
+
+Kirara:
+I have a plan.
+
+Kirara:
+......
+
+Kirara:
+*pant*... *pant*...
+
+Boorish Bandit:
+Found her! Over here!
+
+Boorish Bandit:
+She's got all the drugs in her car! After her!
+
+Kirara:
+(...hah, they followed.)
+
+Kirara:
+(If the map was right, then around here there should be...)
+
+Kirara:
+(No, wait!)
+
+Kirara:
+(I have to go further north!)
+
+Kirara:
+(Phew...)
+
+Kirara:
+(Yep, okay, this is the area, this is some loose sand alright...!)
+
+Kirara:
+(We make the sand subside here, and form quicksand...)
+
+Kirara:
+(Great!)
+
+Kirara:
+(Thank you, Originium Arts. I think I could kinda fill a mage role like this, huh?)
+
+Kirara:
+(Done! Next. I just stall for time a little...)
+
+Kirara:
+(Need to find a place to hide myself.)
+
+Shrewd Bandit:
+Where'd she go?
+
+Shrewd Bandit:
+Where's she hiding? The car's still here. Get all the drugs out!
+
+Shrewd Bandit:
+Hey, girl, can you hear me?!
+
+Shrewd Bandit:
+Ran out with the goods all alone, huh? Thought you could get away on a fluke, or are you just trying to lure us out?
+
+Shrewd Bandit:
+No matter your plan, it's nothing now!
+
+Kirara:
+(What's the deal with this guy? He's a trash-talker.)
+
+Kirara:
+(Oh, if only I could tell him how every character who talks too much before a battle usually comes out of it pretty bad.)
+
+Boorish Bandit:
+Hey! The med boxes here... they're all empty!
+
+Boorish Bandit:
+We got tricked!
+
+Shrewd Bandit:
+Heh... expected that. Looks like she just wanted to string us along.
+
+Shrewd Bandit:
+Shame for you, though. You can pretend you're on your solo adventure, but we're not as stupid as you think.
+
+Shrewd Bandit:
+You know how many of us chased your bait? Less than half.
+
+Shrewd Bandit:
+The rest of us probably broke through that lousy Infected village by now, I'm reckoning?
+
+Kirara:
+......
+
+Kirara:
+Uh... wow, you really can talk.
+
+Kirara:
+Honestly, I'm kind of starting to envy the sheer confidence you've gotta have in order to talk at your opponent like you're straight up giving a speech.
+
+Shrewd Bandit:
+Oh? Who knew that's where you'd be hiding... What, not gonna run?
+
+Kirara:
+......
+
+Kirara:
+Don't care to, anymore.
+
+Tense Infected:
+Is it really going to work?
+
+Tense Infected:
+This is all we've got. If, just if, it doesn't do anything...
+
+Akafuyu:
+What's to fear?! You heard Kirara's plan yourselves! The feasibility is tremendous!
+
+Akafuyu:
+And lest we forget, I'm present too! A wounded general is hardly a rare sight... *hiss*
+
+Honeyberry:
+Stop showing off, Akafuyu!
+
+Utage:
+Kirara already led a bunch of the guys away. The numbers on the rest...
+
+Utage:
+Mmhm, I think I should basically make it, even if we have issues.
+
+Akafuyu:
+There you have it.
+
+Akafuyu:
+I estimate she saw this too, hence why her arrangements are so?
+
+Utage:
+Okay, then, no time to lose.
+
+Utage:
+Everyone ready? Push the switch... 'eyy!
+
+Towering Bandit:
+What... What is that?!
+
+Vicious Bandit:
+That's a caster's Arts! Hey, are you suicidal? Pull out!
+
+Towering Bandit:
+Where did they find so many casters...?
+
+Towering Bandit:
+Urgh!!
+
+Utage:
+Watch out, girl. Arts aren't the only danger on the scene.
+
+Vicious Bandit:
+What the hell kind of trick are you pulling?!
+
+Vicious Bandit:
+We've been watching the whole time! There's no way you found a caster to help—
+
+Utage:
+Hm? Didn'tcha know? Infected can use Arts barehanded.
+
+Utage:
+You back these guys into a corner, and they can seriously do anything. You get me?
+
+Vicious Bandit:
+......
+
+Utage:
+Oh, heyyy, lucky, everyone's actually Infected here.
+
+Utage:
+Guess how many'd rather burst into dust in your face than let you get your way, huh?
+
+Vicious Bandit:
+Maniacs!
+
+Crumbling Bandit:
+These Infected are all insane! They're going to take us down with them!
+
+Crumbling Bandit:
+Run for it!!
+
+Irritable Infected:
+The bandits! They're beginning to retreat!
+
+Tense Infected:
+Really?! Oh, thank heavens...!
+
+Tense Infected:
+Who knew this little box could be so much of a threat?
+
+Akafuyu:
+Good skies, didn't that work a little too well?
+
+Honeyberry:
+H—Honestly!
+
+Honeyberry:
+When we pressed it and the sound of Arts firing suddenly went off all around, even I was jumpy!
+
+Akafuyu:
+Using a preconstructed projector to intimidate the enemy! Trust her to think of it...
+
+Akafuyu:
+And arranged so perfectly in such a short span of time. How did she possibly do it?
+
+Tense Infected:
+Er, the pink-haired Miss asked us to install all these machines this morning.
+
+Akafuyu:
+Pardon? This morning?
+
+Akafuyu:
+Wait, when we'd just become aware of the bandits, before anything had even happened?!
+
+Akafuyu:
+......
+
+Akafuyu:
+What in the stances did the Doctor teach her...?
+
+Kirara:
+Aaaand it's time.
+
+Shrewd Bandit:
+What did you do?!
+
+Shrewd Bandit:
+This pit... pteuch, she's trapping us!
+
+Boorish Bandit:
+Help me! I'm going to get buried!
+
+Shrewd Bandit:
+Girl! Don't you care if they live or die?!
+
+Shrewd Bandit:
+Even if you kill us all, the village is still—
+
+Kirara:
+You just keep going...
+
+Kirara:
+What I want is a perfect clear.
+
+Shrewd Bandit:
+Huh?
+
+Kirara:
+You wouldn't just ignore bait as obvious as me. Even if you didn't totally buy it, you'd at least send part of your people to follow, and that was enough.
+
+Kirara:
+We trap a portion using me, a support who doesn't affect the big picture, which lowers your numbers, and back in the village we've got Utage for high attack, so they're pretty sure to handle it.
+
+Kirara:
+Not to mention the projectors...
+
+Kirara:
+......
+
+Kirara:
+Wait, why am I explaining all this to you again?
+
+Kirara:
+Explaining your own plan is what antags do, and then they mess it up and they get comeback'd on. NG, NG.
+
+Shrewd Bandit:
+What the hell kind of craziness are you talking to yourself about?
+
+Kirara:
+You have a bind debuff, you don't get to interrupt!
+
+Utage:
+Hiii, Kirara, can you hear me~
+
+Akafuyu:
+Oi, Utage! No nonsense from you!
+
+Akafuyu:
+Kirara, well done! We sorted things out handily on this side. How was yours?
+
+Honeyberry:
+Kirara, you're not hurt, are you?
+
+Kirara:
+...Heheh.
+
+Kirara:
+No, I'm fine, I'm untouched. All good on my end too.
+
+Kirara:
+Ahem.
+
+Kirara:
+...Just as planned.
+
+
+

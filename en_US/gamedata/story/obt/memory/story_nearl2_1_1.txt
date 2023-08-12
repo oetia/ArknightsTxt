@@ -1,0 +1,676 @@
+Zofia:
+Margaret.
+
+Margaret:
+Huh... Aunt Zofia? Sorry, I'm a bit busy and didn't hear you come in.
+
+Zofia:
+When's the last time you got some sleep?
+
+Margaret:
+......
+
+Zofia:
+Be honest with me.
+
+Margaret:
+I'm not trying to hide anything from you. I just... don't actually remember.
+
+Margaret:
+I didn't expect to be this busy after winning the championship. I left in a hurry last time, so I didn't actually experience any of this.
+
+Zofia:
+You are the champion of the Major after all. All eyes turn to you.
+
+Zofia:
+The other champions–– Actually, even the semifinalists, have whole professional teams around them to help with this stuff.
+
+Zofia:
+You shouldn't shoulder this all alone. Maria and I are here, and now that the games are over, we'll do everything we can to support you.
+
+Margaret:
+I understand. I'm very glad to have you here too.
+
+Zofia:
+Then let me help. You can't even see the sunset with that thick stack of documents in front of you.
+
+Margaret:
+Haha, I feel a lot better about myself now.
+
+Zofia:
+Hmm... Looks like these are almost all business opportunities.
+
+Margaret:
+I reject most of them.
+
+Margaret:
+As for the rest...
+
+Zofia:
+Let me have a look.
+
+Zofia:
+Speaking at a school? I'm sure you'd be glad to share your experiences with children.
+
+Zofia:
+A press conference for health products? Did this company cooperate with Rhodes Island during the Major? Would you consider talking to them?
+
+Margaret:
+I'll have to think about it.
+
+Zofia:
+I know what you're thinking.
+
+Zofia:
+If you take this first step... What about the next step?
+
+Margaret:
+Right. I've been more and more worried about that...
+
+Margaret:
+The Major was only a starting point.
+
+Rhodes Island Operator:
+Nearl!
+
+Margaret:
+Operator Ivy? Did you run into trouble with your mission?
+
+Rhodes Island Operator:
+No, we're doing alright... But there is trouble with another group.
+
+Rhodes Island Operator:
+It's a group of Infected. As you know, the Kawalerielki Alliance just disbanded, and they...
+
+Margaret:
+......
+
+Margaret:
+I know. Give me the location, and I'll head there right away.
+
+An Infected Knight:
+Step aside! Let us into the city! You... You can't do this to us!
+
+An Infected Woman:
+Please, honorable knight! We'll die if you leave us out in the wastes!
+
+An Infected Woman:
+Look, there's so many of us trying to stick together. We even have kids. We came here a few months ago to work in the Grand Knight Territory. We lived in the city before that.
+
+An Infected Woman:
+There are swarms of Gloompincers not far from here, and we don't have enough food on us... Plus, if a Catastrophe happens...
+
+An Infected Knight:
+Don't cry. Your tears mean nothing to these cold-blooded assholes.
+
+An Infected Knight:
+I... I used to look up to you people as heroes, thinking you were different from those ungrateful bastards in the General Chamber of Commerce––
+
+'A Silverlance Pegasus':
+......
+
+'A Silverlance Pegasus':
+Your identification codes show that you don't belong in Kawalerielki.
+
+An Infected Woman:
+Yes, you already said that.
+
+An Infected Woman:
+But today alone, we went to the other cities, and all three of them said the same thing when they turned us away at the gates.
+
+An Infected Woman:
+They said we were under the 'Grand Knight Territory' during the Kawalerielki Alliance, but now that the Major is over, starting today, the Kawalerielki Alliance... is no more!
+
+An Infected Woman:
+So what that means is you expect us to wander the wilderness for three whole years before we can return to the city?!
+
+'A Silverlance Pegasus':
+...I'll repeat myself again.
+
+'A Silverlance Pegasus':
+You cannot enter Kawalerielki unless you have permission.
+
+An Infected Knight:
+......
+
+An Infected Knight:
+In other words, as soon as the Major is over, the Grand Knight Territory no longer has any use for our cheap labor––
+
+An Infected Knight:
+And we deserve to be left behind, thrown away just like the rubbish from the four cities after they separate?!
+
+An Infected Knight:
+No, I refuse to accept that!
+
+'A Silverlance Pegasus':
+——
+
+'A Silverlance Pegasus':
+Take one step forward and I will consider it an illegal breach of the checkpoint.
+
+An Infected Knight:
+Hah... Haha... and if I did step forward, what would the lot of you do, huh?
+
+An Infected Knight:
+The heroes of Kazimierz, our campaign knights... Would you run your lances through the hearts of your fellow people?
+
+An Infected Knight:
+Or–– have we, the Infected, stopped being your fellow Kazimierzians altogether?!
+
+'A Silverlance Pegasus':
+There is no need for me to answer your question, Infected.
+
+'A Silverlance Pegasus':
+If you don't turn back this instant––
+
+'A Silverlance Pegasus':
+––!
+
+Margaret:
+I think there's still room to turn this situation around.
+
+'A Silverlance Pegasus':
+......
+
+An Infected Knight:
+You're... the Radiant Knight?!
+
+An Infected Knight:
+Why would the Radiant Knight be...?
+
+'A Silverlance Pegasus':
+Oh, it's Margaret.
+
+Margaret:
+It is, Uncle Liam. We meet again.
+
+Margaret:
+Honestly, I never expected to meet you under these circumstances.
+
+'A Silverlance Pegasus':
+During the separation of the four cities, we were ordered to take over the job of securing Kawalerielki.
+
+Margaret:
+...Securing?
+
+Margaret:
+Prior to this Major, the campaign knights hadn't shown themselves in Kawalerielki for a very long time, let alone an entire squad of Silverlances guarding the entrance to a city.
+
+Margaret:
+Do these Infected... threaten the safety of Kazimierz?
+
+'A Silverlance Pegasus':
+Margaret... You know the answer.
+
+An Infected Knight:
+You two... know each other?
+
+An Infected Knight:
+Hah... How stupid of me... You're the Radiant Knight of the Nearl family!
+
+An Infected Knight:
+I used to worship you. I used to think you'd bring light to us Infected...
+
+An Infected Knight:
+But now? We see you for the imposter you are. Traitor to the Infected. Are you going to stand with that campaign knight and point the tip of your spear at us?
+
+Margaret:
+......
+
+Margaret:
+Sir, whether or not you trust me, please take your companions and rest over there for a while.
+
+Margaret:
+I'll handle things over here.
+
+An Infected Knight:
+...Rest?
+
+An Infected Knight:
+Sure then. Let's see what kind of show you're going to put on. Right here... with no cameras or spectators!
+
+'A Silverlance Pegasus':
+Margaret, they don't see you the way you see them.
+
+Margaret:
+...I've always known that.
+
+Margaret:
+But, in my eyes, the Infected are not Kazimierz's enemies. They are just... ordinary people, who've had to endure extraordinary suffering.
+
+Margaret:
+And from your answer–– I can already guess the attitude of the Adeptus Sprawiedliwi.
+
+Margaret:
+However, Uncle Liam, this is a question I will ask again and again... And if necessary, I shall ask it with my swordspear.
+
+Margaret:
+'Do the Infected threaten the safety of Kazimierz?'
+
+'A Silverlance Pegasus':
+......
+
+'A Silverlance Pegasus':
+All units, stand down and return to your positions!
+
+'A Silverlance Pegasus':
+Margaret, raise your weapon. You should already know how knights get their point across.
+
+Margaret:
+Very well.
+
+Margaret:
+Uncle Liam, how long has it been since we last dueled?
+
+'A Silverlance Pegasus':
+Grandmaster, the four cities will be completely separated by around ten o'clock tonight.
+
+'A Silverlance Pegasus':
+At present, all entrances to Kawalerielki, as well as all key facilities around the city, are secured by our knights.
+
+Ioleta Russell:
+How long has it been since we've laid our eyes on this scenery?
+
+Ioleta Russell:
+We owe it all to young Margaret.
+
+'A Silverlance Pegasus':
+Speaking of Margaret... Grandmaster, will she agree to your proposal? After all, she has already turned us down several times.
+
+Ioleta Russell:
+Times are changing. Children these days see things more clearly than we did back then.
+
+Ioleta Russell:
+She will see things clearly–– and she can still stand on our side without being a Silverlance.
+
+'A Silverlance Pegasus':
+Yes, we all hope to fight side-by-side with a Nearl, no matter which field. This has never changed.
+
+Ioleta Russell:
+...field.
+
+Ioleta Russell:
+In the aftermath of the Major, the General Chamber of Commerce's concession was only temporary. We... No, the very future of Kazimierz... requires Margaret's power.
+
+Ioleta Russell:
+And if she wants to continue moving forward, she also needs us.
+
+'A Silverlance Pegasus':
+Indeed... She does have a long road ahead of her.
+
+Ioleta Russell:
+You all saw what her last act was during the Major.
+
+'A Silverlance Pegasus':
+So you mean, that batch of Infected stranded in the desert... I see. That's why you'll have Liam handle this?
+
+Ioleta Russell:
+Liam was the one who volunteered.
+
+Ioleta Russell:
+Standing on the sidelines of the arena, he might say he has nothing but contempt for the hypocritical games. But in reality, he misses his first duel with Margaret.
+
+'A Silverlance Pegasus':
+You're sure that Margaret will draw her weapon?
+
+Ioleta Russell:
+Without a doubt.
+
+Ioleta Russell:
+Otherwise, her name would not be Margaret Nearl.
+
+'A Silverlance Pegasus':
+Let's see how much you've changed over the years––
+
+'A Silverlance Pegasus':
+Standing before a true knight's lance is nothing like the mock-play in the arena. Nor is it like dealing with riffraff in the wastelands.
+
+Margaret:
+Uncle Liam.
+
+Margaret:
+I'll always remember how you taught me to wield a spear on the battlefield when I was still very young.
+
+Margaret:
+'When a knight charges, he fights to defend every yard of soil beneath his feet.'
+
+Margaret:
+All these years, I've never stopped charging forward.
+
+'A Silverlance Pegasus':
+It takes more than words.
+
+Margaret:
+Right.
+
+Margaret:
+My spear will speak in my stead and tell you everything I have to say.
+
+'A Silverlance Pegasus':
+Let's get started.
+
+Under the sunlight, the silver of the lance's tip glows faintly with no air of pretense. It has been darkened by the erosion of wind and soil.
+
+The golden light flowing from the blade of the swordspear gradually dims until the only bit of the eternal radiance that remains is the spark collected in the young pegasus's eyes.
+
+Charge. Sweep. Feint. Thrust. Block.
+
+Their actions seem to blur into one, at a speed hardly distinguishable to the naked eye.
+
+Absent is any glow of Arts. The only light comes from the clashing of the two adamantine stars as they collide in the wastes.
+
+'A Silverlance Pegasus':
+Is that all you've got? You've gotten slow, Margaret!
+
+Margaret:
+Huff...
+
+'A Silverlance Pegasus':
+In battle, you get only a split second to land a decisive blow!
+
+Margaret:
+––!
+
+An Infected Knight:
+...*cough* *cough*...
+
+An Infected Knight:
+(Is this... a duel between campaign knights? It's nothing like brawls in the arena.)
+
+An Infected Knight:
+(They're kicking up dust everywhere! Even standing at this distance... I can... barely catch my breath...)
+
+An Infected Knight:
+They're clearly... not even using... any Arts... Urk...
+
+Margaret:
+Watch out!
+
+'A Silverlance Pegasus':
+Haven't you learned to watch out for yourself first? Margaret, you have your eyes on too many others. You're full of openings!
+
+Margaret:
+Uncle Liam...
+
+Margaret:
+I disagree.
+
+'A Silverlance Pegasus':
+This light...
+
+'A Silverlance Pegasus':
+You not only blocked my lance, but also...
+
+Margaret:
+I advance, I burn brightly, solely for the purpose of illuminating others.
+
+'A Silverlance Pegasus':
+Ugh––!
+
+The Silverlance Pegasus takes a step back.
+
+But this single step is enough to determine the victor.
+
+An Infected Knight:
+I... can breathe again... Are they done fighting?
+
+An Infected Knight:
+And this light in front of me... this warmth... Wait, are you using the light to cover us from the sand kicked up by the duel?!
+
+An Infected Woman:
+The Radiant Knight!
+
+An Infected Woman:
+She's still the same Radiant Knight as always, isn't she? She never turned her back on the Infected! She swings her blade for us, and she lifts her shield to cover us!
+
+An Infected Knight:
+So... that's how it is...
+
+An Infected Knight:
+The Radiant Knight... The Radiant Knight!
+
+'A Silverlance Pegasus':
+......
+
+'A Silverlance Pegasus':
+You really have grown, Margaret.
+
+Margaret:
+I'm sorry, Uncle Liam. You didn't use any Arts, and I wasn't going to use mine––
+
+'A Silverlance Pegasus':
+Nobody ever stipulated that campaign knights cannot use their Arts during a duel.
+
+'A Silverlance Pegasus':
+Furthermore, you are no campaign knight, Margaret.
+
+Margaret:
+I...
+
+'A Silverlance Pegasus':
+I've seen your feats in the arena.
+
+Margaret:
+Haven't you always looked down on the knight competitions?
+
+'A Silverlance Pegasus':
+I've always had contempt for those hypocritical performances, until now.
+
+'A Silverlance Pegasus':
+You fought well, Margaret.
+
+'A Silverlance Pegasus':
+And the show you put on in the arena... was not the full extent of your power.
+
+Margaret:
+......
+
+Margaret:
+Is that... a compliment? Thank you.
+
+'A Silverlance Pegasus':
+You've defeated me, once again. Ten years ago, you were already almost unstoppable.
+
+'A Silverlance Pegasus':
+And now, you've perfected your techniques and your Arts. A spear that can control its own sharpness far exceeds your prior abilities, as well as what I am capable of.
+
+Margaret:
+But even if I've won...
+
+'A Silverlance Pegasus':
+That's right, Margaret. Even if you've won, so what?
+
+Margaret:
+......
+
+'A Silverlance Pegasus':
+I asked you to lift your weapon. And so you did. You came here prepared to fight. But... have you thought about what comes next?
+
+'A Silverlance Pegasus':
+We made no agreement.
+
+Margaret:
+I never once thought that a single victorious duel would make a Silverlance Pegasus yield to me.
+
+'A Silverlance Pegasus':
+Even if I let those Infected into the city...
+
+'A Silverlance Pegasus':
+What does that mean for them afterwards? How should Kawalerielki accept them, and how are they to survive in Kawalerielki?
+
+Margaret:
+......
+
+Margaret:
+It's not as if I haven't given these things any thought, Uncle Liam.
+
+Margaret:
+Reality... is not a game. The day won't abruptly end, nor will there be a clear-cut winner.
+
+Margaret:
+So, I've made up my mind––
+
+Margaret:
+Yesterday, I received a letter from the Adeptus Sprawiedliwi. It credited the Kazimierz Alliance Medical Organization for the Treatment of Infected with substantial contributions to the Major.
+
+Margaret:
+Under significant pressure from people of all walks of life, the Adeptus considered allowing this organization to continue working in Kazimierz, and established a special regulatory agency.
+
+Margaret:
+And this organization... needs someone who can work closely with both sides to serve as a bridge.
+
+'A Silverlance Pegasus':
+Margaret, are you saying...?
+
+Margaret:
+Please inform the Grand Knight that I will take this position.
+
+'A Silverlance Pegasus':
+......
+
+'A Silverlance Pegasus':
+Margaret, did you decide all this before you chose to fight me?
+
+Margaret:
+Yes.
+
+Margaret:
+But I also believed you'd want me to demonstrate my determination.
+
+'A Silverlance Pegasus':
+Hah... Haha... You really have changed.
+
+'A Silverlance Pegasus':
+In the past, you only knew how to charge ahead, alone, consuming yourself in your own radiance––
+
+'A Silverlance Pegasus':
+When did you learn to take all these other things into consideration?
+
+Margaret:
+While I was thinking about how to save people.
+
+Margaret:
+During my years of exile, I made some friends who weren't the mightiest of warriors, but had hearts no less sincere than that of any knight.
+
+Margaret:
+I may not ever become as thorough and thoughtful as they are.
+
+Margaret:
+But I do hope... that my light can illuminate lands far and wide.
+
+Margaret:
+To this end, I'm willing to learn some new things.
+
+'A Silverlance Pegasus':
+Excellent.
+
+'A Silverlance Pegasus':
+Those companions of yours must be very trusty indeed.
+
+'A Silverlance Pegasus':
+All units––
+
+'A Silverlance Pegasus':
+Allow these Infected persons to enter the city! For the time being, custody over these individuals will be transferred to Margaret Nearl!
+
+Margaret:
+Phew...
+
+An Infected Woman:
+They're letting us in...? This... Thank you so much, Radiant Knight! You're a lifesaver!
+
+An Infected Knight:
+The Radiant Knight...
+
+An Infected Knight:
+I don't know... if we can trust you. You helped us, but what good does it do? After all the hardships we've endured to return to Kawalerielki, what kind of life awaits us?
+
+Margaret:
+...I have no answers for you.
+
+Margaret:
+I'm sorry, but.. I can't make you any promises. Not now, maybe not even for the foreseeable future.
+
+Margaret:
+But, what I can say for sure is, I won't ever stop.
+
+Margaret:
+The long and difficulty journey you'll have to face... is the territory I've sworn to defend.
+
+Malkiewicz:
+Radiant Knight–– Have you finished going over all the paperwork?
+
+Margaret:
+Yes, I've read them all, Mr. Spokesman.
+
+Malkiewicz:
+I resigned from that position. You can just call me Malkiewicz.
+
+Margaret:
+Alright, assistant to the chairman of the Rose Paper Union–– Mr. Malkiewicz.
+
+Margaret:
+I thought this would be a simple interview. I never expected that you'd be waiting for me here.
+
+Malkiewicz:
+A simple interview? Hardly. After you won the Major, you refused to speak with the press. This will be the first time you've been willing to face the camera––
+
+Malkiewicz:
+As someone who has just stepped into the media industry, how could I miss such a rare opportunity?
+
+Margaret:
+The interview is just a means to an end.
+
+Margaret:
+I'm here to express my gratitude to you.
+
+Malkiewicz:
+Gratitude? Oh, I see now. You're talking about the report published regarding the settlement of the Infected following the Major? That was nothing more than a minor publication in an inconspicuous weekly medical journal.
+
+Margaret:
+...Mhm.
+
+Margaret:
+But I must say, I was rather surprised.
+
+Malkiewicz:
+By what? That we'd report on the plight of the Infected?
+
+Margaret:
+I didn't think you'd mention the Infected at all when it's not necessary, whether positively or negatively.
+
+Malkiewicz:
+Haha...
+
+Malkiewicz:
+I understand that not everything between us is water under the bridge.
+
+Malkiewicz:
+But things always change. As you may know, during the Major, I had a rather fruitful relationship with the leaders of Rhodes Island––
+
+Malkiewicz:
+So, why would you rule out the possibility that there might be a spark of friendship between us?
+
+Malkiewicz:
+After all, we both share the hope for Kazimierz to have a better tomorrow.
+
+Margaret looks at the chairman's assistant's extended hand and hesitates for a moment before shaking it.
+
+This hand does not belong to a knight. It does not sport the callouses of someone who has been honed. It does not have the power to move mountains and split rocks.
+
+––But it runs very hot.
+
+That temperature seems to set the warrior's blood alight almost instantly.
+
+Margaret knows this sensation. Every time she stepped onto the field, every time she stood in the middle of the arena, she felt a similar excitement.
+
+Perhaps some day in the future, Kazimierz too would be filled with this coursing, imperceptible flame.
+
+Margaret:
+Yes...
+
+Margaret:
+To a better tomorrow.
+
+
+

@@ -1,0 +1,273 @@
+8:36 P.M. \ Rainy \ Visibility: 12 km
+
+Rhodes Island
+
+Kal'tsit:
+Welcome back.
+
+Amiya:
+...Mm.
+
+Kal'tsit:
+...
+
+Kal'tsit:
+I already heard what happened from the recon squad.
+
+Kal'tsit:
+Amiya, let me check your hands.
+
+Amiya:
+There's no need for that, Dr. Kal'tsit...
+
+Kal'tsit:
+Amiya.
+
+Amiya:
+I, I...
+
+Amiya:
+...All right.
+
+Kal'tsit:
+...
+
+Kal'tsit:
+It looks fine. The rings haven't cracked or discolored.
+
+Kal'tsit:
+But it might be different next time.
+
+Kal'tsit:
+Listen closely, Amiya...
+
+Kal'tsit:
+Be a little more careful.
+
+Amiya:
+Dr. Kal'tsit, I...
+
+Amiya:
+...I need some rest.
+
+Kal'tsit:
+Go ahead.
+
+Amiya:
+Mm...
+
+Kal'tsit:
+...
+
+Kal'tsit:
+Never put Amiya in this much risk again.
+
+Kal'tsit:
+You are also responsible for what happened.
+
+Kal'tsit:
+When you first came back to Rhodes Island, she looked a bit like this.
+
+Kal'tsit:
+These emotions never really left Amiya.
+
+Kal'tsit:
+This has to change.
+
+Kal'tsit:
+...Dr. {@nickname}, you should stay with her.
+
+Kal'tsit:
+Don't mess up.
+
+Amiya:
+It's open.
+
+Amiya:
+...
+
+Amiya:
+Dr. {@nickname}...?
+
+Amiya:
+Worried? I am?
+
+Amiya:
+...You saw right through me, hehe...
+
+Amiya:
+I thought I did a good job hiding it.
+
+Amiya:
+Yes, I'm a bit worried... just a little, though.
+
+Amiya:
+I'm already used to doing this.
+
+Amiya:
+After all, I can't drag down everyone else any more.
+
+Amiya:
+Right, Doctor?
+
+Amiya:
+...
+
+Amiya:
+...I don't understand.
+
+Amiya:
+Doctor... I don't understand.
+
+Amiya:
+No, I... I know what we're trying to do. I also know... that some sacrifices are inevitable.
+
+Amiya:
+But I... what I don't know is...
+
+Amiya:
+Why must I watch people disappear before my eyes one by one... even though they can be saved?
+
+Amiya:
+We were so close... Maybe just a little bit more...
+
+Amiya:
+I know that I have a duty... and I will continue to move forward...
+
+Amiya:
+But right now... I just feel so tired.
+
+Amiya:
+...
+
+Amiya:
+Please let me have some time alone, Dr. {@nickname}.
+
+Amiya:
+Thank you.
+
+Amiya:
+Good morning, Dr. {@nickname}.
+
+Amiya:
+Oh, Dr. Kal'tsit, you're here as well?
+
+Kal'tsit:
+Amiya.
+
+Kal'tsit:
+I have a rather urgent mission here, and need some people to help out.
+
+Kal'tsit:
+An abandoned city was discovered not far from Lungmen.
+
+Kal'tsit:
+I surmise that it's one of the cities that formed in the aftermath of the Chernobog incident.
+
+Kal'tsit:
+We'll have to explore that city, uncover more information, and search for any survivors.
+
+Kal'tsit:
+If the situation is particularly serious, for example, if Reunion is hiding there, then there may be serious ramifications on our future operations.
+
+Kal'tsit:
+Here's the specific proposal that I have in mind. Look over it when you have time.
+
+Amiya:
+Understood.
+
+Kal'tsit:
+Oh, one more thing.
+
+Kal'tsit:
+Franka submitted a report to me mentioning that they had to return to Blacksteel.
+
+Kal'tsit:
+As for the situation in the Lungmen slums, Penguin Logistics requested for you to meet them there to discuss some information.
+
+Kal'tsit:
+There are some more sensitive details, so it'd be best for you to go in person.
+
+Amiya:
+I know. I'll head over right now.
+
+Amiya:
+Doctor, let's go--
+
+Kal'tsit:
+I still have some things to discuss with Dr. {@nickname}.
+
+Amiya:
+...
+
+Amiya:
+May I listen in?
+
+Kal'tsit:
+You may not.
+
+Amiya:
+I can cover my ears...
+
+Kal'tsit:
+You cannot. You should get going.
+
+Amiya:
+Aww...
+
+Amiya:
+Dr. Kal'tsit, you're not allowed to bully Dr. {@nickname}.
+
+Kal'tsit:
+I won't.
+
+Kal'tsit:
+...You...
+
+Kal'tsit:
+You couldn't even do something so basic.
+
+Kal'tsit:
+Forget it, I had a feeling this would happen.
+
+Kal'tsit:
+Amiya is an incredibly resilient kid.
+
+Kal'tsit:
+But, if she has to force herself to be strong, there will come a day when the pressure breaks her.
+
+Kal'tsit:
+Do not let this happen.
+
+Kal'tsit:
+If there is a next time, you'd better be a little more useful.
+
+Kal'tsit:
+--?
+
+Kal'tsit:
+What's with that face?
+
+Kal'tsit:
+It's related to the state of her health.
+
+Kal'tsit:
+If Amiya is involved in an intense battle...
+
+Kal'tsit:
+...You must check her rings immediately afterwards.
+
+Kal'tsit:
+No matter what changes you see, you must report them to me.
+
+Kal'tsit:
+For the time being, that's all you're allowed to know.
+
+Kal'tsit:
+Oh, right. You have to go down to the medical center in two days to have a physical done. Don't forget it.
+
+Kal'tsit:
+...You can go. Liskarm is waiting outside to escort you.
+
+
+

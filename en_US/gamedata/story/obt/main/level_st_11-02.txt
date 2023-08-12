@@ -1,0 +1,985 @@
+Confessarius Guard:
+Guard this place.
+
+Confessarius Guard:
+Watch your formation, keep an eye on her movements.
+
+Confessarius Guard:
+You know who it is we're facing. Don't be like those stupid mercs.
+
+Confessarius Guard:
+...Here she comes.
+
+Shining:
+......
+
+Confessarius Guard:
+Watch her hands.
+
+Confessarius Guard:
+She could draw her sword at any—
+
+Shining:
+......
+
+Confessarius Guard:
+Watch the lights and shadows. Don't try to follow the sword.
+
+Shining:
+......
+
+The Sarkaz with white horns silently carries her sword in her arms.
+
+Wordlessly, she keeps moving forward.
+
+The guards instinctively step back.
+
+Confessarius Guard:
+Hold your ground!
+
+Shining:
+......
+
+She stops.
+
+Under the gaze of the guards, she raises her left hand, and takes out a small piece of paper from within her tattered robe.
+
+Shining:
+I came as appointed, as he wished. No need to be on guard.
+
+Confessarius Guard:
+......
+
+Shining:
+Which way to Riverbank Street?
+
+Confessarius Guard:
+......
+
+???:
+Shining!
+
+???:
+What are you doing standing there? Get out of the way! I told you we had a family meeting today.
+
+Confessarius Guard:
+Understood.
+
+???:
+What took you so long, Shining? I've been waiting!
+
+Shining:
+...Salus.
+
+Shining:
+It's not time yet.
+
+Salus:
+No, it's not. The leader won't be angry.
+
+Salus:
+Come in, dinner's ready. Look at you. Have you not had anything decent to eat since you left Londinium?
+
+Salus:
+I've talked to the leader. Tonight's menu is being prepared to Royal Victorian Academy of Sciences banquet standards.
+
+Shining:
+......
+
+Salus:
+Oh, Shining, Shining! How long has it been since the old days, when we used to chat at the dinner table? Tell me what you've seen and heard!
+
+Salus:
+Leader, Shining's back!
+
+Confessarius:
+Welcome.
+
+Shining:
+......
+
+Confessarius:
+Sit. This is your place. We just came to Londinium then... it was a long time ago.
+
+Confessarius:
+It has been empty ever since you killed those poor souls and fled with the test subject.
+
+Confessarius:
+That betrayal chilled the clan to the bone.
+
+Confessarius:
+But I don't blame you. Sit.
+
+Shining:
+......
+
+Confessarius:
+......
+
+Salus:
+I can't wait. I've hardly had a good meal lately, staying all night in the labs.
+
+She pulls a chair and sits by the right hand side of the white-horned Confessarius leader.
+
+He stops speaking and sits with his eyes half-closed.
+
+A moment later, Shining puts down her sword and walks toward the only chair that is empty by the long table.
+
+Confessarius:
+Talk about your experiments, Salus.
+
+Salus:
+Work at the dinner table? Alright, alright.
+
+Salus:
+There isn't much to talk about. I'm doing my best to extract emotions from memories, but the voices of the dead don't linger long on my fingertips.
+
+Salus:
+I've gotten some results, but only fragments. I'm running into a bottleneck.
+
+Salus:
+The information is like branches cut from their tree. You can reconstruct the shape of the tree, but a tree can't survive without its roots, much less grow new sprouts.
+
+Salus:
+And I can't capture voices from further before, never mind bringing them back to the present.
+
+Salus:
+Like time, life only goes in one direction. A description of its nature must necessarily be abstract and literary. Even the Originium Arts of you and Shining can only capture an instant.
+
+Confessarius:
+The King of Sarkaz is the exception.
+
+Salus:
+That knowledge and the technique are like a waterfall, yet we can never find its source, or draw fresh water from it.
+
+Salus:
+My research has stalled since Shining's experiments stopped.
+
+Shining:
+......
+
+Salus:
+What about you, Leader? Is the Regent planning something big? You've been spending most of your time at Westhaleg or The Shard; you hardly come to my lab anymore.
+
+Confessarius:
+The Regent's plan is at a crucial stage.
+
+Salus:
+I'm not sure I understand.
+
+Salus:
+From Kazdel to Kazdel, the Confessarii's service to those in power has always been one of pure mutual gain.
+
+Salus:
+But you've been so close to the Regent that people on the outside are beginning to think the Confessarius is the Regent's lieutenant.
+
+Confessarius:
+Since when have we cared, Salus?
+
+Confessarius:
+This is hardly the first time they've misunderstood the Confessarii.
+
+Salus:
+What's different about Theresis?
+
+Shining:
+......
+
+Confessarius:
+I would not recommend saying that name within earshot of General Manfred.
+
+Salus:
+That's why I'm doing it in front of family.
+
+Salus:
+Like his predecessor, he came from no royal court, and his bloodline is far less pure than yours or Shining's.
+
+Salus:
+None of their ancestors have ever caught the Confessarii's attention. We've never gathered memories from their bloodlines.
+
+Salus:
+Even if the King of Sarkaz chose his sister, it does not mean that her brother...
+
+Confessarius:
+Just as I've told you, Salus.
+
+Confessarius:
+Power comes from blood. Blood inherits memory. Memory accumulates sin. Sin forms shackles. Only those unbound by history can truly unshackle power.
+
+Salus:
+Alright, alright. May the glory of old return to the land under their majestic guidance.
+
+Confessarius:
+No, Salus.
+
+Confessarius:
+Succeed or fail, the Regent will make an impact on the Sarkaz. This is what is most frequently ignored.
+
+Salus:
+By the way, the test subject you took... what's her name again? Lisa? Liz? How's she doing?
+
+Shining:
+...Liz is doing fine.
+
+Salus:
+Is Oripathy taking its toll on her?
+
+Salus:
+She is... unusual. Even if Dame Kal'tsit is at... at... at that medical institution you found, they may not be able to truly help her.
+
+Salus:
+It's good that she's back in Londinium. Your lab's still here with everything. You can bring her back anytime.
+
+Shining:
+......
+
+Confessarius:
+Is the food not to your taste, my dear sister?
+
+Salus:
+It's been such a long time since you've been home. Speak up.
+
+Salus:
+If this is about Liz... I apologize. But you know Liz is not your average Infected.
+
+Salus:
+Who's responsible for her suffering and consciousness? Who's responsible for her pain and memories? Can you continue to get along after she remembers all that?
+
+Salus:
+She's not family. You have to—
+
+Shining:
+—She's my family.
+
+Salus:
+...Oh...
+
+Salus:
+But... but she's going to become an empty shell if you don't come back to us. Don't forget why she was built that way.
+
+Salus:
+If you really care for her, I hope the end won't be too painful. Come back.
+
+Salus:
+I'm sure you understand.
+
+Shining:
+......
+
+Confessarius:
+You understand. That's why you answered my invitation, isn't it?
+
+Confessarius:
+From Originium to the truth of the King of Sarkaz. We've reached a clearer conclusion.
+
+Confessarius:
+She's simply an old cage. We could build a new one, if we had to...
+
+Shining:
+Enough.
+
+Salus:
+—
+
+Salus:
+Sigh.
+
+Salus:
+I've never seen you really angry, even when you hurt your own colleagues and took the girl.
+
+Salus:
+I guess I don't need to ask what you went through, all these years. What I can see is that...
+
+Salus:
+You see outsiders as more important than family.
+
+Salus empties her cup, which contained only water.
+
+There was no wine. She does not like drinking, especially at work.
+
+Her shadow sways under the light. This was not supposed to be a work day.
+
+Shining:
+You're not my family.
+
+Shining:
+Haven't I made that clear enough?
+
+Confessarius:
+You have.
+
+Shining does not look at the untouched food, or the other two Confessarii by her side.
+
+She simply stands up, holding her sword in her arms.
+
+Shining:
+I've asked the men watching Liz to leave.
+
+Shining:
+There's no need to send me any more invitations.
+
+Shining:
+The next time we meet... I expect it'll be in battle.
+
+Salus:
+'Asked them to leave.'
+
+Salus:
+Shining... you really think you're going to just leave like this?
+
+Shining:
+There's nothing left for us to talk about.
+
+Salus:
+What if I said I don't want you to leave?
+
+Shining:
+You can't stop me.
+
+Salus:
+I think I can make you stay and chat for a little longer.
+
+Salus:
+No?
+
+Shining:
+......
+
+The leader of the Confessarii silently sips his wine.
+
+Shining can feel Salus activate her Arts. She could leave by pulling her sword, but what would happen then?
+
+Will that really help her save Liz?
+
+Confessarius:
+Shining.
+
+Salus:
+Leader! I wasn't really about to use force against Shining. Why did you stop me?
+
+Confessarius:
+I've allowed you to act on your own.
+
+Confessarius:
+I've allowed you to be absent from my side.
+
+Confessarius:
+But do not interfere with the Regent's plans. Do not hinder the Sarkaz path to our long-awaited future.
+
+Shining:
+......
+
+Confessarius:
+Shining, my sister.
+
+Confessarius:
+No one can truly break free from her bloodline, no matter how much she might detest it, how much she might desire to break those shackles.
+
+Confessarius:
+It is meaningless to try to deny the gift of blood.
+
+Shining:
+...I thought you already knew.
+
+Lt. Colonel Lettou:
+...Your Highness.
+
+Sanguinarch of Vampires:
+My, my, Lettou. Why such a frown on your face?
+
+Sanguinarch of Vampires:
+Is the wine not good enough for you? Or is the flavor of the food too light?
+
+Sanguinarch of Vampires:
+Good wine should be paired with the futile resistance of the weak against fate, and the arrogance of heroes who drown in prophecy.
+
+Sanguinarch of Vampires:
+Even I am amazed at how they write their own stories for their own entertainment. Unfortunately, our Victorian friends are too reliant on fiction.
+
+Sanguinarch of Vampires:
+We've seen better stuff, have we not, Lettou?
+
+Lt. Colonel Lettou:
+I just saw you feed a nobleman's wife and children to your troops.
+
+Lt. Colonel Lettou:
+Ugh––!
+
+Victorian Soldier:
+Lt. Colonel!
+
+Victorian Soldier:
+Form up! Protect the commander!
+
+Sanguinarch of Vampires:
+You'll fight me here?
+
+Victorian Soldier:
+......
+
+Sanguinarch of Vampires:
+That's not what the taste of your blood tells me.
+
+Sanguinarch of Vampires:
+Fear... worry.
+
+Sanguinarch of Vampires:
+They're screaming for you to back off, to run away.
+
+Victorian Soldier:
+......
+
+Victorian Soldier:
+...Hold the line!
+
+The lips of the soldiers are as pale as their faces.
+
+They hold their weapons with trembling hands—sabers, bows, what Victoria has made for them.
+
+They are the finest soldiers, unafraid of the Streltsy of Ursus, the Arts of Leithanien, or the broadside guns of Columbia.
+
+But they are afraid of the Sarkaz sitting before them.
+
+Lt. Colonel Lettou:
+Put down your weapons...
+
+Lt. Colonel Lettou:
+Stand... stand down...
+
+Victorian Soldier:
+Lt. Colonel...
+
+Lt. Colonel Lettou:
+This is an order...
+
+Victorian Soldier:
+Yes... sir.
+
+The soldiers back off in an orderly manner.
+
+It took all of Lettou's strength to give the order. He stops resisting and accepts the eternal darkness that the Sarkaz has prepared for him.
+
+Then, he hears the silky voice again.
+
+Sanguinarch of Vampires:
+Lettou, Lettou.
+
+Sanguinarch of Vampires:
+I thought we were friends. Friends should trust each other, shouldn't they?
+
+Sanguinarch of Vampires:
+I think I've been kind, overlooking those little extra-curricular activities of you and your men.
+
+Sanguinarch of Vampires:
+Deals under the table, black markets in the alleys... I've turned a blind eye to them because I don't think greed and desire should be punished.
+
+Sanguinarch of Vampires:
+But I expect the same trust in return.
+
+Sanguinarch of Vampires:
+Many Gaulish nobles keep fowlbeasts as pets, building jeweled cages for the adorable things, lying them down on soft and delicate cushions.
+
+Sanguinarch of Vampires:
+All the fowlbeasts need to do is squawk, and they'll be served the finest food.
+
+Sanguinarch of Vampires:
+When the fowlbeasts are in a bad mood and peck their masters, their masters eagerly tell people of the intelligence and personality of their fowlbeasts.
+
+Sanguinarch of Vampires:
+But do you think the fowlbeasts have tamed their masters?
+
+Air returns to Lettou's lungs.
+
+It takes him some time to stand again, his limbs still trembling, but he does his best to keep that trembling out of his voice.
+
+Lt. Colonel Lettou:
+Thank you for your mercy, Your Highness.
+
+Manfred:
+......
+
+Sarkaz Warrior:
+March! March!
+
+Sarkaz Warrior:
+Stay in line!
+
+Hoederer:
+I heard you were looking for me.
+
+Manfred:
+How are your injuries?
+
+Hoederer:
+Same as ever. Won't interfere with the mission.
+
+Manfred:
+Good.
+
+Manfred:
+I just got a message. Here.
+
+Hoederer:
+Let me see.
+
+Hoederer:
+Lost contact with the mercs sent to Highbury?
+
+Manfred:
+They should have been in communication an hour ago.
+
+Hoederer:
+......
+
+Manfred:
+The Military Commission is dissatisfied with the recent performance of the mercenaries.
+
+Manfred:
+Soldiers must pay attention to a greater battlefield. The Regent and I had... high hopes... for the mercenaries.
+
+Hoederer:
+I'll find out what happened to them.
+
+Manfred:
+No need. I've made arrangements.
+
+Manfred:
+There's a possibility that they ran into an old acquaintance of yours.
+
+Manfred:
+Who could be as concerned about the Sarkaz supply lines as we ourselves?
+
+Manfred:
+Let me guess, Dr. {@nickname} and Ascalon...
+
+Manfred:
+Are they investigating the Highbury munitions factories, or are they already preparing to attack other hubs with information about the supply lines?
+
+Hoederer:
+......
+
+Manfred:
+Tend to your injuries, mercenary.
+
+Manfred:
+You don't need any more 'wounds' before I find your old friends, one by one.
+
+Closure:
+Doctor! You're here!
+
+Closure:
+Did you get the intel from the factory?
+
+Closure:
+Not bad. I was thinking what I would have to do to extract you and Feist if something went wrong.
+
+Ascalon:
+......
+
+Ascalon:
+......
+
+Ascalon:
+She operates on her own devices.
+
+Ascalon:
+...W will know.
+
+???:
+Doctor!
+
+You turn around at the voice.
+
+You see a familiar sight coming towards you.
+
+Amiya:
+We're here.
+
+Amiya:
+Yes... same here...
+
+Amiya:
+When you suggested that we split up a few days ago, I knew it was the right call, but...
+
+Amiya:
+At least we came back together alright. I'm so happy about that.
+
+Closure:
+Don't worry, I'm pretty well-prepared over here.
+
+Closure:
+I don't know if the defenses share the same weaknesses across Londinium, but there must be common characteristics to the framework.
+
+Closure:
+I've updated the drone's intrusion program based on intel from Misery and Horn, as well as the data taken from the artillery control room.
+
+Closure:
+Get the drone close to the core of the Defense Force's command tower, and I can break into the system and access traffic records from the past ten days within thirty minutes.
+
+Amiya:
+Yeah... tomorrow will be a hard day.
+
+Amiya:
+We've been probing the responses of the Sarkaz army within Londinium in the last few days.
+
+Amiya:
+We expect Manfred and the Vampire to show up quickly. Ascalon, Logos and I will do our best to delay them.
+
+Amiya:
+However...
+
+Ascalon:
+The Sarkaz of the Royal Court could appear at any time.
+
+Amiya:
+Yes, Doctor.
+
+Amiya:
+Dr. Kal'tsit is helping us delay the Nachzehrer and Lich, but there's only so much time she can buy.
+
+Amiya:
+Understood.
+
+Amiya:
+Rhodes Island and the Self-Salvation Corps are ready.
+
+Siege:
+Allerdale, the mercenaries are looking for you.
+
+Allerdale:
+......
+
+Allerdale:
+Sorry, I was distracted. What did you say?
+
+Siege:
+No, I'm the one who should apologize.
+
+Siege:
+Maybe we could have saved Ailshie together, if I wasn't so anxious to leave.
+
+Siege:
+I know she's important to you.
+
+Allerdale:
+She's my only family.
+
+Allerdale:
+House Cumberland is no more.
+
+Allerdale:
+One woman does not make a family, eh?
+
+Allerdale:
+Maybe it was something that should have happened a long time ago, delayed until today.
+
+Siege:
+Don't say that, Allerdale.
+
+Siege:
+That Vampire will be made to pay, I promise.
+
+Allerdale:
+The steam armor was lost in the fire. Maybe that's for the better. That way, I won't have to see it anymore.
+
+Allerdale:
+...Vina.
+
+Allerdale:
+Can you take me to the Glasgow Gang? I can pretend nothing ever happened.
+
+Allerdale:
+We'll bomb the Sarkaz camp together. You light a fire, and I'll kick their commander's arse once there's smoke.
+
+Siege:
+......
+
+Allerdale:
+I'm joking.
+
+Siege:
+I know.
+
+Allerdale:
+My path is long determined, Vina.
+
+Siege:
+Why do you say that? You're still with us. The Glasgow Gang has more stories to write.
+
+Allerdale:
+So...
+
+Siege:
+The answer is yes.
+
+Siege:
+I'll make sure you come back unharmed after kicking that commander's arse.
+
+Siege:
+That's my promise.
+
+Allerdale:
+I see... thanks.
+
+Allerdale:
+Let's leave the jokes at that. I would begin to believe them if this went on.
+
+Allerdale:
+Alright, I've got to go. Totter and the mercenaries are waiting for me. We need to double-check our route.
+
+Allerdale:
+Get ready, Vina.
+
+Allerdale:
+The Sighs of Kings is before us.
+
+???:
+Would you have said yes, if she truly invited you to leave?
+
+Siege:
+Clovisia?
+
+Clovisia:
+The walls of Londinium are tall. Few are able to escape their shadow.
+
+Clovisia:
+But you did. You escaped the palace, and escaped Londinium. Perhaps Allerdale envies you because of that.
+
+Siege:
+...I can't deny that.
+
+Siege:
+But I'm here now, regardless of what I thought.
+
+Siege:
+Victoria is on the brink right now, and I must fight for her.
+
+Clovisia:
+...Victoria.
+
+Clovisia:
+Kings, nobles, merchants, soldiers, workers...
+
+Clovisia:
+People often use the word 'Victoria' to justify their actions, but it has done nothing to quell the endless conflict over the centuries.
+
+Clovisia:
+Who defines what Victoria is? Is it the sixty nomadic cities and the land around them, the forty million people that live within, or the monarch who rules them?
+
+Clovisia:
+Your Royal Highness Alexandrina Vina Victoria.
+
+Clovisia:
+Why have you come back, when you say you came back for Victoria?
+
+Golding:
+The noble mansions have been burned to the ground. Wonder how many survivors there are...
+
+Golding:
+The Sarkaz are planning something big, and the Defense Forces aren't trying to hide it anymore.
+
+Golding:
+......
+
+Golding:
+This street may never be the same again.
+
+Golding knows that the visit from the commander means her identity is no longer a secret.
+
+She wanders the streets aimlessly, filled with a deep feeling of helplessness.
+
+Perhaps it was always futile for humans to fight the tide.
+
+Adams's bookstore is open, but the familiar warm, yellow light is absent. Golding has a bad feeling.
+
+The bookstore is empty, but the smell of blood fills every corner, so thick it might as well have taken physical form.
+
+Golding realizes that the ground is sticky.
+
+Not just the ground. The counter, the cashier, the books on the shelves, and the teapot that Adams always has by his side.
+
+Everything has been painted a shade of light red.
+
+Blood.
+
+Golding:
+—
+
+The nausea that has been bothering Golding for days explodes uncontrollably.
+
+She runs out onto the streets and begins to vomit.
+
+???:
+Are you okay?
+
+Golding:
+Ugh—*cough*
+
+Golding:
+...Molly.
+
+Molly:
+You don't look well. Here, take my shoulder.
+
+Molly:
+We still have time, Lady Golding. Your part is not over yet.
+
+Molly:
+You said that education was your strength, didn't you?
+
+Golding:
+My strength...
+
+Molly:
+Let's go back.
+
+Molly:
+We've persevered for so long. We'll see this to the end.
+
+Feist:
+I'm counting on you.
+
+Self-Salvation Corps Fighter:
+Don't worry, we'll get our new friends to the base safely.
+
+Catherine:
+You're not coming with us?
+
+Feist:
+I have another mission.
+
+Feist:
+Your grandson is a pretty big deal in the Corps, after all.
+
+Catherine:
+Real big deals don't usually boast about it.
+
+Feist:
+Oh, and I have to return this, Granny.
+
+Catherine:
+Your badge.
+
+Feist:
+I'm not a worker anymore. I shouldn't be wearing this outside.
+
+Catherine:
+......
+
+Feist:
+Being smart isn't enough to fool death. Those who are gone will never come back, and the wounds left behind do not necessarily fade with time.
+
+Feist:
+But I don't want to spend night after night in regret, staring at machines with no one to use them.
+
+Feist:
+Because...
+
+Feist:
+I will go into each and every night.
+
+Feist:
+I will carry the torch left behind by those who are gone and keep walking.
+
+Feist:
+Until the cold is driven out, and the path ahead is no longer dark. And even then, I'll keep walking.
+
+Feist:
+Not for some ethereal hope, not because I'm still waiting for someone to make a stand for us.
+
+Feist:
+You said it, that we built Londinium with our own hands.
+
+Feist:
+Even if the city is reduced to rubble tomorrow, we'll start rebuilding it the day after.
+
+Feist says all that in one breath.
+
+His words are met with silence, but he finds that the silence no longer makes him anxious.
+
+A thought comes mind as he gazes upon his grandmother, standing by the production line.
+
+When did her hair turn so white?
+
+Catherine:
+Huff...
+
+Catherine:
+Go, if your mind's made up.
+
+Feist:
+Let me see.
+
+Feist:
+Bye, Granny.
+
+Catherine:
+......
+
+Catherine:
+Feist!
+
+Feist glimpses a small card flying towards him from the corner of his eye.
+
+It is the badge that he just returned.
+
+He smiles.
+
+Feist:
+I'll be back, Granny.
+
+Feist:
+With victory.
+
+Feist:
+I know you'll be proud of me, so there's no need to say it.
+
+Feist:
+What I really want you to know is...
+
+Feist:
+I'll be proud of this factory, no matter where I go in the future.
+
+Feist:
+And... you too.
+
+Feist:
+Also, I've thought about the question you asked.
+
+Feist:
+The things that disappointed you so much, the betrayal, the suspicions, people who just can't work together... I know we'll have to face them again.
+
+Feist:
+But if knowing that means we have to abandon our trust in others... then we won't survive this war.
+
+Feist:
+We have to face it sooner or later, win or lose.
+
+Catherine:
+......
+
+Feist:
+One more thing.
+
+Feist:
+I've never seen inside the suit of a Steam Knight, but I'll always remember the silhouette hammering away by the production line.
+
+Feist:
+You've always been my hero, and you always will be.
+
+Feist:
+Hehe...
+
+Feist:
+Bye, for real, before this gets too awkward.
+
+Bang. Clang. Bang.
+
+The production line keeps running, as though nothing has ever changed.
+
+Feist hears a familiar sigh from deep inside the factory.
+
+He waves without looking back, and walks into the sunlight outside.
+
+
+

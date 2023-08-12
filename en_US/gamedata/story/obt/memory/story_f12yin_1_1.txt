@@ -1,0 +1,687 @@
+Guard Operator A:
+Mountain, some of the bounty hunters went your way! Quite a few of them, too!
+
+Mountain:
+Don't worry. I can handle this much.
+
+Bounty Hunter:
+Hmph, where did these guys come from? Rhodes Island, remember this! I'll be back for you, you motherf...
+
+Mountain:
+Unfortunately, this is as far as you go.
+
+Bounty Hunter:
+Don't you think you can take us all down just because you're big!
+
+Bounty Hunter:
+Lads, let's go!
+
+Mountain:
+Hmph.
+
+Guard Operator A:
+Looks like there are quite a few bounty hunters over there. Let's go back Mountain up.
+
+Guard Operator B:
+Eh, sure, but I'm not too worried about him.
+
+Guard Operator B:
+I doubt these guys are any match for Mountain.
+
+Guard Operator A:
+Huh, you think so? I mean, he looks pretty tough, but he's always so polite. He just doesn't seem like that kind of guy.
+
+Guard Operator B:
+This is your first time on a mission with him, huh?
+
+Guard Operator B:
+That's what I used to think too. I thought maybe he just looked strong.
+
+Guard Operator B:
+But it didn't take long for me to realize I got the wrong idea about him. This new guy's something else.
+
+Guard Operator B:
+I mean...
+
+Guard Operator A:
+Mean what?
+
+Mountain:
+*Howls*!!!
+
+Guard Operator B:
+Yeah...
+
+Guard Operator A:
+What was that?
+
+Guard Operator B:
+We'll talk about this later. Let's go around to his twelve and see if we can catch a few guys that slipped past him.
+
+Bounty Hunter:
+What a... monster...
+
+Mountain:
+I'm nothing compared to others.
+
+Mountain:
+Phew...
+
+Mountain:
+I suppose trying to take on this many without help is pushing myself a little too far.
+
+Guard Operator B:
+Mountain, we caught a few of these shitheads that got away.
+
+Mountain:
+Much appreciated.
+
+Guard Operator A:
+Whoa, look at them, all beaten to a pulp. Now I feel sorry for them...
+
+Guard Operator A:
+And look at this tree, ripped apart right down the middle. Now I see why you said I shouldn't have worried.
+
+Guard Operator B:
+Right?
+
+Mountain:
+My apologies. I'm not very accustomed to team operations yet. I should've contacted you to come assist me.
+
+Guard Operator B:
+Oh, no harm done. You handled yourself pretty well.
+
+Mountain:
+I wouldn't say that. Our mission objective is to stop the bounty hunters from being a nuisance to the nearby villages. Had any one of them managed to escape, we would not have solved the issue at hand.
+
+Mountain:
+If it wasn't for you two, our mission would have been a failure.
+
+Guard Operator A:
+Well, look at you. What a diligent fella.
+
+Mountain:
+I hope that isn't a problem.
+
+Guard Operator B:
+No, far from it. It's been a long time since we've had a new guy as diligent as you.
+
+Guard Operator B:
+Enough about that. Are you okay?
+
+Mountain:
+I'm fine. Only a few scratches here and there. They'll heal up in no time.
+
+Guard Operator B:
+I'm not talking about your scratches. I'm talking about your digs.
+
+Mountain:
+My clothes?
+
+Guard Operator A:
+Mountain, your outfit is all burned up. You're basically naked right now.
+
+Mountain:
+Oh, uh, my apologies. This is quite embarrassing.
+
+Mountain:
+I tend to lose sight of these issues while I'm in a fight.
+
+Guard Operator B:
+Haha, no worries. The exact same thing happened last time, though. Are you sure you don't want a different uniform just for field ops?
+
+Guard Operator B:
+It's a waste to have to keep replacing a formal getup like that after every mission.
+
+Mountain:
+I'm used to dressing formally. You have a point, however. I will consider it.
+
+Logistics Operator:
+You want formal clothing that's suitable for combat... am I correct?
+
+Mountain:
+Yes, and naturally, if this is too unreasonable of a request, please don't trouble yourself.
+
+Logistics Operator:
+Hmm... First, I'm sure someone has already told you, but your uniforms need a special application.
+
+Mountain:
+Right. My Logistics operator told me that because there is no standard uniform suitable for my size, I'll need to apply for one.
+
+Mountain:
+At the time, I did not expect that I'd find myself in so many battles as an operator here, which is why I've never applied.
+
+Logistics Operator:
+And your outfit's been getting torn into shreds after just a few missions.
+
+Mountain:
+Right.
+
+Logistics Operator:
+Doesn't it get expensive when you need to keep paying for those fancy outfits?
+
+Mountain:
+To tell you the truth, I spent most of my first month's salary buying myself new clothes.
+
+Logistics Operator:
+Huh? No way!
+
+Mountain:
+I'd just broken out of... Ahem, just left home. The equipment that Rhodes Island provides is more than adequate. There's not much I have to buy at my own expense, so this isn't a huge problem.
+
+Mountain:
+Nonetheless, I can imagine it turning into one sooner or later.
+
+Logistics Operator:
+I guess you could probably just wear something else in combat... and that would solve most of the problem?
+
+Mountain:
+Indeed, and as I've already mentioned, I'm not actually adamant about wearing this.
+
+Mountain:
+However, I am rather fond of this style of attire. I've also noticed that the operators get rather personalized with the way they are dressed, so I thought I would ask if it would be possible.
+
+Mountain:
+If it isn't, then I will apply for a more durable combat uniform.
+
+Logistics Operator:
+Hmm... Well, we don't get requests like this that often.
+
+Logistics Operator:
+Our operators may have pretty unique wardrobes, but their outfits don't get in the way most of the time.
+
+Mountain:
+In that case, forget I asked.
+
+Logistics Operator:
+Wait, I'm not done yet! I said we don't get these requests often, but I never said I'm turning you down.
+
+Mountain:
+Hm?
+
+Logistics Operator:
+We need to put together a new outfit for you anyway. It'll take just a bit more work. It's okay.
+
+Logistics Operator:
+Oh, right. This is perfect.
+
+Logistics Operator:
+Orchid?
+
+Orchid:
+What now? I'm busy here. If you want to have tea, try somebody else.
+
+Logistics Operator:
+Oh, that isn't what this is about, Orchid. Actually...
+
+Orchid:
+......
+
+Logistics Operator:
+Please, Orchid?
+
+Orchid:
+This is giving me a headache already.
+
+Logistics Operator:
+Oh, don't be like that. Look, you're always complaining about how boring it is to work in Logistics. This might just be a lot more fun than sitting in an office.
+
+Orchid:
+I basically run this place by myself. I'm exhausted.
+
+Logistics Operator:
+There's a bonus in it.
+
+Orchid:
+No kidding?
+
+Logistics Operator:
+Of course. You'll be helping solve our operators' problems.
+
+Orchid:
+That's a fairly nice motivator, and it almost worked, but I'm at most a designer, not a seamstress. If you need someone to work on clothes, I'm not the right person to ask.
+
+Logistics Operator:
+Eh...
+
+Orchid:
+Hah... Fine, it just so happens I know who to ask.
+
+Orchid:
+Your codename is Mountain, correct?
+
+Mountain:
+Yes, ma'am.
+
+Orchid:
+Ma'am... No need for that. My codename is Orchid, and it'll do fine. Come with me.
+
+Logistics Operator:
+Thank you very much, Orchid.
+
+Orchid:
+Be sure to save a slice of cake for me this afternoon.
+
+Logistics Operator:
+Okay!
+
+Mountain:
+Orchid.
+
+Orchid:
+Hm?
+
+Mountain:
+About that conversation, is there a dedicated dressmaker at Rhodes Island?
+
+Orchid:
+No, I'm taking you to another operator here. She moonlights as a dressmaker.
+
+Mountain:
+Is that allowed?
+
+Orchid:
+What do you mean?
+
+Mountain:
+From my time here, I've always thought of Rhodes Island as something like a PMC.
+
+Mountain:
+I've never heard of a part-time dressmaker in these organizations.
+
+Orchid:
+You haven't spent much time at Rhodes Island yet, then.
+
+Mountain:
+What do you mean?
+
+Orchid:
+You have a grave misunderstanding about us here.
+
+Orchid:
+......
+
+Orchid:
+Okay, maybe it isn't really a misunderstanding. When I first came onboard, I felt more or less the same.
+
+Mountain:
+Care to elaborate?
+
+Orchid:
+The way you talk grates on my nerves just as much as Midnight, only in a different way...
+
+Orchid:
+Well, I could tell you, but you will know what I mean in a minute.
+
+Bibeak:
+Oh, good afternoon, Orchid.
+
+Orchid:
+Yes, hello.
+
+Bibeak:
+May I ask who this is...?
+
+Mountain:
+I'm a new operator here, codename Mountain.
+
+Bibeak:
+Oh, nice to meet you. I'm codename Bibeak.
+
+Orchid:
+Do you have any missions today?
+
+Bibeak:
+Yes, but it isn't for another two hours.
+
+Bibeak:
+Um, did you need me for something?
+
+Orchid:
+Two hours are plenty. Here's the thing...
+
+Bibeak:
+Oh, I see. So Mountain wants formalwear that he can fight in!
+
+Mountain:
+If it's too much to ask for...
+
+Bibeak:
+Not at all!
+
+Bibeak:
+Actually, please let me work on it!
+
+Bibeak:
+I need only to use fabrics suitable for combat... No, that isn't quite right. That would affect the beauty of the end product...
+
+Orchid:
+Bibeak, let's not stand here and talk about that. Give it a try.
+
+Bibeak:
+Oh, yes!
+
+Bibeak:
+I'm sorry. I haven't tried something like this before. It might take a while.
+
+Mountain:
+Not a problem. If this will lead somewhere, I am willing to give it some time.
+
+Bibeak:
+Then please come with me.
+
+Bibeak:
+What about you, Orchid? Will you come?
+
+Orchid:
+I still have a pile of documents to finish... as well as my cake... though I guess I could stay to take a look at the design.
+
+Orchid:
+I'm pretty curious how this outfit will turn out myself.
+
+Bibeak:
+Is there something that makes you so insistent on wearing such formal attire?
+
+Mountain:
+No, I wouldn't say that.
+
+Mountain:
+Ever since I was a child, my father has made me dress in this particular manner, and I grew accustomed to it after a while.
+
+Mountain:
+Besides...
+
+Bibeak:
+Oh, if you'd rather not talk about that, you don't have to. I'm just being curious.
+
+Mountain:
+No, not at all. I'm merely wondering whether I truly want to myself.
+
+Mountain:
+I've lived far away from my family for a very long period of time.
+
+Mountain:
+During that time, life has been... hard to say the least. I never had the opportunity to wear anything like this.
+
+Mountain:
+When I was finally able to leave that place behind and come to Rhodes Island, I bought myself a set of formalwear.
+
+Mountain:
+I can't say for certain whether this is partly because I miss my family... my parents.
+
+Bibeak:
+I see... so you still can't see your parents, even now?
+
+Mountain:
+That's correct. One of the reasons I came to Rhodes Island is because I hope to be able to see them one day.
+
+Mountain:
+At the beginning of those difficult times, I very much missed my parents.
+
+Mountain:
+But as time went on, I also grew accustomed to life without them.
+
+Mountain:
+That is why I'm not certain whether this attire is something I choose to wear because I'm used to it or because I want it to serve as a reminder.
+
+Orchid:
+Why not both? That doesn't seem too odd.
+
+Mountain:
+You're right...
+
+Mountain:
+Speaking of which, are you a dressmaker, Bibeak?
+
+Bibeak:
+Oh, I'm not. I just like to do some sewing on my off time.
+
+Bibeak:
+It's been a while since I joined Rhodes Island, and many of our operators know about this hobby of mine, so they sometimes come to me for this.
+
+Mountain:
+And, Orchid, you mentioned being a designer yourself?
+
+Orchid:
+That's right. I used to be an editor at a fashion magazine.
+
+Orchid:
+Most of Rhodes Island's uniforms are mass-produced, but many of the folks here have got interesting personalities and want something different.
+
+Orchid:
+And that's when Bibeak and I shine.
+
+Orchid:
+*Sigh*... I used to do this pretty willingly, but, as time went on, I started to feel like we could just keep everyone in their uniforms if they all have to come to me with their weird requests.
+
+Orchid:
+Compared to all the other ones, this request is probably on the normal side.
+
+Bibeak:
+But isn't it really fun to make clothes for others? Some of our requests may be a little weird, but it's actually pretty fun to make those designs come true.
+
+Orchid:
+Oh, my sweet child. Most everyone who says that ends up working themselves dead. Don't be so tolerant of others.
+
+Bibeak:
+I think you're pretty tolerant of everyone in A6, though...
+
+The moment she hears that, Orchid rolls her eyes.
+
+Mountain:
+......
+
+Orchid:
+You've been pretty quiet. Something the matter?
+
+Mountain:
+No. It's just your conversation has left me feeling like I'm taking a stroll down some busy street.
+
+Orchid:
+I'm thinking of introducing you to a certain Midnight later.
+
+Mountain:
+Is that an operator?
+
+Orchid:
+He is, and I'm looking forward to the conversations you two will have with each other.
+
+Bibeak:
+Oh, there we go.
+
+Mountain:
+Is this... a storeroom?
+
+Bibeak:
+Yes, this place is normally a storeroom, but I also use it to sew.
+
+Bibeak:
+Now, Mountain, I'd like to take your measurements, if that is okay with you.
+
+Mountain:
+Okay.
+
+Bibeak:
+Right, and that takes care of it.
+
+Bibeak:
+By the way, do you have any preferences about your outfit's design?
+
+Mountain:
+Not at all. Something like what I'm wearing will do.
+
+Bibeak:
+What about the color?
+
+Mountain:
+White will do.
+
+Bibeak:
+Okay, then. Just leave the rest to me.
+
+Bibeak:
+I'll come get you once it's ready.
+
+Mountain:
+Is that it?
+
+Orchid:
+Yes.
+
+Bibeak:
+Even though you don't have any specific needs, we should probably work on a new design.
+
+Bibeak:
+Oh, maybe I could modify the design I worked on last month!
+
+Orchid:
+The one you showed me?
+
+Bibeak:
+Right.
+
+Orchid:
+Nothing wrong with that design, but I'm afraid it's far too refined for Mountain.
+
+Bibeak:
+Hmm... You're right.
+
+Orchid:
+We're not in a rush with either designing or making the outfit, and the choice of the fabric is what's important.
+
+Orchid:
+I'll ask the Logistics operators in charge of uniforms. I'm sure they know what kind of fabrics are the right choice for combat suits.
+
+Bibeak:
+I'll come with you.
+
+Bibeak:
+Formalwear needs to be pleasing to the eye. I'm not sure the fabrics they normally use for combat uniforms are good enough aesthetically.
+
+Orchid:
+Well, I don't mind a little company, but isn't it about time for your mission?
+
+Bibeak:
+Oh, shoot! I almost forgot!
+
+Bibeak:
+I'm very sorry. Is it okay if we go together after I come back?
+
+Orchid:
+Of course, but you should report in for your mission.
+
+Bibeak:
+Right!
+
+Orchid:
+Well, you heard her. Go home and wait. If Logistics get their hands on the right fabric, we should have something for you in a week.
+
+Mountain:
+Very well...
+
+One week later...
+
+Bibeak:
+Mountain, are you done yet?
+
+Mountain:
+One more second.
+
+Mountain:
+Here we go.
+
+Bibeak:
+How does it feel?
+
+Mountain:
+Very comfortable.
+
+Mountain:
+I like the design, and the fabrics you used are very sturdy.
+
+Mountain:
+Much appreciated.
+
+Bibeak:
+No, I should thank you.
+
+Bibeak:
+The choice of fabric actually bothered me for a long time. I couldn't find anything that I'm satisfied with.
+
+Bibeak:
+But then I remembered some of the fabrics that my father used when he worked on his industrial outfits.
+
+Bibeak:
+I never thought of using those in my outfit designs, but I took the chance to give it a try, and it worked surprisingly well.
+
+Bibeak:
+This has been an eye-opening experience.
+
+Mountain:
+I see. That's good to hear.
+
+Orchid:
+I suppose designers normally don't use industrial materials for their work... though Rhodes Island is not the place for common sense.
+
+Bibeak:
+Well, then, I still have a mission, so please excuse me now.
+
+Bibeak:
+If there are any problems with your outfit, feel free to come to me any time.
+
+Mountain:
+Of course.
+
+Mountain:
+......
+
+Orchid:
+Why are you standing there like an idiot?
+
+Mountain:
+No reason... It's just that when I see the two of you... it feels like I haven't fully grasped that I am free.
+
+Mountain:
+Thank you very much, Orchid.
+
+Orchid:
+No need to thank me for your uniform. I did what anyone should've done.
+
+Mountain:
+No, that's only part of it. You made me realize a few of the problems I still have.
+
+Orchid:
+I really wish it was Catapult or Midnight saying this to me instead of you.
+
+Mountain:
+I beg your pardon?
+
+Orchid:
+Nothing, just talking to myself. I don't know what you've been through, nor do I know what you came to Rhodes Island for.
+
+Orchid:
+There this one thing that a certain frivolous host asked me before. Maybe I should ask you the same question.
+
+Mountain:
+Please.
+
+Orchid:
+He asked me, 'What kind of life do you want to lead at Rhodes Island?'
+
+Mountain:
+......
+
+Orchid:
+Feel free to come to me if you need anything clothing-related.
+
+Orchid:
+Or rather, don't come to me. I'm a very busy woman. Try Bibeak if you need anything.
+
+Mountain:
+Okay.
+
+Mountain:
+Well... Perhaps I should really give some thought about my life here again.
+
+
+

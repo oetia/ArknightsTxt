@@ -1,0 +1,299 @@
+Tatjana:
+I can see the Rathaus spire from here! Thank goodness, it looks like everyone's safe!
+
+Folinic:
+Lisa, hurry!
+
+Suzuran:
+Okay!
+
+Townsfolk:
+Wh-what happened? Is there a fire?
+
+Townsfolk:
+My sons haven't come back. Has anyone seen them?!
+
+Townsfolk:
+Where are the Gendarmerie?! Where is Severin?! Isn't he supposed to be a hero? And he's missing at a time like this?!
+
+Suzuran:
+Everyone's panicking!
+
+Folinic:
+But it looks like they haven't attacked the residential areas. Someone must be leading them!
+
+Tatjana:
+Everyone's been on edge for far too long. That explosion was all they needed to snap—
+
+Tatjana:
+Over here! We have to make sure the Rathaus is secure!
+
+Tatjana:
+Look! There's a lot of them! Hurry!
+
+Armed Infected:
+Hah?!
+
+Armed Infected:
+Not bad for a man your age. Must be nice to live without the constant torment of Oripathy, huh?
+
+Severin:
+Sure... If I gave up smoking in my younger days, you and your friends would be sharing a jail cell by now.
+
+Severin:
+Get out of here. Out of respect for you as my fellow townsfolk, I won't—
+
+Armed Infected:
+Hah! Look at the mouth on this one! You think we don't know you're the last cop in Wolumonde?
+
+Severin:
+You...
+
+Armed Infected:
+Severin! The jig is up. Let us into the Rathaus so we can run our town already.
+
+Severin:
+What do you plan to do?
+
+Armed Infected:
+Hah?!
+
+Severin:
+Settle down. Truce. I'm going to smoke a cigarette while you tell me what exactly you want from this town. Go ahead.
+
+Severin:
+Maybe Wolumonde can consider your demands.
+
+Armed Infected:
+What are you trying to pull?
+
+Severin:
+Look, I'm putting down my sword. I think we can come to terms here. No need to fight.
+
+Armed Infected:
+Hah. Now you decide to be reasonable?
+
+Armed Infected:
+Hand over the murderer. And abandon your prejudices.
+
+Armed Infected:
+...I want to go home. And I want my job back. Simple enough?
+
+Severin:
+I just need you to fill out a report, and submit to regular physicals. Simple enough.
+
+Armed Infected:
+That's it?! You walled us in and left us to die!
+
+Armed Infected:
+All that's left of my block is a heap of earthquake rubble. It's all Originium clusters that could blow at any moment. You evacuated all the non-infected and we're running out of supplies. Is anyone coming to help us?
+
+Armed Infected:
+Oh right, I almost forgot. Because you suck at your job, Wolumonde is heading straight to hell, and we're just the first ones to be thrown under the bus.
+
+Armed Infected:
+You still think you're so bright, hiding the truth to 'maintain order?'
+
+Severin:
+...*Sigh*.
+
+Severin:
+Looks like my matches got wet. I guess I don't have a light. Let's get back to it.
+
+Armed Infected:
+Wha?! Hand-to-hand?
+
+Severin:
+Sure. Just a quick whiff of tobacco is enough to pump me up.
+
+Severin:
+But, I'm sorry to say, we may be about to have an 'accident' here.
+
+Armed Infected:
+Damn it, let go! Are... Are you trying to kill me? Gah—!
+
+Severin:
+No, just a 'slip' of the hand—
+
+Tatjana:
+Schultz!
+
+Severin:
+Hm?
+
+Tatjana:
+Um...
+
+Severin:
+Finished. There were only a few of them, and the rest ran off, leaving this poor fella alone.
+
+Folinic:
+Did you kill him?
+
+Severin:
+I don't think so.
+
+Folinic:
+......
+
+Severin:
+It would be nice if the good doctors could wake him up.
+
+Suzuran:
+He's breathing!
+
+Folinic:
+Let's make sure we're saving lives now.
+
+Folinic:
+I'll have words for you soon, 'Schultz.'
+
+Severin:
+Sure. I'm all ears, Miss.
+
+Tatjana:
+Sir...
+
+Severin:
+I told you before, I'm not 'Sir.' I'm not your Schultz when we're alone. I'm Thor's father, and your uncle.
+
+Tatjana:
+No, Sir, you just... you were going to kill that Infected man.
+
+Severin:
+I won't deny it.
+
+Tatjana:
+That's only going to make things worse! And you can't attack a member of the Wolumonde family so lightly!
+
+Severin:
+Even if he told the militants that we're defenseless?
+
+Severin:
+You know what this means, Tatjana.
+
+Tatjana:
+You should have a heart, at least—
+
+Severin:
+Can't always make the right choice, no matter how much you might want to. Not unless you're omniscient.
+
+Severin:
+Objectively speaking, if a prophet or a banker baron told me just a few deaths would bring peace back to Wolumonde...
+
+Severin:
+I'd do it. No matter who had to die.
+
+Tatjana:
+...Even if...
+
+Severin:
+No. Matter. Who.
+
+Severin:
+...At least he managed to hold on to his life. That's good enough.
+
+Severin:
+Let's get back to Rhodes Island. Did you tell them the truth? Did you already take them to the camp? That girl had a different look in her eye.
+
+Tatjana:
+You already knew...?
+
+Severin:
+I was pretty sure. For what it's worth, I never saw the point in hiding it from them. But keeping it under wraps myself calmed a lot of people down.
+
+Severin:
+What's your read on them?
+
+Tatjana:
+I think they'll help Wolumonde. They're the same kind of people as Dr. Atro.
+
+Severin:
+*Cough* *cough*, *hack*. And you think they speak for all of Rhodes Island?
+
+Tatjana:
+They're the ones they sent. So I guess they should be decently representative?
+
+Severin:
+Truth be told, if every Rhodes Island operator we ran into turned out to be a good person, that would disturb me a lot more.
+
+Severin:
+I'm thinking back... to a certain sniper. She was from Rhodes Island...
+
+Tatjana:
+The one who came with Dr. Atro and left shortly thereafter?
+
+Tatjana:
+I hope she didn't get swallowed up by the Catastrophe...
+
+Tatjana:
+Wh-what? Another attack?
+
+Severin:
+At this point, every bandit for miles must know we have no Gendarmerie here.
+
+Severin:
+So what can we do? Get down on our knees and beg for mercy? Or fight to the bitter end?
+
+Tatjana:
+No, those explosions are coming from... underground?!
+
+Townsfolk:
+Severin! They're over at the workshops! They came through a tunnel on the next street over!
+
+Townsfolk:
+They crippled the main power plant!
+
+???:
+Look at it. A beautiful, empty town.
+
+???:
+Wolumonde. Moon of the Winterwisp Mountains. Yes, truly worthy of its name.
+
+Armed Infected:
+A moon? Pfah!
+
+Armed Infected:
+Four of our people died in that fire.
+
+Armed Infected:
+And they have the gall to try to pin it on the Infected? What's next? Where do they go from here?
+
+Armed Infected:
+Do they just expect us to turn the other cheek?
+
+Mudrock:
+You're quite worked up. Try to relax. You don't usually talk like that.
+
+Armed Infected:
+We should level this place! Damned Wolumonders! Damned immigrants!
+
+Mudrock:
+No.
+
+Armed Infected:
+Mudrock! You and your Sarkaz could do it!
+
+Mudrock:
+No.
+
+Mudrock:
+You're right... Who knows the pain of losing one's home better than the Sarkaz?
+
+Mudrock:
+Even in Leithanien, where the Infected are supposed to be able to do what they can with what they have, there is no place for the Sarkaz.
+
+Mudrock:
+...But, the cupcakes that nice granny gave us were delicious. Just the right amount of sweet.
+
+Armed Infected:
+Huh?
+
+Mudrock:
+So... We wait. The only thing we're here to destroy is the murderer. We can't lose control of our hate. Or else...
+
+Mudrock:
+What separates us from what we were before?
+
+
+

@@ -1,0 +1,659 @@
+Manfred:
+Your Majesty.
+
+Theresa:
+Regretfully... I was late.
+
+Manfred:
+Does... does Your Majesty share the same regrets I do? That we were not able to stop them here?
+
+Theresa:
+Manfred...
+
+Theresa:
+Back then... in Kazdel, you would never speak to me so guardedly.
+
+Manfred:
+......
+
+Theresa:
+Back then, you'd look me straight in the eye.
+
+Manfred:
+Your Majesty, Kazdel was nothing more than a cluttered ruin and a thick stack of blueprints. In all those years, you and the general...
+
+Manfred:
+No, as things are now, there is no need to speak of past matters.
+
+Manfred:
+Your Majesty has returned to the general's side. Together, you shall rule the Royal Court and bring the Sarkaz victory once again, just as countless times in the past.
+
+Manfred:
+For me and the rest of the men, we need only remember this.
+
+Theresa:
+Yes...
+
+Theresa:
+Even so, Manfred... I really wish to meet the girl.
+
+Manfred:
+Your Majesty!
+
+Theresa:
+Do you think a person dreams, in death?
+
+Theresa:
+I've dreamt of them often, the past few months.
+
+Theresa:
+Again and again I dream of that ship. I dream of conversations with that doctor of few smiles. I dream of standing shoulder to shoulder with that silent commander on the ship's deck. I dream of...
+
+Theresa:
+...I dream of sitting by her bedside every night, telling tales of the Sarkaz and this great land, lulling the girl to sleep.
+
+Manfred:
+Is... the general aware?
+
+Theresa:
+He knows all.
+
+Theresa:
+However, a dream is but a dream...Isn't that so?
+
+Manfred:
+Your Majesty, your cheeks...
+
+Theresa:
+Ah... It's just ash.
+
+Manfred:
+I thought...
+
+Theresa:
+I do not shed tears.
+
+Theresa:
+Yes... Why do I not shed tears?
+
+Confessarius:
+Your Majesty, in the end you still allowed 'her' to go to the city walls?
+
+Theresis:
+You are aware of the threat the 'King of Sarkaz' bears.
+
+Confessarius:
+Of course. Not even Manfred or the Sanguinarch may be capable of successfully capturing the successor to that power.
+
+Confessarius:
+——To defeat a 'Sarkaz King', the safest choice is naturally another one.
+
+Theresis:
+Did you not intend that when you raised that suggestion to me?
+
+Confessarius:
+I also remember that you nearly killed me when I first suggested to bring 'her' back.
+
+Confessarius:
+'Vomit inducing'—— That's what you said. It's difficult to forget such fury.
+
+Theresis:
+My opinion has not changed.
+
+Confessarius:
+But we still need 'her', do we not?
+
+Confessarius:
+Only when the two of you stand together, will the soldiers truly believe that the chaotic and dark era of the past is now history.
+
+Confessarius:
+They will never again question the legitimacy of your orders. There will no longer be two different voices in the Sarkaz's hearts.
+
+Confessarius:
+To this end, we must get hold of the other 'Sarkaz King' as soon as possible.
+
+Theresis:
+Then go and make sure of that.
+
+Theresis:
+The soldiers must focus on the war ahead.
+
+Theresis:
+They must clearly understand that they are following a ruler who can lead them out of their plight, and not just some power of dubious ownership.
+
+Confessarius:
+I know, I know. You have never cared for that black crown.
+
+Confessarius:
+For your satisfaction, I have never stopped researching the 'Sarkaz King' either.
+
+Confessarius:
+Thanks to 'her', I've made great progress. Should we get our hands on that Cautus too... Perhaps, we will be able to truly understand the power of the 'Sarkaz King' before too long.
+
+Theresis:
+The Sarkaz are not slaves to any man or power.
+
+Theresis:
+If the crown of the 'Sarkaz King' is but another shackle...
+
+Theresis:
+Then, crush it.
+
+Confessarius:
+Your wish aligns with my own... It will be done, Your Majesty.
+
+Confessarius:
+I did not expect you to return so late, Your Highness.
+
+Sanguinarch of Vampires:
+...Keh.
+
+Confessarius:
+You seem... tired.
+
+Sanguinarch of Vampires:
+Confessarius, you neglected to inform me that the banshee was there too.
+
+Confessarius:
+Ah... I thought you'd have guessed it.
+
+Sanguinarch of Vampires:
+Hmph.
+
+Sanguinarch of Vampires:
+A banshee can be more trouble to deal with than a nachzehrer. What frightening talent.
+
+Sanguinarch of Vampires:
+That said, next time I'll simply stick his tongue in a crystal case and gift it to his mother.
+
+Confessarius:
+The Regent and the Nachzehrer King will not be pleased, Your Highness.
+
+Sanguinarch of Vampires:
+Then they'd best not find out.
+
+Sanguinarch of Vampires:
+Also, that Manfred... How dare he use those toys mounted on the city walls on me?
+
+Sanguinarch of Vampires:
+Half the filth on me is thanks to him. Perhaps I should teach him a lesson.
+
+Confessarius:
+I understand your frustrations, Your Highness.
+
+Confessarius:
+Consider this, as a tiny compensation for the missing intel, I will suggest the Regent grant you the task of capturing the 'Sarkaz King'.
+
+Sanguinarch of Vampires:
+Heh, that bastard failed after all. I've been telling Theresis all this time he's just a soft-hearted coward.
+
+Confessarius:
+It's fine, all of this is within the Regent's plans.
+
+Confessarius:
+Let them celebrate for now. After all, the best way to crush hope is to first let it come to fruition.
+
+Sanguinarch of Vampires:
+Hah... The nobles in the city grow restless once more. You're right, let them continue with their folly.
+
+Sanguinarch of Vampires:
+When the banquet is at its peak, the abrupt shifting of laughter to horror... it's tantalizing.
+
+Sanguinarch of Vampires:
+Incidentally, speaking of the nobles——
+
+Confessarius:
+Is there anything Your Highness wishes to report to the Regent?
+
+Sanguinarch of Vampires:
+No, nothing.
+
+Sanguinarch of Vampires:
+Tell Theresis... I await the next banquet.
+
+Confessarius:
+He's obviously discovered something, but he's hiding it?
+
+Confessarius:
+These little moves... I fear the Regent will not tolerate him much longer.
+
+Confessarius Guard:
+Leader.
+
+Confessarius:
+Any movement from the Duke's forces outside the city?
+
+Confessarius:
+Oh...?
+
+Confessarius:
+The Nachzehrer King will be returning soon. Once he arrives, send him to meet the Regent immediately.
+
+Confessarius:
+Also... didn't you mention a Victorian noble sent some Messengers back?
+
+Confessarius:
+Let us go and meet them.
+
+Confessarius Guard:
+Sir, there's one more thing.
+
+Confessarius:
+Is there?
+
+Confessarius:
+She... actually chose to return, at such a time.
+
+Confessarius:
+Yes...
+
+Confessarius Guard:
+Do you have a plan, sir?
+
+Confessarius:
+......
+
+Confessarius:
+Send a message to the Royal Academy of Sciences.
+
+Confessarius:
+It's time... for a long awaited family reunion.
+
+Shining:
+Liz... How are you feeling? Are we going too fast? Are you tired?
+
+Nightingale:
+...I'm fine.
+
+Shining:
+You have to tell me if you feel any discomfort.
+
+Nightingale:
+Yes... my chest feels a bit stuffy.
+
+Shining:
+Is it because you're getting closer to home?
+
+Nightingale:
+No, that isn't my home.
+
+Nightingale:
+Shining... My home is with you and Nearl.
+
+Shining:
+I didn't want you to come back here.
+
+Nightingale:
+But I wanted to.
+
+Nightingale:
+I want to go with you, and... I want to find what I've lost.
+
+Nightingale:
+I... I can feel that they're here.
+
+Shining:
+Yes, Nightingale. We'll find them, and they'll help you get better. You are going to get better.
+
+Shining:
+And then... we'll return to Rhodes Island. Or we could also go to Kazimierz... We'll go wherever you want.
+
+Nightingale:
+You'll... go with me, right?
+
+Shining:
+I...
+
+Shining:
+Of course, Liz.
+
+Shining:
+No matter when, as long as you want it... I will stay by your side.
+
+Rockrock:
+Are we... alive?
+
+Feist:
+Yes, it looks like we can finally take a breather.
+
+Rockrock:
+*Sniffles*... Waaah!
+
+Feist:
+Rockrock, w-why are you crying? I-I-I've never seen you cry before!
+
+Rockrock:
+I...
+
+Rockrock:
+It's nothing, I just... I thought of Bill. When I think of him, I just...
+
+Feist:
+Old Bill... *sigh*.
+
+Rockrock:
+*Sniffles*...*cough* N-No. I shouldn't do this.
+
+Rockrock:
+The battle... isn't over.
+
+Feist:
+It's fine, Rockrock. We're safe right now. We can take a break, and think of Old Bill and our other friends...
+
+Feist:
+Before the next battle starts. It's what we ought to do.
+
+???:
+We meet at last.
+
+Siege:
+You are...?
+
+???:
+Allerdale Cumberland. Call me Allerdale.
+
+Allerdale:
+I'm Clovisia's friend, and the Londinium Citizens' Self-Salvation Corps' officer-in-charge of Auchterigg borough——that is, Central Londinium.
+
+Siege:
+Cumberland?
+
+Siege:
+You're the Duke of Cumberland's...
+
+Allerdale:
+...Daughter.
+
+Allerdale:
+I was just a small child when Father passed away.
+
+Allerdale:
+I only remember him brushing his sweat-laden beard on my face whenever he returned from a fencing match——This is the only memory I have left after twenty years.
+
+Siege:
+I heard that the Duke of Cumberland... was betrayed by other anti-royalist dukes.
+
+Allerdale:
+Father walked the path he believed in, for the sake of his ideals.
+
+Allerdale:
+I respect him greatly, which is why I'm here.
+
+Siege:
+You and the other nobles within the city... You've been fighting against the Sarkaz?
+
+Allerdale:
+Yes, but our efforts have only just begun to bear fruit.
+
+Allerdale:
+I was extremely surprised when Isabelle came to look for me.
+
+Allerdale:
+Not just because she's the Count of Manchester's successor——Although the count has always been one of our most steadfast supporters.
+
+Allerdale:
+It's just that I thought all the Knights of the Tower were dead...Isabelle's return was a great inspiration to many of us.
+
+Allerdale:
+Of course, what surprised me the most was... you.
+
+Siege:
+You know who I am?
+
+Allerdale:
+Haha, I was not aware at first. How could I be 'surprised' otherwise?
+
+Allerdale:
+All these years, we have never stopped looking for you, but there were never any clues. Many thought that you were long dead...
+
+Allerdale:
+I never believed so.
+
+Siege:
+I do believe many of those looking for me actually wanted to take my life.
+
+Allerdale:
+Perhaps so...
+
+Allerdale:
+But even among those, there are many who've changed their minds.
+
+Allerdale:
+You've seen what's happened to Londinium——
+
+Allerdale:
+People lost their freedom long ago.
+
+Allerdale:
+All Victorians, even those nobles holding tightly onto their titles, must either become a slave to the Sarkaz, or tremble in fear as they hope to survive till the next day.
+
+Allerdale:
+Even deep in slumber, they instinctively cry out 'Your Majesty'——
+
+Allerdale:
+Is there anyone who has not wondered, should that sudden execution all those years ago have gone another way, would Londinium be as it is today?
+
+Siege:
+Do you really think that my presence here would change anything?
+
+Allerdale:
+At the very least, it opens up a new possibility.
+
+Siege:
+......
+
+Allerdale:
+Even though you appear to be contemplating, I know you have already set your heart on it.
+
+Siege:
+...Oh?
+
+Allerdale:
+You sent Isabelle to contact me. Is that not a sign that you're prepared to lead us against the Sarkaz?
+
+Siege:
+I don't deny that I've made a decision.
+
+Siege:
+But being prepared... you can never be fully prepared.
+
+Allerdale:
+You're not wrong.
+
+Siege:
+We should begin, Lady Cumberland... Allerdale. Please walk me through our current situation again.
+
+Siege:
+I'm sure you understand that I have a lot to catch up on.
+
+Allerdale:
+Great, I love your enthusiasm. That's just what we need right now.
+
+Allerdale:
+Then...
+
+Allerdale:
+Welcome home, Alexandrina... Your Majesty.
+
+???:
+Heidi.
+
+Heidi:
+Kal'tsit... *Huff*, Kal'tsit.
+
+Heidi:
+——It's tough to get a meeting with you.
+
+Kal'tsit:
+Did anyone follow you?
+
+Heidi:
+Don't worry, I've carefully covered my tracks all the way here.
+
+Heidi:
+How could I be your Messenger if I wasn't even capable of that?
+
+Kal'tsit:
+You've already done very well. Your father would be proud.
+
+Heidi:
+Haha...
+
+Heidi:
+Frankly, many times in the past when I was close to failure... I would think of you, and wonder what you would do.
+
+Heidi:
+I would also think about what you would say, if I could get everyone to make it through with me...
+
+Heidi:
+But, now that you're really standing before me, I suddenly feel that all those things I've imagined mean nothing.
+
+Kal'tsit:
+Heidi, you are well prepared.
+
+Heidi:
+Indeed.
+
+Heidi:
+At least... I will always be prepared. All of us will.
+
+Heidi:
+By the way, are you in a hurry to see Amiya?
+
+Kal'tsit:
+I've confirmed that she is currently safe.
+
+Kal'tsit:
+It's been a long time since I was in Londinium, so I have a number of matters I need to take care of.
+
+Heidi:
+That's good.
+
+Heidi:
+There's someone... She's been waiting to meet you.
+
+???:
+——
+
+???:
+Kal'tsit, start talking. I need an explanation.
+
+Kal'tsit:
+——You're alive.
+
+Kal'tsit:
+And what exactly do you wish me to explain, W?
+
+W:
+You're as calm as ever. Hard for me to tell if you knew before you got here or not.
+
+W:
+Whatever, it doesn't even matter if you're a monster or not. I've got bigger fins to fry.
+
+W:
+It's Theresa... it really was Theresa!
+
+W:
+You——How could you let Theresis get his hands on her body?!
+
+Amiya:
+......
+
+Amiya:
+Ah... Sorry, Doctor. I didn't see you coming.
+
+Amiya:
+Yes...
+
+Amiya:
+I guess there's no hiding it... And I shouldn't hide it from you anyway.
+
+Amiya:
+Dr. {@nickname}, I saw...her.
+
+Amiya:
+Doctor... Miss Rockrock really was talking about her.
+
+Amiya:
+Four years ago, Theresa passed away.
+
+Amiya:
+Even though Dr. Kal'tsit and W may disagree with me about the truth behind this... There's one thing we definitely wouldn't get wrong.
+
+Amiya:
+That day, we really lost her.
+
+Amiya:
+...I don’t know.
+
+Amiya:
+But... the moment I saw her at the train station, I finally understood... why I felt those emotions in Londinium.
+
+Amiya:
+Besides anger... sorrow. An endlessly infinite sorrow.
+
+Amiya:
+Yes... to the Sarkaz, anger and sorrow are symbiotic. It's just that they choose to dry their tears with anger most of the time.
+
+Amiya:
+And all of those emotions seemed to converge in her eyes.
+
+Amiya:
+Even Theresa had never...
+
+Amiya:
+Hurting? Maybe, but compared to them... those Sarkaz shattered by hate and prejudice, this is nothing.
+
+Amiya:
+I can feel it... It's too little, far too little...
+
+Amiya:
+I glimpsed it for a moment, but I was nearly drowned under that turbulent wave of emotion.
+
+Amiya:
+What did Theresa go through?
+
+Amiya:
+Is it really not?
+
+Amiya:
+Doctor, I said before that I really couldn't believe it was her.
+
+Amiya:
+But... when I saw her with my own two eyes, I found it wasn't very difficult at all to accept.
+
+Amiya:
+Since I'm here, I need to know the truth.
+
+Amiya:
+Not just the truth behind Theresa, but also the Sarkaz within the city... What exactly did they experience, that they would be burdened with such anger and sorrow?
+
+Amiya:
+Dr. {@nickname}...
+
+Amiya:
+Yeah!
+
+Amiya:
+Dr. {@nickname}, together...
+
+Amiya:
+Let's look for the answer.
+
+Allerdale:
+I apologize for interrupting you——
+
+Allerdale:
+There's an urgent matter concerning Alexandrina... I mean Vina, as well as our Self-Salvation Corps.
+
+Allerdale:
+Based on a letter from Lady Heidi, we've confirmed that this matter relates to you.
+
+Allerdale:
+Dr. {@nickname}——
+
+Allerdale:
+Is Edward Artorius's relic in your possession?
+
+
+

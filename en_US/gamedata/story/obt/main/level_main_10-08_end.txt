@@ -1,0 +1,737 @@
+Sarkaz Warrior:
+Enemy sighted! She's got steel claws—
+
+Dagda:
+That's one.
+
+Sarkaz Warrior:
+You took a Sarkaz down with just one hit? Not bad, Feline. You in the Victorian Army?
+
+Dagda:
+Stuff it!
+
+Sarkaz Warrior:
+You're strong, not like those Dublinn weaklings. Very well, Feline, you're worthy of dying by my blade!
+
+Morgan:
+—Watch out!
+
+Dagda:
+Let's not jump to conclusions about who's dying by whose blade just yet.
+
+Sarkaz Warrior:
+Ahh—
+
+Dagda:
+Sarkaz, you can't imagine how much I want to end your life right now... Too bad my sword is broken, thanks to your friend there.
+
+Morgan:
+Dagda, snap out of it!
+
+Dagda:
+......
+
+Morgan:
+I know what you're thinking. You want revenge, right? This isn't the time. We promised the Doctor we'd make a ruckus, draw the enemies here, and then leave—
+
+Sarkaz Warrior:
+Heh... Feline, you've killed a Sarkaz or two before! Your life... a Sarkaz will claim your life one day!
+
+Dagda:
+I don't care about my life all that much.
+
+Dagda:
+If it was up to me, I wouldn't have run away from you people.
+
+Morgan:
+What's gotten into you? You aren't even dodging their Arts!
+
+Dagda:
+I can take a few more Sarkaz down before I die...
+
+Morgan:
+I shouldn't have brought you here... Don't forget, Vina's still waiting for you down below!
+
+Dagda:
+Siege...
+
+Morgan:
+If you want to die, suit yourself, but don't get the Doctor and Amiya killed! You'd bring shame to Vina's name!
+
+Dagda:
+Fine. Morgan, tell me. How much longer do we need to hold them?
+
+Morgan:
+Five minutes. Then the Doctor said someone would be here to pick us up.
+
+Horn:
+There's a fight up ahead.
+
+Victorian Soldier:
+Right, don't know who they are, but looks like they beat us to the bunch, fighting the Sarkaz.
+
+Horn:
+Blake, do you remember how I said I got away from Dublinn?
+
+Victorian Soldier:
+You said someone helped you...
+
+Horn:
+Right. I didn't see his face, but I knew he's strong. So strong that he could walk into their campground alone even though there were hundreds of them.
+
+Victorian Soldier:
+Oh? If he was that strong, why'd he need such a ruckus?
+
+Horn:
+It's not necessarily him, but he definitely isn't alone. There's a team who've been fighting Dublinn and the Sarkaz in Sudean.
+
+Horn:
+Blake, I've never been so sure—
+
+Horn:
+We aren't the only resistance members left. We... still have friends out there, spreading fire under the night sky.
+
+Victorian Soldier:
+Should we go help them, then?
+
+Horn:
+No, we can't change our objective just yet.
+
+Horn:
+Let's move up and sneak inside while our friends have the Sarkaz distracted.
+
+Robben:
+Horn! There's a Dublinn team closing in on you. Watch out! Their leader is... is...
+
+Horn:
+Mandragora.
+
+Mandragora:
+......
+
+Mandragora:
+Soldier.
+
+Heidi:
+A fire...?
+
+Londinium Citizen:
+Right. They reported to me they heard fighting just now.
+
+Heidi:
+Hm. Where are the guards?
+
+Londinium Citizen:
+Most of them are still here. They haven't been drawn away yet.
+
+Heidi:
+I knew it... They came prepared.
+
+Londinium Citizen:
+Should we proceed, then?
+
+Heidi:
+Let's watch the fire outside for the time being. Our operation has begun.
+
+Heidi:
+Have everyone get ready.
+
+Heidi:
+Remember. This is our only chance.
+
+Sarkaz Warrior:
+Hey you! What's this? Did you break the factory's machinery?!
+
+Sarkaz Warrior:
+Who let you in here... It's you?!
+
+Heidi:
+Hello there.
+
+Sarkaz Warrior:
+Heh, I knew you were planning something. Get over here!
+
+Heidi:
+Whatever I, of all people, might be planning shouldn't mean anything to a warrior like you.
+
+Heidi:
+Ever since the Steam Knights vanished without a trace, and the Knights of the Tower fell one after another, how many warriors are there in Londinium... no, all of Victoria, worthy of your attention?
+
+Sarkaz Warrior:
+What's with the flattery all of a sudden, Feline? Trying to get me to let my guard down? You underestimate the Sarkaz.
+
+Sarkaz Warrior:
+You're right. I can't kill you tonight. Not yet. But that's not going to stop me from sticking this arrowhead against your throat.
+
+Heidi:
+Ngh...
+
+Sarkaz Warrior:
+A pampered, high-class lady like you is going to bleed with just a little scratch to your throat, I'm sure.
+
+Sarkaz Warrior:
+Haha, I'll let you stand here and watch your friends die one by one. By next morning, you'll've bled completely dry too—
+
+Heidi:
+If... If my blood will satisfy you...
+
+Londinium Citizen:
+Take this!
+
+Sarkaz Warrior:
+Ahhhh! W-What is this?! My eyes! It burns!
+
+Sarkaz Warrior:
+Ugh––!
+
+Londinium Citizen:
+Lady, are you alright?!
+
+Heidi:
+It's just a scratch. It'll stop bleeding soon.
+
+Londinium Citizen:
+Did you see that? The Sarkaz fell for it! The reagent you told me to keep actually worked!
+
+Heidi:
+Let's have him lay down here for a little. Just taking his crossbow and knocking him out almost broke my hand...
+
+Heidi:
+The Sarkaz are a hardy bunch. If their eyes weren't always full of blood and hatred, he would've noticed you sneaking up to him.
+
+Heidi:
+Never mind... Benny, how is everyone else doing?
+
+Londinium Citizen:
+We did what you said and took over the factory. We probably won't be able to hold it for too long, though. The Sarkaz are on their way, and they won't fall for this twice.
+
+Heidi:
+We'd better hurry, then.
+
+Sarkaz Warrior:
+General, they're here.
+
+Manfred:
+Which entrance?
+
+Sarkaz Warrior:
+All three are under attack.
+
+Manfred:
+I'm not surprised.
+
+Manfred:
+What about the Dublinn forces?
+
+Sarkaz Warrior:
+They're fighting the rebels.
+
+Manfred:
+Where's Mandragora?
+
+Sarkaz Warrior:
+We haven't seen their leader.
+
+Manfred:
+I see. Perhaps she'd be interested in what is about to take place here.
+
+Manfred:
+What about Hoederer?
+
+Sarkaz Warrior:
+Er...
+
+Hoederer:
+I'm here.
+
+Manfred:
+I thought you were meant to guard the southwest entrance?
+
+Hoederer:
+Before I head back to the fight, there is one thing I have to tell you.
+
+Sarkaz Mercenary:
+*cough*... hah...
+
+Manfred:
+An injured mercenary... Who is he?
+
+Hoederer:
+His name is Schwab. We had some dealings with each other, but he betrayed me, leading to some unexpected hiccups.
+
+Sarkaz Mercenary:
+Betrayed...? That's an awfully terrible way to put it. Hoederer... Have you forgotten who you are?
+
+Hoederer:
+Maybe you're the one who's forgotten himself, Schwab.
+
+Sarkaz Mercenary:
+We're mercenaries... Hah... we've never been... anything else.
+
+Sarkaz Mercenary:
+Hoederer, she's here... I haven't told her about you... Now don't you see what a great friend I am? Haha... I really can't wait to see... the look on your faces...
+
+Hoederer:
+I have no idea what you are talking about.
+
+Manfred:
+I have no need to listen to a traitor talk.
+
+Hoederer:
+Manfred—
+
+Manfred:
+Hoederer, you needn't explain anything.
+
+Manfred:
+All I need to know is if you still serve me.
+
+Hoederer:
+No question there.
+
+Manfred:
+Good, then. I have a new mission for you.
+
+Feist:
+Rockrock, Johnny, Gabby... All of you landed? Good.
+
+Feist:
+Phew... We've made it in. Doctor, are you doing okay?
+
+Feist:
+Sorry, I haven't ever had a passenger, and all I could think about was what if the grappling hook couldn't support the two of us.
+
+Feist:
+That's why I had to hold you so tight.
+
+Amiya:
+Closure, can you see what's going on inside?
+
+Drone:
+I can see everything no problem, Amiya. Even the fur in your ears...
+
+Amiya:
+*Cough*, why is your drone so close?! I-It's too loud!
+
+Amiya:
+Besides... Why can I hear you speaking through it? Why aren't we using the comms?
+
+Drone:
+The comms could be bugged! I mean, you said Sarkaz commander's a real smart cookie!
+
+Drone:
+Not my Cloclo-1651 though. It's running an all-new security system. That's right. The one I was installing on the whole ship before we left...
+
+Rockrock:
+Cloclo-1651?
+
+Drone:
+Uh... Rockrock...? You don't mind, right? I kind of took some inspiration from your drones...
+
+Rockrock:
+......
+
+Rockrock:
+It's okay. I like the name... It's cute.
+
+Drone:
+Awesome!
+
+Drone:
+Cloclo-... uh, some number... start scanning! Our target—Heidi Thomson!
+
+Drone:
+Target... The target's not far off. The target... Crap! Sarkaz troops! Enemies closing in!
+
+Amiya:
+Everyone, be careful. Get ready to fight!
+
+Sarkaz Warrior:
+What are you people doing here?
+
+Self-Salvation Corps Soldier:
+Watch out!
+
+Sarkaz Warrior:
+Are you... rebels? Like a finfish caught in a net... Haha!
+
+Feist:
+Miss Amiya, there are a dozen Sarkaz behind him!
+
+Rockrock:
+Rock-17—
+
+Amiya:
+Let me do it.
+
+Sarkaz Warrior:
+Black lines—You're the Cautus!
+
+Amiya:
+Warrior.
+
+Amiya:
+I will ask you this. Are you willing to surrender?
+
+Sarkaz Warrior:
+Surrender...? Cautus, what kind of joke is that?! Just watching you wield this power makes me sick to my stomach!
+
+Sarkaz Warrior:
+I'll never let you touch my emotions!
+
+Amiya:
+You've seen Arts like this before?
+
+Sarkaz Warrior:
+Don't make me laugh! All the Sarkaz here have seen it before!
+
+Amiya:
+......
+
+Sarkaz Warrior:
+I'd like to kill you myself... but before that, I have to tell the general...
+
+Feist:
+Uh, someone attacked him from behind? A crossbow bolt... Where from?
+
+Rockrock:
+Rock-17, aim!
+
+Heidi:
+Hello, my Self-Salvation Corps friends, and also... my Rhodes Island friends whom I haven't met.
+
+Heidi:
+Good evening, everyone.
+
+Amiya:
+Lady... Heidi?
+
+Heidi:
+That's right. We meet at last, Miss Amiya.
+
+Heidi:
+I don't have time to explain. Doctor... You're the Doctor, right? You're exactly as Kal'tsit described.
+
+Heidi:
+Yes... even your reaction is about what I expected. Doctor, have you thought through how we'll make it out of here?
+
+Sarkaz Warrior:
+Over here! They're here! Come—
+
+Sarkaz Warrior:
+Urghh—
+
+Londinium Citizen:
+Quiet down, Sarkaz. I won't let you draw the other fighters here that quickly.
+
+Heidi:
+Thanks, Benny. Where are the others?
+
+Londinium Citizen:
+Milady, we've taken the factory on the south side.
+
+Londinium Citizen:
+The methods you taught us are working really well... Even the frailest weavers are managing to fight off the Sarkaz guards.
+
+Heidi:
+Everyone's using the tools and machines they're familiar with, after all.
+
+Heidi:
+These factories are ours, Benny. The Sarkaz can't control everything here as easily as they thought.
+
+Amiya:
+Lady Heidi... I never expected you to be such a formidable fighter.
+
+Heidi:
+Miss Amiya...
+
+Amiya:
+Please, call me Amiya. Just like Dr. Kal'tsit does.
+
+Heidi:
+Okay, Amiya.
+
+Heidi:
+Kal'tsit taught me a lot of things...
+
+Heidi:
+And yes, that includes fighting.
+
+Heidi:
+Too bad I wasn't her best student.
+
+Heidi:
+I was never able to help her with much.
+
+Heidi:
+But I will do my absolute best to help Rhodes Island in this battle, just as I fought alongside the Self-Salvation Corps.
+
+Rockrock:
+Another team of Sarkaz soldiers is coming our way.
+
+Drone:
+Right, I don't want to be a killjoy... but things are pretty tense right now. There's not just one team... Uh, it looks like all the Sarkaz fighters in the factory are coming our way.
+
+Heidi:
+Right, Doctor. We did our best, but this bought us very little time.
+
+Heidi:
+That's why I need you to think of a way to get out of this right now...
+
+Heidi:
+A friend...?
+
+Heidi:
+And 'he...?'
+
+Heidi:
+Is it just a single man? Or a whole team?
+
+Heidi:
+Doctor, the Sarkaz soldiers that Manfred trained are very hard to deal with. They could be hiding anywhere... We mustn't let our guard down.
+
+Drone:
+Everyone, I... I'm seeing something really strange! It's way too weird! The Sarkaz up ahead are fighting... Uh, I mean, they're fighting other Sarkaz.
+
+Drone:
+Wait, are those... Sarkaz mercs?
+
+Heidi:
+It's the strange mercenaries... One of them seemed to have lent us a hand this afternoon, too.
+
+Rockrock:
+Sarkaz mercenaries?
+
+Rockrock:
+No, we can't trust them! They're the ones who took Bill this afternoon... *cough*! I...
+
+Self-Salvation Corps Soldier:
+Rockrock, calm down. You're still wounded.
+
+Rockrock:
+I'm fine, but I can't say that about Bill!
+
+Rockrock:
+Captain, help me out... They need to understand.
+
+Feist:
+Lady Heidi, you said the Sarkaz mercenaries helped you. Could you be more specific about that?
+
+Heidi:
+It was like they were sending me a signal...
+
+Heidi:
+But I wasn't entirely sure...
+
+Heidi:
+What kind of signal?
+
+Horn:
+......
+
+Mandragora:
+......
+
+Dublinn Soldier:
+All these Victorian soldiers... Should we kill them?
+
+Robben:
+Bloody Dublinn! I'll...
+
+Dublinn Soldier:
+Captain, why aren't you attacking?
+
+Mandragora:
+......
+
+Robben:
+Horn! Why are you stopping me? Have you forgotten how many of our brothers and sisters died at their hands?
+
+Horn:
+......
+
+Before she casts her Originium Arts, the Dublinn Caster always raises her hands.
+
+It was those hands and that staff that took Cello's life... as well as the lives of many other Victorian soldiers.
+
+Horn puts her hand on the crossbow she hid up in her sleeve.
+
+If Mandragora shows any signs of lifting even a single finger, she will immediately pull the trigger.
+
+Or perhaps... she could just pull the trigger now. That doesn't seem like a bad choice either.
+
+She can tell from her opponent's eyes that she is thinking the exact same thing.
+
+Sarkaz Warrior:
+What's going on? The southern zone's blown up? You mean, the entire wall? It could only be done from the inside... Dammit!
+
+Sarkaz Warrior:
+Hurry, let's back them up—
+
+Dagda:
+Is this the signal for us to evacuate?
+
+Morgan:
+Uh... The Doctor never told me anything... but since the Sarkaz are gone, I guess our mission is over?
+
+???:
+You two should go on ahead.
+
+Morgan:
+Who's there?
+
+Morgan:
+You're with Rhodes Island...
+
+???:
+I'm taking over from here.
+
+Dublinn Soldier:
+Captain, the Sarkaz evacuated! This is the perfect opportunity! Should we head inside or...?
+
+Mandragora:
+......
+
+Mandragora:
+Let's go.
+
+Horn does not take her hand off her crossbow. Her glare closely follows Mandragora as she leaves.
+
+A single bolt. From this distance, that's all it would take. All she has to do is pull the trigger, and her opponent's chest would be torn open, splattering blood everywhere, just like what happened to Cello.
+
+Having retrofitted this crossbow herself, Horn knows its limits very well, but they're so close to each other. With the two of them now within a hair's distance...
+
+Robben:
+Horn, they're gone.
+
+Horn:
+......
+
+Robben:
+I was really worried about controlling myself, Horn... Thanks for holding me back. You're right. We shouldn't fight Dublinn here.
+
+Robben:
+If we actually started fighting each other, the Sarkaz would've found us.
+
+Robben:
+I'm surprised Mandragora could hold herself back, though. She was hounding us like crazy... What are they doing?
+
+Horn:
+......
+
+What is Dublinn doing?
+
+Horn refuses to analyze this question. Her fingertips are still from the boiling blood. Why didn't she pull the trigger?
+
+Why didn't Mandragora raise her hand?
+
+These voices are clashing in her chest. She can feel a clear sense of regret.
+
+But she can't say that.
+
+That's not what her men want to hear.
+
+Horn:
+Forget Mandragora. She's not our objective.
+
+Robben:
+Okay, Horn. What should we do now? Follow Dublinn inside?
+
+Horn:
+Yes.
+
+Horn:
+Everyone, we're cancelling our original plan. From here on out, we will stay dark.
+
+Horn:
+Blake, you'll continue to be point man. If you run into any Sarkaz guards, take them down. Robben, you'll follow Blake and provide fire support when necessary.
+
+Horn:
+Everyone else, follow me.
+
+Horn:
+Do you see the opening up ahead? Our Dublinn friends left us that. We should take advantage of it when they're dealing with our enemies.
+
+Horn:
+Remember, we came as a team of five, so we'll leave as a team of five. No... We'll leave this Sarkaz prison with even more of our friends.
+
+Horn:
+Watch my hand signal—
+
+Horn:
+—
+
+Horn:
+Move out!
+
+Feist:
+*Cough*... *cough*... What was that explosion? Miss Closure. That wasn't you, was it?
+
+Drone:
+Error—Error—Restarting—
+
+Feist:
+Err, it wasn't her. She wouldn't have blown up her own drone.
+
+Heidi:
+Doctor, is this part of your plan? It's a little... flashy, isn't it?
+
+Amiya:
+Doctor, is it...?
+
+Rockrock:
+Look, someone's walking past the dust! It's... It's another Sarkaz! Rock-17—
+
+???:
+Again with the weapons? Not to mention... More fresh meat?
+
+???:
+{@nickname}, is this how you always greet your heroes?
+
+Rockrock:
+Is this Sarkaz one of yours...?
+
+Amiya:
+Miss Rockrock, please keep your weapon trained on her.
+
+???:
+C'mon, little bunny. It's been aaages! Are you really so heartless? That hurts... it cuts deep, you know?
+
+Amiya:
+Mr. Feist, please check for any Originium explosives in our immediate vicinity.
+
+Feist:
+No time. We have people to rescue...
+
+???:
+Aw man, what a shame. Looks like we don't have time for proper hellos.
+
+???:
+C'mere, Heidi.
+
+Heidi:
+You're here for me?
+
+???:
+Hey now, can't you at least sound a little more enthusiastic? We only just met, and it's not like you're the biggest fan of {@nickname} anyway.
+
+???:
+If it wasn't for that stinking old bitch... the one you love ever so much, asking me to come get you, I wouldn't be here either.
+
+???:
+Ask any Sarkaz here, I don't come cheap.
+
+Heidi:
+Kal'tsit sent you?
+
+Heidi:
+A Sarkaz mercenary... an explosives expert...
+
+Heidi:
+Are you... W?
+
+W:
+Whoa, she told you about me? Should I be breaking down in tears of joy? Look at that, out of all my old friends running around, there's actually somebody who still cares about me.
+
+
+

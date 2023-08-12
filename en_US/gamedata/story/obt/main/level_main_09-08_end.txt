@@ -1,0 +1,382 @@
+Horn:
+Given I'm here, all of you can come out now.
+
+Adjutant Hill:
+Lieutenant.
+
+Horn:
+How are my people?
+
+Adjutant Hill:
+Your subordinates are here. Rest assured, they're only unconscious.
+
+Horn:
+I don't mean Cello's group.
+
+Horn:
+You know who I mean.
+
+Adjutant Hill:
+—
+
+Horn:
+Don't push me, or it won't be my shield against your chin.
+
+Adjutant Hill:
+*Cough*, *cough* *cough*... If you're going to draw your sword, you'll be attacking a colleague...
+
+Horn:
+Heh. Colleague?
+
+Horn:
+At what point, since the moment we entered County Hillock, have you ever treated us as colleagues?!
+
+Horn:
+Answer me!!!
+
+Adjutant Hill:
+Hff—
+
+Adjutant Hill:
+Even supposing... you... cut my throat here... you can't alter... the Colonel's decision...
+
+Horn:
+Is that so?
+
+Horn:
+You've never heard the degree of what the Tempest Platoon's soldiers can do, have you?
+
+Horn:
+How many did Triangle cost you? Half your own company?
+
+Horn:
+It's just me alone here. But I guarantee you, you won't want to know how long it takes me to put you all to rights.
+
+Victorian Soldier:
+L—Lay down your weapons!
+
+Victorian Soldier:
+Or else, w... we'll kill her on the spot!
+
+Horn:
+...Cello.
+
+Horn:
+......
+
+Victorian Soldier:
+I mean it! Make one move, and my crossbow's shooting straight through her neck!
+
+Horn:
+............
+
+Horn:
+Alright.
+
+Horn:
+You win.
+
+Victorian Soldier:
+Subdue her! Quickly, together now, we can't let her touch her sword and shield again!
+
+Horn:
+Hill... you tell Hamilton...
+
+Horn:
+Victoria is ashamed of him.
+
+Adjutant Hill:
+The Colonel has no need whatsoever for Victoria's gratitude.
+
+Outcast:
+Got the data all nice and pretty?
+
+Operator Fred:
+Yes, Lass, it's all in here.
+
+Outcast:
+Wonderful.
+
+Outcast:
+I see Oliver's all done with the comms too.
+
+Operator Oliver:
+Collaborating businesses have received notice. As per the agreement clauses, they can either seek an office in another city nearby, or terminate the contract.
+
+Operator Oliver:
+*Sigh*. Looking at it, these aren't losses for us to sneeze at.
+
+Outcast:
+Rhodes Island isn't the only company taking a hit in the chaos of war.
+
+Operator Oliver:
+True, no way around that. I just look at the chairs and tables in here and there's a twinge in my heart. This place of ours was still empty, back when I first came to County Hillock.
+
+Outcast:
+A little early for separation anxiety, Oliver. How do you know we won't be right back, huh?
+
+Operator Oliver:
+You're right. *Sigh*. I hope this city can return to the old peaceful everydays soon enough.
+
+Operator Shredder:
+Storehouse medications, inventory finished.
+
+Outcast:
+I need you to ration out these meds. Each one of you needs to bring enough emergency medication, make sure everyone makes it smoothly to the closest branch office.
+
+Operator Shredder:
+There's still a lot left over, sharing like that.
+
+Operator Oliver:
+There'll be some pressure if we take it all. We don't have that many hands, after all.
+
+Outcast:
+Shredder's quiet as ever, but I can tell, you have your own ideas.
+
+Operator Shredder:
+The people in the city... They need medicines.
+
+Outcast:
+Turns out I think so too. If this war scales up, everything's gonna be in short supply, especially Oripathy painkillers and suppressants that need to be taken long-term.
+
+Outcast:
+You must have a list of hospitals in the area?
+
+Operator Shredder:
+Already sorted.
+
+Outcast:
+Think of a way to get it to them. No matter who these organizations serve, get as much as you can to all of them.
+
+Outcast:
+And don't forget the little alley clinics. Plenty of them out there without signs, but a lot of our friends around here rely on them.
+
+Operator Oliver:
+Lass, is this really proper? We never bypass local healthcare, directly providing medical organizations and individuals with pharmaceuticals.
+
+Outcast:
+Desperate times call for desperate measures. And it's not like a hospital's gonna refuse an 'anonymous donation' from concerned citizens, right?
+
+Operator Oliver:
+True! So you got it all figured out, eh. But then, who'll take charge of sending it? The people around all know we're Rhodes Islanders.
+
+Janie:
+I will... I can help Shredder parcel the medicine, and then I'll deliver it.
+
+Outcast:
+Jane, you all better?
+
+Janie:
+My wounds aren't bleeding anymore.
+
+Outcast:
+You know I'm not asking about the wounds.
+
+Janie:
+I didn't want to be tucked alone in a corner crying while you were all bustling about.
+
+Outcast:
+I'm glad you can help, but we've got a lot of meds here.
+
+Janie:
+Please, trust a Vouivre's stamina.
+
+Outcast:
+I just don't want Rhodes Island work getting in the way of your own plans.
+
+Janie:
+It's alright. From here to the zone of battle, there just so happens to be plenty of hospitals and clinics along the way.
+
+Janie:
+Once I'm done delivering, I'll rejoin you.
+
+Janie:
+Just a little left. We'll be done with wrapping in no time.
+
+Outcast:
+Then it's about time we got on our way.
+
+As Outcast speaks, she draws a revolver from the holster at her side.
+
+Operator Oliver:
+Whoa. That's your gun?
+
+Outcast:
+That it is.
+
+Outcast:
+For a Sankta, pre-op prep's only complete once your gun's loaded.
+
+Operator Oliver:
+It doesn't look like your chamber's full.
+
+Outcast:
+Under normal circumstances, five rounds is enough to do the trick.
+
+Operator Oliver:
+When I was back at the landship and ate with Barty's group, I heard a lot of stories from the field about you.
+
+Operator Oliver:
+You once took down three Columbian bandits with a single bullet, and used three to scatter a whole mercenary team.
+
+Operator Oliver:
+If I had to guess, there wouldn't be an enemy out there worth six straight shots?
+
+Outcast:
+Can't say for sure. After all, there's always a bigger beast.
+
+Outcast:
+But I made a promise to someone that I'd never fire a sixth round lightly—because we made a bet.
+
+Janie:
+I can't help but be curious. What kind of bet would make someone like you change up how you work?
+
+Outcast:
+That's a long story.
+
+Outcast:
+The short version is that friend of mine tried every way under the sun to show me an easy retirement.
+
+Outcast:
+And I always had a feeling that even if I retired for real, someone like me just couldn't live peaceful.
+
+Janie:
+Like right now?
+
+Janie:
+I never imagined County Hillock could turn so restless. It was just a day or two ago, we were all huddled together playing cards and drinking tea...
+
+Outcast:
+A lot of times, a situation's like the color of the sky, shifting on and on.
+
+Outcast:
+If it's up to me, I'd sure like this retreat operation to go nice and quiet-like. Best case scenario, I don't even need to fire one round.
+
+Operator Shredder:
+...Lass, it's all ready.
+
+Janie:
+Friends, it's time to say goodbye.
+
+Operator Oliver:
+Janie...
+
+Janie:
+You don't need to be so sad, Uncle Oliver. I trust in what Outcast says—we can surely see each other again!
+
+Operator Shredder:
+Jane, be careful.
+
+Janie:
+I will, Shredder. All of you too, be sure to take care of yourselves.
+
+Janie:
+Oh... did I hear thunder?
+
+Operator Shredder:
+...It'll be raining soon enough.
+
+Outcast:
+No. Something's not right about that sound. Jane, stay inside for now!
+
+Bagpipe:
+Mr. Chef, Mr. Chef, are you here?!
+
+Chef MacMartin:
+Agh! Yes, I'm here, I'm here! Stop it with the banging! There's too much lampblack on our office door. Can't stand up to knocks.
+
+Bagpipe:
+Okay, good, you're still here... here's the thing, I need a Messenger, we've got important information that needs sendin' out!
+
+Chef MacMartin:
+Yeah, I understand. Fancy that, I've got something to give to you too.
+
+Bagpipe:
+Eh? What's this? A piece of... paper?
+
+Chef MacMartin:
+It's a list of stationed officers—the one named Louis Kelly, he just handed it to me.
+
+Bagpipe:
+Captain Kelly? How'd he get in touch with you?
+
+Chef MacMartin:
+Relax, he's got no clue who I am. It was only 'cause I was the last person he ran into.
+
+Chef MacMartin:
+I was going to go poking around for the latest. Still remember my actual job, after all... Didn't imagine I'd run into the troops arresting him!
+
+Bagpipe:
+Arrestin'... him? You mean, Captain Kelly's been arrested by his own?!
+
+Chef MacMartin:
+They said he was harboring Oripathics! But that can't be right. His son passed from Oripathy a few months ago, the whole city knows that. The first thing he did was report the news his son'd gotten ill!
+
+Bagpipe:
+These people... usin' such a tragic illness as an excuse? That's beyond shameless!
+
+Chef MacMartin:
+Not just once or twice, either. For people wanting to use any form of discrimination as a front, it's true, Oripathy is an especially good pretense.
+
+Chef MacMartin:
+Just take this time. The troops are weeding out any inside people born Taran.
+
+Chef MacMartin:
+Officers or soldiers, so long as they were kindred with Tarans in some way, were stripped overnight of any right to act freely.
+
+Bagpipe:
+Clearin' out the barracks' Tarans? In wartime, pressed for people? I've got an awful feelin' about this already.
+
+Chef MacMartin:
+So, Captain Kelly slipped me this like his life depended on it, wanted me to give it to 'the soldier not from this barracks who's constantly been hanging around here as of late'—
+
+Bagpipe:
+—!
+
+Bagpipe:
+Mr. Chef, this is proof the barracks are makin' illegal Originium weapons!
+
+Chef MacMartin:
+What?! Hamilton's lost his mind!
+
+Bagpipe:
+I want you to find a trustworthy Messenger, give 'em this paper and our report about the spectre force both, to be treated as vital intelligence, and taken out of County Hillock straight away!
+
+Bagpipe:
+This is the Captain's endeavor in his final moment! We cannot waste it!
+
+Chef MacMartin:
+Can't do that. This information's too important, and we can't rely on a civilian Messenger. How about this instead, Miss—I'll make this trip myself.
+
+Bagpipe:
+Mr. Chef, you were a Messenger too?
+
+Messenger MacMartin:
+Don't forget, passing on information's part of us lamplighters' profession too. Ah, finally, I can take on a decent assignment at long last. Excitement's got my hands and legs shaking.
+
+Bagpipe:
+Wait, hold on, there's some sound outside...
+
+Messenger MacMartin:
+It's lightning, isn't it?
+
+Bagpipe:
+I'm feelin' doubtful about that.
+
+Messenger MacMartin:
+It's fine, I've been here in County Hillock how many years now. The weather changes when it wants to. Used to it at this point.
+
+Messenger MacMartin:
+A little lightning and rain can't hold me back! I'm off!
+
+Bagpipe:
+This... this isn't lightning!
+
+Bagpipe:
+No, Mr. Chef—
+
+Bagpipe:
+—This is bombardment!!!
+
+
+
